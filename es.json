@@ -17,6 +17,18 @@
       "value": "Modo Extremo"
     },
     {
+      "key": "board_ISLAND",
+      "value": "Isla Desierta"
+    },
+    {
+      "key": "board_WARP",
+      "value": "Rayo de Teletransporte"
+    },
+    {
+      "key": "board_HELL",
+      "value": "Infierno de Acción"
+    },
+    {
       "key": "LOVE_0001",
       "value": "ddwdawd1"
     },
