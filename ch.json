@@ -15,6 +15,386 @@
     {
       "key": "29_NAME",
       "value": "限制級挑戰"
+    },
+    {
+      "key": "LOVE_0001",
+      "value": "ddwdawd1"
+    },
+    {
+      "key": "LOVE_0002",
+      "value": "dd2"
+    },
+    {
+      "key": "LOVE_0003",
+      "value": "dd3"
+    },
+    {
+      "key": "LOVE_0004",
+      "value": "dd4"
+    },
+    {
+      "key": "LOVE_0005",
+      "value": "ddwdawd1"
+    },
+    {
+      "key": "LOVE_0006",
+      "value": "dd2"
+    },
+    {
+      "key": "LOVE_0007",
+      "value": "dd3"
+    },
+    {
+      "key": "LOVE_0008",
+      "value": "dd4"
+    },
+    {
+      "key": "LOVE_0009",
+      "value": "dd1"
+    },
+    {
+      "key": "LOVE_0010",
+      "value": "dd2"
+    },
+    {
+      "key": "LOVE_0011",
+      "value": "dd3"
+    },
+    {
+      "key": "LOVE_0012",
+      "value": "dd4"
+    },
+    {
+      "key": "LOVE_0013",
+      "value": "dd1"
+    },
+    {
+      "key": "LOVE_0014",
+      "value": "dd2"
+    },
+    {
+      "key": "LOVE_0015",
+      "value": "dd3"
+    },
+    {
+      "key": "LOVE_0016",
+      "value": "dd4"
+    },
+    {
+      "key": "SEXY_0001",
+      "value": "ddwdawd1"
+    },
+    {
+      "key": "SEXY_0002",
+      "value": "dd2"
+    },
+    {
+      "key": "SEXY_0003",
+      "value": "dd3"
+    },
+    {
+      "key": "SEXY_0004",
+      "value": "dd4"
+    },
+    {
+      "key": "SEXY_0005",
+      "value": "ddwdawd1"
+    },
+    {
+      "key": "SEXY_0006",
+      "value": "dd2"
+    },
+    {
+      "key": "SEXY_0007",
+      "value": "dd3"
+    },
+    {
+      "key": "SEXY_0008",
+      "value": "dd4"
+    },
+    {
+      "key": "SEXY_0009",
+      "value": "dd1"
+    },
+    {
+      "key": "SEXY_0010",
+      "value": "dd2"
+    },
+    {
+      "key": "SEXY_0011",
+      "value": "dd3"
+    },
+    {
+      "key": "SEXY_0012",
+      "value": "dd4"
+    },
+    {
+      "key": "SEXY_0013",
+      "value": "dd1"
+    },
+    {
+      "key": "SEXY_0014",
+      "value": "dd2"
+    },
+    {
+      "key": "SEXY_0015",
+      "value": "dd3"
+    },
+    {
+      "key": "SEXY_0016",
+      "value": "dd4"
+    },
+    {
+      "key": "ACTION_0001",
+      "value": "ddwdawd1"
+    },
+    {
+      "key": "ACTION_0002",
+      "value": "dd2"
+    },
+    {
+      "key": "ACTION_0003",
+      "value": "dd3"
+    },
+    {
+      "key": "ACTION_0004",
+      "value": "dd4"
+    },
+    {
+      "key": "ACTION_0005",
+      "value": "ddwdawd1"
+    },
+    {
+      "key": "ACTION_0006",
+      "value": "dd2"
+    },
+    {
+      "key": "ACTION_0007",
+      "value": "dd3"
+    },
+    {
+      "key": "ACTION_0008",
+      "value": "dd4"
+    },
+    {
+      "key": "ACTION_0009",
+      "value": "dd1"
+    },
+    {
+      "key": "ACTION_0010",
+      "value": "dd2"
+    },
+    {
+      "key": "ACTION_0011",
+      "value": "dd3"
+    },
+    {
+      "key": "ACTION_0012",
+      "value": "dd4"
+    },
+    {
+      "key": "ACTION_0013",
+      "value": "dd1"
+    },
+    {
+      "key": "ACTION_0014",
+      "value": "dd2"
+    },
+    {
+      "key": "ACTION_0015",
+      "value": "dd3"
+    },
+    {
+      "key": "ACTION_0016",
+      "value": "dd4"
+    },
+    {
+      "key": "DRINK_0001",
+      "value": "ddwdawd1"
+    },
+    {
+      "key": "DRINK_0002",
+      "value": "dd2"
+    },
+    {
+      "key": "DRINK_0003",
+      "value": "dd3"
+    },
+    {
+      "key": "DRINK_0004",
+      "value": "dd4"
+    },
+    {
+      "key": "DRINK_0005",
+      "value": "ddwdawd1"
+    },
+    {
+      "key": "DRINK_0006",
+      "value": "dd2"
+    },
+    {
+      "key": "DRINK_0007",
+      "value": "dd3"
+    },
+    {
+      "key": "DRINK_0008",
+      "value": "dd4"
+    },
+    {
+      "key": "DRINK_0009",
+      "value": "dd1"
+    },
+    {
+      "key": "DRINK_0010",
+      "value": "dd2"
+    },
+    {
+      "key": "DRINK_0011",
+      "value": "dd3"
+    },
+    {
+      "key": "DRINK_0012",
+      "value": "dd4"
+    },
+    {
+      "key": "DRINK_0013",
+      "value": "dd1"
+    },
+    {
+      "key": "DRINK_0014",
+      "value": "dd2"
+    },
+    {
+      "key": "DRINK_0015",
+      "value": "dd3"
+    },
+    {
+      "key": "DRINK_0016",
+      "value": "dd4"
+    },
+    {
+      "key": "DRINK_0017",
+      "value": "dd1"
+    },
+    {
+      "key": "DRINK_0018",
+      "value": "dd2"
+    },
+    {
+      "key": "DRINK_0019",
+      "value": "dd3"
+    },
+    {
+      "key": "DRINK_0020",
+      "value": "dd4"
+    },
+    {
+      "key": "VS_0001",
+      "value": "ddwdawd1"
+    },
+    {
+      "key": "VS_0002",
+      "value": "dd2"
+    },
+    {
+      "key": "VS_0003",
+      "value": "dd3"
+    },
+    {
+      "key": "VS_0004",
+      "value": "dd4"
+    },
+    {
+      "key": "VS_0005",
+      "value": "dd1"
+    },
+    {
+      "key": "VS_0006",
+      "value": "dd2"
+    },
+    {
+      "key": "VS_0007",
+      "value": "dd3"
+    },
+    {
+      "key": "VS_0008",
+      "value": "dd4"
+    },
+    {
+      "key": "VS_0009",
+      "value": "dd1"
+    },
+    {
+      "key": "VS_0010",
+      "value": "dd2"
+    },
+    {
+      "key": "VS_0011",
+      "value": "dd3"
+    },
+    {
+      "key": "VS_0012",
+      "value": "dd4"
+    },
+    {
+      "key": "VS_0013",
+      "value": "dd1"
+    },
+    {
+      "key": "VS_0014",
+      "value": "dd2"
+    },
+    {
+      "key": "VS_0015",
+      "value": "dd3"
+    },
+    {
+      "key": "VS_0016",
+      "value": "dd4"
+    },
+    {
+      "key": "pop_island_on",
+      "value": "Sprites/Popup/ch/island_on"
+    },
+    {
+      "key": "pop_island_2",
+      "value": "Sprites/Popup/ch/island_2"
+    },
+    {
+      "key": "pop_island_1",
+      "value": "Sprites/Popup/ch/island_1"
+    },
+    {
+      "key": "pop_island_0",
+      "value": "Sprites/Popup/ch/island_0"
+    },
+    {
+      "key": "pop_action_hell_on",
+      "value": "Sprites/Popup/ch/action_hell_on"
+    },
+    {
+      "key": "pop_action_hell_2",
+      "value": "Sprites/Popup/ch/action_hell_2"
+    },
+    {
+      "key": "pop_action_hell_1",
+      "value": "Sprites/Popup/ch/action_hell_1"
+    },
+    {
+      "key": "pop_action_hell_0",
+      "value": "Sprites/Popup/ch/action_hell_0"
+    },
+    {
+      "key": "pop_start",
+      "value": "Sprites/Popup/ch/start"
+    },
+    {
+      "key": "pop_warp",
+      "value": "Sprites/Popup/ch/warp"
+    },
+    {
+      "key": "pop_random",
+      "value": "Sprites/Popup/ch/random"
     }
   ]
 }
