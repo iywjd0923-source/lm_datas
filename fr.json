@@ -17,6 +17,18 @@
       "value": "Mode Extrême"
     },
     {
+      "key": "board_ISLAND",
+      "value": "Île Déserte"
+    },
+    {
+      "key": "board_WARP",
+      "value": "Rayon Warp"
+    },
+    {
+      "key": "board_HELL",
+      "value": "Enfer d'Action"
+    },
+    {
       "key": "LOVE_0001",
       "value": "ddwdawd1"
     },
