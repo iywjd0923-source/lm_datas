@@ -17,6 +17,18 @@
       "value": "Extrem Modus"
     },
     {
+      "key": "board_ISLAND",
+      "value": "Einsame Insel"
+    },
+    {
+      "key": "board_WARP",
+      "value": "Warpportal"
+    },
+    {
+      "key": "board_HELL",
+      "value": "Aktionshölle"
+    },
+    {
       "key": "LOVE_0001",
       "value": "ddwdawd1"
     },
