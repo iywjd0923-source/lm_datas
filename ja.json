@@ -37,6 +37,18 @@
       "value": "閲覧注意"
     },
     {
+      "key": "board_ISLAND",
+      "value": "無人島"
+    },
+    {
+      "key": "board_WARP",
+      "value": "ワープビーム"
+    },
+    {
+      "key": "board_HELL",
+      "value": "アクション地獄"
+    },
+    {
       "key": "LOVE_0001",
       "value": "혼또니1"
     },
