@@ -1,8 +1,20 @@
 {
   "entries": [
     {
-      "key": "text_key",
-      "value": "一"
+      "key": "SOFT_NAME",
+      "value": "小鹿亂撞"
+    },
+    {
+      "key": "HOT_NAME",
+      "value": "升溫模式"
+    },
+    {
+      "key": "19_NAME",
+      "value": "老司機專屬"
+    },
+    {
+      "key": "29_NAME",
+      "value": "限制級挑戰"
     }
   ]
 }
