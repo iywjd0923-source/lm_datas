@@ -21,8 +21,212 @@
       "value": "정말로 돌아가시겠습니까?"
     },
     {
-      "key": "text_key",
-      "value": "일"
+      "key": "SOFT_NAME",
+      "value": "두근두근 Soft mode"
+    },
+    {
+      "key": "HOT_NAME",
+      "value": "불타오르네 HOT mode"
+    },
+    {
+      "key": "19_NAME",
+      "value": "우린 농염해 19금 mode"
+    },
+    {
+      "key": "29_NAME",
+      "value": "철컹철컹 29금 mode"
+    },
+    {
+      "key": "LOVE_0001",
+      "value": "ㅇ"
+    },
+    {
+      "key": "LOVE_0002",
+      "value": "ㅇ"
+    },
+    {
+      "key": "LOVE_0003",
+      "value": "ㅇ"
+    },
+    {
+      "key": "LOVE_0004",
+      "value": "ㅇ"
+    },
+    {
+      "key": "LOVE_0005",
+      "value": "ㅇ"
+    },
+    {
+      "key": "LOVE_0006",
+      "value": "ㅇ"
+    },
+    {
+      "key": "LOVE_0007",
+      "value": "ㅇ"
+    },
+    {
+      "key": "LOVE_0008",
+      "value": "ㅇ"
+    },
+    {
+      "key": "LOVE_0009",
+      "value": "ㅇ"
+    },
+    {
+      "key": "LOVE_0010",
+      "value": "ㅇ"
+    },
+    {
+      "key": "LOVE_0011",
+      "value": "ㅇ"
+    },
+    {
+      "key": "LOVE_0012",
+      "value": "ㅇ"
+    },
+    {
+      "key": "LOVE_0013",
+      "value": "ㅇ"
+    },
+    {
+      "key": "LOVE_0014",
+      "value": "ㅇ"
+    },
+    {
+      "key": "LOVE_0015",
+      "value": "ㅇ"
+    },
+    {
+      "key": "LOVE_0016",
+      "value": "ㅇ"
+    },
+    {
+      "key": "SEXY_0001",
+      "value": "ㅇ"
+    },
+    {
+      "key": "SEXY_0002",
+      "value": "ㅇ"
+    },
+    {
+      "key": "SEXY_0003",
+      "value": "ㅇ"
+    },
+    {
+      "key": "SEXY_0004",
+      "value": "ㅇ"
+    },
+    {
+      "key": "SEXY_0005",
+      "value": "ㅇ"
+    },
+    {
+      "key": "SEXY_0006",
+      "value": "ㅇ"
+    },
+    {
+      "key": "SEXY_0007",
+      "value": "ㅇ"
+    },
+    {
+      "key": "SEXY_0008",
+      "value": "ㅇ"
+    },
+    {
+      "key": "SEXY_0009",
+      "value": "ㅇ"
+    },
+    {
+      "key": "SEXY_0010",
+      "value": "ㅇ"
+    },
+    {
+      "key": "SEXY_0011",
+      "value": "ㅇ"
+    },
+    {
+      "key": "SEXY_0012",
+      "value": "ㅇ"
+    },
+    {
+      "key": "SEXY_0013",
+      "value": "ㅇ"
+    },
+    {
+      "key": "SEXY_0014",
+      "value": "ㅇ"
+    },
+    {
+      "key": "SEXY_0015",
+      "value": "ㅇ"
+    },
+    {
+      "key": "SEXY_0016",
+      "value": "ㅇ"
+    },
+    {
+      "key": "ACTION_0001",
+      "value": "ㅇ"
+    },
+    {
+      "key": "ACTION_0002",
+      "value": "ㅇ"
+    },
+    {
+      "key": "ACTION_0003",
+      "value": "ㅇ"
+    },
+    {
+      "key": "ACTION_0004",
+      "value": "ㅇ"
+    },
+    {
+      "key": "ACTION_0005",
+      "value": "ㅇ"
+    },
+    {
+      "key": "ACTION_0006",
+      "value": "ㅇ"
+    },
+    {
+      "key": "ACTION_0007",
+      "value": "ㅇ"
+    },
+    {
+      "key": "ACTION_0008",
+      "value": "ㅇ"
+    },
+    {
+      "key": "ACTION_0009",
+      "value": "ㅇ"
+    },
+    {
+      "key": "ACTION_0010",
+      "value": "ㅇ"
+    },
+    {
+      "key": "ACTION_0011",
+      "value": "ㅇ"
+    },
+    {
+      "key": "ACTION_0012",
+      "value": "ㅇ"
+    },
+    {
+      "key": "ACTION_0013",
+      "value": "ㅇ"
+    },
+    {
+      "key": "ACTION_0014",
+      "value": "ㅇ"
+    },
+    {
+      "key": "ACTION_0015",
+      "value": "ㅇ"
+    },
+    {
+      "key": "ACTION_0016",
+      "value": "ㅇ"
     },
     {
       "key": "DRINK_0001",
@@ -103,6 +307,70 @@
     {
       "key": "DRINK_0020",
       "value": "술 한잔 마시고 파트너에게 엉덩이를 한대 맞으세요3"
+    },
+    {
+      "key": "VS_0001",
+      "value": "ㅇ"
+    },
+    {
+      "key": "VS_0002",
+      "value": "ㅇ"
+    },
+    {
+      "key": "VS_0003",
+      "value": "ㅇ"
+    },
+    {
+      "key": "VS_0004",
+      "value": "ㅇ"
+    },
+    {
+      "key": "VS_0005",
+      "value": "ㅇ"
+    },
+    {
+      "key": "VS_0006",
+      "value": "ㅇ"
+    },
+    {
+      "key": "VS_0007",
+      "value": "ㅇ"
+    },
+    {
+      "key": "VS_0008",
+      "value": "ㅇ"
+    },
+    {
+      "key": "VS_0009",
+      "value": "ㅇ"
+    },
+    {
+      "key": "VS_0010",
+      "value": "ㅇ"
+    },
+    {
+      "key": "VS_0011",
+      "value": "ㅇ"
+    },
+    {
+      "key": "VS_0012",
+      "value": "ㅇ"
+    },
+    {
+      "key": "VS_0013",
+      "value": "ㅇ"
+    },
+    {
+      "key": "VS_0014",
+      "value": "ㅇ"
+    },
+    {
+      "key": "VS_0015",
+      "value": "ㅇ"
+    },
+    {
+      "key": "VS_0016",
+      "value": "ㅇ"
     }
   ]
 }
