@@ -374,47 +374,47 @@
     },
     {
       "key": "pop_island_on",
-      "value": "Sprites/Popup/jp/island_on"
+      "value": "Sprites/Popup/ja/island_on"
     },
     {
       "key": "pop_island_2",
-      "value": "Sprites/Popup/jp/island_2"
+      "value": "Sprites/Popup/ja/island_2"
     },
     {
       "key": "pop_island_1",
-      "value": "Sprites/Popup/jp/island_1"
+      "value": "Sprites/Popup/ja/island_1"
     },
     {
       "key": "pop_island_0",
-      "value": "Sprites/Popup/jp/island_0"
+      "value": "Sprites/Popup/ja/island_0"
     },
     {
       "key": "pop_action_hell_on",
-      "value": "Sprites/Popup/jp/action_hell_on"
+      "value": "Sprites/Popup/ja/action_hell_on"
     },
     {
       "key": "pop_action_hell_2",
-      "value": "Sprites/Popup/jp/action_hell_2"
+      "value": "Sprites/Popup/ja/action_hell_2"
     },
     {
       "key": "pop_action_hell_1",
-      "value": "Sprites/Popup/jp/action_hell_1"
+      "value": "Sprites/Popup/ja/action_hell_1"
     },
     {
       "key": "pop_action_hell_0",
-      "value": "Sprites/Popup/jp/action_hell_0"
+      "value": "Sprites/Popup/ja/action_hell_0"
     },
     {
       "key": "pop_start",
-      "value": "Sprites/Popup/jp/start"
+      "value": "Sprites/Popup/ja/start"
     },
     {
       "key": "pop_warp",
-      "value": "Sprites/Popup/jp/warp"
+      "value": "Sprites/Popup/ja/warp"
     },
     {
       "key": "pop_random",
-      "value": "Sprites/Popup/jp/random"
+      "value": "Sprites/Popup/ja/random"
     }
   ]
 }
