@@ -37,6 +37,18 @@
       "value": "철컹철컹 29금 mode"
     },
     {
+      "key": "board_ISLAND",
+      "value": "무인도"
+    },
+    {
+      "key": "board_WARP",
+      "value": "워프빔"
+    },
+    {
+      "key": "board_HELL",
+      "value": "액션지옥"
+    },
+    {
       "key": "LOVE_0001",
       "value": "ㅇㅇ1"
     },
