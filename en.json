@@ -37,6 +37,18 @@
       "value": "X-Rated"
     },
     {
+      "key": "board_ISLAND",
+      "value": "Deserted Island"
+    },
+    {
+      "key": "board_WARP",
+      "value": "Warp Beam"
+    },
+    {
+      "key": "board_HELL",
+      "value": "Action Hell"
+    },
+    {
       "key": "LOVE_0001",
       "value": "ddwdawd1"
     },
