@@ -374,47 +374,47 @@
     },
     {
       "key": "pop_island_on",
-      "value": "Sprites/Popup/en/pop_island_on"
+      "value": "Sprites/Popup/en/island_on"
     },
     {
       "key": "pop_island_2",
-      "value": "Sprites/Popup/en/pop_island_2"
+      "value": "Sprites/Popup/en/island_2"
     },
     {
       "key": "pop_island_1",
-      "value": "Sprites/Popup/en/pop_island_1"
+      "value": "Sprites/Popup/en/island_1"
     },
     {
       "key": "pop_island_0",
-      "value": "Sprites/Popup/en/pop_island_0"
+      "value": "Sprites/Popup/en/island_0"
     },
     {
       "key": "pop_action_hell_on",
-      "value": "Sprites/Popup/en/pop_action_hell_on"
+      "value": "Sprites/Popup/en/action_hell_on"
     },
     {
       "key": "pop_action_hell_2",
-      "value": "Sprites/Popup/en/pop_action_hell_2"
+      "value": "Sprites/Popup/en/action_hell_2"
     },
     {
       "key": "pop_action_hell_1",
-      "value": "Sprites/Popup/en/pop_action_hell_1"
+      "value": "Sprites/Popup/en/action_hell_1"
     },
     {
       "key": "pop_action_hell_0",
-      "value": "Sprites/Popup/en/pop_action_hell_0"
+      "value": "Sprites/Popup/en/action_hell_0"
     },
     {
       "key": "pop_start",
-      "value": "Sprites/Popup/en/pop_start"
+      "value": "Sprites/Popup/en/start"
     },
     {
       "key": "pop_warp",
-      "value": "Sprites/Popup/en/pop_warp"
+      "value": "Sprites/Popup/en/warp"
     },
     {
       "key": "pop_random",
-      "value": "Sprites/Popup/en/pop_random"
+      "value": "Sprites/Popup/en/random"
     }
   ]
 }
