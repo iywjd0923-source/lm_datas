@@ -17,6 +17,18 @@
       "value": "限制級挑戰"
     },
     {
+      "key": "board_ISLAND",
+      "value": "荒島"
+    },
+    {
+      "key": "board_WARP",
+      "value": "傳送光束"
+    },
+    {
+      "key": "board_HELL",
+      "value": "行動地獄"
+    },
+    {
       "key": "LOVE_0001",
       "value": "ddwdawd1"
     },
