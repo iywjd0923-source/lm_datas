@@ -1,0 +1,20 @@
+{
+  "entries": [
+    {
+      "key": "SOFT_NAME",
+      "value": "Mariposas"
+    },
+    {
+      "key": "HOT_NAME",
+      "value": "Sube la Temperatura"
+    },
+    {
+      "key": "19_NAME",
+      "value": "Nivel Picante"
+    },
+    {
+      "key": "29_NAME",
+      "value": "Modo Extremo"
+    }
+  ]
+}
