@@ -1,6 +1,10 @@
 {
   "entries": [
     {
+      "key": "CONFIRM_EXIT",
+      "value": "Zum Hauptmenü zurück?"
+    },
+    {
       "key": "SOFT_NAME",
       "value": "Herzklopfen"
     },
