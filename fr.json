@@ -1,6 +1,10 @@
 {
   "entries": [
     {
+      "key": "CONFIRM_EXIT",
+      "value": "Retourner à l'accueil ?"
+    },
+    {
       "key": "SOFT_NAME",
       "value": "Premier Flirt"
     },
