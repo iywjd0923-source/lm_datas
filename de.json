@@ -6,19 +6,19 @@
     },
     {
       "key": "SOFT_NAME",
-      "value": "Herzklopfen"
+      "value": "<size=80><b>Herzklopfen"
     },
     {
       "key": "HOT_NAME",
-      "value": "Heiße Phase"
+      "value": "<size=80><b>Heiße Phase</b>"
     },
     {
       "key": "19_NAME",
-      "value": "Pikant+"
+      "value": "<size=80><b>Pikant+</b>"
     },
     {
       "key": "29_NAME",
-      "value": "Extrem Modus"
+      "value": "<size=80><b>Extrem Modus</b>"
     },
     {
       "key": "board_ISLAND",
