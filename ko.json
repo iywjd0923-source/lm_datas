@@ -22,19 +22,19 @@
     },
     {
       "key": "SOFT_NAME",
-      "value": "두근두근 Soft mode"
+      "value": "<size=80><b>Soft mode</b>"
     },
     {
       "key": "HOT_NAME",
-      "value": "불타오르네 HOT mode"
+      "value": "<size=80><b>HOT mode"
     },
     {
       "key": "19_NAME",
-      "value": "우린 농염해 19금 mode"
+      "value": "<size=80><b>Sexy mode"
     },
     {
       "key": "29_NAME",
-      "value": "철컹철컹 29금 mode"
+      "value": "<size=80><b>Extream mode"
     },
     {
       "key": "board_ISLAND",
