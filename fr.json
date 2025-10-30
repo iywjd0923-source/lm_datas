@@ -6,19 +6,19 @@
     },
     {
       "key": "SOFT_NAME",
-      "value": "Premier Flirt"
+      "value": "<size=80><b>Premier Flirt</b>"
     },
     {
       "key": "HOT_NAME",
-      "value": "Ça Chauffe"
+      "value": "<size=80><b>Ça Chauffe</b>"
     },
     {
       "key": "19_NAME",
-      "value": "Mode Coquin"
+      "value": "<size=80><b>Mode Coquin</b>"
     },
     {
       "key": "29_NAME",
-      "value": "Mode Extrême"
+      "value": "<size=80><b>Mode Extrême</b>"
     },
     {
       "key": "board_ISLAND",
