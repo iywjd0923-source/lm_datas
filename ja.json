@@ -22,19 +22,19 @@
     },
     {
       "key": "SOFT_NAME",
-      "value": "きゅんモード"
+      "value": "<size=80><b>きゅんモード"
     },
     {
       "key": "HOT_NAME",
-      "value": "沼モード"
+      "value": "<size=80><b>沼モード"
     },
     {
       "key": "19_NAME",
-      "value": "ギリ攻め"
+      "value": "<size=80><b>ギリ攻め"
     },
     {
       "key": "29_NAME",
-      "value": "閲覧注意"
+      "value": "<size=80><b>閲覧注意"
     },
     {
       "key": "board_ISLAND",
