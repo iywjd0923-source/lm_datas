@@ -1,6 +1,22 @@
 {
   "entries": [
     {
+      "key": "SOFT_DESC",
+      "value": "Willst du *alles* über deinen Partner wissen? Mach dich bereit für süße Fragen und herzklopfende Aktionen, nur für Paare!"
+    },
+    {
+      "key": "HOT_DESC",
+      "value": "Sanft ist zu langweilig! Bereit, die Stimmung aufzuheizen? Entdecke Fragen und Aktionen auf einem höheren Level, die das Herz rasen lassen. 😘"
+    },
+    {
+      "key": "HARD_DESC",
+      "value": "Zeit, wie Erwachsene zu spielen... 😉 Bereit, verborgene Fantasien zu entdecken? Wir drehen die *Schärfe* auf! Vielleicht braucht ihr hierfür einen Drink..."
+    },
+    {
+      "key": "EXTREAM_DESC",
+      "value": "Wo sind eure Grenzen? Das ultimative, extreme Level für einen Dopaminrausch. Traut ihr euch, eure **Tiefsten Geheimnisse** freizuschalten?"
+    },
+    {
       "key": "CONFIRM_EXIT",
       "value": "Zum Hauptmenü zurück?"
     },
