@@ -1,6 +1,10 @@
 {
   "entries": [
     {
+      "key": "CONFIRM_EXIT",
+      "value": "¿Volver al inicio?"
+    },
+    {
       "key": "SOFT_NAME",
       "value": "Mariposas"
     },
