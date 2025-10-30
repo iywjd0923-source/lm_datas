@@ -1,6 +1,10 @@
 {
   "entries": [
     {
+      "key": "CONFIRM_EXIT",
+      "value": "確定要返回主畫面嗎？"
+    },
+    {
       "key": "SOFT_NAME",
       "value": "小鹿亂撞"
     },
