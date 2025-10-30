@@ -1,6 +1,22 @@
 {
   "entries": [
     {
+      "key": "SOFT_DESC",
+      "value": "Envie de *tout* savoir sur votre partenaire ? Préparez-vous à des questions douces et des actions qui font battre le cœur, conçues pour les couples !"
+    },
+    {
+      "key": "HOT_DESC",
+      "value": "Doux, c'est trop sage ! Prêts à faire monter la température ? Découvrez des questions et actions d'un niveau supérieur qui emballent le cœur. 😘"
+    },
+    {
+      "key": "HARD_DESC",
+      "value": "C'est l'heure de jouer comme des grands... 😉 Prêts à explorer vos fantasmes cachés? On monte le niveau *coquin* ! Vous aurez peut-être besoin d'un verre pour celui-ci...?"
+    },
+    {
+      "key": "EXTREAM_DESC",
+      "value": "Où sont vos limites ? Le niveau ultime et extrême pour une montée de dopamine massive. Oserez-vous révéler vos **Secrets les Plus Profonds** ?"
+    },
+    {
       "key": "CONFIRM_EXIT",
       "value": "Retourner à l'accueil ?"
     },
