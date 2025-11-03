@@ -37,6 +37,22 @@
       "value": "<size=80><b>Extrem Modus</b>"
     },
     {
+      "key": "SOFT_NAME_small",
+      "value": "<b>Herzklopfen"
+    },
+    {
+      "key": "HOT_NAME_small",
+      "value": "<b>Heiße Phase</b>"
+    },
+    {
+      "key": "19_NAME_small",
+      "value": "<b>Pikant+</b>"
+    },
+    {
+      "key": "29_NAME_small",
+      "value": "<b>Extrem Modus</b>"
+    },
+    {
       "key": "board_ISLAND",
       "value": "Einsame Insel"
     },
@@ -55,6 +71,22 @@
     {
       "key": "change_cha",
       "value": "Charakter / Name ändern"
+    },
+    {
+      "key": "payinfo_lev1",
+      "value": "Sanfter Start: Dich kennenlernen"
+    },
+    {
+      "key": "payinfo_lev2",
+      "value": "Stimmung Aufheizen: Herzrasen"
+    },
+    {
+      "key": "payinfo_lev3",
+      "value": "Erwachsenenspiele: Verborgene Fantasien"
+    },
+    {
+      "key": "payinfo_lev4",
+      "value": "Tiefste Geheimnisse: Das Finale Level"
     },
     {
       "key": "LOVE_0001",
@@ -443,6 +475,10 @@
     {
       "key": "pop_drink",
       "value": "Sprites/Popup/de/drink"
+    },
+    {
+      "key": "pop_EXCARD",
+      "value": "Sprites/Popup/de/EXCARD"
     }
   ]
 }
