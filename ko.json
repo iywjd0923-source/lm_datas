@@ -49,6 +49,10 @@
       "value": "액션지옥"
     },
     {
+      "key": "pay_info",
+      "value": "한 가지 모드로는 너무 아쉬워ㅠㅠ 커피 두잔 값으로 매번 업데이트 되는 수천개가 넘는 모든 질문과 미션에 도전하세요!"
+    },
+    {
       "key": "LOVE_0001",
       "value": "액션지옥1"
     },
@@ -427,6 +431,10 @@
     {
       "key": "pop_random",
       "value": "Sprites/Popup/ko/random"
+    },
+    {
+      "key": "pop_howto",
+      "value": "Sprites/Popup/ko/howto"
     }
   ]
 }
