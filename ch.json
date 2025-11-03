@@ -37,6 +37,22 @@
       "value": "<size=80><b>限制級挑戰</b>"
     },
     {
+      "key": "SOFT_NAME_small",
+      "value": "<b>小鹿亂撞</b>"
+    },
+    {
+      "key": "HOT_NAME_small",
+      "value": "<b>升溫模式</b>"
+    },
+    {
+      "key": "19_NAME_small",
+      "value": "<b>老司機專屬</b>"
+    },
+    {
+      "key": "29_NAME_small",
+      "value": "<b>限制級挑戰</b>"
+    },
+    {
       "key": "board_ISLAND",
       "value": "荒島"
     },
@@ -55,6 +71,22 @@
     {
       "key": "change_cha",
       "value": "變更角色/名稱"
+    },
+    {
+      "key": "payinfo_lev1",
+      "value": "溫和入門：想知道你的一切"
+    },
+    {
+      "key": "payinfo_lev2",
+      "value": "心跳加速：我們來點火辣的？"
+    },
+    {
+      "key": "payinfo_lev3",
+      "value": "大人的遊戲：隱藏的幻想"
+    },
+    {
+      "key": "payinfo_lev4",
+      "value": "最深的秘密：最終挑戰"
     },
     {
       "key": "LOVE_0001",
