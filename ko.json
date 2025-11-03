@@ -37,6 +37,22 @@
       "value": "<size=80><b>Extream mode</b>"
     },
     {
+      "key": "SOFT_NAME_small",
+      "value": "<b>Soft mode</b>"
+    },
+    {
+      "key": "HOT_NAME_small",
+      "value": "<b>HOT mode</b>"
+    },
+    {
+      "key": "19_NAME_small",
+      "value": "<b>Sexy mode</b>"
+    },
+    {
+      "key": "29_NAME_small",
+      "value": "<b>Extream mode</b>"
+    },
+    {
       "key": "board_ISLAND",
       "value": "무인도"
     },
@@ -55,6 +71,22 @@
     {
       "key": "change_cha",
       "value": "캐릭터/이름 변경"
+    },
+    {
+      "key": "payinfo_lev1",
+      "value": "너의 모든 것을 알고 싶어! 시작은 부드럽게"
+    },
+    {
+      "key": "payinfo_lev2",
+      "value": "심장이 콩닥콩닥 우리 조금 뜨거워져볼까?"
+    },
+    {
+      "key": "payinfo_lev3",
+      "value": "우리 으른 아이가~ 화끈하게 수위UP!"
+    },
+    {
+      "key": "payinfo_lev4",
+      "value": "우리 커플의 한계는 어디까지일까? 29금 도전!"
     },
     {
       "key": "LOVE_0001",
