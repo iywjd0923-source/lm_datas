@@ -443,6 +443,10 @@
     {
       "key": "pop_drink",
       "value": "Sprites/Popup/en/drink"
+    },
+    {
+      "key": "pop_EXCARD",
+      "value": "Sprites/Popup/en/EXCARD"
     }
   ]
 }
