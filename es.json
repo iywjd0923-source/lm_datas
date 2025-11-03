@@ -37,6 +37,22 @@
       "value": "<size=80><b>Modo Extremo</b>"
     },
     {
+      "key": "SOFT_NAME_small",
+      "value": "<b>Mariposas</b>"
+    },
+    {
+      "key": "HOT_NAME_small",
+      "value": "<b>Sube la Temperatura</b>"
+    },
+    {
+      "key": "19_NAME_small",
+      "value": "<b>Nivel Picante</b>"
+    },
+    {
+      "key": "29_NAME_small",
+      "value": "<b>Modo Extremo</b>"
+    },
+    {
       "key": "board_ISLAND",
       "value": "Isla Desierta"
     },
@@ -55,6 +71,22 @@
     {
       "key": "change_cha",
       "value": "Editar Personaje / Nombre"
+    },
+    {
+      "key": "payinfo_lev1",
+      "value": "Empezar Suave: Conociéndonos"
+    },
+    {
+      "key": "payinfo_lev2",
+      "value": "Subir la Temperatura: Pulso Acelerado"
+    },
+    {
+      "key": "payinfo_lev3",
+      "value": "Juego de Adultos: Fantasías Ocultas"
+    },
+    {
+      "key": "payinfo_lev4",
+      "value": "Secretos Más Profundos: El Nivel Final"
     },
     {
       "key": "LOVE_0001",
@@ -443,6 +475,10 @@
     {
       "key": "pop_drink",
       "value": "Sprites/Popup/es/drink"
+    },
+    {
+      "key": "pop_EXCARD",
+      "value": "Sprites/Popup/es/EXCARD"
     }
   ]
 }
