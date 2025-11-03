@@ -37,6 +37,22 @@
       "value": "<size=80><b>Mode Extrême</b>"
     },
     {
+      "key": "SOFT_NAME_small",
+      "value": "<b>Premier Flirt</b>"
+    },
+    {
+      "key": "HOT_NAME_small",
+      "value": "<b>Ça Chauffe</b>"
+    },
+    {
+      "key": "19_NAME_small",
+      "value": "<b>Mode Coquin</b>"
+    },
+    {
+      "key": "29_NAME_small",
+      "value": "<b>Mode Extrême</b>"
+    },
+    {
       "key": "board_ISLAND",
       "value": "Île Déserte"
     },
@@ -55,6 +71,22 @@
     {
       "key": "change_cha",
       "value": "Modifier Perso / Nom"
+    },
+    {
+      "key": "payinfo_lev1",
+      "value": "Commencer Doucement : Apprendre à se connaître"
+    },
+    {
+      "key": "payinfo_lev2",
+      "value": "Faire Monter la Température : Cœur Emballé"
+    },
+    {
+      "key": "payinfo_lev3",
+      "value": "Jeu d'Adultes : Fantasmes Cachés"
+    },
+    {
+      "key": "payinfo_lev4",
+      "value": "Secrets les Plus Profonds : Le Niveau Final"
     },
     {
       "key": "LOVE_0001",
