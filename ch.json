@@ -427,6 +427,10 @@
     {
       "key": "pop_random",
       "value": "Sprites/Popup/ch/random"
+    },
+    {
+      "key": "pop_howto",
+      "value": "Sprites/Popup/ch/howto"
     }
   ]
 }
