@@ -1,0 +1,484 @@
+{
+  "entries": [
+    {
+      "key": "SOFT_DESC",
+      "value": "恋人のすべてが知りたい！カップルで楽しく盛り上がれる、甘い質問とドキドキ・キュンとするアクションが満載！"
+    },
+    {
+      "key": "HOT_DESC",
+      "value": "ソフトじゃ物足りない？もう少し熱くなってみる？ドキドキが止まらない、ワンランク上の質問とアクションに挑戦！"
+    },
+    {
+      "key": "HARD_DESC",
+      "value": "もう子供じゃないよね？二人だけの秘密のファンタジー、知りたくない？一気にレベルアップして、過激な時間を楽しもう。お酒の力が必要かも…？"
+    },
+    {
+      "key": "EXTREAM_DESC",
+      "value": "二人の限界はどこまで？究極のレベルでドーパミン大放出！二人だけの**『最も深い秘密』**を解き明かす勇気はある？"
+    },
+    {
+      "key": "CONFIRM_EXIT",
+      "value": "ホームに戻りますか？"
+    },
+    {
+      "key": "SOFT_NAME",
+      "value": "<size=80><b>きゅんモード</b>"
+    },
+    {
+      "key": "HOT_NAME",
+      "value": "<size=80><b>沼モード</b>"
+    },
+    {
+      "key": "19_NAME",
+      "value": "<size=80><b>ギリ攻め</b>"
+    },
+    {
+      "key": "29_NAME",
+      "value": "<size=80><b>閲覧注意</b>"
+    },
+    {
+      "key": "SOFT_NAME_small",
+      "value": "<b>きゅんモード</b>"
+    },
+    {
+      "key": "HOT_NAME_small",
+      "value": "<b>沼モード</b>"
+    },
+    {
+      "key": "19_NAME_small",
+      "value": "<b>ギリ攻め</b>"
+    },
+    {
+      "key": "29_NAME_small",
+      "value": "<b>閲覧注意</b>"
+    },
+    {
+      "key": "board_ISLAND",
+      "value": "無人島"
+    },
+    {
+      "key": "board_WARP",
+      "value": "ワープビーム"
+    },
+    {
+      "key": "board_HELL",
+      "value": "アクション地獄"
+    },
+    {
+      "key": "pay_info",
+      "value": "一つのモードじゃ物足りないですよね…(T_T) カフェでのコーヒー約2杯分のお値段で、増え続ける数千種類の質問とミッションをすべて解放しましょう！これでずーっと遊べます！"
+    },
+    {
+      "key": "change_cha",
+      "value": "キャラクター/名前変更"
+    },
+    {
+      "key": "payinfo_lev1",
+      "value": "まずはソフトに：あなたのすべてが知りたい"
+    },
+    {
+      "key": "payinfo_lev2",
+      "value": "ドキドキが止まらない：もう少し熱くなってみる？"
+    },
+    {
+      "key": "payinfo_lev3",
+      "value": "オトナの時間：秘密のファンタジー"
+    },
+    {
+      "key": "payinfo_lev4",
+      "value": "最も深い秘密：ファイナルレベル"
+    },
+    {
+      "key": "LOVE_0001",
+      "value": "アクション地獄1"
+    },
+    {
+      "key": "LOVE_0002",
+      "value": "アクション地獄2"
+    },
+    {
+      "key": "LOVE_0003",
+      "value": "アクション地獄3"
+    },
+    {
+      "key": "LOVE_0004",
+      "value": "アクション地獄4"
+    },
+    {
+      "key": "LOVE_0005",
+      "value": "アクション地獄1"
+    },
+    {
+      "key": "LOVE_0006",
+      "value": "アクション地獄2"
+    },
+    {
+      "key": "LOVE_0007",
+      "value": "アクション地獄3"
+    },
+    {
+      "key": "LOVE_0008",
+      "value": "アクション地獄4"
+    },
+    {
+      "key": "LOVE_0009",
+      "value": "アクション地獄1"
+    },
+    {
+      "key": "LOVE_0010",
+      "value": "アクション地獄2"
+    },
+    {
+      "key": "LOVE_0011",
+      "value": "アクション地獄3"
+    },
+    {
+      "key": "LOVE_0012",
+      "value": "アクション地獄4"
+    },
+    {
+      "key": "LOVE_0013",
+      "value": "アクション地獄1"
+    },
+    {
+      "key": "LOVE_0014",
+      "value": "アクション地獄2"
+    },
+    {
+      "key": "LOVE_0015",
+      "value": "アクション地獄3"
+    },
+    {
+      "key": "LOVE_0016",
+      "value": "アクション地獄4"
+    },
+    {
+      "key": "SEXY_0001",
+      "value": "アクション地獄1"
+    },
+    {
+      "key": "SEXY_0002",
+      "value": "アクション地獄2"
+    },
+    {
+      "key": "SEXY_0003",
+      "value": "アクション地獄3"
+    },
+    {
+      "key": "SEXY_0004",
+      "value": "アクション地獄4"
+    },
+    {
+      "key": "SEXY_0005",
+      "value": "アクション地獄1"
+    },
+    {
+      "key": "SEXY_0006",
+      "value": "アクション地獄2"
+    },
+    {
+      "key": "SEXY_0007",
+      "value": "アクション地獄3"
+    },
+    {
+      "key": "SEXY_0008",
+      "value": "アクション地獄4"
+    },
+    {
+      "key": "SEXY_0009",
+      "value": "アクション地獄1"
+    },
+    {
+      "key": "SEXY_0010",
+      "value": "アクション地獄2"
+    },
+    {
+      "key": "SEXY_0011",
+      "value": "アクション地獄3"
+    },
+    {
+      "key": "SEXY_0012",
+      "value": "アクション地獄4"
+    },
+    {
+      "key": "SEXY_0013",
+      "value": "アクション地獄1"
+    },
+    {
+      "key": "SEXY_0014",
+      "value": "アクション地獄2"
+    },
+    {
+      "key": "SEXY_0015",
+      "value": "アクション地獄3"
+    },
+    {
+      "key": "SEXY_0016",
+      "value": "アクション地獄4"
+    },
+    {
+      "key": "ACTION_0001",
+      "value": "アクション地獄1"
+    },
+    {
+      "key": "ACTION_0002",
+      "value": "アクション地獄2"
+    },
+    {
+      "key": "ACTION_0003",
+      "value": "アクション地獄3"
+    },
+    {
+      "key": "ACTION_0004",
+      "value": "アクション地獄4"
+    },
+    {
+      "key": "ACTION_0005",
+      "value": "アクション地獄1"
+    },
+    {
+      "key": "ACTION_0006",
+      "value": "アクション地獄2"
+    },
+    {
+      "key": "ACTION_0007",
+      "value": "アクション地獄3"
+    },
+    {
+      "key": "ACTION_0008",
+      "value": "アクション地獄4"
+    },
+    {
+      "key": "ACTION_0009",
+      "value": "アクション地獄1"
+    },
+    {
+      "key": "ACTION_0010",
+      "value": "アクション地獄2"
+    },
+    {
+      "key": "ACTION_0011",
+      "value": "アクション地獄3"
+    },
+    {
+      "key": "ACTION_0012",
+      "value": "アクション地獄4"
+    },
+    {
+      "key": "ACTION_0013",
+      "value": "アクション地獄1"
+    },
+    {
+      "key": "ACTION_0014",
+      "value": "アクション地獄2"
+    },
+    {
+      "key": "ACTION_0015",
+      "value": "アクション地獄3"
+    },
+    {
+      "key": "ACTION_0016",
+      "value": "アクション地獄4"
+    },
+    {
+      "key": "DRINK_0001",
+      "value": "パートナーの口からお酒を渡してください。2"
+    },
+    {
+      "key": "DRINK_0002",
+      "value": "一杯飲んでからパートナーにキスしてください。2"
+    },
+    {
+      "key": "DRINK_0003",
+      "value": "今、興奮しているなら一杯飲んで、そうでなければパスしてください。3"
+    },
+    {
+      "key": "DRINK_0004",
+      "value": "パートナーと一緒に一杯飲んでください。1"
+    },
+    {
+      "key": "DRINK_0005",
+      "value": "セクシーにウェーブしながら一杯飲んでください。1"
+    },
+    {
+      "key": "DRINK_0006",
+      "value": "一杯飲んでからパートナーを一度抱きしめてください。1"
+    },
+    {
+      "key": "DRINK_0007",
+      "value": "パートナーに代わりに一杯飲んでもらってください（断られたら二杯）。1"
+    },
+    {
+      "key": "DRINK_0008",
+      "value": "一杯飲んでから罰ゲーム用のお酒を作ってください（次に当たった人が飲む）。1"
+    },
+    {
+      "key": "DRINK_0009",
+      "value": "パートナーが言う杯数だけ飲んでください（三杯以下）。1"
+    },
+    {
+      "key": "DRINK_0010",
+      "value": "一杯飲んでからパートナーにおつまみを食べさせてもらってください。1"
+    },
+    {
+      "key": "DRINK_0011",
+      "value": "一杯飲んだ後、お酒の味を表情で強く表現してください。1"
+    },
+    {
+      "key": "DRINK_0012",
+      "value": "パートナーとラブショットしてください。2"
+    },
+    {
+      "key": "DRINK_0013",
+      "value": "ぐるぐるバットをしてからパートナーにお酒を一杯飲ませてください。1"
+    },
+    {
+      "key": "DRINK_0014",
+      "value": "パートナーとセックスしたいなら一杯飲んでください。3"
+    },
+    {
+      "key": "DRINK_0015",
+      "value": "乾杯の音頭を取って一緒に一杯飲んでください。1"
+    },
+    {
+      "key": "DRINK_0016",
+      "value": "レベル4の例4"
+    },
+    {
+      "key": "DRINK_0017",
+      "value": "一杯一気飲みした後、相手の性感帯にキスしてください。4"
+    },
+    {
+      "key": "DRINK_0018",
+      "value": "一杯飲んで王様になり、パートナーに濃厚なスキンシップを一つさせてください。4"
+    },
+    {
+      "key": "DRINK_0019",
+      "value": "一杯飲んでパートナーを見つめながら指ハートを送ってください。1"
+    },
+    {
+      "key": "DRINK_0020",
+      "value": "一杯飲んでパートナーにお尻を一度叩かれてください。3"
+    },
+    {
+      "key": "VS_0001",
+      "value": "アクション地獄1"
+    },
+    {
+      "key": "VS_0002",
+      "value": "アクション地獄2"
+    },
+    {
+      "key": "VS_0003",
+      "value": "アクション地獄3"
+    },
+    {
+      "key": "VS_0004",
+      "value": "アクション地獄4"
+    },
+    {
+      "key": "VS_0005",
+      "value": "アクション地獄1"
+    },
+    {
+      "key": "VS_0006",
+      "value": "アクション地獄2"
+    },
+    {
+      "key": "VS_0007",
+      "value": "アクション地獄3"
+    },
+    {
+      "key": "VS_0008",
+      "value": "アクション地獄4"
+    },
+    {
+      "key": "VS_0009",
+      "value": "アクション地獄1"
+    },
+    {
+      "key": "VS_0010",
+      "value": "アクション地獄2"
+    },
+    {
+      "key": "VS_0011",
+      "value": "アクション地獄3"
+    },
+    {
+      "key": "VS_0012",
+      "value": "アクション地獄4"
+    },
+    {
+      "key": "VS_0013",
+      "value": "アクション地獄1"
+    },
+    {
+      "key": "VS_0014",
+      "value": "アクション地獄2"
+    },
+    {
+      "key": "VS_0015",
+      "value": "アクション地獄3"
+    },
+    {
+      "key": "VS_0016",
+      "value": "アクション地獄4"
+    },
+    {
+      "key": "pop_island_on",
+      "value": "Sprites/Popup/jp/island_on"
+    },
+    {
+      "key": "pop_island_2",
+      "value": "Sprites/Popup/jp/island_2"
+    },
+    {
+      "key": "pop_island_1",
+      "value": "Sprites/Popup/jp/island_1"
+    },
+    {
+      "key": "pop_island_0",
+      "value": "Sprites/Popup/jp/island_0"
+    },
+    {
+      "key": "pop_action_hell_on",
+      "value": "Sprites/Popup/jp/action_hell_on"
+    },
+    {
+      "key": "pop_action_hell_2",
+      "value": "Sprites/Popup/jp/action_hell_2"
+    },
+    {
+      "key": "pop_action_hell_1",
+      "value": "Sprites/Popup/jp/action_hell_1"
+    },
+    {
+      "key": "pop_action_hell_0",
+      "value": "Sprites/Popup/jp/action_hell_0"
+    },
+    {
+      "key": "pop_start",
+      "value": "Sprites/Popup/jp/start"
+    },
+    {
+      "key": "pop_warp",
+      "value": "Sprites/Popup/jp/warp"
+    },
+    {
+      "key": "pop_random",
+      "value": "Sprites/Popup/jp/random"
+    },
+    {
+      "key": "pop_howto",
+      "value": "Sprites/Popup/jp/howto"
+    },
+    {
+      "key": "pop_drink",
+      "value": "Sprites/Popup/jp/drink"
+    },
+    {
+      "key": "pop_EXCARD",
+      "value": "Sprites/Popup/jp/EXCARD"
+    }
+  ]
+}
