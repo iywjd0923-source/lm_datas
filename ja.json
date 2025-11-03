@@ -37,6 +37,22 @@
       "value": "<size=80><b>閲覧注意</b>"
     },
     {
+      "key": "SOFT_NAME_small",
+      "value": "<b>きゅんモード</b>"
+    },
+    {
+      "key": "HOT_NAME_small",
+      "value": "<b>沼モード</b>"
+    },
+    {
+      "key": "19_NAME_small",
+      "value": "<b>ギリ攻め</b>"
+    },
+    {
+      "key": "29_NAME_small",
+      "value": "<b>閲覧注意</b>"
+    },
+    {
       "key": "board_ISLAND",
       "value": "無人島"
     },
@@ -55,6 +71,22 @@
     {
       "key": "change_cha",
       "value": "キャラクター/名前変更"
+    },
+    {
+      "key": "payinfo_lev1",
+      "value": "まずはソフトに：あなたのすべてが知りたい"
+    },
+    {
+      "key": "payinfo_lev2",
+      "value": "ドキドキが止まらない：もう少し熱くなってみる？"
+    },
+    {
+      "key": "payinfo_lev3",
+      "value": "オトナの時間：秘密のファンタジー"
+    },
+    {
+      "key": "payinfo_lev4",
+      "value": "最も深い秘密：ファイナルレベル"
     },
     {
       "key": "LOVE_0001",
