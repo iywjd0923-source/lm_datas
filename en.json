@@ -22,18 +22,34 @@
     },
     {
       "key": "SOFT_NAME",
-      "value": "Catching Feels"
+      "value": "<size=80><b>Catching Feels"
     },
     {
       "key": "HOT_NAME",
-      "value": "Spicy Vibes"
+      "value": "<size=80><b>Spicy Vibes"
     },
     {
       "key": "19_NAME",
-      "value": "Secret Menu"
+      "value": "<size=80><b>Secret Menu"
     },
     {
       "key": "29_NAME",
+      "value": "<size=80><b>X-Rated"
+    },
+    {
+      "key": "SOFT_NAME_small",
+      "value": "Catching Feels"
+    },
+    {
+      "key": "HOT_NAME_small",
+      "value": "Spicy Vibes"
+    },
+    {
+      "key": "19_NAME_small",
+      "value": "Secret Menu"
+    },
+    {
+      "key": "29_NAME_small",
       "value": "X-Rated"
     },
     {
@@ -55,6 +71,22 @@
     {
       "key": "change_cha",
       "value": "Edit Character / Name"
+    },
+    {
+      "key": "payinfo_lev1",
+      "value": "Start Soft: Get to Know You"
+    },
+    {
+      "key": "payinfo_lev2",
+      "value": "Turn Up the Heat: Heart-Pounding"
+    },
+    {
+      "key": "payinfo_lev3",
+      "value": "Naughty & Spicy: Hidden Fantasies"
+    },
+    {
+      "key": "payinfo_lev4",
+      "value": "Deepest Secrets: The Final Level"
     },
     {
       "key": "LOVE_0001",
