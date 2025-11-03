@@ -439,6 +439,10 @@
     {
       "key": "pop_howto",
       "value": "Sprites/Popup/ja/howto"
+    },
+    {
+      "key": "pop_drink",
+      "value": "Sprites/Popup/ja/drink"
     }
   ]
 }
