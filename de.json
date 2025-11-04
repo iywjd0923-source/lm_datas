@@ -282,83 +282,163 @@
     },
     {
       "key": "DRINK_0001",
-      "value": "ddwdawd1"
+      "value": "Ex! Und jetzt biete deinem Partner an, das Gleiche zu tun. 1"
     },
     {
       "key": "DRINK_0002",
-      "value": "dd2"
+      "value": "Iss einen Snack und tu 5 Sek. so, als wär's das beste Essen der Welt! Versagt? Ein Strafschluck! [5] 1"
     },
     {
       "key": "DRINK_0003",
-      "value": "dd3"
+      "value": "Küsse den Handrücken deines Partners wie ein Ritter und biete ihm höflich ein Getränk an. 1"
     },
     {
       "key": "DRINK_0004",
-      "value": "dd4"
+      "value": "Steh auf und pose 5 Sek. lang wie der Star des Abends! Zu schüchtern? Trink einen! [5] 1"
     },
     {
       "key": "DRINK_0005",
-      "value": "ddwdawd1"
+      "value": "Bewerte deine Liebe für deinen Partner von 1-10! Klatsche so oft und trink einen! 1"
     },
     {
       "key": "DRINK_0006",
-      "value": "dd2"
+      "value": "„Darf ich bitte etwas trinken?“ Bitte deinen Partner charmant um Erlaubnis und trink dann. 1"
     },
     {
       "key": "DRINK_0007",
-      "value": "dd3"
+      "value": "Schenke ein Getränk ein und reiche es deinem Partner höflich. (Er/Sie muss es exen!) 1"
     },
     {
       "key": "DRINK_0008",
-      "value": "dd4"
+      "value": "Fordere deinen Partner zu einem Starr-Wettbewerb heraus! Wer zuerst lacht, trinkt. 1"
     },
     {
       "key": "DRINK_0009",
-      "value": "dd1"
+      "value": "Spielt Schere, Stein, Papier! Verlierst du, trink 2. Gewinnst du, trink (nur) 1. 1"
     },
     {
       "key": "DRINK_0010",
-      "value": "dd2"
+      "value": "Nenne 3 gute Dinge an deinem Partner in 10 Sek.! Versagt? 2 Drinks exen! [10] 1"
     },
     {
       "key": "DRINK_0011",
-      "value": "dd3"
+      "value": "Erzähl deinen flachsten Witz! Lacht dein Partner nicht, trink einen. 1"
     },
     {
       "key": "DRINK_0012",
-      "value": "dd4"
+      "value": "Füttere deinen Partner liebevoll mit einem Bissen, dann trinkst du zufrieden einen! 1"
     },
     {
       "key": "DRINK_0013",
-      "value": "dd1"
+      "value": "Spül den Mund mit einem Glas Wasser (ex!), dann trink ein Glas Alkohol (ex!) hinterher. 1"
     },
     {
       "key": "DRINK_0014",
-      "value": "dd2"
+      "value": "Beschreibe 5 Sek. lang nur mit deinem Gesicht den Geschmack deines Drinks, wie in der Werbung! Dann trink. [5] 1"
     },
     {
       "key": "DRINK_0015",
-      "value": "dd3"
+      "value": "Mixt zusammen einen Cocktail nur für euch beide. Du trinkst den ersten Schluck! 1"
     },
     {
       "key": "DRINK_0016",
-      "value": "dd4"
+      "value": "Sag: „Wenn ich das austrinke, gehörst du mir!“ – und dann ex! 1"
     },
     {
       "key": "DRINK_0017",
-      "value": "dd1"
+      "value": "Mach ein Selfie mit deinem \"Foto des Lebens\"-Gesicht! Gefällt's deinem Partner nicht? Trink einen. 1"
     },
     {
       "key": "DRINK_0018",
-      "value": "dd2"
+      "value": "„Prost!“ – Stoßt liebevoll mit eurem Partner an und trinkt. 1"
     },
     {
       "key": "DRINK_0019",
-      "value": "dd3"
+      "value": "Sag das romantischste Filmzitat auf, das du kennst, und trink einen mit Stil. 1"
     },
     {
       "key": "DRINK_0020",
-      "value": "dd4"
+      "value": "Trink dein Glas halb leer und gib es deinem Partner mit den Worten: „Der Rest ist für dich.“ 1"
+    },
+    {
+      "key": "DRINK_0021",
+      "value": "Mach deinem Partner ein Kompliment zu einem bestimmten Detail (z.B. \"Dein Lächeln ist süß\") und trink einen! 1"
+    },
+    {
+      "key": "DRINK_0022",
+      "value": "Sag „Du machst mich betrunken...“, schau deinem Partner 5 Sek. tief in die Augen und trink. [5] 1"
+    },
+    {
+      "key": "DRINK_0023",
+      "value": "Mach 3 Kniebeugen, während du dein Glas hältst! Und dann trink einen Schluck. 1"
+    },
+    {
+      "key": "DRINK_0024",
+      "value": "Bring deinen Partner dazu, „Ich liebe dich“ zu sagen! Schaffst du es nicht (T_T), trinkst du zwei! 1"
+    },
+    {
+      "key": "DRINK_0025",
+      "value": "Kneif deinen Partner sanft in die Wange, sag „Süß!“ und trink einen! 1"
+    },
+    {
+      "key": "DRINK_0026",
+      "value": "Sprecht 5 Min. lang nur eine Fremdsprache! Jedes Mal, wenn ihr eure Muttersprache sprecht, trinkt einen! [5 Min.] 1"
+    },
+    {
+      "key": "DRINK_0027",
+      "value": "Trink einen Schluck mit dem glücklichsten Gesicht der Welt. 1"
+    },
+    {
+      "key": "DRINK_0028",
+      "value": "Fordere deinen Partner zum Hand-Drücken heraus! Wenn du verlierst, trink einen. 1"
+    },
+    {
+      "key": "DRINK_0029",
+      "value": "Zeig ein Talent, das du hast (Finger-Welle, Grimasse etc.) und trink! Hast du keins? Trink zwei! 1"
+    },
+    {
+      "key": "DRINK_0030",
+      "value": "Sag mit Babystimme „Bitte, bitte, ein Schlückchen!“ und trink dann. 1"
+    },
+    {
+      "key": "DRINK_0031",
+      "value": "Gebt euch ein High-Five und trinkt dann gleichzeitig einen! 1"
+    },
+    {
+      "key": "DRINK_0032",
+      "value": "Massiere die Schultern deines Partners. Hörst du ein „Danke“, ist die Mission erfüllt! Trink einen! 1"
+    },
+    {
+      "key": "DRINK_0033",
+      "value": "Fordere deinen Partner zum Armdrücken heraus! (Sei nachsichtig?) Verlierst du, trink einen! 1"
+    },
+    {
+      "key": "DRINK_0034",
+      "value": "Wirf deinem Partner einen Luftkuss zu! (Und dann sei schüchtern) Und trink schnell einen! 1"
+    },
+    {
+      "key": "DRINK_0035",
+      "value": "Macht zusammen ein Selfie mit euren dümmsten Gesichtern! Dann trinkt jeder einen. 1"
+    },
+    {
+      "key": "DRINK_0036",
+      "value": "Klopf deinem Partner auf den Rücken, sag „Gut gemacht heute“ und trink einen. 1"
+    },
+    {
+      "key": "DRINK_0037",
+      "value": "Sag, welchem Tier dein Partner ähnelt! (z.B. ein süßer Hamster?) Stimmt er/sie zu, trinkt jeder einen! 1"
+    },
+    {
+      "key": "DRINK_0038",
+      "value": "Nennt eine Gemeinsamkeit, die ihr habt! (z.B. „Wir sind beide süß!“) Und trinkt einen! 1"
+    },
+    {
+      "key": "DRINK_0039",
+      "value": "Erzähl von dem Moment, als du das erste Mal Schmetterlinge für deinen Partner gefühlt hast, und trink einen. 1"
+    },
+    {
+      "key": "DRINK_0040",
+      "value": "Erzähl von dem Moment, in dem du deinem Partner am dankbarsten warst, und trink einen. 1"
     },
     {
       "key": "VS_0001",
