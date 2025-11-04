@@ -89,6 +89,14 @@
       "value": "Tiefste Geheimnisse: Das Finale Level"
     },
     {
+      "key": "question_ox",
+      "value": "Geantwortet?"
+    },
+    {
+      "key": "Mission_ox",
+      "value": "Mission erfüllt?"
+    },
+    {
       "key": "LOVE_0001",
       "value": "Aktionshölle1"
     },
@@ -439,6 +447,558 @@
     {
       "key": "DRINK_0040",
       "value": "Erzähl von dem Moment, in dem du deinem Partner am dankbarsten warst, und trink einen. 1"
+    },
+    {
+      "key": "DRINK_0041",
+      "value": "Füttere deinen Partner mit einem großen Bissen seines Lieblingssnacks (direkt in den Mund!), du trinkst einen. 1"
+    },
+    {
+      "key": "DRINK_0042",
+      "value": "Heb dein Glas hoch! Ruf „Auf unser brillantes Leben!“ und ex! 1"
+    },
+    {
+      "key": "DRINK_0043",
+      "value": "Ist das Glas deines Partners leer? Füll es (mit Liebe!) bis zum Rand auf, und trink auch einen! 1"
+    },
+    {
+      "key": "DRINK_0044",
+      "value": "Mach den angesagtesten Spruch/Meme nach, den du kennst (z.B. „Digga...“) und trink einen! 1"
+    },
+    {
+      "key": "DRINK_0045",
+      "value": "Fordere deinen Partner heraus: Wer macht das beste „Ahhh~“-Geräusch nach dem Trinken? Wenn du verlierst, trink einen. 1"
+    },
+    {
+      "key": "DRINK_0046",
+      "value": "Versuch, mit Charme einen Snack von deinem Partner zu bekommen (z.B. „Bitte, nur ein Stückchen?“). Versagt? Trink einen. 1"
+    },
+    {
+      "key": "DRINK_0047",
+      "value": "Zeig deinem Partner deinen letzten Suchverlauf! Ist es peinlich? Trink zwei! 1"
+    },
+    {
+      "key": "DRINK_0048",
+      "value": "Mach ein Selfie (als Hintergrundbild?) mit dem Handy deines Partners und trink dann zufrieden einen! 1"
+    },
+    {
+      "key": "DRINK_0049",
+      "value": "Halt die Hand deines Partners und schaut euch 10 Sek. lang schweigend in die Augen. Dann trinkt jeder einen. [10] 1"
+    },
+    {
+      "key": "DRINK_0050",
+      "value": "Ruf deinen Lieblingstoast aus (z.B. „Zum Wohl!“) und trink einen! 1"
+    },
+    {
+      "key": "DRINK_0051",
+      "value": "Rate, was dein Partner gerade denkt! (z.B. „An mich?“) Falsch geraten? Trink einen! 1"
+    },
+    {
+      "key": "DRINK_0052",
+      "value": "Schließ die Augen, trink einen Schluck und beschreib das Gefühl mit einem Wort (z.B. „Süß“). 1"
+    },
+    {
+      "key": "DRINK_0053",
+      "value": "Frag deinen Partner: „Bin ich... betrunken?“ Wenn er/sie „Nein“ sagt, trink noch einen! 1"
+    },
+    {
+      "key": "DRINK_0054",
+      "value": "Bring deinen Partner zum Lachen! Sofort! Schaffst du es, trinkt er/sie. Schaffst du es nicht, trinkst du. 1"
+    },
+    {
+      "key": "DRINK_0055",
+      "value": "3 Min. lang ist „Trinken“ ein verbotenes Wort! Wer es sagt, muss trinken! [3 Min.] 1"
+    },
+    {
+      "key": "DRINK_0056",
+      "value": "Schick der Person, die du zuletzt angerufen hast (Mama...?), eine „Vermisse dich“-Nachricht! Geht nicht? Trink zwei! 1"
+    },
+    {
+      "key": "DRINK_0057",
+      "value": "Erzähl deinem Partner ein kleines Geheimnis (TMI) über dich, das er/sie noch nicht kannte, und trink einen! 1"
+    },
+    {
+      "key": "DRINK_0058",
+      "value": "Stupst eure Stirnen sanft aneinander („Böpp!“), sagt „Süß!“ und trinkt jeder einen! 1"
+    },
+    {
+      "key": "DRINK_0059",
+      "value": "Stups sanft die Nase deines Partners an und trink dann spielerisch einen. 1"
+    },
+    {
+      "key": "DRINK_0060",
+      "value": "Nennt euch 5 Min. lang nur bei euren Kosenamen! (z.B. „Schatz!“) Wer den echten Namen sagt, trinkt! [5 Min.] 1"
+    },
+    {
+      "key": "DRINK_0061",
+      "value": "Fordere deinen Partner zum Daumen-Catchen heraus! (Wieder verlieren lassen?) Verlierst du, trink einen! 1"
+    },
+    {
+      "key": "DRINK_0062",
+      "value": "Hol das Objekt, das am weitesten von dir entfernt ist! Versagt? Trink einen! 1"
+    },
+    {
+      "key": "DRINK_0063",
+      "value": "Mach deinem Partner ein Kompliment für seine Augenfarbe! (z.B. „Deine Augen sind wie braune Sterne“) Und trink! 1"
+    },
+    {
+      "key": "DRINK_0064",
+      "value": "Sag „Wenn ich wiedergeboren würde, wäre ich...“ und trink einen. 1"
+    },
+    {
+      "key": "DRINK_0065",
+      "value": "Verrate deinen peinlichsten Spitznamen aus der Kindheit und trink einen! 1"
+    },
+    {
+      "key": "DRINK_0066",
+      "value": "Versuch so lange, ein Kompliment von deinem Partner zu bekommen, bis es klappt! (z.B. „Sieht was anders aus?“) Dann trink! 1"
+    },
+    {
+      "key": "DRINK_0067",
+      "value": "Gestehe, welchen Körperteil du am wenigsten magst... (seufz...) und trink einen „Trost-Schluck“. 1"
+    },
+    {
+      "key": "DRINK_0068",
+      "value": "Gestehe ehrlich, wie viel du verträgst, und trink einen „nur zur Kontrolle“. 1"
+    },
+    {
+      "key": "DRINK_0069",
+      "value": "Spiel das schlimmste Verhalten beim Trinken (zu viel reden, angeben...) 5 Sek. lang nach und trink. 1"
+    },
+    {
+      "key": "DRINK_0070",
+      "value": "Starre 5 Sek. lang auf dein Spiegelbild im Glas deines Partners... und trink. [5] 1"
+    },
+    {
+      "key": "DRINK_0071",
+      "value": "Gib mit deiner nutzlosesten Fähigkeit an (z.B. Zunge zur Nase) und trink einen! 1"
+    },
+    {
+      "key": "DRINK_0072",
+      "value": "Sag mit einer 10 Jahre älteren Stimme: „Hehe... gib mir mal einen Schluck, Jungchen!“ und trink! 1"
+    },
+    {
+      "key": "DRINK_0073",
+      "value": "Sag mit einer 10 Jahre jüngeren Stimme: „Ähm... nur ein Schlückchen, bitte!“ und trink! 1"
+    },
+    {
+      "key": "DRINK_0074",
+      "value": "Versprich deinem Partner: „Beim nächsten Mal trinke ich für dich!“ – und trink diesen selbst. 1"
+    },
+    {
+      "key": "DRINK_0075",
+      "value": "Steck dir den Mund voller Snacks und sag „Ich... l-liebe... dich!“ Unverständlich? Trink einen! 1"
+    },
+    {
+      "key": "DRINK_0076",
+      "value": "1 Min. lang bist du König/in, dein Partner Diener/in. Gib einen Befehl („Schenk mir ein!“) und trink. [1 Min.] 1"
+    },
+    {
+      "key": "DRINK_0077",
+      "value": "Zeig das lustigste Foto (ein peinliches?) aus deiner Handy-Galerie und trink einen! 1"
+    },
+    {
+      "key": "DRINK_0078",
+      "value": "Ahme deinen Partner nach (Tonfall, Mimik)! Erkennt er/sie es nicht an? Trink einen! 1"
+    },
+    {
+      "key": "DRINK_0079",
+      "value": "Sag „Heute schmeckt der Alkohol süß...“, um für Stimmung zu sorgen, und trink einen. 1"
+    },
+    {
+      "key": "DRINK_0080",
+      "value": "Starre deinen Partner 3 Sek. lang an... sag dann plötzlich „Hübsch/Gutaussehend“ und trink einen. 1"
+    },
+    {
+      "key": "DRINK_0081",
+      "value": "Flüstere deinem Partner irgendwas (dein TMI des Tages?) ins Ohr. Lacht er/sie, trinkst du! 1"
+    },
+    {
+      "key": "DRINK_0082",
+      "value": "Gib mit dem flexibelsten Teil deines Körpers an (Finger verbiegen?) und trink einen. 1"
+    },
+    {
+      "key": "DRINK_0083",
+      "value": "Zeig einen Zungen-Trick! (z.B. Kleeblatt?) Lacht dein Partner nicht, trink einen! 1"
+    },
+    {
+      "key": "DRINK_0084",
+      "value": "Schlagt ein „Telepathie“-Spiel vor! (z.B. „1, 2, 3!“) Sagt ihr nicht dasselbe Wort, trinkst du. 1"
+    },
+    {
+      "key": "DRINK_0085",
+      "value": "Beschreibe deinen Idealtyp in 3 Worten (z.B. nett, lustig, nur mich sehend...) und trink einen. 1"
+    },
+    {
+      "key": "DRINK_0086",
+      "value": "Sag, welche dieser Bedingungen dein Partner erfüllt, und trink einen. 1"
+    },
+    {
+      "key": "DRINK_0087",
+      "value": "Zähl all deine Drinks bisher... klatsche so oft und trink einen! (Keine Ahnung mehr? 3 Drinks!) 1"
+    },
+    {
+      "key": "DRINK_0088",
+      "value": "Heb dein Glas und ruf: „Ich bin die charmanteste Person hier!“ und ex! 1"
+    },
+    {
+      "key": "DRINK_0089",
+      "value": "Sag deinem Partner: „Du siehst am besten aus, wenn du trinkst“ und trink einen. 1"
+    },
+    {
+      "key": "DRINK_0090",
+      "value": "Ahme eine typische Miene deines Partners nach! Lacht er/sie nicht, weil's schlecht war? Trink einen! 1"
+    },
+    {
+      "key": "DRINK_0091",
+      "value": "Erzähl deine (TMI) Erste-Kuss-Geschichte in 10 Sek. und trink einen! [10 Sek.] 1"
+    },
+    {
+      "key": "DRINK_0092",
+      "value": "Sag, wie sich dein erster Eindruck von deinem Partner zu heute unterscheidet, und trink. 1"
+    },
+    {
+      "key": "DRINK_0093",
+      "value": "Tu etwas, das deine „romantische Seite“ beweist (einen Handkuss?) und trink einen! 1"
+    },
+    {
+      "key": "DRINK_0094",
+      "value": "Zeig deinen „ultimativen Flirt-Move“ für die Bar (ein Lächeln?) und trink einen! 1"
+    },
+    {
+      "key": "DRINK_0095",
+      "value": "Halt die Hand deines Partners fest, sag „Lass uns lange zusammenbleiben“ und trinkt jeder einen! 1"
+    },
+    {
+      "key": "DRINK_0096",
+      "value": "Schlag einen Toast „auf unser heutiges Treffen“ vor und trink einen! 1"
+    },
+    {
+      "key": "DRINK_0097",
+      "value": "Schlagt was vor, das ihr im nächsten Urlaub machen wollt, und trinkt voller Vorfreude jeder einen! 1"
+    },
+    {
+      "key": "DRINK_0098",
+      "value": "Hör dir eine Sorge deines Partners an (Arbeit, Studium etc.). Dann trinkt jeder einen „Trost-Schluck“. 1"
+    },
+    {
+      "key": "DRINK_0099",
+      "value": "Sagt euch gegenseitig „Gut gemacht heute“, um euch zu ermutigen, und trinkt jeder einen! 1"
+    },
+    {
+      "key": "DRINK_0100",
+      "value": "Trink einen Schluck und umarme deinen Partner 10 Sek. lang warm von hinten. [10] 2"
+    },
+    {
+      "key": "DRINK_0101",
+      "value": "Gib deinem Partner einen leichten Kuss auf die Stirn! (Und sei schüchtern) Dann trink einen! 2"
+    },
+    {
+      "key": "DRINK_0102",
+      "value": "Trink einen, sag „Ich muss aufladen...“ und kuschle dich 15 Sek. an deinen Partner. [15] 2"
+    },
+    {
+      "key": "DRINK_0103",
+      "value": "Gib deinem Partner einen Kuss auf die Wange! Dann lass dir einen Kuss geben! (Schmatz x2) Und trinkt zusammen! 2"
+    },
+    {
+      "key": "DRINK_0104",
+      "value": "Trink einen Schluck und streichle 20 Sek. lang sanft durch das Haar deines Partners. [20] 2"
+    },
+    {
+      "key": "DRINK_0105",
+      "value": "Umarme deinen Partner von hinten und gib ihm einen Schluck zu trinken. Dann trinkst du auch einen! 2"
+    },
+    {
+      "key": "DRINK_0106",
+      "value": "Sag „Heute siehst du besonders hübsch/gut aus“, streichle das Kinn deines Partners und trink. 2"
+    },
+    {
+      "key": "DRINK_0107",
+      "value": "(Ex!) Sag „War ich gut?“ und bitte deinen Partner um eine Belohnungs-Umarmung. 2"
+    },
+    {
+      "key": "DRINK_0108",
+      "value": "Sag „Ich... glaub, ich bin betrunken“, lehn deinen Kopf an seine/ihre Schulter und trink. 2"
+    },
+    {
+      "key": "DRINK_0109",
+      "value": "Verschränke deine Finger mit denen deines Partners, haltet Augenkontakt und trinkt. 2"
+    },
+    {
+      "key": "DRINK_0110",
+      "value": "Trink einen Schluck und sag dann schnulzig: „Ich kann kaum trinken... muss zu viel an dich denken.“ 2"
+    },
+    {
+      "key": "DRINK_0111",
+      "value": "Tu so, als würdest du deinem Partner was von den Lippen wischen... und trink einen. 2"
+    },
+    {
+      "key": "DRINK_0112",
+      "value": "Küsse (sanft) den Handrücken deines Partners und trink dann ganz cool einen. 2"
+    },
+    {
+      "key": "DRINK_0113",
+      "value": "Trinkt über Kreuz („Love Shot“)! Stellt Augenkontakt für 10 Sek. her. Wer zuerst wegschaut, trinkt noch einen! [10] 2"
+    },
+    {
+      "key": "DRINK_0114",
+      "value": "Bring deinen Partner dazu, „Ich liebe dich“ zu sagen! Erfolg? Trinkt zusammen! Versagt? Du trinkst zwei! 2"
+    },
+    {
+      "key": "DRINK_0115",
+      "value": "Sag ehrlich: „Ich will dich jetzt küssen“ und trink einen. 2"
+    },
+    {
+      "key": "DRINK_0116",
+      "value": "Trink einen Schluck und flüstere deinem Partner „Ich hab dich heute vermisst“ ins Ohr. 2"
+    },
+    {
+      "key": "DRINK_0117",
+      "value": "Nimm das Handgelenk deines Partners und leg seine Hand auf dein Herz. „...Fühlst du's?“ Dann trink. 2"
+    },
+    {
+      "key": "DRINK_0118",
+      "value": "Stell dein Glas ab. Schau deinen Partner 10 Sek. lang mit einem Blick voller Zuneigung an... dann trink. [10] 2"
+    },
+    {
+      "key": "DRINK_0119",
+      "value": "Gib deinem Partner einen leichten Kuss auf den Hals und trink dann einen, als ob nichts wäre. 2"
+    },
+    {
+      "key": "DRINK_0120",
+      "value": "„Was an mir hat dich am meisten begeistert?“ Frag deinen Partner und trink, während du die Antwort hörst. 2"
+    },
+    {
+      "key": "DRINK_0121",
+      "value": "„Sollen wir... die ganze Nacht zusammenbleiben?“ Frag es ganz beiläufig und trink einen. 2"
+    },
+    {
+      "key": "DRINK_0122",
+      "value": "„Wann hast du dich in mich verliebt?“ Frag deinen Partner und trink (schüchtern) einen, während du zuhörst. 2"
+    },
+    {
+      "key": "DRINK_0123",
+      "value": "Trink einen Schluck und starre 5 Sek. lang intensiv auf das Schlüsselbein deines Partners. [5] 2"
+    },
+    {
+      "key": "DRINK_0124",
+      "value": "Vergleicht eure Handgrößen (Handfläche an Handfläche)! Ist deine kleiner? Sei süß und trink einen! 2"
+    },
+    {
+      "key": "DRINK_0125",
+      "value": "Sag: „Verführ mich.“ Sieh dir den Versuch deines Partners an und trink dann einen „Jury-Schluck“. 2"
+    },
+    {
+      "key": "DRINK_0126",
+      "value": "Leg dein Bein sanft über das deines Partners und trink einen. 2"
+    },
+    {
+      "key": "DRINK_0127",
+      "value": "Trink einen Schluck und flüstere dann: „Wie schmecken wohl deine Lippen?“ 2"
+    },
+    {
+      "key": "DRINK_0128",
+      "value": "Trink einen, während du sanft mit dem Ohrläppchen deines Partners spielst. 2"
+    },
+    {
+      "key": "DRINK_0129",
+      "value": "Hinterlass einen Lippenstift-Abdruck auf deinem Glas und reich es deinem Partner. Dann trink einen aus einem neuen Glas. 2"
+    },
+    {
+      "key": "DRINK_0130",
+      "value": "Trink einen Schluck und mach deinem Partner ein Kompliment: „Du bist... ziemlich sexy heute.“ 2"
+    },
+    {
+      "key": "DRINK_0131",
+      "value": "Trink einen, während du mit der Krawatte/Kette/dem Kragen deines Partners spielst. 2"
+    },
+    {
+      "key": "DRINK_0132",
+      "value": "Trink einen und frag dann subtil: „Du... bringst mich doch nach Hause, oder?“ 2"
+    },
+    {
+      "key": "DRINK_0133",
+      "value": "Kitzle 5 Sek. lang heimlich den Fuß deines Partners unter dem Tisch. Und trink einen. [5] 2"
+    },
+    {
+      "key": "DRINK_0134",
+      "value": "Trink einen Schluck und frag dann: „Willst du... noch länger bei mir sein?“ 2"
+    },
+    {
+      "key": "DRINK_0135",
+      "value": "Verrate deinem Partner deine liebste Art von „Skinship“ (z.B. Umarmung von hinten) und trink einen. 2"
+    },
+    {
+      "key": "DRINK_0136",
+      "value": "Trink einen, nimm dann die Finger deines Partners einzeln in die Hand und mach Komplimente (z.B. „Dieser hier ist schön“). 2"
+    },
+    {
+      "key": "DRINK_0137",
+      "value": "Lehn deinen Kopf an die Schulter deines Partners, sag „Lass uns... kurz so bleiben“ und trink einen. 2"
+    },
+    {
+      "key": "DRINK_0138",
+      "value": "Trink einen Schluck und sag: „Der Drink schmeckt süßer, weil ich bei dir bin.“ 2"
+    },
+    {
+      "key": "DRINK_0139",
+      "value": "Mach ein Kompliment zum Parfüm (oder Duft) und tu so, als würdest du am Hals riechen... und trink. 2"
+    },
+    {
+      "key": "DRINK_0140",
+      "value": "Du trinkst einen und sagst dann: „Nächstes Mal fütterst du mich.“ 2"
+    },
+    {
+      "key": "DRINK_0141",
+      "value": "Streich deinem Partner sanft das Haar hinter das Ohr und trink einen. 2"
+    },
+    {
+      "key": "DRINK_0142",
+      "value": "Sag „Ich verrat dir ein Geheimnis“, flüstere deinem Partner „Ich mag dich“ ins Ohr und trink. 2"
+    },
+    {
+      "key": "DRINK_0143",
+      "value": "Trink einen Schluck und sag: „Ich... will heute Nacht nicht nach Hause.“ 2"
+    },
+    {
+      "key": "DRINK_0144",
+      "value": "Legt eure Stirnen aneinander und haltet 10 Sek. Augenkontakt! Dann trinkt jeder einen! [10] 2"
+    },
+    {
+      "key": "DRINK_0145",
+      "value": "Trink einen und frag dann bedeutungsvoll: „Was... sind wir eigentlich?“ 2"
+    },
+    {
+      "key": "DRINK_0146",
+      "value": "Schlag ein Date vor (z.B. „Morgen ins Kino?“). Sagt er/sie ja, trink einen! 2"
+    },
+    {
+      "key": "DRINK_0147",
+      "value": "Trink einen Schluck und sag aufrichtig: „Ich will mehr Zeit mit dir verbringen.“ 2"
+    },
+    {
+      "key": "DRINK_0148",
+      "value": "Starre 5 Sek. lang intensiv auf die Lippen deines Partners... dann trink einen. [5] 2"
+    },
+    {
+      "key": "DRINK_0149",
+      "value": "Trink einen und frag dann provokant: „Kannst du... mit mir umgehen?“ 2"
+    },
+    {
+      "key": "DRINK_0150",
+      "value": "Erzähl (schüchtern) von deinem besten Kuss-Erlebnis und trink einen. 2"
+    },
+    {
+      "key": "DRINK_0151",
+      "value": "Trink einen Schluck und frag dann ernsthaft: „Was bedeute ich dir?“ 2"
+    },
+    {
+      "key": "DRINK_0152",
+      "value": "Schreib kitzlig eine Botschaft auf die Handfläche deines Partners. Errät er/sie sie? Er/sie trinkt! Falsch? Du trinkst! 2"
+    },
+    {
+      "key": "DRINK_0153",
+      "value": "Sag „Ich... verführe dich gerade“, mach dein sexyeste Gesicht und trink einen. 2"
+    },
+    {
+      "key": "DRINK_0154",
+      "value": "Zeig deinem Partner dein Lieblingsfoto von euch beiden und trink einen auf die Erinnerung. 2"
+    },
+    {
+      "key": "DRINK_0155",
+      "value": "Trink einen Schluck und frag: „Was krieg ich, wenn ich süß bin?“ 2"
+    },
+    {
+      "key": "DRINK_0156",
+      "value": "Sag deinem Partner: „Der Drink schmeckt am besten, wenn du ihn einschenkst“ und lass dir einen einschenken. 2"
+    },
+    {
+      "key": "DRINK_0157",
+      "value": "Trink einen Schluck und frag: „Wollen wir... nur noch einen letzten trinken?“ 2"
+    },
+    {
+      "key": "DRINK_0158",
+      "value": "Schau deinem Partner „super verliebt“ dabei zu, wie er/sie einen Snack isst, und trink dann einen. 2"
+    },
+    {
+      "key": "DRINK_0159",
+      "value": "Trink einen Schluck und sag: „Heute... ist irgendwas Besonderes zwischen uns.“ 2"
+    },
+    {
+      "key": "DRINK_0160",
+      "value": "Beschreib deine ideale Beziehung (z.B. „Eine Liebe, bei der wir uns jeden Tag sehen“) und trink einen. 2"
+    },
+    {
+      "key": "DRINK_0161",
+      "value": "Trink einen Schluck und sag aufrichtig: „Ich möchte ein guter Mensch für dich sein.“ 2"
+    },
+    {
+      "key": "DRINK_0162",
+      "value": "Verschränke deine Finger mit denen deines Partners, frag „Ist das... ein gutes Zeichen?“ und trink. 2"
+    },
+    {
+      "key": "DRINK_0163",
+      "value": "Trink einen Schluck und schlag dann vor: „Sollen wir... irgendwo allein sein?“ 2"
+    },
+    {
+      "key": "DRINK_0164",
+      "value": "Erzähl von dem Moment, als du dein Herz zum ersten Mal für deinen Partner geöffnet hast, und trink. 2"
+    },
+    {
+      "key": "DRINK_0165",
+      "value": "Trink einen Schluck und sag wehmütig: „Die Zeit vergeht so schnell mit dir.“ 2"
+    },
+    {
+      "key": "DRINK_0166",
+      "value": "Sag, in welchem Moment dein Partner heute am besten aussah (am süßesten/coolsten), und trink. 2"
+    },
+    {
+      "key": "DRINK_0167",
+      "value": "Trink einen Schluck und frag dann anzüglich: „Bringst du... mich ins Bett?“ 2"
+    },
+    {
+      "key": "DRINK_0168",
+      "value": "Sprich über eine positive Zukunft, die du dir mit deinem Partner vorstellst, und trink einen. 2"
+    },
+    {
+      "key": "DRINK_0169",
+      "value": "Trink einen Schluck und sag: „Ich will... eine tiefere Beziehung mit dir.“ 2"
+    },
+    {
+      "key": "DRINK_0170",
+      "value": "Frag nach dem Idealtyp deines Partners, finde (krampfhaft) eine Ähnlichkeit mit dir und trink! 2"
+    },
+    {
+      "key": "DRINK_0171",
+      "value": "Trink einen Schluck und frag: „Was... hältst du von mir?“ 2"
+    },
+    {
+      "key": "DRINK_0172",
+      "value": "Trink einen Schluck und sag aufrichtig: „Ich bin... einfach so froh, dass ich bei dir bin.“ 2"
+    },
+    {
+      "key": "DRINK_0173",
+      "value": "Sag, welcher Wert dir in einer Beziehung am wichtigsten ist (z.B. „Vertrauen“) und trink. 2"
+    },
+    {
+      "key": "DRINK_0174",
+      "value": "Trink einen Schluck und sag: „Ich will... alles über dich wissen.“ 2"
+    },
+    {
+      "key": "DRINK_0175",
+      "value": "Nenn eine Sache von deiner Bucket List, die du mit deinem Partner machen willst, und trink. 2"
+    },
+    {
+      "key": "DRINK_0176",
+      "value": "Trink einen Schluck und sag: „Du bist... wirklich ein besonderer Mensch für mich.“ 2"
+    },
+    {
+      "key": "DRINK_0177",
+      "value": "Sag (romantisch), was „Liebe“ für dich bedeutet, und trink einen. 2"
+    },
+    {
+      "key": "DRINK_0178",
+      "value": "Trink einen Schluck und sag: „Solange ich bei dir bin, hab ich das Gefühl, alles schaffen zu können.“ 2"
     },
     {
       "key": "VS_0001",
