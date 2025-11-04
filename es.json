@@ -282,83 +282,163 @@
     },
     {
       "key": "DRINK_0001",
-      "value": "ddwdawd1"
+      "value": "¡Fondo! Ahora, ¡pídele a tu pareja que haga lo mismo! 1"
     },
     {
       "key": "DRINK_0002",
-      "value": "dd2"
+      "value": "¡Come un snack y actúa 5 seg. como si fuera la mejor comida del mundo! ¿Fallas? ¡Un trago de castigo! [5] 1"
     },
     {
       "key": "DRINK_0003",
-      "value": "dd3"
+      "value": "Besa la mano de tu pareja como un caballero y ofrécele un trago cortésmente. 1"
     },
     {
       "key": "DRINK_0004",
-      "value": "dd4"
+      "value": "¡Levántate y posa 5 seg. como la estrella del lugar! ¿Te da vergüenza? ¡Bebe un trago! [5] 1"
     },
     {
       "key": "DRINK_0005",
-      "value": "ddwdawd1"
+      "value": "¡Valora tu amor por tu pareja del 1 al 10! ¡Aplaude ese número de veces y bebe un trago! 1"
     },
     {
       "key": "DRINK_0006",
-      "value": "dd2"
+      "value": "\"¿Puedo tomar un trago, por favor?\" Pídele permiso a tu pareja dulcemente y luego bebe. 1"
     },
     {
       "key": "DRINK_0007",
-      "value": "dd3"
+      "value": "Sírvele un trago a tu pareja y dáselo cortésmente. (¡Debe beberlo de fondo!) 1"
     },
     {
       "key": "DRINK_0008",
-      "value": "dd4"
+      "value": "¡Reta a tu pareja a un concurso de miradas! El primero que se ría, bebe un trago. 1"
     },
     {
       "key": "DRINK_0009",
-      "value": "dd1"
+      "value": "¡Juega a Piedra, papel o tijera! Si pierdes, bebe 2 tragos. Si ganas, bebe (solo) 1. 1"
     },
     {
       "key": "DRINK_0010",
-      "value": "dd2"
+      "value": "¡Di 3 cosas buenas de tu pareja en 10 seg! ¿Fallas? ¡Bebe 2 tragos de fondo! [10] 1"
     },
     {
       "key": "DRINK_0011",
-      "value": "dd3"
+      "value": "¡Cuenta tu peor chiste de padre! Si tu pareja no se ríe, bebe un trago. 1"
     },
     {
       "key": "DRINK_0012",
-      "value": "dd4"
+      "value": "Dale un bocado a tu pareja dulcemente, ¡y luego bebe un trago con orgullo! 1"
     },
     {
       "key": "DRINK_0013",
-      "value": "dd1"
+      "value": "¡Límpiate el paladar con un vaso de agua (fondo!), y luego sigue con un trago de alcohol (fondo!) 1"
     },
     {
       "key": "DRINK_0014",
-      "value": "dd2"
+      "value": "¡Describe el sabor de tu bebida con la cara (como un anuncio) por 5 seg! Luego, bebe un trago. [5] 1"
     },
     {
       "key": "DRINK_0015",
-      "value": "dd3"
+      "value": "Prepara un cóctel especial con tu pareja. ¡Tú das el primer sorbo! 1"
     },
     {
       "key": "DRINK_0016",
-      "value": "dd4"
+      "value": "Di: \"Si me acabo esta copa, eres mío/a\", ¡y luego bébelo de fondo! 1"
     },
     {
       "key": "DRINK_0017",
-      "value": "dd1"
+      "value": "¡Tómate un selfie con tu mejor cara! Si a tu pareja no le gusta, bebe un trago. 1"
     },
     {
       "key": "DRINK_0018",
-      "value": "dd2"
+      "value": "¡Haz un \"Chin-chin\" con tu pareja con mucho amor! Y luego, bebe un trago. 1"
     },
     {
       "key": "DRINK_0019",
-      "value": "dd3"
+      "value": "Recita la frase de película más romántica que sepas y bebe un trago con elegancia. 1"
     },
     {
       "key": "DRINK_0020",
-      "value": "dd4"
+      "value": "Bebe la mitad de tu trago y dáselo a tu pareja diciendo: \"El resto es para ti\". 1"
+    },
+    {
+      "key": "DRINK_0021",
+      "value": "¡Halaga una parte específica de tu pareja (ej. \"Tu sonrisa es preciosa\") y bebe un trago felizmente! 1"
+    },
+    {
+      "key": "DRINK_0022",
+      "value": "Di: \"Me estoy emborrachando de ti...\" y mira a tu pareja fijamente por 5 seg, luego bebe. [5] 1"
+    },
+    {
+      "key": "DRINK_0023",
+      "value": "¡Haz 3 sentadillas sosteniendo tu trago y luego bebe! 1"
+    },
+    {
+      "key": "DRINK_0024",
+      "value": "¡Consigue que tu pareja te diga \"Te amo\"! ¡Si no lo logras (T_T), bebes dos tragos! 1"
+    },
+    {
+      "key": "DRINK_0025",
+      "value": "¡Pellizca suavemente la mejilla de tu pareja, di \"¡Qué mono/a!\" y bebe un trago! 1"
+    },
+    {
+      "key": "DRINK_0026",
+      "value": "¡Solo podéis hablar en otro idioma durante 5 min! Cada vez que uséis vuestra lengua materna, ¡un trago! [5 min] 1"
+    },
+    {
+      "key": "DRINK_0027",
+      "value": "Bebe un trago con la cara más feliz del mundo. 1"
+    },
+    {
+      "key": "DRINK_0028",
+      "value": "¡Reta a tu pareja a un juego de empujar las manos! Si pierdes, bebes un trago. 1"
+    },
+    {
+      "key": "DRINK_0029",
+      "value": "¡Presume de un talento personal (ola con los dedos, cara graciosa, etc.) y bebe! ¡Si no tienes, bebe dos! 1"
+    },
+    {
+      "key": "DRINK_0030",
+      "value": "Pon voz de bebé y di: \"¡Quiero un traguito, porfi!\", y luego bebe. 1"
+    },
+    {
+      "key": "DRINK_0031",
+      "value": "¡Choca esos cinco con tu pareja y bebed un trago a la vez! 1"
+    },
+    {
+      "key": "DRINK_0032",
+      "value": "Dale un masaje de hombros a tu pareja. ¡Si oyes un \"Gracias\", misión cumplida! ¡Bebe un trago! 1"
+    },
+    {
+      "key": "DRINK_0033",
+      "value": "¡Reta a tu pareja a un pulso! (¿Vas a dejarte ganar?) ¡Si pierdes, bebe un trago! 1"
+    },
+    {
+      "key": "DRINK_0034",
+      "value": "¡Lánzale un beso volado a tu pareja! (Hazte el/la tímido/a) ¡Y bebe un trago rápido! 1"
+    },
+    {
+      "key": "DRINK_0035",
+      "value": "¡Tómate un selfie con tu pareja poniendo vuestra cara más tonta! ¡Y luego, un trago cada uno! 1"
+    },
+    {
+      "key": "DRINK_0036",
+      "value": "Dale una palmada en la espalda a tu pareja, dile: \"Has trabajado mucho hoy\", y bebe un trago. 1"
+    },
+    {
+      "key": "DRINK_0037",
+      "value": "¡Di a qué animal se parece tu pareja! (ej: ¿un hámster adorable?) ¡Si está de acuerdo, un trago cada uno! 1"
+    },
+    {
+      "key": "DRINK_0038",
+      "value": "¡Di una cosa que tengáis en común! (ej: ¡Ambos somos geniales!) ¡Y luego, bebe un trago! 1"
+    },
+    {
+      "key": "DRINK_0039",
+      "value": "Habla del primer momento en que sentiste algo especial por tu pareja, y luego bebe un trago. 1"
+    },
+    {
+      "key": "DRINK_0040",
+      "value": "Habla del momento en que te sentiste más agradecido/a con tu pareja, y luego bebe un trago. 1"
     },
     {
       "key": "VS_0001",
