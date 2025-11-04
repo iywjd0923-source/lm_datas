@@ -89,6 +89,14 @@
       "value": "Secrets les Plus Profonds : Le Niveau Final"
     },
     {
+      "key": "question_ox",
+      "value": "Répondu ?"
+    },
+    {
+      "key": "Mission_ox",
+      "value": "Mission accomplie ?"
+    },
+    {
       "key": "LOVE_0001",
       "value": "Enfer d'Action1"
     },
@@ -439,6 +447,558 @@
     {
       "key": "DRINK_0040",
       "value": "Raconte le moment où tu as été le plus reconnaissant(e) envers ton partenaire, puis bois un coup. 1"
+    },
+    {
+      "key": "DRINK_0041",
+      "value": "Donne une grosse bouchée du snack préféré de ton partenaire (dans sa bouche !), puis bois un coup. 1"
+    },
+    {
+      "key": "DRINK_0042",
+      "value": "Lève ton verre bien haut ! Crie « À notre brillante vie ! » et bois cul sec ! 1"
+    },
+    {
+      "key": "DRINK_0043",
+      "value": "Si le verre de ton partenaire est vide, remplis-le (avec amour !), puis bois un coup toi aussi ! 1"
+    },
+    {
+      "key": "DRINK_0044",
+      "value": "Imite le mème ou la phrase la plus tendance que tu connaisses (ex: \"Quoicoubeh ?\") et bois ! 1"
+    },
+    {
+      "key": "DRINK_0045",
+      "value": "Défie ton partenaire : qui fera le meilleur son « Kâââ ! » de satisfaction ? Si tu perds, bois un coup. 1"
+    },
+    {
+      "key": "DRINK_0046",
+      "value": "Essaie d'obtenir un snack de ton partenaire en étant mignon (ex: \"Un p'tit bout ?\"). Échoué ? Bois un coup. 1"
+    },
+    {
+      "key": "DRINK_0047",
+      "value": "Montre ta dernière recherche sur ton téléphone à ton partenaire ! Si c'est gênant, bois 2 coups ! 1"
+    },
+    {
+      "key": "DRINK_0048",
+      "value": "Prends un selfie (pour son fond d'écran ?) avec le téléphone de ton partenaire, puis bois un coup, l'air ravi ! 1"
+    },
+    {
+      "key": "DRINK_0049",
+      "value": "Tiens la main de ton partenaire et regarde-le dans les yeux 10s sans rien dire. Puis, un coup chacun. [10] 1"
+    },
+    {
+      "key": "DRINK_0050",
+      "value": "Crie ton toast préféré (ex: \"Santé !\") et bois un coup ! 1"
+    },
+    {
+      "key": "DRINK_0051",
+      "value": "Devine à quoi pense ton partenaire maintenant ! (ex: \"À moi ?\") Si tu te trompes, bois un coup ! 1"
+    },
+    {
+      "key": "DRINK_0052",
+      "value": "Ferme les yeux, bois une gorgée, et décris le sentiment en un mot (ex: \"Doux\"). 1"
+    },
+    {
+      "key": "DRINK_0053",
+      "value": "Demande à ton partenaire : « Je... suis soûl(e) ? » S'il/elle dit « Non », bois un coup de plus ! 1"
+    },
+    {
+      "key": "DRINK_0054",
+      "value": "Fais rire ton partenaire ! Tout de suite ! Si tu réussis, il/elle boit. Si tu échoues, tu bois. 1"
+    },
+    {
+      "key": "DRINK_0055",
+      "value": "Pendant 3 min, mot interdit ! Si vous dites le mot « Boire », vous devez boire ! [3 min] 1"
+    },
+    {
+      "key": "DRINK_0056",
+      "value": "Envoie un message « Tu me manques » à la dernière personne que tu as appelée (ta mère ?). Tu ne peux pas ? Bois 2 coups ! 1"
+    },
+    {
+      "key": "DRINK_0057",
+      "value": "Raconte un petit secret (anecdote) sur toi que ton partenaire ne connaît pas, puis bois un coup. 1"
+    },
+    {
+      "key": "DRINK_0058",
+      "value": "Cognez doucement vos fronts (\"Bop !\"), dites « Mignon ! » et buvez un coup chacun ! 1"
+    },
+    {
+      "key": "DRINK_0059",
+      "value": "Pince doucement le nez de ton partenaire, puis bois un coup d'un air espiègle. 1"
+    },
+    {
+      "key": "DRINK_0060",
+      "value": "Pendant 5 min, appelez-vous uniquement par vos surnoms (ex: \"Mon cœur\"). Buvez si vous utilisez le vrai prénom ! [5 min] 1"
+    },
+    {
+      "key": "DRINK_0061",
+      "value": "Propose un \"combat de pouces\" ! (Tu le/la laisses encore gagner ?) Si tu perds, bois un coup ! 1"
+    },
+    {
+      "key": "DRINK_0062",
+      "value": "Va chercher l'objet le plus éloigné de toi ! Échoué ? Bois un coup ! 1"
+    },
+    {
+      "key": "DRINK_0063",
+      "value": "Fais un compliment sur la couleur des yeux de ton partenaire ! (ex: \"Tes yeux sont des étoiles... marron\") Puis, bois ! 1"
+    },
+    {
+      "key": "DRINK_0064",
+      "value": "Dis « Si je devais renaître, je serais... » et bois un coup. 1"
+    },
+    {
+      "key": "DRINK_0065",
+      "value": "Révèle ton surnom d'enfance le plus embarrassant et bois un coup ! 1"
+    },
+    {
+      "key": "DRINK_0066",
+      "value": "Essaie d'obtenir un compliment de ton partenaire (ex: \"Tu ne remarques rien ?\"). Dès que tu l'as, bois un coup ! 1"
+    },
+    {
+      "key": "DRINK_0067",
+      "value": "Avoue la partie de ton corps que tu aimes le moins... (snif...) et bois un \"verre de réconfort\". 1"
+    },
+    {
+      "key": "DRINK_0068",
+      "value": "Avoue honnêtement ta tolérance à l'alcool, puis bois un coup \"juste pour vérifier\". 1"
+    },
+    {
+      "key": "DRINK_0069",
+      "value": "Imite le pire comportement en soirée (trop parler, être autoritaire...) pendant 5s et bois. 1"
+    },
+    {
+      "key": "DRINK_0070",
+      "value": "Regarde ton reflet dans le verre de ton partenaire pendant 5s... puis bois. [5] 1"
+    },
+    {
+      "key": "DRINK_0071",
+      "value": "Vante-toi de ton talent le plus inutile (ex: toucher ton nez avec ta langue) et bois un coup ! 1"
+    },
+    {
+      "key": "DRINK_0072",
+      "value": "Prends une voix plus vieille de 10 ans et dis « Ho ho... sers-moi à boire, jeune ! » puis bois. 1"
+    },
+    {
+      "key": "DRINK_0073",
+      "value": "Prends une voix plus jeune de 10 ans et dis « M'sieur... juste un p'tit verre ? » puis bois. 1"
+    },
+    {
+      "key": "DRINK_0074",
+      "value": "Promets à ton partenaire : « Je serai ton \"chevalier\" pour le prochain verre ! » et bois celui-ci. 1"
+    },
+    {
+      "key": "DRINK_0075",
+      "value": "Remplis ta bouche de snacks et dis « Je... t'aimmm... ! ». Si on ne comprend pas, bois ! 1"
+    },
+    {
+      "key": "DRINK_0076",
+      "value": "Pendant 1 min, tu es le Roi/Reine, ton partenaire est le sujet. Donne un ordre (\"Sers-moi !\"), puis bois. [1 min] 1"
+    },
+    {
+      "key": "DRINK_0077",
+      "value": "Montre la photo la plus drôle (dossier ?) de ta galerie et bois un coup ! 1"
+    },
+    {
+      "key": "DRINK_0078",
+      "value": "Imite ton partenaire (sa façon de parler, ses expressions) ! S'il/elle n'approuve pas, bois un coup ! 1"
+    },
+    {
+      "key": "DRINK_0079",
+      "value": "Dis « L'alcool est doux ce soir... » pour créer une ambiance romantique, et bois un coup. 1"
+    },
+    {
+      "key": "DRINK_0080",
+      "value": "Regarde fixement ton partenaire 3s... puis lâche un « T'es beau/belle » et bois un coup. 1"
+    },
+    {
+      "key": "DRINK_0081",
+      "value": "Chuchote n'importe quoi (ton TMI du jour ?) à l'oreille de ton partenaire. S'il/elle rit, tu bois ! 1"
+    },
+    {
+      "key": "DRINK_0082",
+      "value": "Vante-toi de la partie la plus souple de ton corps (tes doigts ?) et bois un coup. 1"
+    },
+    {
+      "key": "DRINK_0083",
+      "value": "Montre un tour que tu sais faire avec ta langue ! (ex: un trèfle ?) Si ton partenaire ne rit pas, bois ! 1"
+    },
+    {
+      "key": "DRINK_0084",
+      "value": "Propose un jeu de \"télépathie\" ! (ex: \"1, 2, 3 !\"). Si vous ne dites pas le même mot, tu bois. 1"
+    },
+    {
+      "key": "DRINK_0085",
+      "value": "Décris ton idéal en 3 conditions (ex: gentil, drôle, qui n'a d'yeux que pour moi...) et bois. 1"
+    },
+    {
+      "key": "DRINK_0086",
+      "value": "Dis laquelle de ces conditions ton partenaire remplit, et bois un coup. 1"
+    },
+    {
+      "key": "DRINK_0087",
+      "value": "Compte tous les verres que tu as bus... applaudis ce nombre de fois, et bois ! (Si tu ne sais plus, 3 verres !) 1"
+    },
+    {
+      "key": "DRINK_0088",
+      "value": "Lève ton verre et crie « C'est moi le plus charmant ici ! » et bois cul sec ! 1"
+    },
+    {
+      "key": "DRINK_0089",
+      "value": "Dis à ton partenaire : « C'est quand tu bois que t'es le plus sexy », et bois un coup. 1"
+    },
+    {
+      "key": "DRINK_0090",
+      "value": "Imite une expression que ton partenaire fait souvent ! S'il/elle ne rit pas (parce que c'est raté), bois ! 1"
+    },
+    {
+      "key": "DRINK_0091",
+      "value": "Raconte ton (TMI) premier baiser en 10s chrono, et bois un coup ! [10s] 1"
+    },
+    {
+      "key": "DRINK_0092",
+      "value": "Dis en quoi ta première impression de ton partenaire diffère de l'actuelle, puis bois. 1"
+    },
+    {
+      "key": "DRINK_0093",
+      "value": "Fais quelque chose qui prouve que tu as un côté « romantique » (un baisemain ?) et bois ! 1"
+    },
+    {
+      "key": "DRINK_0094",
+      "value": "Montre ta \"technique de drague\" spéciale en soirée (un sourire charmeur ?) et bois ! 1"
+    },
+    {
+      "key": "DRINK_0095",
+      "value": "Tiens fermement la main de ton partenaire, dis « Restons longtemps ensemble » et buvez un coup chacun ! 1"
+    },
+    {
+      "key": "DRINK_0096",
+      "value": "Propose un toast « pour fêter notre rencontre d'aujourd'hui » et bois un coup ! 1"
+    },
+    {
+      "key": "DRINK_0097",
+      "value": "Propose quelque chose à faire ensemble aux prochaines vacances, et buvez un coup, tout excités ! 1"
+    },
+    {
+      "key": "DRINK_0098",
+      "value": "Écoute un souci de ton partenaire (boulot, études...). Puis, un \"verre de réconfort\" chacun ! 1"
+    },
+    {
+      "key": "DRINK_0099",
+      "value": "Dites-vous « Tu as bien travaillé aujourd'hui » pour vous encourager, et buvez un coup chacun ! 1"
+    },
+    {
+      "key": "DRINK_0100",
+      "value": "Bois un coup, puis fais un câlin par-derrière à ton partenaire pendant 10s. [10] 2"
+    },
+    {
+      "key": "DRINK_0101",
+      "value": "Fais un bisou sur le front de ton partenaire ! (Sois timide) et bois un coup ! 2"
+    },
+    {
+      "key": "DRINK_0102",
+      "value": "Bois un coup, dis « J'ai besoin de recharger... » et blottis-toi contre ton partenaire 15s. [15] 2"
+    },
+    {
+      "key": "DRINK_0103",
+      "value": "Fais un bisou sur la joue de ton partenaire ! Il/Elle te rend ton bisou ! (Smack x2) Puis buvez ensemble ! 2"
+    },
+    {
+      "key": "DRINK_0104",
+      "value": "Bois un coup, puis caresse doucement les cheveux de ton partenaire pendant 20s. [20] 2"
+    },
+    {
+      "key": "DRINK_0105",
+      "value": "Fais un câlin par-derrière et fais boire ton partenaire. Puis, bois un coup toi aussi ! 2"
+    },
+    {
+      "key": "DRINK_0106",
+      "value": "Dis « T'es particulièrement beau/belle ce soir », caresse-lui le menton et bois. 2"
+    },
+    {
+      "key": "DRINK_0107",
+      "value": "(Cul sec !) Dis « J'ai bien mérité quelque chose, non ? » et demande un câlin de félicitations. 2"
+    },
+    {
+      "key": "DRINK_0108",
+      "value": "Dis « Je... crois que je suis soûl(e) », penche ta tête sur son épaule et bois un coup. 2"
+    },
+    {
+      "key": "DRINK_0109",
+      "value": "Croise tes doigts avec ceux de ton partenaire, regardez-vous dans les yeux et buvez. 2"
+    },
+    {
+      "key": "DRINK_0110",
+      "value": "Bois un coup, puis dis d'un air mielleux : « J'ai du mal à boire... je ne pense qu'à toi. » 2"
+    },
+    {
+      "key": "DRINK_0111",
+      "value": "Fais semblant d'essuyer quelque chose sur les lèvres de ton partenaire avec ton doigt... et bois. 2"
+    },
+    {
+      "key": "DRINK_0112",
+      "value": "Fais un baisemain (en douceur) à ton partenaire, puis bois un coup en essayant d'avoir l'air cool. 2"
+    },
+    {
+      "key": "DRINK_0113",
+      "value": "Croisez les bras pour un \"Love Shot\" ! Puis regardez-vous 10s. Le premier qui baisse les yeux boit un coup ! [10] 2"
+    },
+    {
+      "key": "DRINK_0114",
+      "value": "Fais dire « Je t'aime » à ton partenaire ! Réussi ? Buvez ensemble ! Échoué ? Tu bois 2 coups ! 2"
+    },
+    {
+      "key": "DRINK_0115",
+      "value": "Dis honnêtement : « J'ai envie de t'embrasser, là, maintenant », et bois un coup. 2"
+    },
+    {
+      "key": "DRINK_0116",
+      "value": "Bois un coup, puis chuchote « Tu m'as manqué aujourd'hui » à l'oreille de ton partenaire. 2"
+    },
+    {
+      "key": "DRINK_0117",
+      "value": "Prends le poignet de ton partenaire, place sa main sur ton cœur. « ...Tu le sens ? » Puis, bois. 2"
+    },
+    {
+      "key": "DRINK_0118",
+      "value": "Pose ton verre. Regarde ton partenaire avec des yeux \"débordants d'amour\" 10s... puis bois. [10] 2"
+    },
+    {
+      "key": "DRINK_0119",
+      "value": "Fais un bisou léger dans le cou de ton partenaire, puis bois un coup l'air de rien. 2"
+    },
+    {
+      "key": "DRINK_0120",
+      "value": "« Qu'est-ce qui t'a fait craquer chez moi ? » Demande à ton partenaire, et bois en écoutant la réponse. 2"
+    },
+    {
+      "key": "DRINK_0121",
+      "value": "« Et si on... restait ensemble toute la nuit ? » Dis-le d'un air suggestif, et bois un coup. 2"
+    },
+    {
+      "key": "DRINK_0122",
+      "value": "« Quand est-ce que tu es tombé(e) amoureux(se) de moi ? » Demande-lui, et bois (timidement) en écoutant. 2"
+    },
+    {
+      "key": "DRINK_0123",
+      "value": "Bois un coup, puis fixe la clavicule de ton partenaire pendant 5s. [5] 2"
+    },
+    {
+      "key": "DRINK_0124",
+      "value": "Comparez la taille de vos mains (paume contre paume) ! Si la tienne est plus petite, sois mignon(ne) et bois. 2"
+    },
+    {
+      "key": "DRINK_0125",
+      "value": "Dis : « Séduis-moi. » Après sa tentative, bois un coup en tant que \"juge\". 2"
+    },
+    {
+      "key": "DRINK_0126",
+      "value": "Pose délicatement ta jambe sur celle de ton partenaire et bois un coup. 2"
+    },
+    {
+      "key": "DRINK_0127",
+      "value": "Bois un coup, puis chuchote : « Quel goût ont tes lèvres ? » 2"
+    },
+    {
+      "key": "DRINK_0128",
+      "value": "Bois un coup tout en jouant doucement avec le lobe d'oreille de ton partenaire. 2"
+    },
+    {
+      "key": "DRINK_0129",
+      "value": "Laisse une trace de rouge à lèvres sur ton verre et tends-le à ton partenaire. Puis, bois dans un nouveau verre. 2"
+    },
+    {
+      "key": "DRINK_0130",
+      "value": "Bois un coup, puis fais un compliment : « Tu sais... t'es plutôt sexy ce soir. » 2"
+    },
+    {
+      "key": "DRINK_0131",
+      "value": "Bois un coup tout en jouant avec la cravate / le collier / le col de ton partenaire. 2"
+    },
+    {
+      "key": "DRINK_0132",
+      "value": "Bois un coup, puis demande d'un air suggestif : « Tu... me ramènes à la maison, n'est-ce pas ? » 2"
+    },
+    {
+      "key": "DRINK_0133",
+      "value": "Sous la table, chatouille discrètement le pied de ton partenaire 5s. Puis, bois un coup. [5] 2"
+    },
+    {
+      "key": "DRINK_0134",
+      "value": "Bois un coup, puis demande : « Tu... as envie de rester encore avec moi ? » 2"
+    },
+    {
+      "key": "DRINK_0135",
+      "value": "Dis à ton partenaire quel est ton contact physique préféré (ex: les câlins par-derrière), et bois. 2"
+    },
+    {
+      "key": "DRINK_0136",
+      "value": "Bois un coup, puis touche et complimente chacun des doigts de ton partenaire (ex: \"Il est joli, celui-là\"). 2"
+    },
+    {
+      "key": "DRINK_0137",
+      "value": "Appuie ta tête sur l'épaule de ton partenaire, dis « Restons... un peu comme ça », et bois. 2"
+    },
+    {
+      "key": "DRINK_0138",
+      "value": "Bois un coup et dis à ton partenaire : « Cet alcool est encore meilleur parce que je suis avec toi. » 2"
+    },
+    {
+      "key": "DRINK_0139",
+      "value": "Complimente son parfum (ou son odeur), approche ton nez de son cou comme pour le sentir... et bois. 2"
+    },
+    {
+      "key": "DRINK_0140",
+      "value": "Tu bois un coup, puis tu dis : « La prochaine fois, c'est toi qui me donnes à manger. » 2"
+    },
+    {
+      "key": "DRINK_0141",
+      "value": "Replace doucement une mèche de ton partenaire derrière son oreille, et bois un coup. 2"
+    },
+    {
+      "key": "DRINK_0142",
+      "value": "Dis « Je vais te dire un secret... », chuchote « Je t'aime bien » à son oreille et bois. 2"
+    },
+    {
+      "key": "DRINK_0143",
+      "value": "Bois un coup, puis dis : « J'ai... pas très envie de rentrer, ce soir. » 2"
+    },
+    {
+      "key": "DRINK_0144",
+      "value": "Front contre front, tenez 10 secondes en vous regardant ! Puis, un coup chacun ! [10] 2"
+    },
+    {
+      "key": "DRINK_0145",
+      "value": "Bois un coup, puis demande d'un air mystérieux : « On est... quoi, nous deux ? » 2"
+    },
+    {
+      "key": "DRINK_0146",
+      "value": "Propose un date (ex: \"On va au ciné demain ?\"). S'il/elle accepte, bois un coup ! 2"
+    },
+    {
+      "key": "DRINK_0147",
+      "value": "Bois un coup, et dis sincèrement : « Je veux passer plus de temps avec toi. » 2"
+    },
+    {
+      "key": "DRINK_0148",
+      "value": "Regarde fixement les lèvres de ton partenaire pendant 5s... puis bois un coup. [5] 2"
+    },
+    {
+      "key": "DRINK_0149",
+      "value": "Bois un coup, puis demande d'un ton provocateur : « Tu... peux m'assumer ? » 2"
+    },
+    {
+      "key": "DRINK_0150",
+      "value": "Raconte (timidement) ta meilleure expérience de baiser, puis bois un coup. 2"
+    },
+    {
+      "key": "DRINK_0151",
+      "value": "Bois un coup, puis demande sérieusement : « Je suis quoi, pour toi ? » 2"
+    },
+    {
+      "key": "DRINK_0152",
+      "value": "Écris un mot en chatouillant la paume de ton partenaire. S'il/elle devine, il/elle boit. Sinon, tu bois ! 2"
+    },
+    {
+      "key": "DRINK_0153",
+      "value": "Dis « Là... je te séduis », fais ta tête la plus sexy, et bois un coup. 2"
+    },
+    {
+      "key": "DRINK_0154",
+      "value": "Montre à ton partenaire ta photo préférée de vous deux, et bois un coup en souvenir. 2"
+    },
+    {
+      "key": "DRINK_0155",
+      "value": "Bois un coup, puis demande : « Tu m'offres quoi, si je suis mignon(ne) ? » 2"
+    },
+    {
+      "key": "DRINK_0156",
+      "value": "Dis à ton partenaire « C'est quand tu me sers que c'est le meilleur », et laisse-le/la te servir. 2"
+    },
+    {
+      "key": "DRINK_0157",
+      "value": "Bois un coup, puis demande : « Tu... veux bien en reprendre juste un dernier avec moi ? » 2"
+    },
+    {
+      "key": "DRINK_0158",
+      "value": "Regarde ton partenaire manger un snack d'un air \"totalement amoureux\", puis bois un coup. 2"
+    },
+    {
+      "key": "DRINK_0159",
+      "value": "Bois un coup, puis dis : « Il y a... quelque chose de spécial entre nous, ce soir. » 2"
+    },
+    {
+      "key": "DRINK_0160",
+      "value": "Décris ta relation idéale (ex: \"Un amour où on se voit tous les jours\") et bois un coup. 2"
+    },
+    {
+      "key": "DRINK_0161",
+      "value": "Bois un coup, et dis sincèrement : « Je veux être une bonne personne pour toi. » 2"
+    },
+    {
+      "key": "DRINK_0162",
+      "value": "Croise tes doigts avec ceux de ton partenaire, puis demande : « C'est... bon signe ? » et bois. 2"
+    },
+    {
+      "key": "DRINK_0163",
+      "value": "Bois un coup, puis propose : « On... irait pas quelque part, juste nous deux ? » 2"
+    },
+    {
+      "key": "DRINK_0164",
+      "value": "Raconte le moment où tu as ouvert ton cœur à ton partenaire pour la 1ère fois, puis bois. 2"
+    },
+    {
+      "key": "DRINK_0165",
+      "value": "Bois un coup et dis, l'air mélancolique : « Le temps passe trop vite quand je suis avec toi. » 2"
+    },
+    {
+      "key": "DRINK_0166",
+      "value": "Dis à quel moment ton partenaire était le plus beau/belle aujourd'hui, et bois un coup. 2"
+    },
+    {
+      "key": "DRINK_0167",
+      "value": "Bois un coup, puis demande d'un air suggestif : « Tu... vas me mettre au lit ? » 2"
+    },
+    {
+      "key": "DRINK_0168",
+      "value": "Parle d'un avenir positif que tu imagines avec ton partenaire, et bois un coup. 2"
+    },
+    {
+      "key": "DRINK_0169",
+      "value": "Bois un coup, puis dis : « J'ai envie... d'aller plus loin avec toi. » 2"
+    },
+    {
+      "key": "DRINK_0170",
+      "value": "Demande quel est l'idéal de ton partenaire, puis trouve (force) un point commun avec toi et bois ! 2"
+    },
+    {
+      "key": "DRINK_0171",
+      "value": "Bois un coup, puis demande : « Tu... penses quoi, de moi ? » 2"
+    },
+    {
+      "key": "DRINK_0172",
+      "value": "Bois un coup, et dis sincèrement : « Je suis... tellement heureux/se d'être avec toi. » 2"
+    },
+    {
+      "key": "DRINK_0173",
+      "value": "Dis la valeur que tu estimes la plus importante en amour (ex: \"La confiance\") et bois. 2"
+    },
+    {
+      "key": "DRINK_0174",
+      "value": "Bois un coup, puis dis : « Je veux... tout savoir de toi. » 2"
+    },
+    {
+      "key": "DRINK_0175",
+      "value": "Dis une chose de ta \"bucket list\" que tu veux faire avec ton partenaire, et bois. 2"
+    },
+    {
+      "key": "DRINK_0176",
+      "value": "Bois un coup, puis dis : « Tu es... vraiment quelqu'un de spécial pour moi. » 2"
+    },
+    {
+      "key": "DRINK_0177",
+      "value": "Définis ce qu'est « l'amour » pour toi (romantiquement), et bois un coup. 2"
+    },
+    {
+      "key": "DRINK_0178",
+      "value": "Bois un coup, puis dis : « Tant que je suis avec toi, j'ai l'impression de pouvoir tout faire. » 2"
     },
     {
       "key": "VS_0001",
