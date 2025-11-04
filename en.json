@@ -502,7 +502,7 @@
     },
     {
       "key": "DRINK_0050",
-      "value": "Shout your favorite toast (e.g., \"Let's go!\") and take a drink! 1"
+      "value": "Shout your favorite toast (e.g., \"To us!\") and take a drink! 1"
     },
     {
       "key": "DRINK_0051",
@@ -598,7 +598,7 @@
     },
     {
       "key": "DRINK_0074",
-      "value": "Promise your partner, \"I'll be your 'Black Knight' (take a drink for you) for the next one!\" and you drink this one. 1"
+      "value": "Promise your partner, \"I'll take the next drink for you!\" and you drink this one. 1"
     },
     {
       "key": "DRINK_0075",
