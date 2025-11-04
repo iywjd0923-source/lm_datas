@@ -97,6 +97,22 @@
       "value": "Mission erfüllt?"
     },
     {
+      "key": "Level_soft",
+      "value": "Soft"
+    },
+    {
+      "key": "Level_hot",
+      "value": "HOT"
+    },
+    {
+      "key": "Level_sexy",
+      "value": "Sexy"
+    },
+    {
+      "key": "Level_extream",
+      "value": "Extream"
+    },
+    {
       "key": "LOVE_0001",
       "value": "Aktionshölle1"
     },
@@ -294,7 +310,7 @@
     },
     {
       "key": "DRINK_0002",
-      "value": "Iss einen Snack und tu 5 Sek. so, als wär's das beste Essen der Welt! Versagt? Ein Strafschluck! [5] 1"
+      "value": "Iss einen Snack und tu 5 Sek. so, als wär's das beste Essen der Welt! Versagt? Ein Strafschluck!  1"
     },
     {
       "key": "DRINK_0003",
@@ -302,7 +318,7 @@
     },
     {
       "key": "DRINK_0004",
-      "value": "Steh auf und pose 5 Sek. lang wie der Star des Abends! Zu schüchtern? Trink einen! [5] 1"
+      "value": "Steh auf und pose 5 Sek. lang wie der Star des Abends! Zu schüchtern? Trink einen!  1"
     },
     {
       "key": "DRINK_0005",
@@ -326,7 +342,7 @@
     },
     {
       "key": "DRINK_0010",
-      "value": "Nenne 3 gute Dinge an deinem Partner in 10 Sek.! Versagt? 2 Drinks exen! [10] 1"
+      "value": "Nenne 3 gute Dinge an deinem Partner in 10 Sek.! Versagt? 2 Drinks exen!  1"
     },
     {
       "key": "DRINK_0011",
@@ -342,7 +358,7 @@
     },
     {
       "key": "DRINK_0014",
-      "value": "Beschreibe 5 Sek. lang nur mit deinem Gesicht den Geschmack deines Drinks, wie in der Werbung! Dann trink. [5] 1"
+      "value": "Beschreibe 5 Sek. lang nur mit deinem Gesicht den Geschmack deines Drinks, wie in der Werbung! Dann trink.  1"
     },
     {
       "key": "DRINK_0015",
@@ -374,7 +390,7 @@
     },
     {
       "key": "DRINK_0022",
-      "value": "Sag „Du machst mich betrunken...“, schau deinem Partner 5 Sek. tief in die Augen und trink. [5] 1"
+      "value": "Sag „Du machst mich betrunken...“, schau deinem Partner 5 Sek. tief in die Augen und trink.  1"
     },
     {
       "key": "DRINK_0023",
@@ -390,7 +406,7 @@
     },
     {
       "key": "DRINK_0026",
-      "value": "Sprecht 5 Min. lang nur eine Fremdsprache! Jedes Mal, wenn ihr eure Muttersprache sprecht, trinkt einen! [5 Min.] 1"
+      "value": "Sprecht 5 Min. lang nur eine Fremdsprache! Jedes Mal, wenn ihr eure Muttersprache sprecht, trinkt einen!  1"
     },
     {
       "key": "DRINK_0027",
@@ -482,7 +498,7 @@
     },
     {
       "key": "DRINK_0049",
-      "value": "Halt die Hand deines Partners und schaut euch 10 Sek. lang schweigend in die Augen. Dann trinkt jeder einen. [10] 1"
+      "value": "Halt die Hand deines Partners und schaut euch 10 Sek. lang schweigend in die Augen. Dann trinkt jeder einen.  1"
     },
     {
       "key": "DRINK_0050",
@@ -506,7 +522,7 @@
     },
     {
       "key": "DRINK_0055",
-      "value": "3 Min. lang ist „Trinken“ ein verbotenes Wort! Wer es sagt, muss trinken! [3 Min.] 1"
+      "value": "3 Min. lang ist „Trinken“ ein verbotenes Wort! Wer es sagt, muss trinken!  1"
     },
     {
       "key": "DRINK_0056",
@@ -526,7 +542,7 @@
     },
     {
       "key": "DRINK_0060",
-      "value": "Nennt euch 5 Min. lang nur bei euren Kosenamen! (z.B. „Schatz!“) Wer den echten Namen sagt, trinkt! [5 Min.] 1"
+      "value": "Nennt euch 5 Min. lang nur bei euren Kosenamen! (z.B. „Schatz!“) Wer den echten Namen sagt, trinkt!  1"
     },
     {
       "key": "DRINK_0061",
@@ -566,7 +582,7 @@
     },
     {
       "key": "DRINK_0070",
-      "value": "Starre 5 Sek. lang auf dein Spiegelbild im Glas deines Partners... und trink. [5] 1"
+      "value": "Starre 5 Sek. lang auf dein Spiegelbild im Glas deines Partners... und trink.  1"
     },
     {
       "key": "DRINK_0071",
@@ -590,7 +606,7 @@
     },
     {
       "key": "DRINK_0076",
-      "value": "1 Min. lang bist du König/in, dein Partner Diener/in. Gib einen Befehl („Schenk mir ein!“) und trink. [1 Min.] 1"
+      "value": "1 Min. lang bist du König/in, dein Partner Diener/in. Gib einen Befehl („Schenk mir ein!“) und trink.  1"
     },
     {
       "key": "DRINK_0077",
@@ -650,7 +666,7 @@
     },
     {
       "key": "DRINK_0091",
-      "value": "Erzähl deine (TMI) Erste-Kuss-Geschichte in 10 Sek. und trink einen! [10 Sek.] 1"
+      "value": "Erzähl deine (TMI) Erste-Kuss-Geschichte in 10 Sek. und trink einen!  1"
     },
     {
       "key": "DRINK_0092",
@@ -686,7 +702,7 @@
     },
     {
       "key": "DRINK_0100",
-      "value": "Trink einen Schluck und umarme deinen Partner 10 Sek. lang warm von hinten. [10] 2"
+      "value": "Trink einen Schluck und umarme deinen Partner 10 Sek. lang warm von hinten.  2"
     },
     {
       "key": "DRINK_0101",
@@ -694,7 +710,7 @@
     },
     {
       "key": "DRINK_0102",
-      "value": "Trink einen, sag „Ich muss aufladen...“ und kuschle dich 15 Sek. an deinen Partner. [15] 2"
+      "value": "Trink einen, sag „Ich muss aufladen...“ und kuschle dich 15 Sek. an deinen Partner.  2"
     },
     {
       "key": "DRINK_0103",
@@ -702,7 +718,7 @@
     },
     {
       "key": "DRINK_0104",
-      "value": "Trink einen Schluck und streichle 20 Sek. lang sanft durch das Haar deines Partners. [20] 2"
+      "value": "Trink einen Schluck und streichle 20 Sek. lang sanft durch das Haar deines Partners.  2"
     },
     {
       "key": "DRINK_0105",
@@ -738,7 +754,7 @@
     },
     {
       "key": "DRINK_0113",
-      "value": "Trinkt über Kreuz („Love Shot“)! Stellt Augenkontakt für 10 Sek. her. Wer zuerst wegschaut, trinkt noch einen! [10] 2"
+      "value": "Trinkt über Kreuz („Love Shot“)! Stellt Augenkontakt für 10 Sek. her. Wer zuerst wegschaut, trinkt noch einen!  2"
     },
     {
       "key": "DRINK_0114",
@@ -758,7 +774,7 @@
     },
     {
       "key": "DRINK_0118",
-      "value": "Stell dein Glas ab. Schau deinen Partner 10 Sek. lang mit einem Blick voller Zuneigung an... dann trink. [10] 2"
+      "value": "Stell dein Glas ab. Schau deinen Partner 10 Sek. lang mit einem Blick voller Zuneigung an... dann trink.  2"
     },
     {
       "key": "DRINK_0119",
@@ -778,7 +794,7 @@
     },
     {
       "key": "DRINK_0123",
-      "value": "Trink einen Schluck und starre 5 Sek. lang intensiv auf das Schlüsselbein deines Partners. [5] 2"
+      "value": "Trink einen Schluck und starre 5 Sek. lang intensiv auf das Schlüsselbein deines Partners.  2"
     },
     {
       "key": "DRINK_0124",
@@ -818,7 +834,7 @@
     },
     {
       "key": "DRINK_0133",
-      "value": "Kitzle 5 Sek. lang heimlich den Fuß deines Partners unter dem Tisch. Und trink einen. [5] 2"
+      "value": "Kitzle 5 Sek. lang heimlich den Fuß deines Partners unter dem Tisch. Und trink einen.  2"
     },
     {
       "key": "DRINK_0134",
@@ -862,7 +878,7 @@
     },
     {
       "key": "DRINK_0144",
-      "value": "Legt eure Stirnen aneinander und haltet 10 Sek. Augenkontakt! Dann trinkt jeder einen! [10] 2"
+      "value": "Legt eure Stirnen aneinander und haltet 10 Sek. Augenkontakt! Dann trinkt jeder einen!  2"
     },
     {
       "key": "DRINK_0145",
@@ -878,7 +894,7 @@
     },
     {
       "key": "DRINK_0148",
-      "value": "Starre 5 Sek. lang intensiv auf die Lippen deines Partners... dann trink einen. [5] 2"
+      "value": "Starre 5 Sek. lang intensiv auf die Lippen deines Partners... dann trink einen.  2"
     },
     {
       "key": "DRINK_0149",
@@ -999,6 +1015,590 @@
     {
       "key": "DRINK_0178",
       "value": "Trink einen Schluck und sag: „Solange ich bei dir bin, hab ich das Gefühl, alles schaffen zu können.“ 2"
+    },
+    {
+      "key": "DRINK_0179",
+      "value": "Setz dich einfach auf den Schoß deines Partners und trink einen. 2"
+    },
+    {
+      "key": "DRINK_0180",
+      "value": "Trink einen Schluck und sag deinem Partner aufrichtig: „Du siehst heute wirklich wunderschön/umwerfend aus.“ 2"
+    },
+    {
+      "key": "DRINK_0181",
+      "value": "Gib deinem Partner einen Überraschungskuss auf die Wange! Und dann trink (schüchtern) einen! 2"
+    },
+    {
+      "key": "DRINK_0182",
+      "value": "Flüstere deinem Partner „Ich liebe dich“ ins Ohr und trink einen. 2"
+    },
+    {
+      "key": "DRINK_0183",
+      "value": "Sprecht über euer nächstes Wunsch-Date und trinkt voller Vorfreude jeder einen! 2"
+    },
+    {
+      "key": "DRINK_0184",
+      "value": "Macht euch gegenseitig ein Kompliment über das attraktivste (körperliche) Merkmal des anderen und trinkt! 2"
+    },
+    {
+      "key": "DRINK_0185",
+      "value": "Trink einen Schluck und teilt dann einen tiefen, atemraubenden Kuss für 20 Sek.  3"
+    },
+    {
+      "key": "DRINK_0186",
+      "value": "Hinterlasse 10 Sek. lang eine Spur mit deinen Lippen am Hals deines Partners und trink einen.  3"
+    },
+    {
+      "key": "DRINK_0187",
+      "value": "Frag: „Was ist deine... geheime Farbe?“ Liegst du richtig, trinkt er/sie. Falsch? Du trinkst zwei! 3"
+    },
+    {
+      "key": "DRINK_0188",
+      "value": "Trink einen Schluck, dann flüstere deinem Partner ins Ohr und beschreibe das „besondere Etwas“, das du heute Nacht mit ihm/ihr tun willst. 3"
+    },
+    {
+      "key": "DRINK_0189",
+      "value": "Fahr mit deiner Hand unter das Oberteil deines Partners, fühle 10 Sek. lang die Wärme seiner Haut und streichle den Rücken.  3"
+    },
+    {
+      "key": "DRINK_0190",
+      "value": "Gib deinem Partner 20 Sek. lang diese „besondere Berührung“, die er/sie am liebsten mag, und trink einen.  3"
+    },
+    {
+      "key": "DRINK_0191",
+      "value": "Bitte um eine „intime Berührung“, die du dir wünschst, empfange sie 20 Sek. lang und trink einen.  3"
+    },
+    {
+      "key": "DRINK_0192",
+      "value": "Trink einen Schluck und sag: „Wärmst du dieses Glas... mit deiner Körperwärme?“ 3"
+    },
+    {
+      "key": "DRINK_0193",
+      "value": "Tut 10 Sek. lang das „riskanteste“ körperliche, was hier möglich ist! Jeder einen Drink!  3"
+    },
+    {
+      "key": "DRINK_0194",
+      "value": "Sag ehrlich: „Ich möchte deine(n)  schmecken...“ (Füll die Lücke!) und trink einen. 3"
+    },
+    {
+      "key": "DRINK_0195",
+      "value": "Trink einen Schluck und lass deinen Partner 15 Sek. lang deine „empfindlichste Stelle“ streicheln.  3"
+    },
+    {
+      "key": "DRINK_0196",
+      "value": "Sag: „Ich will... dir näherkommen, hier und jetzt“ und trink einen. 3"
+    },
+    {
+      "key": "DRINK_0197",
+      "value": "Trink einen Schluck und sprich über deinen Lieblingsort, „um Liebe zu machen“. 3"
+    },
+    {
+      "key": "DRINK_0198",
+      "value": "Öffne ein Accessoire deines Partners (Uhr, Kette, Ring...) und trink einen. 3"
+    },
+    {
+      "key": "DRINK_0199",
+      "value": "Sag „Wie warm... dein Herz wohl ist?“, schau ihn/sie tief an und trink einen. 3"
+    },
+    {
+      "key": "DRINK_0200",
+      "value": "Trink einen, leg einen Snack auf den Körper deines Partners (Handrücken, Schlüsselbein) und iss ihn mit dem Mund. 3"
+    },
+    {
+      "key": "DRINK_0201",
+      "value": "Sag „Heute Nacht... will ich dir total verfallen“ und trink einen. 3"
+    },
+    {
+      "key": "DRINK_0202",
+      "value": "Trink einen, biete deinem Partner deinen Hals an und sag: „Hinterlass deine Spuren.“ 3"
+    },
+    {
+      "key": "DRINK_0203",
+      "value": "Sag: „Ich möchte... alles von dir schmecken“ und trink einen. 3"
+    },
+    {
+      "key": "DRINK_0204",
+      "value": "Trink einen und beschreibe dann flüsternd deine letzte „geheime Fantasie“. 3"
+    },
+    {
+      "key": "DRINK_0205",
+      "value": "Lass einen Tropfen deines Drinks auf den Körper deines Partners (Finger, Lippen) fallen, nimm ihn mit deinen Lippen auf und trink. 3"
+    },
+    {
+      "key": "DRINK_0206",
+      "value": "Trink einen und frag: „Wie oft... sollen wir unsere Liebe heute Nacht bestätigen?“ 3"
+    },
+    {
+      "key": "DRINK_0207",
+      "value": "Sag „Ich will dich jetzt spüren“ und lass deine Hand 10 Sek. lang über der „riskantesten Zone“ deines Partners schweben.  3"
+    },
+    {
+      "key": "DRINK_0208",
+      "value": "Trink einen und spiele 10 Sek. lang die „heißeste“ Szene aus einem Liebesfilm nach.  3"
+    },
+    {
+      "key": "DRINK_0209",
+      "value": "Sag: „Deine Stimme... ich will sie als Einzige/r hören“ und trink einen. 3"
+    },
+    {
+      "key": "DRINK_0210",
+      "value": "Trink einen und schlag dann vor: „Sollen wir... unser eigenes geheimes Signal für heute Nacht ausmachen?“ 3"
+    },
+    {
+      "key": "DRINK_0211",
+      "value": "Sag „Ich geb dir alles von mir“, leg die Hand deines Partners auf deinen Oberschenkel und trink. 3"
+    },
+    {
+      "key": "DRINK_0212",
+      "value": "Trink einen Schluck und sag: „Du... könntest süchtig machen.“ 3"
+    },
+    {
+      "key": "DRINK_0213",
+      "value": "Sag: „Genug getrunken... Sollen wir das echte Spiel anfangen?“ und trink den letzten Schluck! 3"
+    },
+    {
+      "key": "DRINK_0214",
+      "value": "Sag: „Ich... fühl mich grad ein bisschen erregt“ und trink einen. 3"
+    },
+    {
+      "key": "DRINK_0215",
+      "value": "Trink einen und schlag ein „riskantes“ Spiel vor, wie das „Pocky Game“. 3"
+    },
+    {
+      "key": "DRINK_0216",
+      "value": "Sag laut: „Wie sich wohl deine Stimme anhört, wenn du genießt?“ und trink einen. 3"
+    },
+    {
+      "key": "DRINK_0217",
+      "value": "Beschreibe (sexy), wie du dir deinen Partner unter der Dusche vorstellst, und trink einen. 3"
+    },
+    {
+      "key": "DRINK_0218",
+      "value": "Trink einen Schluck und sag: „Ich will... was Unanständiges mit dir machen.“ 3"
+    },
+    {
+      "key": "DRINK_0219",
+      "value": "Verrate deinem Partner einen deiner „empfindlichsten Punkte“ und trink einen. 3"
+    },
+    {
+      "key": "DRINK_0220",
+      "value": "Trink einen und reib dann 10 Sek. lang dein Bein unter dem Tisch am Bein deines Partners.  3"
+    },
+    {
+      "key": "DRINK_0221",
+      "value": "Erzähl von deinem „prickelndsten geheimen Erlebnis“ und trink einen. 3"
+    },
+    {
+      "key": "DRINK_0222",
+      "value": "Sag ehrlich: „Ich... möchte morgen mit dir aufwachen“ und trink einen. 3"
+    },
+    {
+      "key": "DRINK_0223",
+      "value": "Trink einen und sprich über deinen liebsten „geheimen Stil“ (z.B. bei Dessous). 3"
+    },
+    {
+      "key": "DRINK_0224",
+      "value": "Sag: „Ich möchte... alles von dir schmecken“ und trink einen. 3"
+    },
+    {
+      "key": "DRINK_0225",
+      "value": "Trink einen und frag: „Was ist das „Riskanteste“, das wir jetzt tun könnten?“ 3"
+    },
+    {
+      "key": "DRINK_0226",
+      "value": "Sag: „Ich glaube... dein Duft macht mich betrunken“ und trink einen. 3"
+    },
+    {
+      "key": "DRINK_0227",
+      "value": "Trink einen und bitte deinen Partner um eine bestimmte Berührung, die du dir wünschst (z.B. „Umarme mich“). 3"
+    },
+    {
+      "key": "DRINK_0228",
+      "value": "Sag: „Ich... will, dass du mich berührst.“ Berührt dich dein Partner? Trink einen. Nicht? Du trinkst zwei! 3"
+    },
+    {
+      "key": "DRINK_0229",
+      "value": "Trink einen Schluck und erzähl deinem Partner eine deiner „geheimen Fantasien“. 3"
+    },
+    {
+      "key": "DRINK_0230",
+      "value": "Trink einen, während du „gefährlich“ an der Kleidung (Knopf, Reißverschluss) deines Partners spielst. 3"
+    },
+    {
+      "key": "DRINK_0231",
+      "value": "Trink einen und frag: „Wie bist du... wenn du Liebe machst?“ 3"
+    },
+    {
+      "key": "DRINK_0232",
+      "value": "Erzähl von deinem geheimsten Erlebnis am „ungewöhnlichsten Ort“ und trink einen. 3"
+    },
+    {
+      "key": "DRINK_0233",
+      "value": "Trink einen und sag dann provokant: „Übernimm... heute Nacht die Verantwortung für mich.“ 3"
+    },
+    {
+      "key": "DRINK_0234",
+      "value": "Wähl einen Finger deines Partners, umschließ ihn 5 Sek. lang sexy mit deinen Lippen und trink.  3"
+    },
+    {
+      "key": "DRINK_0235",
+      "value": "Trink einen Schluck und sag: „Ich will... dein tiefstes Herz sehen.“ 3"
+    },
+    {
+      "key": "DRINK_0236",
+      "value": "Sprecht über die heißeste Szene aus einem „Liebesfilm“, den ihr zusammen gesehen habt, und trinkt! 3"
+    },
+    {
+      "key": "DRINK_0237",
+      "value": "Trink einen Schluck und sag: „Ich... will dich ganz haben.“ 3"
+    },
+    {
+      "key": "DRINK_0238",
+      "value": "Zieh deinen Partner fest an der Taille zu dir heran und trink einen. 3"
+    },
+    {
+      "key": "DRINK_0239",
+      "value": "Trink einen und flüstere dann: „Bist du... lieber oben oder unten?“ 3"
+    },
+    {
+      "key": "DRINK_0240",
+      "value": "Sprich über deinen bevorzugten „Stil beim Liebesspiel“ und trink einen. 3"
+    },
+    {
+      "key": "DRINK_0241",
+      "value": "Trink einen Schluck und erkläre: „Heute Nacht... gehörst du mir.“ 3"
+    },
+    {
+      "key": "DRINK_0242",
+      "value": "Frag deinen Partner, was ihn/sie „am meisten anmacht“ und trink einen. 3"
+    },
+    {
+      "key": "DRINK_0243",
+      "value": "Trink einen Schluck und sag: „Ich will... dich zum Weinen bringen vor Glück.“ 3"
+    },
+    {
+      "key": "DRINK_0244",
+      "value": "Streichle 15 Sek. lang sanft die „geheimste Stelle“ deines Partners über der Kleidung.  4"
+    },
+    {
+      "key": "DRINK_0245",
+      "value": "Trink einen und drück 10 Sek. lang mit deinem Körper das „Gefühl, total geliebt zu werden“ aus.  4"
+    },
+    {
+      "key": "DRINK_0246",
+      "value": "Sag einen Satz aus einem „besonderen Rollenspiel“, das du heute Nacht ausprobieren möchtest, und trink. 4"
+    },
+    {
+      "key": "DRINK_0247",
+      "value": "Trink einen und mime 10 Sek. lang, wie du deinem Partner „den heißesten Kuss der Welt“ gibst.  4"
+    },
+    {
+      "key": "DRINK_0248",
+      "value": "Beschreib detailliert, „wie du deinen Partner verwöhnen/erregen willst“ und trink einen. 4"
+    },
+    {
+      "key": "DRINK_0249",
+      "value": "Trink einen und lass deinen Partner 15 Sek. lang deine „geheimste Stelle“ reizen/necken.  4"
+    },
+    {
+      "key": "DRINK_0250",
+      "value": "Ahme (leise) das Geräusch nach, das du beim „Höhepunkt“ machst, und trink einen. 4"
+    },
+    {
+      "key": "DRINK_0251",
+      "value": "Trink einen und sag: „Willst du... meine Körperwärme jetzt ganz nah spüren?“ 4"
+    },
+    {
+      "key": "DRINK_0252",
+      "value": "Lass deinen Partner 10 Sek. lang deinen „prickelndsten Punkt“ mit den Fingern stimulieren.  4"
+    },
+    {
+      "key": "DRINK_0253",
+      "value": "Trink einen und hinterlasse 10 Sek. lang mit deinen Lippen eine Spur auf deiner Lieblingsstelle am Körper deines Partners.  4"
+    },
+    {
+      "key": "DRINK_0254",
+      "value": "Sag ehrlich: „Ich will... jeden letzten Rest von dir schmecken“ und trink einen. 4"
+    },
+    {
+      "key": "DRINK_0255",
+      "value": "Trink einen und befiehl dann provokant: „Komm... auf mich drauf.“ 4"
+    },
+    {
+      "key": "DRINK_0256",
+      "value": "Entferne (oder öffne) ein weiteres Kleidungsstück (oder Accessoire) deines Partners und trink. 4"
+    },
+    {
+      "key": "DRINK_0257",
+      "value": "Trink einen Schluck und sag: „Ich will... in deinen Armen einschlafen.“ 4"
+    },
+    {
+      "key": "DRINK_0258",
+      "value": "Sag: „Heute Nacht... kannst du mir nicht entkommen“ und trink einen. 4"
+    },
+    {
+      "key": "DRINK_0259",
+      "value": "Trink einen und lass deinen Partner die Worte sagen, die du „im Moment des Einswerdens“ hören willst. 4"
+    },
+    {
+      "key": "DRINK_0260",
+      "value": "Sag: „Ich hab mir vorgestellt... wie sich dein Atem mit meinem vermischt“ und trink einen. 4"
+    },
+    {
+      "key": "DRINK_0261",
+      "value": "Trink einen und sag, was du „beim Liebesspiel“ am liebsten an deinem Partner siehst. 4"
+    },
+    {
+      "key": "DRINK_0262",
+      "value": "Sag laut: „Ich frage mich... wie deine Körperbewegungen wohl wären?“ und trink einen. 4"
+    },
+    {
+      "key": "DRINK_0263",
+      "value": "Trink einen und „reize“ 30 Sek. lang intensiv die „empfindlichste Stelle“ deines Partners.  4"
+    },
+    {
+      "key": "DRINK_0264",
+      "value": "Sag: „Ich will... jeden einzelnen Teil von dir spüren“ und trink einen. 4"
+    },
+    {
+      "key": "DRINK_0265",
+      "value": "Trink einen Schluck und sag: „Ich will, dass du... eine tiefe Spur auf meinem Körper hinterlässt.“ 4"
+    },
+    {
+      "key": "DRINK_0266",
+      "value": "Sag: „Stell dir den Moment vor... in dem wir komplett eins werden“ und trink einen. 4"
+    },
+    {
+      "key": "DRINK_0267",
+      "value": "Trink einen Schluck und sag: „Heute Nacht... mache ich dich ganz zu meinem.“ 4"
+    },
+    {
+      "key": "DRINK_0268",
+      "value": "Mach ein Kompliment über den „geheimsten Reiz“ deines Partners und trink einen. 4"
+    },
+    {
+      "key": "DRINK_0269",
+      "value": "Trink einen Schluck und sag: „Ich will... deine tiefste Stelle küssen.“ 4"
+    },
+    {
+      "key": "DRINK_0270",
+      "value": "Sag: „Ich will dich... mit meinem ganzen Körper spüren“ und trink einen. 4"
+    },
+    {
+      "key": "DRINK_0271",
+      "value": "Trink einen und erzähl von deinem „besten Moment der Ekstase“, den du je erlebt hast. 4"
+    },
+    {
+      "key": "DRINK_0272",
+      "value": "Sag „Ich halt's nicht mehr aus“, streichle 10 Sek. lang die „geheimste Stelle“ deines Partners und trink.  4"
+    },
+    {
+      "key": "DRINK_0273",
+      "value": "Sag: „Jetzt... lass uns das echte Spiel beginnen“ und trink den letzten Schluck. 4"
+    },
+    {
+      "key": "DRINK_0274",
+      "value": "Knabber sanft am Ohrläppchen deines Partners und trink einen. 3"
+    },
+    {
+      "key": "DRINK_0275",
+      "value": "Öffne einen Knopf am Oberteil deines Partners und trink einen. 3"
+    },
+    {
+      "key": "DRINK_0276",
+      "value": "Gib deinem Partner einen Eiswürfel (oder ein kaltes Glas) und lass ihn/sie damit deinen Nacken berühren. 3"
+    },
+    {
+      "key": "DRINK_0277",
+      "value": "Bedeck 10 Sek. die Augen deines Partners, flüstere „Rat mal, wer ich bin?“ und trink einen.  3"
+    },
+    {
+      "key": "DRINK_0278",
+      "value": "Sag: „Verführ mich mit deinem selbstsichersten Gesichtsausdruck“ und trink. 3"
+    },
+    {
+      "key": "DRINK_0279",
+      "value": "Fahr langsam mit dem Finger die Linie der Wirbelsäule deines Partners nach und trink. 3"
+    },
+    {
+      "key": "DRINK_0280",
+      "value": "Sag: „Ich hab letzte Nacht von dir geträumt... es war ein echt heißer Traum“ und trink. 3"
+    },
+    {
+      "key": "DRINK_0281",
+      "value": "Lass deinen Partner einen Kussmund auf deinem Glas hinterlassen und trink dann von dieser Stelle. 3"
+    },
+    {
+      "key": "DRINK_0282",
+      "value": "Küsse sanft die Innenseite des Handgelenks deines Partners und trink einen. 3"
+    },
+    {
+      "key": "DRINK_0283",
+      "value": "Spiel „gefährlich“ am Gürtel (oder Hosenbund) deines Partners herum und trink einen. 3"
+    },
+    {
+      "key": "DRINK_0284",
+      "value": "Küsse sanft die Kniekehle deines Partners und trink einen. 3"
+    },
+    {
+      "key": "DRINK_0285",
+      "value": "Befiehl spielerisch: „Verloren. Als Strafe zieh ein Teil aus“ und trink einen. 3"
+    },
+    {
+      "key": "DRINK_0286",
+      "value": "Halt einen Snack mit deinen Lippen fest und lass deinen Partner ihn mit dem Mund nehmen. 3"
+    },
+    {
+      "key": "DRINK_0287",
+      "value": "Massiere 10 Sek. lang sanft den Knöchel deines Partners und trink einen.  3"
+    },
+    {
+      "key": "DRINK_0288",
+      "value": "Leg den Finger deines Partners auf deine Lippen, sag „Pst, Geheimnis“ und trink einen. 3"
+    },
+    {
+      "key": "DRINK_0289",
+      "value": "Befiehl: „Küss mich. Jetzt.“ und trink einen. 3"
+    },
+    {
+      "key": "DRINK_0290",
+      "value": "Heb sanft das Oberteil deines Partners an, hauch leicht auf seinen Bauch und trink einen. 3"
+    },
+    {
+      "key": "DRINK_0291",
+      "value": "Trink einen, sag „Ich will deinen Herzschlag hören“ und leg dein Ohr auf seine/ihre Brust. 3"
+    },
+    {
+      "key": "DRINK_0292",
+      "value": "Leck 10 Sek. lang sanft über den Handrücken deines Partners und trink einen.  3"
+    },
+    {
+      "key": "DRINK_0293",
+      "value": "Fahr die Linie des Schlüsselbeins deines Partners mit deinen Lippen nach und trink einen. 3"
+    },
+    {
+      "key": "DRINK_0294",
+      "value": "Flüstere: „Wenn du willst, kann ich... noch schlimmere Dinge tun“ und trink einen. 3"
+    },
+    {
+      "key": "DRINK_0295",
+      "value": "Schließt die Augen und streichelt 1 Min. lang nur die Hände des anderen. Dann trinkt jeder einen.  3"
+    },
+    {
+      "key": "DRINK_0296",
+      "value": "Halt das Kinn deines Partners, verharre 5 Sek. kurz vor einem Kuss... und trink dann allein einen.  3"
+    },
+    {
+      "key": "DRINK_0297",
+      "value": "Setz dich auf den Schoß deines Partners, schling die Arme um seinen Hals und halt 10 Sek. Augenkontakt.  3"
+    },
+    {
+      "key": "DRINK_0298",
+      "value": "Bedeck die Augen deines Partners, flüstere, wohin du ihn küssen wirst, und küss ihn dann woanders (Handgelenk/Wange). 3"
+    },
+    {
+      "key": "DRINK_0299",
+      "value": "Verschränke deine Finger mit denen deines Partners und benutz seine Hand, um deinen eigenen Oberschenkel zu streicheln. 3"
+    },
+    {
+      "key": "DRINK_0300",
+      "value": "Verharre 10 Sek. lang knapp vor den Lippen deines Partners, um ihn/sie zu reizen, zieh dich zurück und trink.  3"
+    },
+    {
+      "key": "DRINK_0301",
+      "value": "Sag: „Du bist dran. Zieh ein Kleidungsstück für mich aus“ und trink einen. 4"
+    },
+    {
+      "key": "DRINK_0302",
+      "value": "Nimm die Hand deines Partners und lass ihn/sie 10 Sek. lang deine „geheimste Stelle“ über der Kleidung berühren.  4"
+    },
+    {
+      "key": "DRINK_0303",
+      "value": "Erkläre: „Heute Nacht... tust du nichts ohne meine Erlaubnis“ und trink einen. 4"
+    },
+    {
+      "key": "DRINK_0304",
+      "value": "Verbinde die Augen deines Partners und gib ihm drei Küsse auf drei verschiedene Körperteile. 4"
+    },
+    {
+      "key": "DRINK_0305",
+      "value": "Leg deinen Partner hin, drück deinen Körper 10 Sek. lang über der Kleidung auf seinen/ihren und trink.  4"
+    },
+    {
+      "key": "DRINK_0306",
+      "value": "„Reize“ deinen Partner, indem du ihm 10 Sek. lang heiß ins Ohr atmest, und trink einen.  4"
+    },
+    {
+      "key": "DRINK_0307",
+      "value": "Lass deine Finger 10 Sek. lang \"erkundend\" knapp über der „geheimsten Stelle“ deines Partners schweben.  4"
+    },
+    {
+      "key": "DRINK_0308",
+      "value": "„Reize“ 10 Sek. lang die Lippen deines Partners (leicht beißen, lecken) und trink einen.  4"
+    },
+    {
+      "key": "DRINK_0309",
+      "value": "Erkläre: „Deine Grenze... ist mein Vergnügen“ und trink einen. 4"
+    },
+    {
+      "key": "DRINK_0310",
+      "value": "Fahr mit der Hand unter die Kleidung deines Partners und reize 15 Sek. lang die „empfindlichste Stelle“.  4"
+    },
+    {
+      "key": "DRINK_0311",
+      "value": "Spreize die Beine deines Partners, setz dich dazwischen, haltet 10 Sek. Augenkontakt und trink.  4"
+    },
+    {
+      "key": "DRINK_0312",
+      "value": "Lass deinen Partner 10 Sek. lang deinen „prickelndsten Punkt“ mit seinen Fingern stimulieren.  4"
+    },
+    {
+      "key": "DRINK_0313",
+      "value": "1 Min. lang bist du „Herr/in“. Befiehl deinem Partner eine Sache. Dann trink.  4"
+    },
+    {
+      "key": "DRINK_0314",
+      "value": "Sag: „Ich will... jede 'geheime Tür' an deinem Körper öffnen“ und trink einen. 4"
+    },
+    {
+      "key": "DRINK_0315",
+      "value": "Mime 10 Sek. lang einen Kuss auf die „geheimste Stelle“ deines Partners und trink einen. 4"
+    },
+    {
+      "key": "DRINK_0316",
+      "value": "Sag „Ich will deine Landkarte... auf meinen Körper zeichnen“ und trink einen. 4"
+    },
+    {
+      "key": "DRINK_0317",
+      "value": "Sag „Ich kann wirklich nicht länger warten“ und öffne ein weiteres Kleidungsstück. 4"
+    },
+    {
+      "key": "DRINK_0318",
+      "value": "Lass einen Tropfen auf die „geheime Stelle“ (über der Kleidung) fallen und mime, ihn wegzulecken. 4"
+    },
+    {
+      "key": "DRINK_0319",
+      "value": "Flüstere: „Heute Nacht... bringe ich dich dazu, nur an mich zu denken“ und trink. 4"
+    },
+    {
+      "key": "DRINK_0320",
+      "value": "Befiehl: „Beweis mir mit deinem Körper... wie sehr du mich willst“ und trink einen. 4"
+    },
+    {
+      "key": "DRINK_0321",
+      "value": "Nimm das Handgelenk deines Partners, leg seine Hand auf dein Herz (Brust) und halt 10 Sek. Augenkontakt.  4"
+    },
+    {
+      "key": "DRINK_0322",
+      "value": "Fahr mit der Hand unter die Kleidung deines Partners und lass sie 10 Sek. lang auf seinem Herzen ruhen.  4"
+    },
+    {
+      "key": "DRINK_0323",
+      "value": "„Reize“ 1 Minute lang den „geheimsten Reiz“ deines Partners nur mit deinen Lippen.  4"
+    },
+    {
+      "key": "DRINK_0324",
+      "value": "Sag „Das ist unser letzter Drink. Gehen wir jetzt ins Bett?“ und trink den letzten Schluck. 4"
     },
     {
       "key": "VS_0001",
