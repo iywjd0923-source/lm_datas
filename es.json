@@ -505,6 +505,54 @@
       "value": "Infierno de Acción4"
     },
     {
+      "key": "RANDOM_0001",
+      "value": "앞으로 1칸 가기"
+    },
+    {
+      "key": "RANDOM_0002",
+      "value": "앞으로 2칸 가기"
+    },
+    {
+      "key": "RANDOM_0003",
+      "value": "앞으로 3칸 가기"
+    },
+    {
+      "key": "RANDOM_0004",
+      "value": "뒤로 1칸 가기"
+    },
+    {
+      "key": "RANDOM_0005",
+      "value": "뒤로 2칸 가기"
+    },
+    {
+      "key": "RANDOM_0006",
+      "value": "뒤로 3칸 가기"
+    },
+    {
+      "key": "RANDOM_0007",
+      "value": "다른 수위 Sexy Question"
+    },
+    {
+      "key": "RANDOM_0008",
+      "value": "다른 수위 Action"
+    },
+    {
+      "key": "RANDOM_0009",
+      "value": "하트회복"
+    },
+    {
+      "key": "RANDOM_0010",
+      "value": "비행장가기"
+    },
+    {
+      "key": "RANDOM_0011",
+      "value": "액션감옥가기"
+    },
+    {
+      "key": "RANDOM_0012",
+      "value": "무인도가기"
+    },
+    {
       "key": "pop_island_on",
       "value": "Sprites/Popup/es/island_on"
     },
