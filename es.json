@@ -97,6 +97,22 @@
       "value": "¿Misión cumplida?"
     },
     {
+      "key": "Level_soft",
+      "value": "Soft"
+    },
+    {
+      "key": "Level_hot",
+      "value": "HOT"
+    },
+    {
+      "key": "Level_sexy",
+      "value": "Sexy"
+    },
+    {
+      "key": "Level_extream",
+      "value": "Extream"
+    },
+    {
       "key": "LOVE_0001",
       "value": "Infierno de Acción1"
     },
@@ -294,7 +310,7 @@
     },
     {
       "key": "DRINK_0002",
-      "value": "¡Come un snack y actúa 5 seg. como si fuera la mejor comida del mundo! ¿Fallas? ¡Un trago de castigo! [5] 1"
+      "value": "¡Come un snack y actúa 5 seg. como si fuera la mejor comida del mundo! ¿Fallas? ¡Un trago de castigo!  1"
     },
     {
       "key": "DRINK_0003",
@@ -302,7 +318,7 @@
     },
     {
       "key": "DRINK_0004",
-      "value": "¡Levántate y posa 5 seg. como la estrella del lugar! ¿Te da vergüenza? ¡Bebe un trago! [5] 1"
+      "value": "¡Levántate y posa 5 seg. como la estrella del lugar! ¿Te da vergüenza? ¡Bebe un trago!  1"
     },
     {
       "key": "DRINK_0005",
@@ -326,7 +342,7 @@
     },
     {
       "key": "DRINK_0010",
-      "value": "¡Di 3 cosas buenas de tu pareja en 10 seg! ¿Fallas? ¡Bebe 2 tragos de fondo! [10] 1"
+      "value": "¡Di 3 cosas buenas de tu pareja en 10 seg! ¿Fallas? ¡Bebe 2 tragos de fondo!  1"
     },
     {
       "key": "DRINK_0011",
@@ -342,7 +358,7 @@
     },
     {
       "key": "DRINK_0014",
-      "value": "¡Describe el sabor de tu bebida con la cara (como un anuncio) por 5 seg! Luego, bebe un trago. [5] 1"
+      "value": "¡Describe el sabor de tu bebida con la cara (como un anuncio) por 5 seg! Luego, bebe un trago.  1"
     },
     {
       "key": "DRINK_0015",
@@ -374,7 +390,7 @@
     },
     {
       "key": "DRINK_0022",
-      "value": "Di: \"Me estoy emborrachando de ti...\" y mira a tu pareja fijamente por 5 seg, luego bebe. [5] 1"
+      "value": "Di: \"Me estoy emborrachando de ti...\" y mira a tu pareja fijamente por 5 seg, luego bebe.  1"
     },
     {
       "key": "DRINK_0023",
@@ -390,7 +406,7 @@
     },
     {
       "key": "DRINK_0026",
-      "value": "¡Solo podéis hablar en otro idioma durante 5 min! Cada vez que uséis vuestra lengua materna, ¡un trago! [5 min] 1"
+      "value": "¡Solo podéis hablar en otro idioma durante 5 min! Cada vez que uséis vuestra lengua materna, ¡un trago!  1"
     },
     {
       "key": "DRINK_0027",
@@ -482,7 +498,7 @@
     },
     {
       "key": "DRINK_0049",
-      "value": "Toma la mano de tu pareja y mírala a los ojos 10 seg. sin decir nada. Luego, un trago cada uno. [10] 1"
+      "value": "Toma la mano de tu pareja y mírala a los ojos 10 seg. sin decir nada. Luego, un trago cada uno.  1"
     },
     {
       "key": "DRINK_0050",
@@ -506,7 +522,7 @@
     },
     {
       "key": "DRINK_0055",
-      "value": "¡Juego de la palabra prohibida por 3 min! ¡Quien diga la palabra \"Beber\", bebe! [3 min] 1"
+      "value": "¡Juego de la palabra prohibida por 3 min! ¡Quien diga la palabra \"Beber\", bebe!  1"
     },
     {
       "key": "DRINK_0056",
@@ -526,7 +542,7 @@
     },
     {
       "key": "DRINK_0060",
-      "value": "¡Durante 5 min, solo podéis usar vuestros apodos cariñosos! (ej: \"Cariño\"). ¡Quien diga el nombre real, bebe un trago! [5 min] 1"
+      "value": "¡Durante 5 min, solo podéis usar vuestros apodos cariñosos! (ej: \"Cariño\"). ¡Quien diga el nombre real, bebe un trago!  1"
     },
     {
       "key": "DRINK_0061",
@@ -566,7 +582,7 @@
     },
     {
       "key": "DRINK_0070",
-      "value": "¡Mira tu reflejo en la copa de tu pareja durante 5 seg... y bebe un trago! [5] 1"
+      "value": "¡Mira tu reflejo en la copa de tu pareja durante 5 seg... y bebe un trago!  1"
     },
     {
       "key": "DRINK_0071",
@@ -590,7 +606,7 @@
     },
     {
       "key": "DRINK_0076",
-      "value": "¡Por 1 min, tú eres el Rey/Reina y tu pareja el súbdito/a! ¡Da una orden (\"¡Sírveme!\") y bebe un trago! [1 min] 1"
+      "value": "¡Por 1 min, tú eres el Rey/Reina y tu pareja el súbdito/a! ¡Da una orden (\"¡Sírveme!\") y bebe un trago!  1"
     },
     {
       "key": "DRINK_0077",
@@ -650,7 +666,7 @@
     },
     {
       "key": "DRINK_0091",
-      "value": "¡Resume tu (TMI) historia del primer beso en 10 seg. y bebe un trago! [10 seg.] 1"
+      "value": "¡Resume tu (TMI) historia del primer beso en 10 seg. y bebe un trago!  1"
     },
     {
       "key": "DRINK_0092",
@@ -686,7 +702,7 @@
     },
     {
       "key": "DRINK_0100",
-      "value": "¡Bebe un trago y dale a tu pareja un cálido abrazo por la espalda durante 10 seg! [10] 2"
+      "value": "¡Bebe un trago y dale a tu pareja un cálido abrazo por la espalda durante 10 seg!  2"
     },
     {
       "key": "DRINK_0101",
@@ -694,7 +710,7 @@
     },
     {
       "key": "DRINK_0102",
-      "value": "Bebe un trago, di \"Necesito recargar...\" y abrázate a tu pareja durante 15 seg. [15] 2"
+      "value": "Bebe un trago, di \"Necesito recargar...\" y abrázate a tu pareja durante 15 seg.  2"
     },
     {
       "key": "DRINK_0103",
@@ -702,7 +718,7 @@
     },
     {
       "key": "DRINK_0104",
-      "value": "Bebe un trago y acaricia suavemente el pelo de tu pareja durante 20 seg. [20] 2"
+      "value": "Bebe un trago y acaricia suavemente el pelo de tu pareja durante 20 seg.  2"
     },
     {
       "key": "DRINK_0105",
@@ -738,7 +754,7 @@
     },
     {
       "key": "DRINK_0113",
-      "value": "¡Bebed con los brazos cruzados (\"Love Shot\")! Luego, miraros a los ojos 10 seg. ¡Quien aparte la mirada primero, bebe otro! [10] 2"
+      "value": "¡Bebed con los brazos cruzados (\"Love Shot\")! Luego, miraros a los ojos 10 seg. ¡Quien aparte la mirada primero, bebe otro!  2"
     },
     {
       "key": "DRINK_0114",
@@ -758,7 +774,7 @@
     },
     {
       "key": "DRINK_0118",
-      "value": "Deja tu copa. Mira a tu pareja con ojos que \"derriten\" durante 10 seg... y luego bebe. [10] 2"
+      "value": "Deja tu copa. Mira a tu pareja con ojos que \"derriten\" durante 10 seg... y luego bebe.  2"
     },
     {
       "key": "DRINK_0119",
@@ -778,7 +794,7 @@
     },
     {
       "key": "DRINK_0123",
-      "value": "¡Bebe un trago y mira fijamente la clavícula de tu pareja durante 5 segundos! [5] 2"
+      "value": "¡Bebe un trago y mira fijamente la clavícula de tu pareja durante 5 segundos!  2"
     },
     {
       "key": "DRINK_0124",
@@ -818,7 +834,7 @@
     },
     {
       "key": "DRINK_0133",
-      "value": "¡Bajo la mesa, hazle cosquillas disimuladamente en el pie a tu pareja durante 5 seg! Y bebe un trago. [5] 2"
+      "value": "¡Bajo la mesa, hazle cosquillas disimuladamente en el pie a tu pareja durante 5 seg! Y bebe un trago.  2"
     },
     {
       "key": "DRINK_0134",
@@ -862,7 +878,7 @@
     },
     {
       "key": "DRINK_0144",
-      "value": "¡Pegad las frentes y aguantad 10 segundos mirándoos! ¡Luego, un trago cada uno! [10] 2"
+      "value": "¡Pegad las frentes y aguantad 10 segundos mirándoos! ¡Luego, un trago cada uno!  2"
     },
     {
       "key": "DRINK_0145",
@@ -878,7 +894,7 @@
     },
     {
       "key": "DRINK_0148",
-      "value": "¡Mira fijamente los labios de tu pareja durante 5 seg... y bebe un trago! [5] 2"
+      "value": "¡Mira fijamente los labios de tu pareja durante 5 seg... y bebe un trago!  2"
     },
     {
       "key": "DRINK_0149",
@@ -999,6 +1015,590 @@
     {
       "key": "DRINK_0178",
       "value": "Bebe un trago y di: \"Mientras esté contigo, siento que puedo hacer cualquier cosa\". 2"
+    },
+    {
+      "key": "DRINK_0179",
+      "value": "Siéntate cómodamente en el regazo de tu pareja y bebe un trago. 2"
+    },
+    {
+      "key": "DRINK_0180",
+      "value": "Bebe un trago y dile sinceramente a tu pareja: \"Estás realmente guapo/a esta noche\". 2"
+    },
+    {
+      "key": "DRINK_0181",
+      "value": "¡Dale un beso sorpresa en la mejilla a tu pareja! Y luego (con timidez), ¡bebe un trago! 2"
+    },
+    {
+      "key": "DRINK_0182",
+      "value": "Susúrrale \"Te amo\" al oído a tu pareja y bebe un trago. 2"
+    },
+    {
+      "key": "DRINK_0183",
+      "value": "¡Hablad del próximo plan de cita que queráis hacer y bebed un trago cada uno con emoción! 2"
+    },
+    {
+      "key": "DRINK_0184",
+      "value": "¡Halaga la parte (física) que os parezca más atractiva del otro y bebed un trago cada uno! 2"
+    },
+    {
+      "key": "DRINK_0185",
+      "value": "Bebe un trago y compartid un beso profundo, sintiendo vuestra respiración, durante 20 seg.  3"
+    },
+    {
+      "key": "DRINK_0186",
+      "value": "Deja un rastro con tus labios en el cuello de tu pareja durante 10 seg. y bebe un trago.  3"
+    },
+    {
+      "key": "DRINK_0187",
+      "value": "Pregunta: \"¿Cuál es tu... color secreto?\" ¡Si aciertas, bebe tu pareja! ¡Si fallas, bebes tú dos tragos! 3"
+    },
+    {
+      "key": "DRINK_0188",
+      "value": "Bebe un trago y describe al oído de tu pareja esa \"cosa especial\" que quieres hacer con él/ella esta noche. 3"
+    },
+    {
+      "key": "DRINK_0189",
+      "value": "Desliza tu mano bajo la ropa de tu pareja y siente el calor de su piel, acariciando su espalda 10 seg.  3"
+    },
+    {
+      "key": "DRINK_0190",
+      "value": "Dale a tu pareja ese \"toque especial\" que sabes que más le gusta durante 20 seg. y bebe un trago.  3"
+    },
+    {
+      "key": "DRINK_0191",
+      "value": "Pide y recibe un \"toque íntimo\" que desees de tu pareja durante 20 seg., y luego bebe un trago.  3"
+    },
+    {
+      "key": "DRINK_0192",
+      "value": "Bebe un trago y di: \"¿Calentarías... esta copa con el calor de tu cuerpo?\" 3"
+    },
+    {
+      "key": "DRINK_0193",
+      "value": "¡Haced el contacto físico más \"atrevido\" que podáis hacer aquí mismo durante 10 seg! ¡Un trago cada uno!  3"
+    },
+    {
+      "key": "DRINK_0194",
+      "value": "Di honestamente: \"Quiero probar tu... \" (¡Rellena el hueco!) y bebe un trago. 3"
+    },
+    {
+      "key": "DRINK_0195",
+      "value": "Bebe un trago y deja que tu pareja acaricie tu \"punto más sensible\" durante 15 seg.  3"
+    },
+    {
+      "key": "DRINK_0196",
+      "value": "Di: \"Quiero... intimar más contigo, aquí y ahora\", y bebe un trago. 3"
+    },
+    {
+      "key": "DRINK_0197",
+      "value": "¡Bebe un trago y habla de tu lugar favorito \"para hacer el amor\"! 3"
+    },
+    {
+      "key": "DRINK_0198",
+      "value": "¡Quítale un accesorio a tu pareja (reloj, collar, anillo, etc.) y bebe un trago! 3"
+    },
+    {
+      "key": "DRINK_0199",
+      "value": "Di \"¿Cómo de cálido... será tu corazón?\", mírale fijamente y bebe un trago. 3"
+    },
+    {
+      "key": "DRINK_0200",
+      "value": "¡Bebe un trago, pon un snack en el cuerpo de tu pareja (mano, clavícula...) y cómetelo con la boca! 3"
+    },
+    {
+      "key": "DRINK_0201",
+      "value": "Di \"Esta noche... quiero perderme completamente en ti\", y bebe un trago. 3"
+    },
+    {
+      "key": "DRINK_0202",
+      "value": "Bebe un trago, ofrécele tu cuello a tu pareja y pídele que \"deje su marca\". 3"
+    },
+    {
+      "key": "DRINK_0203",
+      "value": "Di: \"Quiero saborear... todo de ti\", y bebe un trago. 3"
+    },
+    {
+      "key": "DRINK_0204",
+      "value": "Bebe un trago y describe al oído tu \"fantasía secreta\" más reciente. 3"
+    },
+    {
+      "key": "DRINK_0205",
+      "value": "¡Deja caer una gota de alcohol en el cuerpo de tu pareja (dedo, labios), recógela con tus labios y bebe un trago! 3"
+    },
+    {
+      "key": "DRINK_0206",
+      "value": "Bebe un trago y pregunta: \"¿Cuántas veces... vamos a confirmar nuestro amor esta noche?\" 3"
+    },
+    {
+      "key": "DRINK_0207",
+      "value": "Di \"Quiero sentirte, ahora mismo\", y mantén tu mano \"rondando\" cerca de su 'zona más sensible' 10 seg.  3"
+    },
+    {
+      "key": "DRINK_0208",
+      "value": "¡Bebe un trago y recrea la escena más \"caliente\" de una película romántica durante 10 seg!  3"
+    },
+    {
+      "key": "DRINK_0209",
+      "value": "Di: \"Tu voz... quiero ser la única persona que la escuche\", y bebe un trago. 3"
+    },
+    {
+      "key": "DRINK_0210",
+      "value": "Bebe un trago y sugiere: \"¿Deberíamos... crear nuestra propia señal secreta para esta noche?\" 3"
+    },
+    {
+      "key": "DRINK_0211",
+      "value": "Di \"Te lo voy a dar todo\", pon la mano de tu pareja sobre tu muslo y bebe un trago. 3"
+    },
+    {
+      "key": "DRINK_0212",
+      "value": "Bebe un trago y di: \"Tú... creo que podrías ser una adicción\". 2"
+    },
+    {
+      "key": "DRINK_0213",
+      "value": "Di: \"Basta de beber... ¿Deberíamos empezar el verdadero juego?\", ¡y bébete la última! 3"
+    },
+    {
+      "key": "DRINK_0214",
+      "value": "Di: \"Creo que... estoy un poco excitado/a ahora mismo\", y bebe un trago. 3"
+    },
+    {
+      "key": "DRINK_0215",
+      "value": "Bebe un trago y sugiere un juego \"atrevido\", como el \"Pocky Game\". 3"
+    },
+    {
+      "key": "DRINK_0216",
+      "value": "Di en voz alta, como pensando: \"¿Cómo será tu voz de placer?\", y bebe un trago. 3"
+    },
+    {
+      "key": "DRINK_0217",
+      "value": "¡Describe (de forma sexy) cómo te imaginas a tu pareja en la ducha y bebe un trago! 3"
+    },
+    {
+      "key": "DRINK_0218",
+      "value": "Bebe un trago y di: \"Quiero... hacer algo malo contigo\". 3"
+    },
+    {
+      "key": "DRINK_0219",
+      "value": "¡Revela uno de tus \"puntos más sensibles\" a tu pareja y bebe un trago! 3"
+    },
+    {
+      "key": "DRINK_0220",
+      "value": "¡Bebe un trago y, bajo la mesa, frota tu pierna contra la de tu pareja durante 10 seg!  3"
+    },
+    {
+      "key": "DRINK_0221",
+      "value": "¡Habla de tu \"experiencia secreta\" más excitante y bebe un trago! 3"
+    },
+    {
+      "key": "DRINK_0222",
+      "value": "Di honestamente: \"Quiero... despertar contigo mañana\", y bebe un trago. 3"
+    },
+    {
+      "key": "DRINK_0223",
+      "value": "Bebe un trago y habla de tu \"estilo secreto\" favorito (ej: de lencería). 3"
+    },
+    {
+      "key": "DRINK_0224",
+      "value": "Di: \"Quiero saborear... todo de ti\", y bebe un trago. 3"
+    },
+    {
+      "key": "DRINK_0225",
+      "value": "Bebe un trago y pregunta: \"¿Qué es lo más \"atrevido\" que podríamos hacer ahora mismo?\" 3"
+    },
+    {
+      "key": "DRINK_0226",
+      "value": "Di: \"Creo que... me estoy emborrachando con tu olor\", y bebe un trago. 3"
+    },
+    {
+      "key": "DRINK_0227",
+      "value": "¡Bebe un trago y pídele a tu pareja un tipo de contacto físico que quieras (ej: \"Abrázame\")! 3"
+    },
+    {
+      "key": "DRINK_0228",
+      "value": "Di: \"Yo... quiero que me toques\". Si tu pareja te toca, bebe un trago. ¡Si no, bebes tú dos! 3"
+    },
+    {
+      "key": "DRINK_0229",
+      "value": "¡Bebe un trago y cuéntale a tu pareja una de tus \"fantasías secretas\"! 3"
+    },
+    {
+      "key": "DRINK_0230",
+      "value": "¡Bebe un trago mientras juegas \"peligrosamente\" con la ropa de tu pareja (botón, cremallera)! 3"
+    },
+    {
+      "key": "DRINK_0231",
+      "value": "Bebe un trago y pregunta: \"¿Cómo eres... cuando haces el amor?\" 3"
+    },
+    {
+      "key": "DRINK_0232",
+      "value": "¡Habla de la experiencia íntima que has tenido en el \"lugar más peculiar\" y bebe un trago! 3"
+    },
+    {
+      "key": "DRINK_0233",
+      "value": "Bebe un trago y di provocativamente: \"Esta noche... hazte responsable de mí\". 3"
+    },
+    {
+      "key": "DRINK_0234",
+      "value": "¡Elige un dedo de tu pareja, envuélvelo sensualmente con tus labios 5 seg. y bebe un trago!  3"
+    },
+    {
+      "key": "DRINK_0235",
+      "value": "Bebe un trago y di: \"Quiero ver... tu corazón más profundo\". 3"
+    },
+    {
+      "key": "DRINK_0236",
+      "value": "¡Hablad de la escena más caliente de una \"película romántica\" que hayáis visto juntos, y bebed un trago cada uno! 3"
+    },
+    {
+      "key": "DRINK_0237",
+      "value": "Bebe un trago y di: \"Quiero... tenerte por completo\". 3"
+    },
+    {
+      "key": "DRINK_0238",
+      "value": "¡Atrae a tu pareja hacia ti por la cintura con fuerza y bebe un trago! 3"
+    },
+    {
+      "key": "DRINK_0239",
+      "value": "Bebe un trago y susurra: \"¿Prefieres... estar arriba o abajo?\" 3"
+    },
+    {
+      "key": "DRINK_0240",
+      "value": "¡Habla de tu \"estilo\" preferido para hacer el amor y bebe un trago! 3"
+    },
+    {
+      "key": "DRINK_0241",
+      "value": "Bebe un trago y declara: \"Esta noche... eres mío/a\". 3"
+    },
+    {
+      "key": "DRINK_0242",
+      "value": "¡Pregúntale a tu pareja qué es lo que \"más le excita\" y bebe un trago! 3"
+    },
+    {
+      "key": "DRINK_0243",
+      "value": "Bebe un trago y di: \"Quiero... hacerte llorar de placer\". 3"
+    },
+    {
+      "key": "DRINK_0244",
+      "value": "Acaricia suavemente \"la zona más secreta\" de tu pareja por encima de la ropa 15 seg.  4"
+    },
+    {
+      "key": "DRINK_0245",
+      "value": "¡Bebe un trago y expresa con tu cuerpo \"la sensación de ser totalmente amado/a\" 10 seg!  4"
+    },
+    {
+      "key": "DRINK_0246",
+      "value": "¡Di una frase de un \"juego de rol especial\" que te gustaría probar esta noche y bebe un trago! 4"
+    },
+    {
+      "key": "DRINK_0247",
+      "value": "¡Bebe un trago y haz la mímica de dar a tu pareja \"el beso más ardiente del mundo\" 10 seg!  4"
+    },
+    {
+      "key": "DRINK_0248",
+      "value": "¡Describe en detalle \"cómo quieres dar placer\" a tu pareja y bebe un trago! 4"
+    },
+    {
+      "key": "DRINK_0249",
+      "value": "¡Bebe un trago y deja que tu pareja \"provoque\" tu \"zona más secreta\" durante 15 seg!  4"
+    },
+    {
+      "key": "DRINK_0250",
+      "value": "¡Imita (en voz baja) el sonido que haces en tu \"momento de clímax\" y bebe un trago! 4"
+    },
+    {
+      "key": "DRINK_0251",
+      "value": "Bebe un trago y di: \"¿Te gustaría... sentir el calor de mi cuerpo de cerca?\" 4"
+    },
+    {
+      "key": "DRINK_0252",
+      "value": "¡Deja que tu pareja estimule tu \"punto más excitante\" con sus dedos durante 10 seg!  4"
+    },
+    {
+      "key": "DRINK_0253",
+      "value": "¡Bebe un trago y deja un rastro con tus labios en tu parte favorita del cuerpo de tu pareja 10 seg!  4"
+    },
+    {
+      "key": "DRINK_0254",
+      "value": "Di honestamente: \"Quiero saborear... hasta la última parte de ti\", y bebe un trago. 4"
+    },
+    {
+      "key": "DRINK_0255",
+      "value": "Bebe un trago y ordena provocativamente: \"Sube... encima de mí\". 4"
+    },
+    {
+      "key": "DRINK_0256",
+      "value": "¡Quita (o desabrocha) una prenda (o accesorio) más a tu pareja y bebe un trago! 4"
+    },
+    {
+      "key": "DRINK_0257",
+      "value": "Bebe un trago y di: \"Quiero... quedarme dormido/a en tus brazos\". 4"
+    },
+    {
+      "key": "DRINK_0258",
+      "value": "Di: \"Esta noche... no puedes escapar de mí\", y bebe un trago. 4"
+    },
+    {
+      "key": "DRINK_0259",
+      "value": "Bebe un trago y haz que tu pareja diga las palabras que quieres oír \"en el momento de ser uno\". 4"
+    },
+    {
+      "key": "DRINK_0260",
+      "value": "Di: \"Imaginé... tu aliento mezclándose con el mío\", y bebe un trago. 4"
+    },
+    {
+      "key": "DRINK_0261",
+      "value": "Bebe un trago y di qué te gustaría ver hacer a tu pareja \"mientras hacéis el amor\". 4"
+    },
+    {
+      "key": "DRINK_0262",
+      "value": "Di en voz alta: \"Me pregunto... ¿cómo serán los movimientos de tu cuerpo?\", y bebe un trago. 4"
+    },
+    {
+      "key": "DRINK_0263",
+      "value": "¡Bebe un trago y \"provoca\" el \"punto más sensible\" de tu pareja con intensidad 30 seg!  4"
+    },
+    {
+      "key": "DRINK_0264",
+      "value": "Di: \"Quiero sentir... cada parte de ti, sin dejar nada\", y bebe un trago. 4"
+    },
+    {
+      "key": "DRINK_0265",
+      "value": "Bebe un trago y di: \"Quiero que dejes... una marca profunda en mi cuerpo\". 4"
+    },
+    {
+      "key": "DRINK_0266",
+      "value": "Di: \"Imagina el momento... en que nos volvemos completamente uno\", y bebe un trago. 4"
+    },
+    {
+      "key": "DRINK_0267",
+      "value": "Bebe un trago y di: \"Esta noche... voy a hacerte completamente mío/a\". 4"
+    },
+    {
+      "key": "DRINK_0268",
+      "value": "¡Di un cumplido sobre el \"encanto más secreto\" de tu pareja y bebe un trago! 4"
+    },
+    {
+      "key": "DRINK_0269",
+      "value": "Bebe un trago y di: \"Quiero besar... tu lugar más profundo\". 4"
+    },
+    {
+      "key": "DRINK_0270",
+      "value": "Di: \"Quiero sentirte... con todo mi cuerpo\", y bebe un trago. 4"
+    },
+    {
+      "key": "DRINK_0271",
+      "value": "¡Bebe un trago y habla del \"mejor momento de éxtasis\" que has experimentado! 4"
+    },
+    {
+      "key": "DRINK_0272",
+      "value": "Di \"No aguanto más\", y acaricia \"la zona más secreta\" de tu pareja durante 10 seg.  4"
+    },
+    {
+      "key": "DRINK_0273",
+      "value": "Di: \"Ahora... empecemos el verdadero juego\", y bébete el último trago. 4"
+    },
+    {
+      "key": "DRINK_0274",
+      "value": "Muerde suavemente el lóbulo de la oreja de tu pareja y bebe un trago. 3"
+    },
+    {
+      "key": "DRINK_0275",
+      "value": "¡Desabrocha un botón de la camisa/blusa de tu pareja y bebe un trago! 3"
+    },
+    {
+      "key": "DRINK_0276",
+      "value": "¡Dale un cubito de hielo (o un vaso frío) a tu pareja y deja que toque tu cuello con él! 3"
+    },
+    {
+      "key": "DRINK_0277",
+      "value": "¡Tapa los ojos de tu pareja 10 seg, susurra \"¿Quién soy?\" y bebe un trago!  3"
+    },
+    {
+      "key": "DRINK_0278",
+      "value": "¡Dile a tu pareja: \"Seduce-me con tu expresión de más confianza\", y bebe un trago! 3"
+    },
+    {
+      "key": "DRINK_0279",
+      "value": "¡Recorre lentamente la línea de la columna de tu pareja con tu dedo y bebe un trago! 3"
+    },
+    {
+      "key": "DRINK_0280",
+      "value": "Di: \"Soñé contigo anoche... fue un sueño muy caliente\", y bebe un trago. 3"
+    },
+    {
+      "key": "DRINK_0281",
+      "value": "¡Haz que tu pareja deje la marca de sus labios en tu copa y bebe un trago de esa marca! 3"
+    },
+    {
+      "key": "DRINK_0282",
+      "value": "Besa suavemente el interior de la muñeca de tu pareja y bebe un trago. 3"
+    },
+    {
+      "key": "DRINK_0283",
+      "value": "¡Juega \"peligrosamente\" con el cinturón (o la cinturilla del pantalón) de tu pareja y bebe un trago! 3"
+    },
+    {
+      "key": "DRINK_0284",
+      "value": "¡Besa suavemente la parte de atrás de la rodilla de tu pareja (corva) y bebe un trago! 3"
+    },
+    {
+      "key": "DRINK_0285",
+      "value": "¡Ordena en broma: \"Has perdido. De castigo, quítate una prenda\", y bebe un trago! 3"
+    },
+    {
+      "key": "DRINK_0286",
+      "value": "¡Sostén un snack con tus labios y deja que tu pareja lo tome con su boca! 3"
+    },
+    {
+      "key": "DRINK_0287",
+      "value": "¡Masajea suavemente el tobillo de tu pareja durante 10 seg. y bebe un trago!  3"
+    },
+    {
+      "key": "DRINK_0288",
+      "value": "¡Pon el dedo de tu pareja sobre tus labios, di \"Shhh, es un secreto\", y bebe un trago! 3"
+    },
+    {
+      "key": "DRINK_0289",
+      "value": "¡Ordena: \"Bésame. Ahora\", y bebe un trago! 3"
+    },
+    {
+      "key": "DRINK_0290",
+      "value": "¡Levanta suavemente la camiseta de tu pareja, sopla sobre su abdomen y bebe un trago! 3"
+    },
+    {
+      "key": "DRINK_0291",
+      "value": "Bebe un trago, di \"Quiero oír el latido de tu corazón\" y apoya tu oreja en su pecho. 3"
+    },
+    {
+      "key": "DRINK_0292",
+      "value": "¡Lame suavemente el dorso de la mano de tu pareja durante 10 seg. y bebe un trago!  3"
+    },
+    {
+      "key": "DRINK_0293",
+      "value": "¡Recorre la línea de la clavícula de tu pareja con tus labios y bebe un trago! 3"
+    },
+    {
+      "key": "DRINK_0294",
+      "value": "Susurra: \"Si tú quieres, puedo hacer... cosas peores\", y bebe un trago. 3"
+    },
+    {
+      "key": "DRINK_0295",
+      "value": "¡Cerrad los ojos y acariciaos solo las manos durante 1 min! Luego, un trago cada uno.  3"
+    },
+    {
+      "key": "DRINK_0296",
+      "value": "¡Sujeta la barbilla de tu pareja, detente 5 seg. como si fueras a besarle... y bebe solo tú!  3"
+    },
+    {
+      "key": "DRINK_0297",
+      "value": "¡Siéntate en el regazo de tu pareja, rodea su cuello con tus brazos y miraros a los ojos 10 seg!  3"
+    },
+    {
+      "key": "DRINK_0298",
+      "value": "¡Tapa los ojos de tu pareja, susurra dónde le vas a besar y luego bésale en otro sitio (muñeca/mejilla)! 3"
+    },
+    {
+      "key": "DRINK_0299",
+      "value": "¡Entrelaza tus dedos con los de tu pareja y usa su mano para acariciar tu propio muslo! 3"
+    },
+    {
+      "key": "DRINK_0300",
+      "value": "¡Detente a 2 cm de los labios de tu pareja 10 seg. para tentarle, luego retírate y bebe!  3"
+    },
+    {
+      "key": "DRINK_0301",
+      "value": "Di: \"Es tu turno. Quítate una prenda de ropa para mí\", y bebe un trago. 4"
+    },
+    {
+      "key": "DRINK_0302",
+      "value": "¡Toma la mano de tu pareja y ponla sobre tu ropa en tu \"zona más secreta\" 10 seg!  4"
+    },
+    {
+      "key": "DRINK_0303",
+      "value": "¡Declara: \"Esta noche, no puedes hacer nada... sin mi permiso\", y bebe un trago! 4"
+    },
+    {
+      "key": "DRINK_0304",
+      "value": "¡Venda los ojos de tu pareja y dale tres besos en tres partes diferentes de su cuerpo! 4"
+    },
+    {
+      "key": "DRINK_0305",
+      "value": "¡Tumba a tu pareja, presiona tu cuerpo sobre su ropa contra el suyo 10 seg. y bebe un trago!  4"
+    },
+    {
+      "key": "DRINK_0306",
+      "value": "¡\"Provoca\" a tu pareja respirando cálidamente en su oído durante 10 seg. y bebe un trago!  4"
+    },
+    {
+      "key": "DRINK_0307",
+      "value": "¡Deja que tus dedos \"exploren\" justo por encima de la \"zona secreta\" de tu pareja 10 seg!  4"
+    },
+    {
+      "key": "DRINK_0308",
+      "value": "¡\"Provoca\" los labios de tu pareja 10 seg. (mordisquea, lame), y bebe un trago!  4"
+    },
+    {
+      "key": "DRINK_0309",
+      "value": "¡Declara: \"Tu límite... es mi placer\", y bebe un trago! 4"
+    },
+    {
+      "key": "DRINK_0310",
+      "value": "¡Desliza tu mano dentro de la ropa de tu pareja y provoca \"su punto más sensible\" 15 seg!  4"
+    },
+    {
+      "key": "DRINK_0311",
+      "value": "¡Separa las piernas de tu pareja, siéntate en medio, miraros a los ojos 10 seg. y bebe un trago!  4"
+    },
+    {
+      "key": "DRINK_0312",
+      "value": "¡Deja que tu pareja estimule tu \"punto más excitante\" con sus dedos durante 10 seg!  4"
+    },
+    {
+      "key": "DRINK_0313",
+      "value": "¡Por 1 min, tú eres el \"Amo/Ama\"! Ordénale a tu pareja que haga una cosa. Y bebe.  4"
+    },
+    {
+      "key": "DRINK_0314",
+      "value": "Di: \"Quiero explorar... todas las 'puertas secretas' de tu cuerpo\", y bebe un trago. 4"
+    },
+    {
+      "key": "DRINK_0315",
+      "value": "¡Haz la mímica de besar la \"zona más secreta\" de tu pareja 10 seg. y bebe un trago!  4"
+    },
+    {
+      "key": "DRINK_0316",
+      "value": "Di \"Quiero dibujar tu mapa... en mi cuerpo\", y bebe un trago. 4"
+    },
+    {
+      "key": "DRINK_0317",
+      "value": "¡Di \"Ya no puedo esperar más\" y desabrocha otra de sus prendas/accesorios! 4"
+    },
+    {
+      "key": "DRINK_0318",
+      "value": "¡Deja caer una gota en la \"zona secreta\" de tu pareja (sobre la ropa) y haz la mímica de lamerla! 4"
+    },
+    {
+      "key": "DRINK_0319",
+      "value": "Susurra: \"Esta noche... voy a hacer que solo pienses en mí\", y bebe un trago. 4"
+    },
+    {
+      "key": "DRINK_0320",
+      "value": "¡Ordena: \"Demuéstrame cuánto me deseas... con tu cuerpo\", y bebe un trago! 4"
+    },
+    {
+      "key": "DRINK_0321",
+      "value": "¡Toma la muñeca de tu pareja, pon su mano sobre tu corazón (pecho) y miraros a los ojos 10 seg!  4"
+    },
+    {
+      "key": "DRINK_0322",
+      "value": "¡Desliza tu mano dentro de la ropa de tu pareja y déjala sobre su corazón 10 seg!  4"
+    },
+    {
+      "key": "DRINK_0323",
+      "value": "¡\"Provoca\" el \"encanto secreto\" de tu pareja solo con tus labios durante 1 min!  4"
+    },
+    {
+      "key": "DRINK_0324",
+      "value": "Di: \"Es nuestra última copa. ¿Nos vamos a la cama ya?\", y bebe el último trago. 4"
     },
     {
       "key": "VS_0001",
