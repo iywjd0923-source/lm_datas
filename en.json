@@ -97,6 +97,22 @@
       "value": "Mission complete?"
     },
     {
+      "key": "Level_soft",
+      "value": "Soft"
+    },
+    {
+      "key": "Level_hot",
+      "value": "HOT"
+    },
+    {
+      "key": "Level_sexy",
+      "value": "Sexy"
+    },
+    {
+      "key": "Level_extream",
+      "value": "Extream"
+    },
+    {
       "key": "LOVE_0001",
       "value": "Action Hell1"
     },
@@ -326,7 +342,7 @@
     },
     {
       "key": "DRINK_0010",
-      "value": "Name 3 good things about your partner in 10 sec! Fail? Down two drinks! [10] 1"
+      "value": "Name 3 good things about your partner in 10 sec! Fail? Down two drinks!  1"
     },
     {
       "key": "DRINK_0011",
@@ -342,7 +358,7 @@
     },
     {
       "key": "DRINK_0014",
-      "value": "For 5 sec, make a face like a commercial model tasting this drink! Then, take a drink. [5] 1"
+      "value": "For 5 sec, make a face like a commercial model tasting this drink! Then, take a drink.  1"
     },
     {
       "key": "DRINK_0015",
@@ -374,7 +390,7 @@
     },
     {
       "key": "DRINK_0022",
-      "value": "Say, \"I'm getting drunk on you...\" then stare deeply into your partner's eyes for 5 sec and drink. [5] 1"
+      "value": "Say, \"I'm getting drunk on you...\" then stare deeply into your partner's eyes for 5 sec and drink.  1"
     },
     {
       "key": "DRINK_0023",
@@ -390,7 +406,7 @@
     },
     {
       "key": "DRINK_0026",
-      "value": "For the next 5 min, only use a foreign language! Drink one every time you use your native language. [5 min] 1"
+      "value": "For the next 5 min, only use a foreign language! Drink one every time you use your native language.  1"
     },
     {
       "key": "DRINK_0027",
@@ -482,7 +498,7 @@
     },
     {
       "key": "DRINK_0049",
-      "value": "Hold your partner's hand and look into their eyes for 10 sec without saying anything. Then, one drink each. [10] 1"
+      "value": "Hold your partner's hand and look into their eyes for 10 sec without saying anything. Then, one drink each.  1"
     },
     {
       "key": "DRINK_0050",
@@ -506,7 +522,7 @@
     },
     {
       "key": "DRINK_0055",
-      "value": "For the next 3 min, it's a forbidden word game! If you say the word \"Drink,\" you have to drink! [3 min] 1"
+      "value": "For the next 3 min, it's a forbidden word game! If you say the word \"Drink,\" you have to drink!  1"
     },
     {
       "key": "DRINK_0056",
@@ -526,7 +542,7 @@
     },
     {
       "key": "DRINK_0060",
-      "value": "For the next 5 min, only use your nicknames for each other! (e.g., \"Babe~\") Drink one if you say their real name! [5 min] 1"
+      "value": "For the next 5 min, only use your nicknames for each other! (e.g., \"Babe~\") Drink one if you say their real name!  1"
     },
     {
       "key": "DRINK_0061",
@@ -542,7 +558,7 @@
     },
     {
       "key": "DRINK_0064",
-      "value": "Say, \"If I were born again, I'd want to be a [Blank],\" and then take a drink. 1"
+      "value": "Say, \"If I were born again, I'd want to be a ,\" and then take a drink. 1"
     },
     {
       "key": "DRINK_0065",
@@ -566,7 +582,7 @@
     },
     {
       "key": "DRINK_0070",
-      "value": "Stare at your reflection in your partner's drink for 5 sec... then drink. [5] 1"
+      "value": "Stare at your reflection in your partner's drink for 5 sec... then drink.  1"
     },
     {
       "key": "DRINK_0071",
@@ -590,7 +606,7 @@
     },
     {
       "key": "DRINK_0076",
-      "value": "For 1 min, you are the King/Queen and your partner is the servant. Give a command (e.g., \"Pour my drink!\"), then drink. [1 min] 1"
+      "value": "For 1 min, you are the King/Queen and your partner is the servant. Give a command (e.g., \"Pour my drink!\"), then drink.  1"
     },
     {
       "key": "DRINK_0077",
@@ -650,7 +666,7 @@
     },
     {
       "key": "DRINK_0091",
-      "value": "Tell your (TMI) first kiss story in a 10-sec summary, and take a drink! [10 sec] 1"
+      "value": "Tell your (TMI) first kiss story in a 10-sec summary, and take a drink!  1"
     },
     {
       "key": "DRINK_0092",
@@ -686,7 +702,7 @@
     },
     {
       "key": "DRINK_0100",
-      "value": "Take a drink, then give your partner a warm back hug for 10 seconds. [10] 2"
+      "value": "Take a drink, then give your partner a warm back hug for 10 seconds.  2"
     },
     {
       "key": "DRINK_0101",
@@ -694,7 +710,7 @@
     },
     {
       "key": "DRINK_0102",
-      "value": "Take a drink, say \"I need to recharge...\" and hug/cuddle your partner for 15 sec. [15] 2"
+      "value": "Take a drink, say \"I need to recharge...\" and hug/cuddle your partner for 15 sec.  2"
     },
     {
       "key": "DRINK_0103",
@@ -702,7 +718,7 @@
     },
     {
       "key": "DRINK_0104",
-      "value": "Take a drink, then gently stroke your partner's hair for 20 seconds. [20] 2"
+      "value": "Take a drink, then gently stroke your partner's hair for 20 seconds.  2"
     },
     {
       "key": "DRINK_0105",
@@ -738,7 +754,7 @@
     },
     {
       "key": "DRINK_0113",
-      "value": "Link arms for a \"Love Shot\" and drink! Then, stare into each other's eyes for 10 sec. Loser drinks one more! [10] 2"
+      "value": "Link arms for a \"Love Shot\" and drink! Then, stare into each other's eyes for 10 sec. Loser drinks one more!  2"
     },
     {
       "key": "DRINK_0114",
@@ -758,7 +774,7 @@
     },
     {
       "key": "DRINK_0118",
-      "value": "Put down your drink. Stare at your partner with eyes full of adoration for 10 sec... then drink. [10] 2"
+      "value": "Put down your drink. Stare at your partner with eyes full of adoration for 10 sec... then drink.  2"
     },
     {
       "key": "DRINK_0119",
@@ -778,7 +794,7 @@
     },
     {
       "key": "DRINK_0123",
-      "value": "Take a drink, then stare intently at your partner's collarbone for 5 seconds. [5] 2"
+      "value": "Take a drink, then stare intently at your partner's collarbone for 5 seconds.  2"
     },
     {
       "key": "DRINK_0124",
@@ -818,7 +834,7 @@
     },
     {
       "key": "DRINK_0133",
-      "value": "Under the table, secretly tickle your partner's foot/leg for 5 sec. Then, take a drink. [5] 2"
+      "value": "Under the table, secretly tickle your partner's foot/leg for 5 sec. Then, take a drink.  2"
     },
     {
       "key": "DRINK_0134",
@@ -862,7 +878,7 @@
     },
     {
       "key": "DRINK_0144",
-      "value": "Press your foreheads together and hold it for 10 seconds! Then, one drink each! [10] 2"
+      "value": "Press your foreheads together and hold it for 10 seconds! Then, one drink each!  2"
     },
     {
       "key": "DRINK_0145",
@@ -878,7 +894,7 @@
     },
     {
       "key": "DRINK_0148",
-      "value": "Stare intently at your partner's lips for 5 seconds... then take a drink. [5] 2"
+      "value": "Stare intently at your partner's lips for 5 seconds... then take a drink.  2"
     },
     {
       "key": "DRINK_0149",
@@ -999,6 +1015,590 @@
     {
       "key": "DRINK_0178",
       "value": "Take a drink, then say, \"As long as I'm with you, I feel like I can do anything.\" 2"
+    },
+    {
+      "key": "DRINK_0179",
+      "value": "Casually sit on your partner's lap and take a drink. 2"
+    },
+    {
+      "key": "DRINK_0180",
+      "value": "Take a drink, then sincerely tell your partner, \"You look truly beautiful/handsome tonight.\" 2"
+    },
+    {
+      "key": "DRINK_0181",
+      "value": "Give your partner a surprise kiss on the cheek! Then (shyly) take a drink! 2"
+    },
+    {
+      "key": "DRINK_0182",
+      "value": "Whisper \"I love you\" in your partner's ear and take a drink. 2"
+    },
+    {
+      "key": "DRINK_0183",
+      "value": "Talk about a date you want to go on next, and drink one each with excitement! 2"
+    },
+    {
+      "key": "DRINK_0184",
+      "value": "Compliment the most attractive feature (physical or otherwise) you see in each other, and one drink each! 2"
+    },
+    {
+      "key": "DRINK_0185",
+      "value": "Take a drink, then share a deep, breathless kiss for 20 seconds.  3"
+    },
+    {
+      "key": "DRINK_0186",
+      "value": "Leave a trail with your lips on your partner's neck for 10 seconds, and take a drink.  3"
+    },
+    {
+      "key": "DRINK_0187",
+      "value": "Ask, \"What's your... secret color?\" If you guess right, they drink. If wrong, you drink two! 3"
+    },
+    {
+      "key": "DRINK_0188",
+      "value": "Take a drink, then whisper and describe that \"something special\" you want to do with your partner tonight. 3"
+    },
+    {
+      "key": "DRINK_0189",
+      "value": "Slide your hand under your partner's top and feel their warm skin, caressing their back for 10 seconds.  3"
+    },
+    {
+      "key": "DRINK_0190",
+      "value": "Give that \"special touch\" you know your partner loves most for 20 seconds, then take a drink.  3"
+    },
+    {
+      "key": "DRINK_0191",
+      "value": "Ask for and receive one \"intimate touch\" you desire from your partner for 20 seconds, then drink.  3"
+    },
+    {
+      "key": "DRINK_0192",
+      "value": "Take a drink, then say, \"Will you warm this glass... with your body heat?\" 3"
+    },
+    {
+      "key": "DRINK_0193",
+      "value": "Do the most \"risqué\" thing you can (skinship-wise) right here for 10 sec. One drink each!  3"
+    },
+    {
+      "key": "DRINK_0194",
+      "value": "Honestly say, \"I want to taste your ...\" (Fill in the blank!) and take a drink. 3"
+    },
+    {
+      "key": "DRINK_0195",
+      "value": "Take a drink, and let your partner caress your \"most sensitive spot\" for 15 seconds.  3"
+    },
+    {
+      "key": "DRINK_0196",
+      "value": "Say, \"I want to get deeper with you... right here, right now,\" and take a drink. 3"
+    },
+    {
+      "key": "DRINK_0197",
+      "value": "Take a drink, and talk about your favorite place \"for making love.\" 3"
+    },
+    {
+      "key": "DRINK_0198",
+      "value": "Undo one of your partner's accessories (watch, necklace, ring, etc.) and take a drink. 3"
+    },
+    {
+      "key": "DRINK_0199",
+      "value": "Say, \"I wonder how warm... your heart is?\" then stare deeply and take a drink. 3"
+    },
+    {
+      "key": "DRINK_0200",
+      "value": "Take a drink, then place a snack on your partner's body (back of hand, collarbone) and eat it with your mouth. 3"
+    },
+    {
+      "key": "DRINK_0201",
+      "value": "Say, \"Tonight... I want to fall completely for you,\" and take a drink. 3"
+    },
+    {
+      "key": "DRINK_0202",
+      "value": "Take a drink, then offer your neck and ask your partner to \"leave their mark.\" 3"
+    },
+    {
+      "key": "DRINK_0203",
+      "value": "Say, \"I want to taste... all of you,\" and take a drink. 3"
+    },
+    {
+      "key": "DRINK_0204",
+      "value": "Take a drink, then whisper and describe your most recent \"secret fantasy.\" 3"
+    },
+    {
+      "key": "DRINK_0205",
+      "value": "Drop a single drop of your drink onto your partner's body (finger, lips) and take it with your lips, then drink. 3"
+    },
+    {
+      "key": "DRINK_0206",
+      "value": "Take a drink, then ask, \"How many times... should we confirm our love tonight?\" 3"
+    },
+    {
+      "key": "DRINK_0207",
+      "value": "Say, \"I want to feel you, right now,\" and hover your hand near their \"most sensitive spot\" for 10 sec.  3"
+    },
+    {
+      "key": "DRINK_0208",
+      "value": "Take a drink, then reenact the \"hottest\" scene from a romance movie for 10 seconds.  3"
+    },
+    {
+      "key": "DRINK_0209",
+      "value": "Say, \"Your voice... I want to be the only one who hears it,\" and take a drink. 3"
+    },
+    {
+      "key": "DRINK_0210",
+      "value": "Take a drink, then suggest, \"Should we create our own... secret signal for tonight?\" 3"
+    },
+    {
+      "key": "DRINK_0211",
+      "value": "Say, \"I'll give you my all,\" then place your partner's hand on your thigh and take a drink. 3"
+    },
+    {
+      "key": "DRINK_0212",
+      "value": "Take a drink, then say, \"You... feel like you could be addictive.\" 3"
+    },
+    {
+      "key": "DRINK_0213",
+      "value": "Say, \"Enough drinking... Should we start the real game?\" and drink the last one! 3"
+    },
+    {
+      "key": "DRINK_0214",
+      "value": "Say, \"I think I'm... feeling a little excited right now,\" and take a drink. 3"
+    },
+    {
+      "key": "DRINK_0215",
+      "value": "Take a drink, then suggest a \"risky\" game, like the \"Pocky Game.\" 3"
+    },
+    {
+      "key": "DRINK_0216",
+      "value": "Wonder aloud, \"What would your voice of pleasure sound like?\" and take a drink. 3"
+    },
+    {
+      "key": "DRINK_0217",
+      "value": "\"Sexily\" describe what you imagine your partner looks like showering, and take a drink. 3"
+    },
+    {
+      "key": "DRINK_0218",
+      "value": "Take a drink, then say, \"I want to do... something bad with you.\" 3"
+    },
+    {
+      "key": "DRINK_0219",
+      "value": "Reveal one of your \"most sensitive spots\" to your partner, and take a drink. 3"
+    },
+    {
+      "key": "DRINK_0220",
+      "value": "Take a drink, then under the table, rub your leg against your partner's leg for 10 sec.  3"
+    },
+    {
+      "key": "DRINK_0221",
+      "value": "Talk about your \"wildest secret experience,\" and take a drink. 3"
+    },
+    {
+      "key": "DRINK_0222",
+      "value": "Honestly say, \"I... want to wake up with you tomorrow,\" and take a drink. 3"
+    },
+    {
+      "key": "DRINK_0223",
+      "value": "Take a drink, and talk about your favorite \"secret style\" (e.g., of lingerie). 3"
+    },
+    {
+      "key": "DRINK_0224",
+      "value": "Say, \"I want to taste... all of you,\" and take a drink. 3"
+    },
+    {
+      "key": "DRINK_0225",
+      "value": "Take a drink, then ask, \"What's the most 'risqué' thing we could do right now?\" 3"
+    },
+    {
+      "key": "DRINK_0226",
+      "value": "Say, \"I think... I'm getting intoxicated by your scent,\" and take a drink. 3"
+    },
+    {
+      "key": "DRINK_0227",
+      "value": "Take a drink, then ask your partner for one specific type of skinship you want (e.g., \"Hug me\"). 3"
+    },
+    {
+      "key": "DRINK_0228",
+      "value": "Say, \"I... want you to touch me.\" If your partner touches you, drink one. If not, you drink two! 3"
+    },
+    {
+      "key": "DRINK_0229",
+      "value": "Take a drink, and tell your partner one of your \"secret fantasies.\" 3"
+    },
+    {
+      "key": "DRINK_0230",
+      "value": "Drink one while \"dangerously\" fiddling with your partner's clothes (button, zipper). 3"
+    },
+    {
+      "key": "DRINK_0231",
+      "value": "Take a drink, then ask, \"What's your... style when you make love?\" 3"
+    },
+    {
+      "key": "DRINK_0232",
+      "value": "Talk about the most \"unusual place\" you've had a secret experience, and take a drink. 3"
+    },
+    {
+      "key": "DRINK_0233",
+      "value": "Take a drink, then say provocatively, \"Take... responsibility for me tonight.\" 3"
+    },
+    {
+      "key": "DRINK_0234",
+      "value": "Pick one of your partner's fingers, wrap your lips around it sexily for 5 sec, and drink.  3"
+    },
+    {
+      "key": "DRINK_0235",
+      "value": "Take a drink, then say, \"I want to see... your deepest heart.\" 3"
+    },
+    {
+      "key": "DRINK_0236",
+      "value": "Talk about the hottest scene from a \"romance movie\" you watched together, and one drink each. 3"
+    },
+    {
+      "key": "DRINK_0237",
+      "value": "Take a drink, then say, \"I... want to have all of you.\" 3"
+    },
+    {
+      "key": "DRINK_0238",
+      "value": "Pull your partner close by their waist and take a drink. 3"
+    },
+    {
+      "key": "DRINK_0239",
+      "value": "Take a drink, then whisper, \"Do you... prefer to be on top, or on the bottom?\" 3"
+    },
+    {
+      "key": "DRINK_0240",
+      "value": "Talk about your preferred \"style of making love,\" and take a drink. 3"
+    },
+    {
+      "key": "DRINK_0241",
+      "value": "Take a drink, then declare, \"Tonight... you are all mine.\" 3"
+    },
+    {
+      "key": "DRINK_0242",
+      "value": "Ask your partner what their \"biggest turn-on\" is, and take a drink. 3"
+    },
+    {
+      "key": "DRINK_0243",
+      "value": "Take a drink, then say, \"I want to make you... cry with pleasure.\" 3"
+    },
+    {
+      "key": "DRINK_0244",
+      "value": "Gently caress your partner's \"most secret spot\" over their clothes for 15 sec.  4"
+    },
+    {
+      "key": "DRINK_0245",
+      "value": "Take a drink, then use your body to express \"the feeling of being completely loved\" for 10 sec.  4"
+    },
+    {
+      "key": "DRINK_0246",
+      "value": "Say one line from a \"special role-play scenario\" you'd like to try tonight, and drink. 4"
+    },
+    {
+      "key": "DRINK_0247",
+      "value": "Take a drink, then mime giving your partner \"the world's hottest kiss\" for 10 sec.  4"
+    },
+    {
+      "key": "DRINK_0248",
+      "value": "Describe in detail \"how you want to please\" your partner, and take a drink. 4"
+    },
+    {
+      "key": "DRINK_0249",
+      "value": "Take a drink, and let your partner \"tease\" your \"most secret spot\" for 15 seconds.  4"
+    },
+    {
+      "key": "DRINK_0250",
+      "value": "Mime the sound you make at your \"moment of climax,\" and take a drink. 4"
+    },
+    {
+      "key": "DRINK_0251",
+      "value": "Take a drink, then say, \"Would you like to... feel my body heat up close?\" 4"
+    },
+    {
+      "key": "DRINK_0252",
+      "value": "Have your partner stimulate your \"most thrilling point\" with their fingers for 10 sec.  4"
+    },
+    {
+      "key": "DRINK_0253",
+      "value": "Take a drink, then leave a trail with your lips on your favorite part of your partner's body for 10 sec.  4"
+    },
+    {
+      "key": "DRINK_0254",
+      "value": "Honestly say, \"I want to taste... every last bit of you,\" and take a drink. 4"
+    },
+    {
+      "key": "DRINK_0255",
+      "value": "Take a drink, then command provocatively, \"Come... on top of me.\" 4"
+    },
+    {
+      "key": "DRINK_0256",
+      "value": "Remove (or undo) one more item (clothing/accessory) from your partner, and take a drink. 4"
+    },
+    {
+      "key": "DRINK_0257",
+      "value": "Take a drink, then say, \"I want to... fall asleep in your arms.\" 4"
+    },
+    {
+      "key": "DRINK_0258",
+      "value": "Say, \"Tonight... you can't escape from me,\" and take a drink. 4"
+    },
+    {
+      "key": "DRINK_0259",
+      "value": "Take a drink, then make your partner say the words you want to hear \"at the moment you become one.\" 4"
+    },
+    {
+      "key": "DRINK_0260",
+      "value": "Say, \"I imagined... your breath mixing with mine,\" and take a drink. 4"
+    },
+    {
+      "key": "DRINK_0261",
+      "value": "Take a drink, and say what you'd like to see your partner do \"while making love.\" 4"
+    },
+    {
+      "key": "DRINK_0262",
+      "value": "Wonder aloud, \"I wonder... what your body movements would be like?\" and take a drink. 4"
+    },
+    {
+      "key": "DRINK_0263",
+      "value": "Take a drink, then \"tease\" your partner's \"most sensitive spot\" with intense focus for 30 sec.  4"
+    },
+    {
+      "key": "DRINK_0264",
+      "value": "Say, \"I want to feel... every single part of you,\" and take a drink. 4"
+    },
+    {
+      "key": "DRINK_0265",
+      "value": "Take a drink, then say, \"I want you to leave a... deep mark on my body.\" 4"
+    },
+    {
+      "key": "DRINK_0266",
+      "value": "Say, \"Imagine the moment... we become completely one,\" and take a drink. 4"
+    },
+    {
+      "key": "DRINK_0267",
+      "value": "Take a drink, then say, \"Tonight, I'm going to make you... completely mine.\" 4"
+    },
+    {
+      "key": "DRINK_0268",
+      "value": "Say one word of praise for your partner's \"most secret charm,\" and take a drink. 4"
+    },
+    {
+      "key": "DRINK_0269",
+      "value": "Take a drink, then say, \"I want to kiss... your deepest place.\" 4"
+    },
+    {
+      "key": "DRINK_0270",
+      "value": "Say, \"I want to feel you... with my entire body,\" and take a drink. 4"
+    },
+    {
+      "key": "DRINK_0271",
+      "value": "Take a drink, and talk about the \"best moment of ecstasy\" you've ever experienced. 4"
+    },
+    {
+      "key": "DRINK_0272",
+      "value": "Say, \"I can't take it anymore,\" then caress your partner's \"most secret spot\" for 10 sec.  4"
+    },
+    {
+      "key": "DRINK_0273",
+      "value": "Say, \"Now... let's start the real game,\" and drink the final glass. 4"
+    },
+    {
+      "key": "DRINK_0274",
+      "value": "Gently nibble your partner's earlobe and take a drink. 3"
+    },
+    {
+      "key": "DRINK_0275",
+      "value": "Undo one button on your partner's top and take a drink. 3"
+    },
+    {
+      "key": "DRINK_0276",
+      "value": "Give your partner an ice cube (or a cold glass) and have them touch your neck with it. 3"
+    },
+    {
+      "key": "DRINK_0277",
+      "value": "Cover your partner's eyes for 10 sec, whisper \"Guess who?\" and take a drink.  3"
+    },
+    {
+      "key": "DRINK_0278",
+      "value": "Command your partner: \"Tempt me with your most confident expression.\" Then, drink. 3"
+    },
+    {
+      "key": "DRINK_0279",
+      "value": "Slowly trace the line of your partner's spine with your fingertip, and take a drink. 3"
+    },
+    {
+      "key": "DRINK_0280",
+      "value": "Say, \"I dreamed about you last night... it was a really hot dream,\" and take a drink. 3"
+    },
+    {
+      "key": "DRINK_0281",
+      "value": "Have your partner leave a kiss mark on your glass, then drink from that spot. 3"
+    },
+    {
+      "key": "DRINK_0282",
+      "value": "Gently kiss the inside of your partner's wrist and take a drink. 3"
+    },
+    {
+      "key": "DRINK_0283",
+      "value": "\"Dangerously\" fiddle with your partner's belt (or waistband) and take a drink. 3"
+    },
+    {
+      "key": "DRINK_0284",
+      "value": "Gently kiss the back of your partner's knee and take a drink. 3"
+    },
+    {
+      "key": "DRINK_0285",
+      "value": "Playfully command, \"You lost. As a penalty, take off one item of clothing,\" and drink. 3"
+    },
+    {
+      "key": "DRINK_0286",
+      "value": "Hold a snack with your lips and have your partner take it with their mouth. 3"
+    },
+    {
+      "key": "DRINK_0287",
+      "value": "Gently massage your partner's ankle for 10 seconds and take a drink.  3"
+    },
+    {
+      "key": "DRINK_0288",
+      "value": "Touch your partner's lips with your finger and say, \"Shh, it's a secret,\" then drink. 3"
+    },
+    {
+      "key": "DRINK_0289",
+      "value": "Command your partner, \"Kiss me. Now,\" and take a drink. 3"
+    },
+    {
+      "key": "DRINK_0290",
+      "value": "Gently lift your partner's shirt and blow softly on their stomach, then drink. 3"
+    },
+    {
+      "key": "DRINK_0291",
+      "value": "Take a drink, say \"I want to hear your heartbeat,\" and rest your ear on their chest. 3"
+    },
+    {
+      "key": "DRINK_0292",
+      "value": "Gently lick the back of your partner's hand for 10 seconds and take a drink.  3"
+    },
+    {
+      "key": "DRINK_0293",
+      "value": "Trace the line of your partner's collarbone with your lips and take a drink. 3"
+    },
+    {
+      "key": "DRINK_0294",
+      "value": "Whisper, \"If you want it, I can do... worse things,\" and take a drink. 3"
+    },
+    {
+      "key": "DRINK_0295",
+      "value": "Close your eyes and just caress each other's hands for 1 minute. Then, one drink each.  3"
+    },
+    {
+      "key": "DRINK_0296",
+      "value": "Hold your partner's chin, pause for 5 sec as if you're about to kiss, then you drink.  3"
+    },
+    {
+      "key": "DRINK_0297",
+      "value": "Sit on your partner's lap, wrap your arms around their neck, and make eye contact for 10 sec.  3"
+    },
+    {
+      "key": "DRINK_0298",
+      "value": "Cover your partner's eyes, whisper where you'll kiss, then kiss a different spot (wrist/cheek). 3"
+    },
+    {
+      "key": "DRINK_0299",
+      "value": "Interlace your fingers with your partner's, and use their hand to caress your own thigh. 3"
+    },
+    {
+      "key": "DRINK_0300",
+      "value": "Pause 1 inch from your partner's lips for 10 seconds, tempting them, then pull back and drink.  3"
+    },
+    {
+      "key": "DRINK_0301",
+      "value": "Say, \"It's your turn. Take one item of your clothing off for me,\" and drink. 4"
+    },
+    {
+      "key": "DRINK_0302",
+      "value": "Take your partner's hand and place it over your clothes on your \"most secret spot\" for 10 sec.  4"
+    },
+    {
+      "key": "DRINK_0303",
+      "value": "Declare, \"Tonight, you can't do anything... without my permission,\" and drink. 4"
+    },
+    {
+      "key": "DRINK_0304",
+      "value": "Blindfold your partner, then give them three kisses on three different parts of their body. 4"
+    },
+    {
+      "key": "DRINK_0305",
+      "value": "Lay your partner down, press your body over their clothes against theirs for 10 sec, and drink.  4"
+    },
+    {
+      "key": "DRINK_0306",
+      "value": "\"Tease\" your partner by breathing hotly into their ear for 10 seconds, and take a drink.  4"
+    },
+    {
+      "key": "DRINK_0307",
+      "value": "Let your fingers hover and \"explore\" just above your partner's \"most secret spot\" for 10 sec.  4"
+    },
+    {
+      "key": "DRINK_0308",
+      "value": "\"Tease\" your partner's lips for 10 sec, lightly biting and licking them, then drink.  4"
+    },
+    {
+      "key": "DRINK_0309",
+      "value": "Declare, \"Your limit is... my pleasure,\" and take a drink. 4"
+    },
+    {
+      "key": "DRINK_0310",
+      "value": "Slide your hand inside your partner's clothes and tease their \"most sensitive spot\" 15s.  4"
+    },
+    {
+      "key": "DRINK_0311",
+      "value": "Spread your partner's legs, sit between them, make eye contact for 10 sec, and drink.  4"
+    },
+    {
+      "key": "DRINK_0312",
+      "value": "Have your partner stimulate your \"most thrilling point\" with their fingers for 10 sec.  4"
+    },
+    {
+      "key": "DRINK_0313",
+      "value": "For 1 min, you are the \"Master/Mistress.\" Command your partner to do one thing. Then, drink.  4"
+    },
+    {
+      "key": "DRINK_0314",
+      "value": "Say, \"I want to explore... all your body's 'secret doors',\" and take a drink. 4"
+    },
+    {
+      "key": "DRINK_0315",
+      "value": "Mime kissing your partner's \"most secret spot\" for 10 seconds, and take a drink.  4"
+    },
+    {
+      "key": "DRINK_0316",
+      "value": "Say, \"I want to draw a map of you... on my body,\" and take a drink. 4"
+    },
+    {
+      "key": "DRINK_0317",
+      "value": "Declare, \"I really can't wait any longer,\" and undo one more of their clothes/items. 4"
+    },
+    {
+      "key": "DRINK_0318",
+      "value": "Drop a drop of alcohol on your partner's \"secret spot\" (over clothes) and mime licking it off. 4"
+    },
+    {
+      "key": "DRINK_0319",
+      "value": "Whisper, \"Tonight... I'm going to make you think only of me,\" and drink. 4"
+    },
+    {
+      "key": "DRINK_0320",
+      "value": "Command, \"Prove to me how much you want me... with your body,\" and take a drink. 4"
+    },
+    {
+      "key": "DRINK_0321",
+      "value": "Take your partner's wrist, place their hand on your heart (chest), and hold eye contact for 10 sec.  4"
+    },
+    {
+      "key": "DRINK_0322",
+      "value": "Slide your hand inside your partner's clothes and rest it on their heart for 10 sec.  4"
+    },
+    {
+      "key": "DRINK_0323",
+      "value": "\"Tease\" your partner's \"most secret charm\" only with your lips for 1 minute.  4"
+    },
+    {
+      "key": "DRINK_0324",
+      "value": "Say, \"This is our last drink. Shall we go to bed now?\" and drink the final glass. 4"
     },
     {
       "key": "VS_0001",
