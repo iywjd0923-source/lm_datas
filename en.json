@@ -282,83 +282,163 @@
     },
     {
       "key": "DRINK_0001",
-      "value": "Pass a drink to your partner from your mouth.2"
+      "value": "Bottoms up! Now, ask your partner to do the same. 1"
     },
     {
       "key": "DRINK_0002",
-      "value": "Take a shot and kiss your partner.2"
+      "value": "Eat a snack and act like it's the best food on Earth for 5 sec! Fail? Take a penalty drink! 1"
     },
     {
       "key": "DRINK_0003",
-      "value": "If you're turned on, take a shot. Otherwise, pass.3"
+      "value": "Kiss your partner's hand like a knight, then politely offer them a drink. 1"
     },
     {
       "key": "DRINK_0004",
-      "value": "Take a shot with your partner.1"
+      "value": "Stand up and strike your most confident \"main character\" pose for 5 sec! If you act shy, take a drink! 1"
     },
     {
       "key": "DRINK_0005",
-      "value": "Do a sexy body wave and take a shot.1"
+      "value": "Rate your love for your partner from 1 to 10! Clap that many times, then take a drink! 1"
     },
     {
       "key": "DRINK_0006",
-      "value": "Take a shot and hug your partner.1"
+      "value": "\"May I please have a drink?\" Ask your partner sweetly for permission, then drink. 1"
     },
     {
       "key": "DRINK_0007",
-      "value": "Ask your partner to drink your shot (if they refuse, they drink two).1"
+      "value": "Pour a drink and politely hand it to your partner. (They must down it!) 1"
     },
     {
       "key": "DRINK_0008",
-      "value": "Take a shot, then make a penalty drink for the next person who has to.1"
+      "value": "Challenge your partner to a staring contest! The first person to laugh takes a drink. 1"
     },
     {
       "key": "DRINK_0009",
-      "value": "Drink the number of shots your partner tells you to (max 3).1"
+      "value": "Play Rock Paper Scissors! If you lose, take two drinks. If you win, take (just) one. 1"
     },
     {
       "key": "DRINK_0010",
-      "value": "Take a shot and let your partner feed you a snack.1"
+      "value": "Name 3 good things about your partner in 10 sec! Fail? Down two drinks! [10] 1"
     },
     {
       "key": "DRINK_0011",
-      "value": "After taking a shot, show how it tastes with an exaggerated expression.1"
+      "value": "Tell your corniest dad joke! If your partner doesn't laugh, take a drink. 1"
     },
     {
       "key": "DRINK_0012",
-      "value": "Link arms with your partner and take a shot together.2"
+      "value": "Sweetly feed your partner one bite of a snack, then you take a drink with satisfaction! 1"
     },
     {
       "key": "DRINK_0013",
-      "value": "Spin around 10 times (dizzy bat), then feed a shot to your partner.1"
+      "value": "Cleanse your palate with a glass of water (down it!), then follow up with one shot of alcohol (down it!) 1"
     },
     {
       "key": "DRINK_0014",
-      "value": "If you want to have sex with your partner, take a shot.3"
+      "value": "For 5 sec, make a face like a commercial model tasting this drink! Then, take a drink. [5] 1"
     },
     {
       "key": "DRINK_0015",
-      "value": "Make a toast and drink together.1"
+      "value": "Make a special cocktail together with your partner. You take the first sip! 1"
     },
     {
       "key": "DRINK_0016",
-      "value": "Level 4 Example4"
+      "value": "Say, \"If I finish this drink, you're mine,\" then down it! 1"
     },
     {
       "key": "DRINK_0017",
-      "value": "Down your drink, then kiss one of your partner's erogenous zones.4"
+      "value": "Take a selfie with your best \"pic of a lifetime\" face! If your partner doesn't like it, take a drink! 1"
     },
     {
       "key": "DRINK_0018",
-      "value": "Take a shot, and as the 'King', command your partner to perform one intimate action.4"
+      "value": "\"Cheers!\" to your partner with love! Clink glasses, then drink. 1"
     },
     {
       "key": "DRINK_0019",
-      "value": "Take a shot and give your partner a finger heart.1"
+      "value": "Recite the most romantic movie line you know, then take a drink. 1"
     },
     {
       "key": "DRINK_0020",
-      "value": "Take a shot and get spanked by your partner.3"
+      "value": "Drink half your glass, then hand it to your partner and say, \"The rest is for you.\" 1"
+    },
+    {
+      "key": "DRINK_0021",
+      "value": "Compliment one specific part of your partner (e.g., \"Your smile is lovely\"), then take a drink! 1"
+    },
+    {
+      "key": "DRINK_0022",
+      "value": "Say, \"I'm getting drunk on you...\" then stare deeply into your partner's eyes for 5 sec and drink. [5] 1"
+    },
+    {
+      "key": "DRINK_0023",
+      "value": "Do 3 squats while holding your drink, then take a drink! 1"
+    },
+    {
+      "key": "DRINK_0024",
+      "value": "Get your partner to say \"I love you\" to you! If you can't (T_T), you drink two! 1"
+    },
+    {
+      "key": "DRINK_0025",
+      "value": "Gently pinch your partner's cheek, say \"Cute!\" and then take a drink! 1"
+    },
+    {
+      "key": "DRINK_0026",
+      "value": "For the next 5 min, only use a foreign language! Drink one every time you use your native language. [5 min] 1"
+    },
+    {
+      "key": "DRINK_0027",
+      "value": "Drink one glass with the happiest face in the world. 1"
+    },
+    {
+      "key": "DRINK_0028",
+      "value": "Challenge your partner to a hand-pushing game! If you lose, take a drink. 1"
+    },
+    {
+      "key": "DRINK_0029",
+      "value": "Show off a personal talent (finger wave, funny face, etc.) and drink! If you have none, drink two! 1"
+    },
+    {
+      "key": "DRINK_0030",
+      "value": "Change your voice to a baby voice and say, \"Pwease give me a dwink~\" then drink. 1"
+    },
+    {
+      "key": "DRINK_0031",
+      "value": "High-five your partner, and then both of you drink at the same time! 1"
+    },
+    {
+      "key": "DRINK_0032",
+      "value": "Give your partner a shoulder massage. If you hear a \"Thank you,\" mission complete! Take a drink! 1"
+    },
+    {
+      "key": "DRINK_0033",
+      "value": "Challenge your partner to an arm-wrestling match! (Go easy on them?) If you lose, take a drink! 1"
+    },
+    {
+      "key": "DRINK_0034",
+      "value": "Blow a kiss to your partner! (Then act shy) and quickly drink one! 1"
+    },
+    {
+      "key": "DRINK_0035",
+      "value": "Make the stupidest face you can with your partner and take a selfie! Then, one drink each! 1"
+    },
+    {
+      "key": "DRINK_0036",
+      "value": "Pat your partner on the back, say, \"You worked hard today,\" and take a drink. 1"
+    },
+    {
+      "key": "DRINK_0037",
+      "value": "Say what animal your partner resembles! (e.g., a cute hamster?) If they agree, one drink each! 1"
+    },
+    {
+      "key": "DRINK_0038",
+      "value": "Name one thing you and your partner have in common! (e.g., We're both cute!) Then, take a drink! 1"
+    },
+    {
+      "key": "DRINK_0039",
+      "value": "Talk about the moment you first felt a spark for your partner, then take a drink. 1"
+    },
+    {
+      "key": "DRINK_0040",
+      "value": "Talk about a moment when you felt most grateful to your partner, then take a drink. 1"
     },
     {
       "key": "VS_0001",
