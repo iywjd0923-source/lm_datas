@@ -282,83 +282,163 @@
     },
     {
       "key": "DRINK_0001",
-      "value": "ddwdawd1"
+      "value": "Cul sec ! Maintenant, propose à ton partenaire de faire de même. 1"
     },
     {
       "key": "DRINK_0002",
-      "value": "dd2"
+      "value": "Mange un snack et joue la comédie pendant 5s comme si c'était divin ! Échoué ? Un gage ! 1"
     },
     {
       "key": "DRINK_0003",
-      "value": "dd3"
+      "value": "Baise la main de ton partenaire tel un chevalier, puis offre-lui un verre poliment. 1"
     },
     {
       "key": "DRINK_0004",
-      "value": "dd4"
+      "value": "Lève-toi et prends ta pose la plus confiante pendant 5s ! Si tu es timide, bois un coup ! [5] 1"
     },
     {
       "key": "DRINK_0005",
-      "value": "ddwdawd1"
+      "value": "Note ton amour pour ton partenaire de 1 à 10 ! Applaudis ce nombre de fois, puis bois un coup ! 1"
     },
     {
       "key": "DRINK_0006",
-      "value": "dd2"
+      "value": "« Puis-je boire un verre ? » Demande gentiment la permission à ton partenaire, puis bois. 1"
     },
     {
       "key": "DRINK_0007",
-      "value": "dd3"
+      "value": "Sers un verre et tends-le poliment à ton partenaire. (Il/Elle doit le boire cul sec !) 1"
     },
     {
       "key": "DRINK_0008",
-      "value": "dd4"
+      "value": "Propose un concours de regards à ton partenaire ! Le premier qui rit boit un coup. 1"
     },
     {
       "key": "DRINK_0009",
-      "value": "dd1"
+      "value": "Jouez à Pierre-feuille-ciseaux ! Si tu perds, bois 2 coups. Si tu gagnes, bois-en (juste) 1. 1"
     },
     {
       "key": "DRINK_0010",
-      "value": "dd2"
+      "value": "Dis 3 qualités de ton partenaire en 10s ! Échoué ? Bois 2 culs secs ! [10] 1"
     },
     {
       "key": "DRINK_0011",
-      "value": "dd3"
+      "value": "Raconte ta blague de papa la plus nulle ! Si ton partenaire ne rit pas, bois un coup. 1"
     },
     {
       "key": "DRINK_0012",
-      "value": "dd4"
+      "value": "Donne gentiment un snack à manger à ton partenaire, puis bois un coup, l'air satisfait ! 1"
     },
     {
       "key": "DRINK_0013",
-      "value": "dd1"
+      "value": "Rince-toi la bouche avec un verre d'eau (cul sec !), puis enchaîne avec un verre d'alcool (cul sec !) 1"
     },
     {
       "key": "DRINK_0014",
-      "value": "dd2"
+      "value": "Pendant 5s, réagis à ta boisson comme dans une pub ! Puis, bois un coup. [5] 1"
     },
     {
       "key": "DRINK_0015",
-      "value": "dd3"
+      "value": "Créez un cocktail unique à deux. Tu bois le premier ! 1"
     },
     {
       "key": "DRINK_0016",
-      "value": "dd4"
+      "value": "Dis « Si je finis ce verre, tu es à moi », puis bois cul sec ! 1"
     },
     {
       "key": "DRINK_0017",
-      "value": "dd1"
+      "value": "Prends un selfie avec ta meilleure pose ! Si ton partenaire n'aime pas, bois un coup. 1"
     },
     {
       "key": "DRINK_0018",
-      "value": "dd2"
+      "value": "Trinquez avec amour avec votre partenaire ! « Tchin ! », puis buvez. 1"
     },
     {
       "key": "DRINK_0019",
-      "value": "dd3"
+      "value": "Récite la réplique de film la plus romantique que tu connaisses, puis bois avec élégance. 1"
     },
     {
       "key": "DRINK_0020",
-      "value": "dd4"
+      "value": "Bois la moitié de ton verre, puis tends-le à ton partenaire en disant : « Le reste est pour toi. » 1"
+    },
+    {
+      "key": "DRINK_0021",
+      "value": "Fais un compliment précis à ton partenaire (ex: \"Ton sourire est sublime\"), puis bois un coup ! 1"
+    },
+    {
+      "key": "DRINK_0022",
+      "value": "Dis « C'est toi qui me soûle... » puis plonge ton regard dans le sien pendant 5s et bois. [5] 1"
+    },
+    {
+      "key": "DRINK_0023",
+      "value": "Fais 3 squats en tenant ton verre, puis bois un coup ! 1"
+    },
+    {
+      "key": "DRINK_0024",
+      "value": "Fais en sorte que ton partenaire te dise « Je t'aime » ! Si tu n'y arrives pas (T_T), tu bois 2 coups ! 1"
+    },
+    {
+      "key": "DRINK_0025",
+      "value": "Pince gentiment la joue de ton partenaire, dis « Mignon ! » puis bois un coup ! 1"
+    },
+    {
+      "key": "DRINK_0026",
+      "value": "Pendant 5 min, parlez uniquement une langue étrangère ! Buvez un coup chaque fois que vous parlez votre langue maternelle. [5 min] 1"
+    },
+    {
+      "key": "DRINK_0027",
+      "value": "Bois un verre avec le visage le plus heureux du monde. 1"
+    },
+    {
+      "key": "DRINK_0028",
+      "value": "Propose un jeu de \"pousse-mains\" à ton partenaire ! Si tu perds, bois un coup. 1"
+    },
+    {
+      "key": "DRINK_0029",
+      "value": "Montre un de tes talents (vague avec les doigts, grimace...) et bois ! Si tu n'en as pas, bois-en deux ! 1"
+    },
+    {
+      "key": "DRINK_0030",
+      "value": "Prends une voix de bébé et dis « Un 'tit verre, 'il te plaît ? » puis bois. 1"
+    },
+    {
+      "key": "DRINK_0031",
+      "value": "Tape dans la main de ton partenaire ! Et buvez un coup en même temps ! 1"
+    },
+    {
+      "key": "DRINK_0032",
+      "value": "Masse les épaules de ton partenaire. Si tu entends un « Merci », mission accomplie ! Bois un coup ! 1"
+    },
+    {
+      "key": "DRINK_0033",
+      "value": "Propose un bras de fer à ton partenaire ! (Vas-y doucement ?) Si tu perds, bois un coup ! 1"
+    },
+    {
+      "key": "DRINK_0034",
+      "value": "Envoie un baiser volant à ton partenaire ! (Sois timide) Puis bois vite un coup ! 1"
+    },
+    {
+      "key": "DRINK_0035",
+      "value": "Prenez un selfie en faisant la grimace la plus stupide possible ! Puis, un coup chacun ! 1"
+    },
+    {
+      "key": "DRINK_0036",
+      "value": "Tape dans le dos de ton partenaire en disant « Belle journée aujourd'hui », puis bois un coup. 1"
+    },
+    {
+      "key": "DRINK_0037",
+      "value": "Dis à quel animal ton partenaire te fait penser ! (ex: un hamster mignon ?) S'il/elle est d'accord, un coup chacun ! 1"
+    },
+    {
+      "key": "DRINK_0038",
+      "value": "Dis un point commun que vous avez ! (ex: \"On est tous les deux mignons !\") Puis, bois un coup ! 1"
+    },
+    {
+      "key": "DRINK_0039",
+      "value": "Raconte le premier moment où tu as ressenti une étincelle pour ton partenaire, puis bois un coup. 1"
+    },
+    {
+      "key": "DRINK_0040",
+      "value": "Raconte le moment où tu as été le plus reconnaissant(e) envers ton partenaire, puis bois un coup. 1"
     },
     {
       "key": "VS_0001",
