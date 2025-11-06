@@ -97,84 +97,80 @@
       "value": "Mission complete?"
     },
     {
-      "key": "Level_soft",
-      "value": "Soft"
+      "key": "result_comment",
+      "value": "Want something spicier? We recommend the next level! ;)"
     },
     {
-      "key": "Level_hot",
-      "value": "HOT"
+      "key": "result_replay",
+      "value": "Play Again"
     },
     {
-      "key": "Level_sexy",
-      "value": "Sexy"
-    },
-    {
-      "key": "Level_extream",
-      "value": "Extream"
+      "key": "result_other",
+      "value": "Other Levels"
     },
     {
       "key": "LOVE_0001",
-      "value": "Action Hell1"
+      "value": "What meal do you want to eat with your partner the most right now?"
     },
     {
       "key": "LOVE_0002",
-      "value": "Action Hell2"
+      "value": "What snack do you want to eat with your partner the most right now?"
     },
     {
       "key": "LOVE_0003",
-      "value": "Action Hell3"
+      "value": "What dessert do you want to eat with your partner the most right now?"
     },
     {
       "key": "LOVE_0004",
-      "value": "Action Hell4"
+      "value": "What meal do you want to have with your partner on your next date?"
     },
     {
       "key": "LOVE_0005",
-      "value": "Action Hell1"
+      "value": "What snack do you want to have with your partner on your next date?"
     },
     {
       "key": "LOVE_0006",
-      "value": "Action Hell2"
+      "value": "What dessert do you want to have with your partner on your next date?"
     },
     {
       "key": "LOVE_0007",
-      "value": "Action Hell3"
+      "value": "What's the best meal you've ever had with your partner?"
     },
     {
       "key": "LOVE_0008",
-      "value": "Action Hell4"
+      "value": "What's the worst meal you've ever had with your partner?"
     },
     {
       "key": "LOVE_0009",
-      "value": "Action Hell1"
+      "value": "What's the best snack you've ever had with your partner?"
     },
     {
       "key": "LOVE_0010",
-      "value": "Action Hell2"
+      "value": "What's the worst snack you've ever had with your partner?"
     },
     {
       "key": "LOVE_0011",
-      "value": "Action Hell3"
+      "value": "What's the best dessert you've ever had with your partner?"
     },
     {
       "key": "LOVE_0012",
-      "value": "Action Hell4"
+      "value": "What's the worst dessert you've ever had with your partner?"
     },
     {
       "key": "LOVE_0013",
-      "value": "Action Hell1"
+      "value": "Have you ever pretended food was delicious while eating with your partner? If so, please tell us."
     },
     {
       "key": "LOVE_0014",
-      "value": "Action Hell2"
+      "value": "If you could only eat one food with your partner for the rest of your life, what would you choose?"
     },
     {
       "key": "LOVE_0015",
-      "value": "Action Hell3"
+      "value": "What's one food you wish your partner would make for you?"
     },
     {
       "key": "LOVE_0016",
-      "value": "Action Hell4"
+      "value": "What's one food you wish your partner would try eating with you? (e.g., something they dislike)"
     },
     {
       "key": "SEXY_0001",
