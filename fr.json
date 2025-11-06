@@ -173,6 +173,2258 @@
       "value": "Quel plat aimerais-tu que ton partenaire accepte de manger avec toi ? (ex: un truc qu'il/elle n'aime pas)"
     },
     {
+      "key": "LOVE_0017",
+      "value": "Quel plat aimerais-tu cuisiner avec ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0018",
+      "value": "Si ton partenaire adorait manger des cafards, pourrais-tu quand même l'embrasser ?"
+    },
+    {
+      "key": "LOVE_0019",
+      "value": "Si ton partenaire te cuisinait un plat à base d'insectes, pourrais-tu le manger (et dire que c'est bon) ?"
+    },
+    {
+      "key": "LOVE_0020",
+      "value": "Comment noterais-tu les talents de cuisinier de ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0021",
+      "value": "Y a-t-il un aliment que tu aimerais que ton partenaire arrête de manger ? Pourquoi ?"
+    },
+    {
+      "key": "LOVE_0022",
+      "value": "Y a-t-il un plat spécial que tu aimerais manger pour votre anniversaire ?"
+    },
+    {
+      "key": "LOVE_0023",
+      "value": "Y a-t-il un restaurant spécifique où tu aimerais aller pour votre anniversaire ?"
+    },
+    {
+      "key": "LOVE_0024",
+      "value": "Quel est le meilleur restaurant où vous êtes allés ensemble ?"
+    },
+    {
+      "key": "LOVE_0025",
+      "value": "Y a-t-il un restaurant où tu aimerais aller avec ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0026",
+      "value": "Préférerais-tu que ton partenaire cuisine pour toi, ou que tu cuisines pour lui/elle ?"
+    },
+    {
+      "key": "LOVE_0027",
+      "value": "Que ferais-tu si le plat de ton partenaire était mauvais ? Ferais-tu semblant d'aimer ?"
+    },
+    {
+      "key": "LOVE_0028",
+      "value": "Que ferais-tu si ton partenaire n'avait pas l'air d'aimer la cuisine de tes parents ?"
+    },
+    {
+      "key": "LOVE_0029",
+      "value": "Penses-tu que ton partenaire aimera la cuisine de tes parents ? Pourquoi ?"
+    },
+    {
+      "key": "LOVE_0030",
+      "value": "Que ferais-tu si tu mangeais chez les parents de ton partenaire et que ce n'était pas bon ?"
+    },
+    {
+      "key": "LOVE_0031",
+      "value": "Quelle cuisine internationale aimerais-tu manger avec ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0032",
+      "value": "Y a-t-il un restaurant à l'étranger où tu aimerais aller avec ton partenaire ? Lequel ?"
+    },
+    {
+      "key": "LOVE_0033",
+      "value": "Que ferais-tu si tu allais embrasser ton partenaire et qu'il/elle avait mauvaise haleine ?"
+    },
+    {
+      "key": "LOVE_0034",
+      "value": "Si vous viviez ensemble, aimerais-tu que ton partenaire fasse la vaisselle ?"
+    },
+    {
+      "key": "LOVE_0035",
+      "value": "Quels sont les aliments que tu ne peux pas manger ?"
+    },
+    {
+      "key": "LOVE_0036",
+      "value": "Si tu devais choisir tes trois plats préférés, ce seraient lesquels ?"
+    },
+    {
+      "key": "LOVE_0037",
+      "value": "Si tu ne pouvais manger qu'une seule chose pour le reste de ta vie : fruits de mer ou viande ?"
+    },
+    {
+      "key": "LOVE_0038",
+      "value": "Quel parfum de glace as-tu envie de manger avec ton partenaire, là, maintenant ?"
+    },
+    {
+      "key": "LOVE_0039",
+      "value": "Quel plat aimerais-tu cuisiner pour ton partenaire, et pourquoi ?"
+    },
+    {
+      "key": "LOVE_0040",
+      "value": "Si vous cuisiniez à la maison pour votre anniversaire, quel plat aimeriez-vous préparer ensemble ?"
+    },
+    {
+      "key": "LOVE_0041",
+      "value": "Si vous ne deviez manger que de la cuisine étrangère avec ton partenaire, laquelle choisirais-tu ?"
+    },
+    {
+      "key": "LOVE_0042",
+      "value": "Où aimerais-tu aller pique-niquer (avec un panier-repas) avec ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0043",
+      "value": "Si tu préparais un pique-nique avec ton partenaire, quel plat aimerais-tu cuisiner ?"
+    },
+    {
+      "key": "LOVE_0044",
+      "value": "Dans le futur, quel genre de petit-déjeuner aimerais-tu prendre chaque matin avec ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0045",
+      "value": "Dans le futur, préfères-tu que ce soit ton partenaire qui cuisine, ou que ce soit toi ?"
+    },
+    {
+      "key": "LOVE_0046",
+      "value": "Quelle est ta vision du \"petit-déjeuner parfait\" avec ton partenaire dans le futur ?"
+    },
+    {
+      "key": "LOVE_0047",
+      "value": "Quand vous voyagez ensemble, quel est le premier plat local que tu veux manger ?"
+    },
+    {
+      "key": "LOVE_0048",
+      "value": "Si tu pars camper avec ton partenaire, quel est le plat n°1 que tu veux manger ?"
+    },
+    {
+      "key": "LOVE_0049",
+      "value": "Quel est ton dîner idéal pour un rendez-vous amoureux avec ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0050",
+      "value": "Y a-t-il une nouvelle recette que vous aimeriez essayer de cuisiner ensemble ?"
+    },
+    {
+      "key": "LOVE_0051",
+      "value": "Quel est ton restaurant \"fétiche\", et quel plat veux-tu y manger avec ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0052",
+      "value": "Quel est le sujet de conversation le plus mémorable que vous ayez eu en mangeant ensemble ?"
+    },
+    {
+      "key": "LOVE_0053",
+      "value": "Quelle est la prochaine livraison de repas que tu veux commander avec ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0054",
+      "value": "De quelle livraison de repas as-tu envie avec ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0055",
+      "value": "Quel type de pain aimerais-tu cuisiner/cuire avec ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0056",
+      "value": "Y a-t-il un festival culinaire (local ou international) où tu aimerais aller avec ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0057",
+      "value": "Quelle est ton idée du \"repas d'anniversaire parfait\" ?"
+    },
+    {
+      "key": "LOVE_0058",
+      "value": "Quelle nourriture aimerais-tu manger avec ton partenaire pour son anniversaire ?"
+    },
+    {
+      "key": "LOVE_0059",
+      "value": "Y a-t-il un plat spécial que tu aimerais cuisiner pour l'anniversaire de ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0060",
+      "value": "Si vous pouviez apprendre à cuisiner un plat ensemble, lequel choisiriez-vous ?"
+    },
+    {
+      "key": "LOVE_0061",
+      "value": "De tous les cafés où vous êtes allés, lequel avait la meilleure ambiance ?"
+    },
+    {
+      "key": "LOVE_0062",
+      "value": "De tous les cafés où vous êtes allés, lequel servait le meilleur café (ou boisson) ?"
+    },
+    {
+      "key": "LOVE_0063",
+      "value": "Quel thème ou concept aimeriez-vous pour une fête à la maison (home party) ensemble ?"
+    },
+    {
+      "key": "LOVE_0064",
+      "value": "Penses-tu que n'importe quel plat serait délicieux, tant que tu le manges avec ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0065",
+      "value": "Quelle est la chose la plus importante pour toi lorsque vous cuisinez ensemble ?"
+    },
+    {
+      "key": "LOVE_0066",
+      "value": "Quel plat traditionnel (de ta culture, par ex.) aimerais-tu manger avec ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0067",
+      "value": "Y a-t-il une chose que tu voudrais absolument inclure dans votre petit-déjeuner ensemble ?"
+    },
+    {
+      "key": "LOVE_0068",
+      "value": "Quel \"street food\" (plat de rue) aimerais-tu manger avec ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0069",
+      "value": "Quel snack de fin de soirée (munchies) aimerais-tu partager avec ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0070",
+      "value": "Qu'est-ce qui compte le plus lors d'un repas à deux ? (ex: l'ambiance, la qualité, la conversation)"
+    },
+    {
+      "key": "LOVE_0071",
+      "value": "Penses-tu que les fêtes romantiques (comme la St-Valentin) sont importantes ? Pourquoi ?"
+    },
+    {
+      "key": "LOVE_0072",
+      "value": "Y a-t-il un restaurant \"exotique\" où tu aimerais aller avec ton partenaire ? Pourquoi ?"
+    },
+    {
+      "key": "LOVE_0073",
+      "value": "Quel est votre souvenir le plus mémorable d'un repas partagé ensemble ?"
+    },
+    {
+      "key": "LOVE_0074",
+      "value": "Dans le futur, combien de repas par jour aimerais-tu partager avec ton partenaire ? Pourquoi ?"
+    },
+    {
+      "key": "LOVE_0075",
+      "value": "Y a-t-il un restaurant chic où tu aimerais aller ? Que commanderais-tu ?"
+    },
+    {
+      "key": "LOVE_0076",
+      "value": "Quel est ton plan de repas idéal pour un anniversaire (occasion) spécial ?"
+    },
+    {
+      "key": "LOVE_0077",
+      "value": "Y a-t-il un plat que font tes parents que tu aimerais vraiment faire goûter à ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0078",
+      "value": "Quel plat que tu adorais enfant aimerais-tu manger avec ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0079",
+      "value": "Quel plat \"horrible\" devais-tu manger enfant ? Penses-tu que ton partenaire aimerait ?"
+    },
+    {
+      "key": "LOVE_0080",
+      "value": "Quelle est l'idée de ton partenaire du \"repas maison parfait\" ?"
+    },
+    {
+      "key": "LOVE_0081",
+      "value": "Quel \"restaurant pépite\" (caché) que tu veux découvrir avec ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0082",
+      "value": "As-tu une \"recette secrète/personnelle\" que tu aimerais faire goûter à ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0083",
+      "value": "Dans quel pays aimerais-tu voyager avec ton partenaire ? Pourquoi ?"
+    },
+    {
+      "key": "LOVE_0084",
+      "value": "Quelle destination dans votre pays aimeriez-vous visiter ensemble ? Pourquoi ?"
+    },
+    {
+      "key": "LOVE_0085",
+      "value": "Y a-t-il une plage (ou mer) où tu aimerais aller avec ton partenaire ? Pourquoi ?"
+    },
+    {
+      "key": "LOVE_0086",
+      "value": "Y a-t-il une montagne où tu aimerais aller avec ton partenaire ? Pourquoi ?"
+    },
+    {
+      "key": "LOVE_0087",
+      "value": "Y a-t-il un parc où tu aimerais aller avec ton partenaire ? Pourquoi ?"
+    },
+    {
+      "key": "LOVE_0088",
+      "value": "Y a-t-il un lieu de rendez-vous (date) où tu aimerais aller avec ton partenaire ? Pourquoi ?"
+    },
+    {
+      "key": "LOVE_0089",
+      "value": "Y a-t-il un parc où tu aimerais aller avec ton partenaire ? Pourquoi ?"
+    },
+    {
+      "key": "LOVE_0090",
+      "value": "Y a-t-il un parc d'attractions où tu aimerais aller avec ton partenaire ? Pourquoi ?"
+    },
+    {
+      "key": "LOVE_0091",
+      "value": "Y a-t-il un festival à l'étranger où tu aimerais aller avec ton partenaire ? Pourquoi ?"
+    },
+    {
+      "key": "LOVE_0092",
+      "value": "Y a-t-il un festival local (dans votre pays) où tu aimerais aller avec ton partenaire ? Pourquoi ?"
+    },
+    {
+      "key": "LOVE_0093",
+      "value": "Quel site historique aimerais-tu visiter avec ton partenaire ? Une raison particulière ?"
+    },
+    {
+      "key": "LOVE_0094",
+      "value": "Quelle est votre destination de rêve (vacances) ? Qu'aimeriez-vous y faire ?"
+    },
+    {
+      "key": "LOVE_0095",
+      "value": "Y a-t-il une attraction (manège) que tu veux absolument essayer avec ton partenaire ? Pourquoi ?"
+    },
+    {
+      "key": "LOVE_0096",
+      "value": "Y a-t-il une ville ou un village que tu aimerais visiter avec ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0097",
+      "value": "Y a-t-il quelque chose que tu aimerais faire à la plage avec ton partenaire ? Pourquoi ?"
+    },
+    {
+      "key": "LOVE_0098",
+      "value": "Où aimerais-tu aller faire du camping avec ton partenaire ? Pourquoi ?"
+    },
+    {
+      "key": "LOVE_0099",
+      "value": "Où aimerais-tu aller voir une vue nocturne avec ton partenaire ? Pourquoi ?"
+    },
+    {
+      "key": "LOVE_0100",
+      "value": "Où aimeriez-vous aller pour trouver des traces de civilisation ancienne ? Quelle histoire voulez-vous y apprendre ?"
+    },
+    {
+      "key": "LOVE_0101",
+      "value": "Y a-t-il un stade où tu aimerais voir un match de sport avec ton partenaire ? Pourquoi ?"
+    },
+    {
+      "key": "LOVE_0102",
+      "value": "Y a-t-il un fleuve célèbre que tu aimerais visiter avec ton partenaire ? Qu'aimerais-tu y faire ?"
+    },
+    {
+      "key": "LOVE_0103",
+      "value": "Y a-t-il un endroit avec une super ambiance où tu aimerais passer du temps à discuter ? Pourquoi ?"
+    },
+    {
+      "key": "LOVE_0104",
+      "value": "Y a-t-il un endroit spécial où tu aimerais embrasser ton partenaire ? Pourquoi ?"
+    },
+    {
+      "key": "LOVE_0105",
+      "value": "Où aimerais-tu aller lors d'une virée en voiture de nuit ? Pourquoi ?"
+    },
+    {
+      "key": "LOVE_0106",
+      "value": "Où aimeriez-vous vivre ensemble dans le futur ? Pourquoi ?"
+    },
+    {
+      "key": "LOVE_0107",
+      "value": "Dans le futur, préférez-vous vivre en ville ou à la campagne ?"
+    },
+    {
+      "key": "LOVE_0108",
+      "value": "Si vous pouviez vivre dans un autre pays pendant un mois, lequel choisiriez-vous ?"
+    },
+    {
+      "key": "LOVE_0109",
+      "value": "Si vous deviez vivre dans un autre pays ensemble, lequel choisiriez-vous ?"
+    },
+    {
+      "key": "LOVE_0110",
+      "value": "Pourrais-tu gérer une relation à distance avec ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0111",
+      "value": "Où aimeriez-vous aller le jour de la première neige ?"
+    },
+    {
+      "key": "LOVE_0112",
+      "value": "Où aimeriez-vous vous promener ensemble ? Pourquoi ?"
+    },
+    {
+      "key": "LOVE_0113",
+      "value": "Y a-t-il un endroit spécial où tu aimerais aller regarder les étoiles ?"
+    },
+    {
+      "key": "LOVE_0114",
+      "value": "Y a-t-il un endroit spécial où tu aimerais voir un magnifique coucher de soleil ?"
+    },
+    {
+      "key": "LOVE_0115",
+      "value": "Y a-t-il une plage tranquille où tu aimerais accueillir le matin ? Que voudrais-tu y faire ?"
+    },
+    {
+      "key": "LOVE_0116",
+      "value": "Où iriez-vous pour échapper au bruit et trouver la tranquillité ensemble ?"
+    },
+    {
+      "key": "LOVE_0117",
+      "value": "Quelle destination gastronomique aimeriez-vous explorer ensemble ?"
+    },
+    {
+      "key": "LOVE_0118",
+      "value": "Y a-t-il un café tranquille où tu aimerais juste t'asseoir, parler et savourer un café ?"
+    },
+    {
+      "key": "LOVE_0119",
+      "value": "Quelle est votre destination de rêve pour le \"voyage de votre vie\" ensemble ?"
+    },
+    {
+      "key": "LOVE_0120",
+      "value": "Où aimeriez-vous célébrer votre mariage avec votre partenaire dans le futur ?"
+    },
+    {
+      "key": "LOVE_0121",
+      "value": "Y a-t-il un \"spot photo\" où tu aimerais faire une photo digne d'une scène de film ?"
+    },
+    {
+      "key": "LOVE_0122",
+      "value": "Où aimerais-tu passer un anniversaire inoubliable ? Qu'aimeriez-vous y faire ?"
+    },
+    {
+      "key": "LOVE_0123",
+      "value": "Y a-t-il un lieu \"ressourçant\" où tu aimerais aller pour ralentir le rythme ?"
+    },
+    {
+      "key": "LOVE_0124",
+      "value": "Si vous partiez à l'aventure, où iriez-vous ? Quelle aventure aimeriez-vous tenter ?"
+    },
+    {
+      "key": "LOVE_0125",
+      "value": "Où aimerais-tu passer un anniversaire (mémorable) ? Qu'aimeriez-vous y faire ?"
+    },
+    {
+      "key": "LOVE_0126",
+      "value": "Si tu étais sur une île déserte avec ton partenaire, quels 3 objets emporterais-tu ?"
+    },
+    {
+      "key": "LOVE_0127",
+      "value": "Y a-t-il un endroit où tu aimerais admirer un magnifique paysage naturel ensemble ?"
+    },
+    {
+      "key": "LOVE_0128",
+      "value": "Où aimerais-tu aller pour passer une nuit romantique inoubliable ensemble ?"
+    },
+    {
+      "key": "LOVE_0129",
+      "value": "Quelle est votre destination de rêve pour une future lune de miel ?"
+    },
+    {
+      "key": "LOVE_0130",
+      "value": "Si vous partiez en lune de miel, dans quel pays aimeriez-vous aller ?"
+    },
+    {
+      "key": "LOVE_0131",
+      "value": "Si vous faisiez une lune de miel locale (dans votre pays), où iriez-vous ?"
+    },
+    {
+      "key": "LOVE_0132",
+      "value": "Si vous partiez apprendre une nouvelle langue ensemble, quel pays choisiriez-vous ?"
+    },
+    {
+      "key": "LOVE_0133",
+      "value": "Si vous partiez étudier à l'étranger ensemble, dans quel pays iriez-vous ?"
+    },
+    {
+      "key": "LOVE_0134",
+      "value": "D'où viens-tu (ville natale) ? Aimerais-tu la visiter avec ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0135",
+      "value": "Si ton partenaire voulait vivre à la campagne dans le futur, accepterais-tu de vivre là-bas ?"
+    },
+    {
+      "key": "LOVE_0136",
+      "value": "Si vous vivez ensemble, préférez-vous vivre près de la mer ou de la montagne ? Pourquoi ?"
+    },
+    {
+      "key": "LOVE_0137",
+      "value": "Si vous planifiez un mariage luxueux, où aimeriez-vous le célébrer ?"
+    },
+    {
+      "key": "LOVE_0138",
+      "value": "Si vous deviez passer vos derniers instants sur Terre ensemble, où aimeriez-vous être ?"
+    },
+    {
+      "key": "LOVE_0139",
+      "value": "Te souviens-tu du lieu de votre première rencontre ? Qu'as-tu ressenti à ce moment-là ?"
+    },
+    {
+      "key": "LOVE_0140",
+      "value": "Si vous deviez renaître et vous rencontrer à nouveau, où aimerais-tu que ce soit ?"
+    },
+    {
+      "key": "LOVE_0141",
+      "value": "Si vous aviez tous les deux l'amnésie, y a-t-il un lieu spécial qui pourrait vous rendre la mémoire ?"
+    },
+    {
+      "key": "LOVE_0142",
+      "value": "Si vous rompiez, où serais-tu et que ferais-tu le lendemain ?"
+    },
+    {
+      "key": "LOVE_0143",
+      "value": "Si vous rompiez, où et comment cela se passerait-il ? Comment réagirais-tu ?"
+    },
+    {
+      "key": "LOVE_0144",
+      "value": "Si vous rompiez et vous recroisiez par hasard 10 ans après, où est-ce que ce serait ?"
+    },
+    {
+      "key": "LOVE_0145",
+      "value": "Si vous voyagiez ensemble dans 30 ans, où aimeriez-vous aller ?"
+    },
+    {
+      "key": "LOVE_0146",
+      "value": "Si vous aviez une machine à remonter le temps, iriez-vous dans le passé ou le futur ? Quelle année ?"
+    },
+    {
+      "key": "LOVE_0147",
+      "value": "Si c'était la fin du monde, où aimerais-tu passer vos derniers instants ensemble ?"
+    },
+    {
+      "key": "LOVE_0148",
+      "value": "Si vous devenez parents, quel genre de parents voulez-vous être ?"
+    },
+    {
+      "key": "LOVE_0149",
+      "value": "Qu'est-ce qui est le plus important, l'amour ou l'amitié ? Pourquoi ?"
+    },
+    {
+      "key": "LOVE_0150",
+      "value": "Si ton partenaire te demandait de lui prêter de l'argent, combien pourrais-tu lui prêter (max) ?"
+    },
+    {
+      "key": "LOVE_0151",
+      "value": "Décris ton partenaire en un seul mot."
+    },
+    {
+      "key": "LOVE_0152",
+      "value": "Quand est-ce que ton partenaire est le plus sexy ? Pourquoi ?"
+    },
+    {
+      "key": "LOVE_0153",
+      "value": "Donne deux raisons pour lesquelles tu aimes ton partenaire."
+    },
+    {
+      "key": "LOVE_0154",
+      "value": "Décris ton partenaire en une seule phrase."
+    },
+    {
+      "key": "LOVE_0155",
+      "value": "Comment est-ce que tu décris ton partenaire à tes amis ?"
+    },
+    {
+      "key": "LOVE_0156",
+      "value": "Raconte un moment où ton partenaire t'a agacé(e) (où tu l'as détesté un peu)."
+    },
+    {
+      "key": "LOVE_0157",
+      "value": "Raconte un moment où tu as ressenti de la jalousie (à cause de ton partenaire)."
+    },
+    {
+      "key": "LOVE_0158",
+      "value": "Pourrais-tu laisser ton partenaire aller en boîte (club) seul(e) ?"
+    },
+    {
+      "key": "LOVE_0159",
+      "value": "Y a-t-il un sport que tu aimerais essayer avec ton partenaire ? Lequel ?"
+    },
+    {
+      "key": "LOVE_0160",
+      "value": "Y a-t-il un rendez-vous (date) que tu aimerais faire avec ton partenaire ? Lequel ?"
+    },
+    {
+      "key": "LOVE_0161",
+      "value": "Y a-t-il une coiffure que tu aimerais que ton partenaire essaie ? Pourquoi ?"
+    },
+    {
+      "key": "LOVE_0162",
+      "value": "Si le genre de ton partenaire était inversé, pourrais-tu toujours l'aimer ? Pourquoi ?"
+    },
+    {
+      "key": "LOVE_0163",
+      "value": "Si le genre de ton partenaire était inversé, quel genre de rendez-vous aimerais-tu ?"
+    },
+    {
+      "key": "LOVE_0164",
+      "value": "Nomme un jeu auquel tu aimerais jouer avec ton partenaire. Pourquoi ?"
+    },
+    {
+      "key": "LOVE_0165",
+      "value": "Si ton partenaire commettait un meurtre, que dirais-tu ? Que ferais-tu ?"
+    },
+    {
+      "key": "LOVE_0166",
+      "value": "Si c'était la fin du monde, quelle est la dernière chose que tu voudrais faire avec ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0167",
+      "value": "Si c'était la fin du monde, quels sont les derniers mots que tu voudrais dire à ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0168",
+      "value": "Pourrais-tu vivre avec ton partenaire même s'il/elle ne gagnait pas d'argent ?"
+    },
+    {
+      "key": "LOVE_0169",
+      "value": "Pourrais-tu toujours aimer ton partenaire si vous ne pouviez plus jamais avoir de contact physique ?"
+    },
+    {
+      "key": "LOVE_0170",
+      "value": "Si ton partenaire te trompait, puis pleurait en te suppliant de pardonner, le ferais-tu ?"
+    },
+    {
+      "key": "LOVE_0171",
+      "value": "Si ton partenaire était un animal, quel animal serait-il/elle ? Pourquoi ?"
+    },
+    {
+      "key": "LOVE_0172",
+      "value": "Aimerais-tu avoir un animal de compagnie avec ton partenaire dans le futur ? Lequel ?"
+    },
+    {
+      "key": "LOVE_0173",
+      "value": "Penses-tu que c'est bien de partager les codes de téléphone avec son partenaire ? Pourquoi ?"
+    },
+    {
+      "key": "LOVE_0174",
+      "value": "Cite deux qualités dans la personnalité de ton partenaire."
+    },
+    {
+      "key": "LOVE_0175",
+      "value": "Que ferais-tu si ton partenaire te trompait ?"
+    },
+    {
+      "key": "LOVE_0176",
+      "value": "Si tu devais renaître, penses-tu que tu retomberais amoureux(se) de ton partenaire ? Pourquoi ?"
+    },
+    {
+      "key": "LOVE_0177",
+      "value": "Cite trois qualités (points forts) de ton partenaire."
+    },
+    {
+      "key": "LOVE_0178",
+      "value": "Dans le futur, veux-tu être comme des amis, ou toujours passionnément amoureux ?"
+    },
+    {
+      "key": "LOVE_0179",
+      "value": "Crois-tu que l'amour a une \"date d'expiration\" ? Pourquoi (ou pas) ?"
+    },
+    {
+      "key": "LOVE_0180",
+      "value": "Si vous deviez rompre, quelle en serait la raison, selon toi ?"
+    },
+    {
+      "key": "LOVE_0181",
+      "value": "Crois-tu au destin en amour ? Pourquoi ?"
+    },
+    {
+      "key": "LOVE_0182",
+      "value": "Quand vous mourrez de vieillesse, qui voudrais-tu voir mourir en premier ? Toi ou ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0183",
+      "value": "Jusqu'à quel âge aimerais-tu vivre avec ton partenaire ? Pourquoi ?"
+    },
+    {
+      "key": "LOVE_0184",
+      "value": "Est-ce que ça t'importerait si ton partenaire prenait énormément de poids ?"
+    },
+    {
+      "key": "LOVE_0185",
+      "value": "Parle-moi de ta première impression de ton partenaire."
+    },
+    {
+      "key": "LOVE_0186",
+      "value": "Si le genre de ton partenaire était inversé, pourrais-tu toujours l'aimer ?"
+    },
+    {
+      "key": "LOVE_0187",
+      "value": "Que préférerais-tu abandonner : embrasser ton partenaire ou le prendre dans tes bras ?"
+    },
+    {
+      "key": "LOVE_0188",
+      "value": "Qu'est-ce qui est le plus important : le désir sexuel (libido) ou l'appétit ? Pourquoi ?"
+    },
+    {
+      "key": "LOVE_0189",
+      "value": "Donne deux raisons pour lesquelles ton partenaire est génial, et explique-les."
+    },
+    {
+      "key": "LOVE_0190",
+      "value": "Cite deux choses que tu aimerais que ton partenaire change (corrige)."
+    },
+    {
+      "key": "LOVE_0191",
+      "value": "Cite deux points (atouts) de charme chez ton partenaire."
+    },
+    {
+      "key": "LOVE_0192",
+      "value": "Quelle est ta partie préférée du corps de ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0193",
+      "value": "Quelle est ta célébrité préférée ? Pourquoi ?"
+    },
+    {
+      "key": "LOVE_0194",
+      "value": "Sur une échelle de 1 à 10, à combien s'élève ta libido ?"
+    },
+    {
+      "key": "LOVE_0195",
+      "value": "Peux-tu \"comprendre\" (accepter) que ton partenaire aille boire un verre seul(e) avec un(e) ami(e) du sexe opposé ?"
+    },
+    {
+      "key": "LOVE_0196",
+      "value": "Peux-tu \"comprendre\" (accepter) que ton partenaire parte en voyage avec un(e) ami(e) du sexe opposé ?"
+    },
+    {
+      "key": "LOVE_0197",
+      "value": "Si vous aviez un fils, comment aimeriez-vous l'appeler ?"
+    },
+    {
+      "key": "LOVE_0198",
+      "value": "Si vous aviez un enfant, quel genre (sexe) préférerais-tu ?"
+    },
+    {
+      "key": "LOVE_0199",
+      "value": "Si vous aviez des enfants, combien aimeriez-vous en avoir ?"
+    },
+    {
+      "key": "LOVE_0200",
+      "value": "Si vous aviez un enfant ensemble, comment aimeriez-vous l'élever ?"
+    },
+    {
+      "key": "LOVE_0201",
+      "value": "Si vous aviez un enfant, quel métier aimeriez-vous qu'il/elle fasse ?"
+    },
+    {
+      "key": "LOVE_0202",
+      "value": "Si vous aviez un enfant, à quoi ressemblerait-il/elle, à ton avis ?"
+    },
+    {
+      "key": "LOVE_0203",
+      "value": "Si vous aviez un enfant, à quel âge aimeriez-vous l'avoir ?"
+    },
+    {
+      "key": "LOVE_0204",
+      "value": "Si vous aviez un enfant, quelle personnalité aurait-il/elle, à ton avis ?"
+    },
+    {
+      "key": "LOVE_0205",
+      "value": "Si vous aviez un enfant ensemble, comment aimeriez-vous l'éduquer ?"
+    },
+    {
+      "key": "LOVE_0206",
+      "value": "Quel cadeau aimerais-tu recevoir pour une occasion spéciale ?"
+    },
+    {
+      "key": "LOVE_0207",
+      "value": "Quel genre de rendez-vous aimerais-tu pour une occasion spéciale ?"
+    },
+    {
+      "key": "LOVE_0208",
+      "value": "Raconte-moi ton souvenir de votre première rencontre."
+    },
+    {
+      "key": "LOVE_0209",
+      "value": "Quel est le moment où ton partenaire t'a le plus ému(e) ?"
+    },
+    {
+      "key": "LOVE_0210",
+      "value": "Quelle est la valeur la plus importante que tu attends de ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0211",
+      "value": "Penses-tu qu'il devrait y avoir des secrets entre vous ? Pourquoi ?"
+    },
+    {
+      "key": "LOVE_0212",
+      "value": "Quelle action ou habitude de ton partenaire t'énerve ?"
+    },
+    {
+      "key": "LOVE_0213",
+      "value": "Quand as-tu le plus besoin de ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0214",
+      "value": "Quand vous vous disputez, comment aimerais-tu vous réconcilier ?"
+    },
+    {
+      "key": "LOVE_0215",
+      "value": "Qu'est-ce qui te rend fier/fière de ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0216",
+      "value": "À quoi ressemble un \"jour de congé parfait\" avec ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0217",
+      "value": "Quel est votre plus grand rêve ou objectif dans votre vie commune ?"
+    },
+    {
+      "key": "LOVE_0218",
+      "value": "De quoi es-tu le plus reconnaissant(e) chez ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0219",
+      "value": "Quelle est ta plus grande peur concernant votre relation ?"
+    },
+    {
+      "key": "LOVE_0220",
+      "value": "Comment ton partenaire peut-il te rendre encore plus heureux/se ?"
+    },
+    {
+      "key": "LOVE_0221",
+      "value": "Que pourrais-tu faire pour être un(e) meilleur(e) partenaire pour lui/elle ?"
+    },
+    {
+      "key": "LOVE_0222",
+      "value": "Quelle est ta méthode pour faire plaisir (ou remonter le moral) à ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0223",
+      "value": "S'il y a des problèmes non résolus entre vous, quels sont-ils selon toi ?"
+    },
+    {
+      "key": "LOVE_0224",
+      "value": "De quel soutien avez-vous besoin l'un de l'autre pour évoluer (grandir) ?"
+    },
+    {
+      "key": "LOVE_0225",
+      "value": "Quelle est la promesse la plus importante que tu attends de ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0226",
+      "value": "Si tu as déjà dit un mensonge, avoues-en un honnêtement."
+    },
+    {
+      "key": "LOVE_0227",
+      "value": "Quelle est la partie la plus attirante de la personnalité de ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0228",
+      "value": "Quels mots ou actions de ton partenaire te rassurent (te font sentir en sécurité) ?"
+    },
+    {
+      "key": "LOVE_0229",
+      "value": "Quel est ton souvenir préféré avec ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0230",
+      "value": "Comment acceptes-tu (ou gères-tu) vos différences ?"
+    },
+    {
+      "key": "LOVE_0231",
+      "value": "Quelle est, selon toi, la plus grande différence entre vous deux ?"
+    },
+    {
+      "key": "LOVE_0232",
+      "value": "Quel est le principe (ou la règle) le plus important dans votre relation ?"
+    },
+    {
+      "key": "LOVE_0233",
+      "value": "Quelle est l'habitude de ton partenaire que tu préfères ?"
+    },
+    {
+      "key": "LOVE_0234",
+      "value": "Quel est le hobby (passion) de ton partenaire que tu préfères ?"
+    },
+    {
+      "key": "LOVE_0235",
+      "value": "Quel est le hobby de ton partenaire que tu aimes le moins ?"
+    },
+    {
+      "key": "LOVE_0236",
+      "value": "Quelle est la leçon la plus importante que ton partenaire t'a apprise ?"
+    },
+    {
+      "key": "LOVE_0237",
+      "value": "Quelle expression ou réaction de ton partenaire préfères-tu ?"
+    },
+    {
+      "key": "LOVE_0238",
+      "value": "Quel est le plus grand malentendu que tu as eu à propos de ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0239",
+      "value": "Quel a été ton premier sentiment quand tu as vu ton partenaire pour la première fois ?"
+    },
+    {
+      "key": "LOVE_0240",
+      "value": "Penses-tu que l'apparence (ou le comportement) de ton partenaire a changé ? Pourquoi ?"
+    },
+    {
+      "key": "LOVE_0241",
+      "value": "Penses-tu que vous (en tant que couple) avez changé ? Pourquoi ?"
+    },
+    {
+      "key": "LOVE_0242",
+      "value": "Pensez-vous que vous (en tant que couple) changerez dans le futur ? Pourquoi ?"
+    },
+    {
+      "key": "LOVE_0243",
+      "value": "Si vous vous étiez rencontrés 5 ans plus tard, pensez-tu que vous seriez tombés amoureux ?"
+    },
+    {
+      "key": "LOVE_0244",
+      "value": "À quel moment trouves-tu ton partenaire particulièrement mignon(ne) ?"
+    },
+    {
+      "key": "LOVE_0245",
+      "value": "À quel moment trouves-tu ton partenaire particulièrement sexy ?"
+    },
+    {
+      "key": "LOVE_0246",
+      "value": "Quelle est la forme de communication la plus importante entre vous ?"
+    },
+    {
+      "key": "LOVE_0247",
+      "value": "Qu'aimerais-tu que ton partenaire respecte davantage (chez toi) ?"
+    },
+    {
+      "key": "LOVE_0248",
+      "value": "Quelles paroles de ton partenaire t'ont donné beaucoup de force ?"
+    },
+    {
+      "key": "LOVE_0249",
+      "value": "Quel est le moment le plus important pour vous deux, et comment le passez-vous ?"
+    },
+    {
+      "key": "LOVE_0250",
+      "value": "De combien de temps personnel (séparés) pensez-vous avoir besoin par semaine ?"
+    },
+    {
+      "key": "LOVE_0251",
+      "value": "De combien de temps pour toi as-tu besoin par semaine ?"
+    },
+    {
+      "key": "LOVE_0252",
+      "value": "Quand vous vous disputez, comment aimerais-tu que ton partenaire se réconcilie avec toi ?"
+    },
+    {
+      "key": "LOVE_0253",
+      "value": "Après une dispute, as-tu besoin de temps pour toi (seul) ?"
+    },
+    {
+      "key": "LOVE_0254",
+      "value": "Si vous rompiez, comment aimerais-tu qu'il/elle te demande de vous remettre ensemble ?"
+    },
+    {
+      "key": "LOVE_0255",
+      "value": "Si vous deviez rompre, quelle en serait la raison, selon toi ?"
+    },
+    {
+      "key": "LOVE_0256",
+      "value": "Quel aspect de ton partenaire respectes-tu (ou admires-tu) le plus ?"
+    },
+    {
+      "key": "LOVE_0257",
+      "value": "Quelle est l'habitude verbale (ou expression favorite) de ton partenaire que tu préfères ?"
+    },
+    {
+      "key": "LOVE_0258",
+      "value": "Comment acceptes-tu positivement vos différences ?"
+    },
+    {
+      "key": "LOVE_0259",
+      "value": "Qu'avez-vous abandonné (ou sacrifié) l'un pour l'autre, selon toi ?"
+    },
+    {
+      "key": "LOVE_0260",
+      "value": "Comment ta première impression de ton partenaire a-t-elle changé par rapport à maintenant ?"
+    },
+    {
+      "key": "LOVE_0261",
+      "value": "Quel a été le plus grand défi en aimant ton partenaire, et comment l'avez-vous surmonté ?"
+    },
+    {
+      "key": "LOVE_0262",
+      "value": "Quelle est la chose la plus romantique que tu penses pouvoir faire pour ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0263",
+      "value": "Si vous vous mariez, à quelle saison aimeriez-vous le faire ?"
+    },
+    {
+      "key": "LOVE_0264",
+      "value": "Quel trait de caractère (ou caractéristique) préfères-tu chez ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0265",
+      "value": "Qu'est-ce qui, chez ton partenaire, te fait le plus rire ?"
+    },
+    {
+      "key": "LOVE_0266",
+      "value": "Qu'est-ce qui, chez ton partenaire, te rend le plus heureux/se ?"
+    },
+    {
+      "key": "LOVE_0267",
+      "value": "Quelle est la tenue ou le style que ton partenaire préfère te voir porter ?"
+    },
+    {
+      "key": "LOVE_0268",
+      "value": "Quel est votre souvenir commun où vous avez le plus ri ?"
+    },
+    {
+      "key": "LOVE_0269",
+      "value": "Quelle est la chose la plus triste qui soit arrivée pendant votre relation ?"
+    },
+    {
+      "key": "LOVE_0270",
+      "value": "Quelle serait la chose la plus triste qui pourrait vous arriver ?"
+    },
+    {
+      "key": "LOVE_0271",
+      "value": "Quelle est la chose la plus surprenante que tu aies découverte sur ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0272",
+      "value": "Quel changement positif ton partenaire a-t-il apporté dans ta vie ?"
+    },
+    {
+      "key": "LOVE_0273",
+      "value": "Qu'est-ce que tu préfères dans le sens de l'humour de ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0274",
+      "value": "Quel livre aimeriez-vous lire ensemble ?"
+    },
+    {
+      "key": "LOVE_0275",
+      "value": "Quels mots ou actions de ton partenaire te le/la font trouver le/la plus adorable ?"
+    },
+    {
+      "key": "LOVE_0276",
+      "value": "Quel est le trait le plus unique (ou bizarre) de ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0277",
+      "value": "Quel aspect de ton partenaire aimerais-tu le/la voir \"développer\" (ou améliorer) ?"
+    },
+    {
+      "key": "LOVE_0278",
+      "value": "De quel avenir rêves-tu avec ton partenaire, et quels plans fais-tu pour le réaliser ?"
+    },
+    {
+      "key": "LOVE_0279",
+      "value": "Si tu t'imagines dans 30 ans, à quoi ressemblez-vous ?"
+    },
+    {
+      "key": "LOVE_0280",
+      "value": "Comment ta première impression de ton partenaire a-t-elle changé par rapport à maintenant ?"
+    },
+    {
+      "key": "LOVE_0281",
+      "value": "Quel a été le plus grand défi en aimant ton partenaire, et comment l'avez-vous surmonté ?"
+    },
+    {
+      "key": "LOVE_0282",
+      "value": "Quelle est la chose la plus romantique que tu penses pouvoir faire pour ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0283",
+      "value": "Si vous vous mariez, à quelle saison aimeriez-vous le faire ?"
+    },
+    {
+      "key": "LOVE_0284",
+      "value": "Quel trait de caractère (ou caractéristique) préfères-tu chez ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0285",
+      "value": "Qu'est-ce qui, chez ton partenaire, te fait le plus rire ?"
+    },
+    {
+      "key": "LOVE_0286",
+      "value": "Qu'est-ce qui, chez ton partenaire, te rend le plus heureux/se ?"
+    },
+    {
+      "key": "LOVE_0287",
+      "value": "Quelle est la tenue ou le style que ton partenaire préfère te voir porter ?"
+    },
+    {
+      "key": "LOVE_0288",
+      "value": "Quel est votre souvenir commun où vous avez le plus ri ?"
+    },
+    {
+      "key": "LOVE_0289",
+      "value": "Quelle est la chose la plus triste qui soit arrivée pendant votre relation ?"
+    },
+    {
+      "key": "LOVE_0290",
+      "value": "Quelle serait la chose la plus triste qui pourrait vous arriver ?"
+    },
+    {
+      "key": "LOVE_0291",
+      "value": "Quelle est la chose la plus surprenante que tu aies découverte sur ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0292",
+      "value": "Quel changement positif ton partenaire a-t-il apporté dans ta vie ?"
+    },
+    {
+      "key": "LOVE_0293",
+      "value": "Qu'est-ce que tu préfères dans le sens de l'humour de ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0294",
+      "value": "Quel livre aimeriez-vous lire ensemble ?"
+    },
+    {
+      "key": "LOVE_0295",
+      "value": "Quels mots ou actions de ton partenaire te le/la font trouver le/la plus adorable ?"
+    },
+    {
+      "key": "LOVE_0296",
+      "value": "Quel est le trait le plus unique (ou bizarre) de ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0297",
+      "value": "Quel aspect de ton partenaire aimerais-tu le/la voir \"développer\" (ou améliorer) ?"
+    },
+    {
+      "key": "LOVE_0298",
+      "value": "De quel avenir rêves-tu avec ton partenaire, et quels plans fais-tu pour le réaliser ?"
+    },
+    {
+      "key": "LOVE_0299",
+      "value": "Si tu t'imagines dans 30 ans, à quoi ressemblez-vous ?"
+    },
+    {
+      "key": "LOVE_0300",
+      "value": "Quel est ton type de contact physique (skinship) préféré ?"
+    },
+    {
+      "key": "LOVE_0301",
+      "value": "Qu'est-ce qui te fait le plus plaisir : faire un câlin ou tenir la main ?"
+    },
+    {
+      "key": "LOVE_0302",
+      "value": "Quelle partie du corps de ton partenaire trouves-tu la plus attirante ?"
+    },
+    {
+      "key": "LOVE_0303",
+      "value": "Quelle partie du visage de ton partenaire trouves-tu la plus attirante ?"
+    },
+    {
+      "key": "LOVE_0304",
+      "value": "Quelle serait la chose la plus heureuse qui pourrait vous arriver dans le futur ?"
+    },
+    {
+      "key": "LOVE_0305",
+      "value": "S'il y a une chose qui te rend anxieux/se (ou peu sûr/e) à propos de ton partenaire, c'est quoi ?"
+    },
+    {
+      "key": "LOVE_0306",
+      "value": "Y a-t-il un sujet que tu évites parce que tu ne veux pas te disputer dessus ?"
+    },
+    {
+      "key": "LOVE_0307",
+      "value": "Y a-t-il quelque chose que tu n'oses pas dire de peur que ça ne déclenche une dispute ?"
+    },
+    {
+      "key": "LOVE_0308",
+      "value": "Dis à ton partenaire un de tes \"points sensibles\" (un sujet délicat)."
+    },
+    {
+      "key": "LOVE_0309",
+      "value": "De quelle action as-tu besoin de la part de ton partenaire pour te sentir aimé(e) ?"
+    },
+    {
+      "key": "LOVE_0310",
+      "value": "Qu'as-tu l'habitude de faire pour remonter le moral à ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0311",
+      "value": "Qu'est-ce qui est le plus important pour toi quand tu es attiré(e) par quelqu'un ?"
+    },
+    {
+      "key": "LOVE_0312",
+      "value": "Raconte un événement choquant (ou traumatisant) que tu as vécu enfant."
+    },
+    {
+      "key": "LOVE_0313",
+      "value": "Raconte un incident embarrassant que tu as vécu enfant."
+    },
+    {
+      "key": "LOVE_0314",
+      "value": "Y a-t-il un aspect (physique ou autre) que tu aimerais que ton partenaire continue d'entretenir ?"
+    },
+    {
+      "key": "LOVE_0315",
+      "value": "Imagine ton partenaire dans le futur. Décris ce que tu vois."
+    },
+    {
+      "key": "LOVE_0316",
+      "value": "Si vous achetiez une nouvelle voiture ensemble, quel modèle voudrais-tu ? Pourquoi ?"
+    },
+    {
+      "key": "LOVE_0317",
+      "value": "Quel trait de personnalité de ton partenaire aimerais-tu avoir (ou imiter) ? Pourquoi ?"
+    },
+    {
+      "key": "LOVE_0318",
+      "value": "Préfères-tu une relation enflammée et passionnée ou une relation calme et stable ?"
+    },
+    {
+      "key": "LOVE_0319",
+      "value": "Quel est ton style de relation idéal ?"
+    },
+    {
+      "key": "LOVE_0320",
+      "value": "Y a-t-il un style de vêtement que tu aimerais voir porter ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0321",
+      "value": "Y a-t-il un accessoire que vous aimeriez acheter ensemble (en couple) ?"
+    },
+    {
+      "key": "LOVE_0322",
+      "value": "Quel compliment aimerais-tu le plus entendre de la part de ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0323",
+      "value": "Quel est le compliment de ton partenaire qui t'a fait le plus plaisir ?"
+    },
+    {
+      "key": "LOVE_0324",
+      "value": "Quel cadeau surprise aimerais-tu faire à ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0325",
+      "value": "Quelle surprise (événement) aimerais-tu organiser pour ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0326",
+      "value": "Le week-end, tu préfères être \"collé(e)\" à ton partenaire, ou tu as besoin de temps pour toi ?"
+    },
+    {
+      "key": "LOVE_0327",
+      "value": "Que penses-tu des relations à distance ?"
+    },
+    {
+      "key": "LOVE_0328",
+      "value": "Combien de jours de temps personnel aimerais-tu avoir par semaine ?"
+    },
+    {
+      "key": "LOVE_0329",
+      "value": "Quel est le sujet de conversation sur lequel vous êtes le plus \"connectés\" ?"
+    },
+    {
+      "key": "LOVE_0330",
+      "value": "Quel est le plus grand défi que vous devrez surmonter ensemble dans le futur ?"
+    },
+    {
+      "key": "LOVE_0331",
+      "value": "Quelle est la méthode de communication la plus importante dans votre relation ?"
+    },
+    {
+      "key": "LOVE_0332",
+      "value": "Quels sont les mots que tu aimerais le plus entendre de ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0333",
+      "value": "Y a-t-il quelque chose que tu aimerais apprendre de ton partenaire ? Quoi ?"
+    },
+    {
+      "key": "LOVE_0334",
+      "value": "Quel est le sujet le plus intéressant dont vous ayez discuté ensemble ?"
+    },
+    {
+      "key": "LOVE_0335",
+      "value": "À quel moment t'en remets-tu (ou t'appuies-tu) le plus à ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0336",
+      "value": "Y a-t-il quelque chose pour lequel tu aimerais que ton partenaire compte sur toi ?"
+    },
+    {
+      "key": "LOVE_0337",
+      "value": "As-tu tendance à t'appuyer sur ton partenaire, ou préfères-tu résoudre les problèmes seul(e) ?"
+    },
+    {
+      "key": "LOVE_0338",
+      "value": "Y a-t-il un concert où tu aimerais aller avec ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0339",
+      "value": "Y a-t-il une chose sur ta \"bucket list\" que tu veux absolument faire avec ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0340",
+      "value": "Y a-t-il un surnom (petit nom) que tu aimerais utiliser pour ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0341",
+      "value": "Si vous lanciez une chaîne YouTube ensemble, quel genre de chaîne voudrais-tu créer ?"
+    },
+    {
+      "key": "LOVE_0342",
+      "value": "Si vous pouviez vivre pour toujours (immortels), le feriez-vous ? Ou vaut-il mieux affronter la mort ?"
+    },
+    {
+      "key": "LOVE_0343",
+      "value": "Si ton partenaire était un vampire, pourrais-tu rester avec ? (Tu vieilliras, mais pas lui/elle.)"
+    },
+    {
+      "key": "LOVE_0344",
+      "value": "S'il y avait une potion de jouvence (anti-vieillissement), la prendrais-tu ou la donnerais-tu à ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0345",
+      "value": "Si vous vous mariez, qui aimerais-tu voir gérer l'argent ?"
+    },
+    {
+      "key": "LOVE_0346",
+      "value": "Pourrais-tu rester avec ton partenaire s'il/elle avait une religion différente ?"
+    },
+    {
+      "key": "LOVE_0347",
+      "value": "Si ton partenaire te forçait à te convertir à sa religion, le ferais-tu ?"
+    },
+    {
+      "key": "LOVE_0348",
+      "value": "Pour votre avenir, l'argent est-il très important, ou l'amour suffit-il ?"
+    },
+    {
+      "key": "LOVE_0349",
+      "value": "Si tu découvrais que ton partenaire avait un casier judiciaire (ex-détenu), quelle serait ta première réaction (phrase) ?"
+    },
+    {
+      "key": "LOVE_0350",
+      "value": "Si tu commettais un meurtre, le dirais-tu à ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0351",
+      "value": "Quelle qualité de ton partenaire aimes-tu \"vanter\" (dont tu es fier) auprès des autres ?"
+    },
+    {
+      "key": "LOVE_0352",
+      "value": "Si ton partenaire travaillait loin et que vous ne pouviez vous voir qu'une fois tous les 3 mois, pourrais-tu continuer ?"
+    },
+    {
+      "key": "LOVE_0353",
+      "value": "Si ton partenaire se transformait en chien, à quoi ressemblerait votre futur ?"
+    },
+    {
+      "key": "LOVE_0354",
+      "value": "Est-ce que ça te va si ton partenaire ne boit pas du tout d'alcool (pas même un verre) ?"
+    },
+    {
+      "key": "LOVE_0355",
+      "value": "En dehors des moments où vous êtes ensemble, est-ce que ça te va si ton partenaire ne te contacte pas de la journée ?"
+    },
+    {
+      "key": "LOVE_0356",
+      "value": "Combien de contacts (ou quelle fréquence) aimerais-tu avoir par jour ?"
+    },
+    {
+      "key": "LOVE_0357",
+      "value": "Si ton partenaire arrêtait de te contacter 1 semaine, que penserais-tu ?"
+    },
+    {
+      "key": "LOVE_0358",
+      "value": "Si, après le mariage, vous deviez vivre chez les parents de ton partenaire, que ferais-tu ?"
+    },
+    {
+      "key": "LOVE_0359",
+      "value": "Si ton partenaire devenait accro aux jeux d'argent (jeu pathologique), comment réagirais-tu ?"
+    },
+    {
+      "key": "LOVE_0360",
+      "value": "Si ton partenaire commettait un crime et te demandait de te faire accuser à sa place, que ferais-tu ?"
+    },
+    {
+      "key": "LOVE_0361",
+      "value": "Que dirais-tu si ton partenaire te disait qu'il/elle part en voyage 2 jours / 1 nuit avec un(e) ami(e) du sexe opposé ?"
+    },
+    {
+      "key": "LOVE_0362",
+      "value": "Est-ce que ça te va si ton partenaire va boire un verre avec son ex ?"
+    },
+    {
+      "key": "LOVE_0363",
+      "value": "Si tes parents te surprenaient en train d'embrasser ton partenaire à la maison, comment réagirais-tu ?"
+    },
+    {
+      "key": "LOVE_0364",
+      "value": "Est-ce que ton ex t'a contacté(e) récemment ?"
+    },
+    {
+      "key": "LOVE_0365",
+      "value": "Quelle était une bonne chose et une mauvaise chose à propos de ton ex ?"
+    },
+    {
+      "key": "LOVE_0366",
+      "value": "Est-ce que quelqu'un (d'autre) t'a fait une déclaration d'amour récemment ?"
+    },
+    {
+      "key": "LOVE_0367",
+      "value": "C'est quand la dernière fois que quelqu'un t'a fait une déclaration ?"
+    },
+    {
+      "key": "LOVE_0368",
+      "value": "Est-ce que quelqu'un t'a demandé ton numéro récemment ? C'était quand ?"
+    },
+    {
+      "key": "LOVE_0369",
+      "value": "Est-ce que tu as demandé le numéro de quelqu'un d'autre récemment ? C'était quand ?"
+    },
+    {
+      "key": "LOVE_0370",
+      "value": "As-tu déjà rejeté la déclaration de quelqu'un ? Pourquoi ?"
+    },
+    {
+      "key": "LOVE_0371",
+      "value": "T'es-tu déjà déclaré(e) et fait rejeter ? Pourquoi penses-tu que ça n'a pas marché ?"
+    },
+    {
+      "key": "LOVE_0372",
+      "value": "Aimerais-tu que ton partenaire chante bien ? Ou ça t'est égal ?"
+    },
+    {
+      "key": "LOVE_0373",
+      "value": "Que penses-tu de la voix de ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0374",
+      "value": "Que penses-tu de ses talents de chanteur/chanteuse ?"
+    },
+    {
+      "key": "LOVE_0375",
+      "value": "Que penses-tu de son \"style\" en amour ?"
+    },
+    {
+      "key": "LOVE_0376",
+      "value": "Que penses-tu de son \"style de communication\" ?"
+    },
+    {
+      "key": "LOVE_0377",
+      "value": "Quelle est la taille idéale pour toi chez un partenaire ?"
+    },
+    {
+      "key": "LOVE_0378",
+      "value": "Quel est ton \"style\" idéal (mode, ambiance) chez un partenaire ?"
+    },
+    {
+      "key": "LOVE_0379",
+      "value": "Quelle célébrité est ton type idéal ?"
+    },
+    {
+      "key": "LOVE_0380",
+      "value": "Quelle est la célébrité dont tu préfères la voix ?"
+    },
+    {
+      "key": "LOVE_0381",
+      "value": "Que ferais-tu si tes amis n'aimaient pas ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0382",
+      "value": "Que ferais-tu si tes parents n'aimaient pas ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0383",
+      "value": "Si ton partenaire voulait faire un tour du monde en solo, le laisserais-tu partir ?"
+    },
+    {
+      "key": "LOVE_0384",
+      "value": "Si ton partenaire devait partir travailler seul(e) dans un autre pays, que ferais-tu ?"
+    },
+    {
+      "key": "LOVE_0385",
+      "value": "Qu'est-ce qui te fait craquer (flutter) chez quelqu'un (du sexe opposé) ?"
+    },
+    {
+      "key": "LOVE_0386",
+      "value": "Raconte-moi ton premier amour."
+    },
+    {
+      "key": "LOVE_0387",
+      "value": "Pourquoi aimais-tu ton premier amour ?"
+    },
+    {
+      "key": "LOVE_0388",
+      "value": "Quelle est la chose la plus mémorable que tu aies faite pour ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0389",
+      "value": "Si tu pouvais refaire votre première rencontre, que ferais-tu différemment ?"
+    },
+    {
+      "key": "LOVE_0390",
+      "value": "Si vous viviez ensemble, quel style de maison (déco) aimerais-tu ?"
+    },
+    {
+      "key": "LOVE_0391",
+      "value": "Quel est le conseil que ton partenaire te donne le plus souvent ?"
+    },
+    {
+      "key": "LOVE_0392",
+      "value": "Es-tu déjà allé(e) voir des amis en cachette (sans le dire à ton partenaire) ?"
+    },
+    {
+      "key": "LOVE_0393",
+      "value": "Avec combien de personnes es-tu sorti(e) (en couple) jusqu'à présent ?"
+    },
+    {
+      "key": "LOVE_0394",
+      "value": "Si vous comparez votre physique, qui penses-tu qui est le plus beau/belle ?"
+    },
+    {
+      "key": "LOVE_0395",
+      "value": "Crois-tu aux \"pieux mensonges\" (mensonges blancs) ?"
+    },
+    {
+      "key": "LOVE_0396",
+      "value": "Penses-tu que les \"pieux mensonges\" sont nécessaires dans une relation ?"
+    },
+    {
+      "key": "LOVE_0397",
+      "value": "As-tu déjà dit un \"pieu mensonge\" à ton partenaire ? Si oui, avoues-en un."
+    },
+    {
+      "key": "LOVE_0398",
+      "value": "Quel est ton type idéal ?"
+    },
+    {
+      "key": "LOVE_0399",
+      "value": "Quelle est la partie de ton corps dont tu es le plus fier/fière (confiant) ?"
+    },
+    {
+      "key": "LOVE_0400",
+      "value": "Quelle est la partie de ton visage dont tu es le plus fier/fière (confiant) ?"
+    },
+    {
+      "key": "LOVE_0401",
+      "value": "Penses-tu qu'on devrait partager les codes de téléphone avec son partenaire ?"
+    },
+    {
+      "key": "LOVE_0402",
+      "value": "Pour un voyage, tu préfères planifier ensemble, ou laisser ton partenaire tout organiser ?"
+    },
+    {
+      "key": "LOVE_0403",
+      "value": "Que ferais-tu si ton partenaire lâchait un pet dans un ascenseur bondé ?"
+    },
+    {
+      "key": "LOVE_0404",
+      "value": "Quelle est la méthode la plus efficace de ton partenaire pour te déstresser ?"
+    },
+    {
+      "key": "LOVE_0405",
+      "value": "Comment réagirais-tu si ton partenaire avait un accident avec ta voiture ?"
+    },
+    {
+      "key": "LOVE_0406",
+      "value": "Quelles sont les limites appropriées pour des amis du sexe opposé, selon toi ?"
+    },
+    {
+      "key": "LOVE_0407",
+      "value": "En cas de dispute : tu préfères en parler tout de suite, ou prendre du temps pour te calmer d'abord ?"
+    },
+    {
+      "key": "LOVE_0408",
+      "value": "Si ton malheur commençait à nuire à ton partenaire, romprais-tu ou essaierais-tu de surmonter ça ensemble ?"
+    },
+    {
+      "key": "LOVE_0409",
+      "value": "Quand tu as un reproche à faire, es-tu du genre à le dire honnêtement ?"
+    },
+    {
+      "key": "LOVE_0410",
+      "value": "Quand ton partenaire a un reproche : préfères-tu qu'il/elle le dise tout de suite, ou qu'il/elle attende et réfléchisse ?"
+    },
+    {
+      "key": "LOVE_0411",
+      "value": "Si vous étiez mariés, combien d'argent aimeriez-vous dépenser par mois ?"
+    },
+    {
+      "key": "LOVE_0412",
+      "value": "Si vous étiez mariés, voudriez-vous épargner ? Combien par mois ?"
+    },
+    {
+      "key": "LOVE_0413",
+      "value": "Même marié(e), y a-t-il une chose « chère » que tu ne pourrais pas abandonner ?"
+    },
+    {
+      "key": "LOVE_0414",
+      "value": "Quel est le moment où tu t'es senti(e) le plus déçu(e) (ou peiné(e)) par ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0415",
+      "value": "Quelle a été ta plus longue relation (combien de temps) ?"
+    },
+    {
+      "key": "LOVE_0416",
+      "value": "Tu te souviens des vêtements que portait ton partenaire à votre première rencontre ? Qu'est-ce qui t'a marqué ?"
+    },
+    {
+      "key": "LOVE_0417",
+      "value": "As-tu déjà imaginé rompre ? Pourquoi as-tu eu cette pensée ?"
+    },
+    {
+      "key": "LOVE_0418",
+      "value": "Si ton partenaire voulait rompre avec toi, que ferais-tu ?"
+    },
+    {
+      "key": "LOVE_0419",
+      "value": "Que ferais-tu si tes parents s'opposaient à votre mariage ?"
+    },
+    {
+      "key": "LOVE_0420",
+      "value": "Si vous faisiez une \"pause\" (séparation temporaire) et que tu voyais ton partenaire à un rdv avec un(e) autre, que ferais-tu ?"
+    },
+    {
+      "key": "LOVE_0421",
+      "value": "Que ferais-tu si ton partenaire subissait une chirurgie esthétique en secret, sans te le dire ?"
+    },
+    {
+      "key": "LOVE_0422",
+      "value": "Que penserais-tu si, dans le futur, ton partenaire te disait qu'il/elle veut être au chômage (ne plus travailler) ?"
+    },
+    {
+      "key": "LOVE_0423",
+      "value": "Que ferais-tu si tu découvrais que ton partenaire est en train de te tromper ?"
+    },
+    {
+      "key": "LOVE_0424",
+      "value": "C'était quand ton premier baiser ?"
+    },
+    {
+      "key": "LOVE_0425",
+      "value": "Si quelqu'un d'autre te faisait une déclaration, le dirais-tu à ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0426",
+      "value": "Si quelqu'un (d'autre) te demandait ton numéro, que ferais-tu ?"
+    },
+    {
+      "key": "LOVE_0427",
+      "value": "Si ton/ta meilleur(e) ami(e) et ton partenaire se disputaient, que ferais-tu ?"
+    },
+    {
+      "key": "LOVE_0428",
+      "value": "Qu'est-ce qui est le plus amusant : sortir avec ton partenaire ou avec tes amis ?"
+    },
+    {
+      "key": "LOVE_0429",
+      "value": "Si tu gagnais au loto, le dirais-tu à ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0430",
+      "value": "Si ton ex te recontactait, le dirais-tu à ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0431",
+      "value": "Y a-t-il un cadeau que tu n'aimerais pas recevoir de ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0432",
+      "value": "Quel est votre \"niveau d'affection\" (indice d'amour) actuel, en pourcentage ?"
+    },
+    {
+      "key": "LOVE_0433",
+      "value": "Quelle est l'odeur unique de ton partenaire (celle que tu lui associes) ?"
+    },
+    {
+      "key": "LOVE_0434",
+      "value": "Qu'est-ce que l'amour, selon toi ?"
+    },
+    {
+      "key": "LOVE_0435",
+      "value": "Que penses-tu du mariage ?"
+    },
+    {
+      "key": "LOVE_0436",
+      "value": "Que penses-tu du fait d'avoir des enfants ?"
+    },
+    {
+      "key": "LOVE_0437",
+      "value": "Quelle couleur te vient à l'esprit quand tu penses à ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0438",
+      "value": "Si ton partenaire pouvait exaucer n'importe lequel de tes vœux, que demanderais-tu ?"
+    },
+    {
+      "key": "LOVE_0439",
+      "value": "Si tu pouvais vivre dans le corps de ton partenaire pendant une semaine, que ferais-tu ?"
+    },
+    {
+      "key": "LOVE_0440",
+      "value": "Quelle est votre plus grande différence ?"
+    },
+    {
+      "key": "LOVE_0441",
+      "value": "Quelle photo aimerais-tu le plus prendre ensemble ?"
+    },
+    {
+      "key": "LOVE_0442",
+      "value": "Préfères-tu un(e) partenaire très jaloux/se, ou pas du tout jaloux/se ?"
+    },
+    {
+      "key": "LOVE_0443",
+      "value": "Les anniversaires (de couple) sont-ils importants pour toi ? Comment aimerais-tu les fêter ?"
+    },
+    {
+      "key": "LOVE_0444",
+      "value": "Si vous vous étiez rencontrés dans une vie antérieure, que pensez-vous que vous étiez ?"
+    },
+    {
+      "key": "LOVE_0445",
+      "value": "Y a-t-il quelque chose de ton passé que tu n'as pas dit à ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0446",
+      "value": "Considères-tu ton partenaire comme ton type idéal ?"
+    },
+    {
+      "key": "LOVE_0447",
+      "value": "As-tu déjà menti pour aller boire en cachette ?"
+    },
+    {
+      "key": "LOVE_0448",
+      "value": "Quelle est la chose la plus \"dégueu\" (sale) que tu pourrais tolérer de ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0449",
+      "value": "Si ton partenaire allait vomir, pourrais-tu le recueillir dans tes mains ?"
+    },
+    {
+      "key": "LOVE_0450",
+      "value": "As-tu déjà eu envie d'annuler un rdv juste parce que tu étais trop fatigué(e) ?"
+    },
+    {
+      "key": "LOVE_0451",
+      "value": "Pourrais-tu curer le nez (sortir les crottes de nez) de ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0452",
+      "value": "Pourrais-tu embrasser ton partenaire juste après avoir mangé un plat qui sent fort (ex: ail) ?"
+    },
+    {
+      "key": "LOVE_0453",
+      "value": "Penses-tu parfois que vous vous voyez trop souvent ?"
+    },
+    {
+      "key": "LOVE_0454",
+      "value": "Ton premier amour est-il très différent de ton partenaire actuel ?"
+    },
+    {
+      "key": "LOVE_0455",
+      "value": "Ton ex est-il/elle très différent(e) de ton partenaire actuel ?"
+    },
+    {
+      "key": "LOVE_0456",
+      "value": "As-tu déjà utilisé une application de rencontre ?"
+    },
+    {
+      "key": "LOVE_0457",
+      "value": "As-tu déjà rencontré quelqu'un (eu un date) via une app de rencontre ?"
+    },
+    {
+      "key": "LOVE_0458",
+      "value": "As-tu déjà dit un pieu mensonge juste pour ne pas blesser ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0459",
+      "value": "As-tu déjà vu un message de ton partenaire mais répondu en retard exprès ?"
+    },
+    {
+      "key": "LOVE_0460",
+      "value": "As-tu déjà ressenti l'envie de te marier avec ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0461",
+      "value": "Si ton partenaire voulait faire de la chirurgie esthétique, serais-tu d'accord (l'autoriserais-tu) ?"
+    },
+    {
+      "key": "LOVE_0462",
+      "value": "As-tu déjà regardé du porno (vidéos X) sans que ton partenaire le sache ?"
+    },
+    {
+      "key": "LOVE_0463",
+      "value": "As-tu déjà emmené ton partenaire actuel dans un endroit où tu étais allé(e) avec un(e) ex ?"
+    },
+    {
+      "key": "LOVE_0464",
+      "value": "Y a-t-il eu un moment où tu étais avec ton partenaire sans pour autant être heureux/se ?"
+    },
+    {
+      "key": "LOVE_0465",
+      "value": "As-tu déjà fait semblant qu'un film était bien alors que tu t'ennuyais ?"
+    },
+    {
+      "key": "LOVE_0466",
+      "value": "As-tu une préférence alimentaire que ton partenaire ne connaît pas ?"
+    },
+    {
+      "key": "LOVE_0467",
+      "value": "As-tu déjà pleuré seul(e) à la maison à cause de ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0468",
+      "value": "Penses-tu que tu pourrais réussir à séduire quelqu'un (d'autre) si tu essayais vraiment ?"
+    },
+    {
+      "key": "LOVE_0469",
+      "value": "Tu préfères un(e) partenaire avec une libido élevée ou une libido faible ?"
+    },
+    {
+      "key": "LOVE_0470",
+      "value": "Y a-t-il une face cachée de toi que tu n'as pas montrée à ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0471",
+      "value": "Dis à ton partenaire deux de tes propres points forts (qualités)."
+    },
+    {
+      "key": "LOVE_0472",
+      "value": "À quelle célébrité te dit-on souvent que tu ressembles ?"
+    },
+    {
+      "key": "LOVE_0473",
+      "value": "Raconte à ton partenaire l'histoire de ta rupture la plus dévastatrice."
+    },
+    {
+      "key": "LOVE_0474",
+      "value": "Dis à ton partenaire deux de tes propres points faibles (défauts)."
+    },
+    {
+      "key": "LOVE_0475",
+      "value": "Quel était ton surnom d'enfance ?"
+    },
+    {
+      "key": "LOVE_0476",
+      "value": "Y a-t-il une chose que tu aimerais dire à ton partenaire sur ta famille ?"
+    },
+    {
+      "key": "LOVE_0477",
+      "value": "Si ton partenaire devenait amnésique, comment te décrirais-tu à lui/elle ?"
+    },
+    {
+      "key": "LOVE_0478",
+      "value": "Si ton partenaire devenait amnésique, quel souvenir lui raconterais-tu en premier ?"
+    },
+    {
+      "key": "LOVE_0479",
+      "value": "Voudrais-tu toujours dormir dans le même lit, même si ton partenaire ronfle bruyamment ?"
+    },
+    {
+      "key": "LOVE_0480",
+      "value": "Tu tombes par hasard sur « Jour Important » dans l'agenda de ton partenaire. Lui demandes-tu ce que c'est ?"
+    },
+    {
+      "key": "LOVE_0481",
+      "value": "(Relation à distance) Ton partenaire va à la salle de sport avec un(e) ami(e) du sexe opposé. Ça te va ?"
+    },
+    {
+      "key": "LOVE_0482",
+      "value": "Que ferais-tu si un(e) ami(e) de ton partenaire essayait de te séduire ?"
+    },
+    {
+      "key": "LOVE_0483",
+      "value": "\"Permettrais-tu\" à ton partenaire de faire du covoiturage seul(e) avec un(e) collègue du sexe opposé tous les matins ?"
+    },
+    {
+      "key": "LOVE_0484",
+      "value": "Que ferais-tu si un(e) ami(e) ivre de ton partenaire n'arrêtait pas de te toucher (de façon déplacée) ?"
+    },
+    {
+      "key": "LOVE_0485",
+      "value": "Si tu pouvais chanter une chanson à ton partenaire, laquelle choisirais-tu ?"
+    },
+    {
+      "key": "LOVE_0486",
+      "value": "Si tu gagnais au loto maintenant, quelle est la 1ère chose que tu voudrais faire avec ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0487",
+      "value": "Si ton partenaire avait des dettes, quel montant maximum pourrais-tu comprendre (ou accepter) ?"
+    },
+    {
+      "key": "LOVE_0488",
+      "value": "Si ton partenaire avait des dettes, serais-tu prêt(e) à les rembourser ensemble ?"
+    },
+    {
+      "key": "LOVE_0489",
+      "value": "Si vous preniez un animal de compagnie ensemble, quel animal voudrais-tu ?"
+    },
+    {
+      "key": "LOVE_0490",
+      "value": "Si vous étiez sur une île déserte ensemble, quel serait l'objet le plus essentiel ?"
+    },
+    {
+      "key": "LOVE_0491",
+      "value": "As-tu déjà eu un amour à sens unique (crush non réciproque) ? Raconte en détail."
+    },
+    {
+      "key": "LOVE_0492",
+      "value": "Si tu pouvais avoir un super-pouvoir pour ton partenaire, ce serait quoi ?"
+    },
+    {
+      "key": "LOVE_0493",
+      "value": "Si tu offrais un robot assistant à ton partenaire, quelle capacité aurait-il ?"
+    },
+    {
+      "key": "LOVE_0494",
+      "value": "Quel est le plus grand sacrifice que tu serais prêt(e) à faire pour ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0495",
+      "value": "Quelle est ta partie préférée du contact physique ? (ex: embrasser, câliner, tenir la main...)"
+    },
+    {
+      "key": "LOVE_0496",
+      "value": "Ton partenaire est-il/elle déjà apparu(e) dans tes rêves ? Décris le rêve."
+    },
+    {
+      "key": "LOVE_0497",
+      "value": "Penses-tu que ton partenaire est mieux en vrai ou en photo ?"
+    },
+    {
+      "key": "LOVE_0498",
+      "value": "As-tu déjà eu le béguin pour un(e) prof ?"
+    },
+    {
+      "key": "LOVE_0499",
+      "value": "As-tu déjà embrassé un(e) ami(e) (du sexe opposé) en étant ivre ?"
+    },
+    {
+      "key": "LOVE_0500",
+      "value": "Si vous pouviez voyager dans le temps ensemble, à quelle époque iriez-vous ?"
+    },
+    {
+      "key": "LOVE_0501",
+      "value": "Si vous échangiez vos vies (corps) pour un jour, que ferais-tu en premier ?"
+    },
+    {
+      "key": "LOVE_0502",
+      "value": "Si ton partenaire devenait célèbre, dans quel domaine aimerais-tu que ce soit ?"
+    },
+    {
+      "key": "LOVE_0503",
+      "value": "Si tu écrivais un livre pour ton partenaire, quel en serait le titre ?"
+    },
+    {
+      "key": "LOVE_0504",
+      "value": "Si vous deveniez des animaux, lesquels aimeriez-vous être ?"
+    },
+    {
+      "key": "LOVE_0505",
+      "value": "Si vous participiez à une émission de TV ensemble, ce serait laquelle ?"
+    },
+    {
+      "key": "LOVE_0506",
+      "value": "Quelle est votre scène de film/série préférée que vous aimeriez rejouer ensemble ?"
+    },
+    {
+      "key": "LOVE_0507",
+      "value": "Si vous aviez un enfant, aimerais-tu qu'il/elle te ressemble plus, ou ressemble plus à ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0508",
+      "value": "Si ton partenaire avait la chance d'avoir un rdv avec son \"crush\" célèbre ultime, le/la laisserais-tu ?"
+    },
+    {
+      "key": "LOVE_0509",
+      "value": "Si ton partenaire avait la chance d'avoir un rdv avec son \"crush\" célèbre ultime, le/la laisserais-tu ?"
+    },
+    {
+      "key": "LOVE_0510",
+      "value": "Y a-t-il un endroit secret où tu aimerais embrasser ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0511",
+      "value": "Quel type de rendez-vous (date) apprécies-tu le plus ?"
+    },
+    {
+      "key": "LOVE_0512",
+      "value": "Si un seul de vous deux pouvait travailler à l'avenir, qui devrait-ce être ?"
+    },
+    {
+      "key": "LOVE_0513",
+      "value": "Quel secret (entre vous) espères-tu que tes parents ne découvrent jamais ?"
+    },
+    {
+      "key": "LOVE_0514",
+      "value": "Décris vos rendez-vous (dating) en un seul mot."
+    },
+    {
+      "key": "LOVE_0515",
+      "value": "Décris vos souvenirs (communs) en un seul mot."
+    },
+    {
+      "key": "LOVE_0516",
+      "value": "Décris votre futur (commun) en un seul mot."
+    },
+    {
+      "key": "LOVE_0517",
+      "value": "As-tu un fantasme sur le fait de sortir avec un(e) étranger(ère) ?"
+    },
+    {
+      "key": "LOVE_0518",
+      "value": "Quelle est la différence d'âge maximale que tu acceptes pour une relation (dating) ?"
+    },
+    {
+      "key": "LOVE_0519",
+      "value": "Quelle est la différence d'âge maximale que tu acceptes pour un mariage ?"
+    },
+    {
+      "key": "LOVE_0520",
+      "value": "Quand est-ce que tu es sorti(e) avec qqn uniquement pour son physique (la dernière fois) ?"
+    },
+    {
+      "key": "LOVE_0521",
+      "value": "Étais-tu plus nerveux/se au premier ou au deuxième rendez-vous ?"
+    },
+    {
+      "key": "LOVE_0522",
+      "value": "Étais-tu nerveux/se lors de votre premier rendez-vous ? Qu'as-tu ressenti ?"
+    },
+    {
+      "key": "LOVE_0523",
+      "value": "As-tu déjà eu envie de copier le tatouage d'une célébrité ? Lequel ?"
+    },
+    {
+      "key": "LOVE_0524",
+      "value": "Que ferais-tu si ton/ta meilleur(e) ami(e) te disait qu'il/elle a des sentiments pour ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0525",
+      "value": "Raconte-nous une histoire d'amour (ou un béguin) que tu as eue pendant ta scolarité."
+    },
+    {
+      "key": "LOVE_0526",
+      "value": "Si vous rompiez et que vous vous croisiez dans la rue, comment réagirais-tu ?"
+    },
+    {
+      "key": "LOVE_0527",
+      "value": "Quel genre de vidéo (film souvenir) aimeriez-vous faire ensemble ?"
+    },
+    {
+      "key": "LOVE_0528",
+      "value": "Y a-t-il une scène de série/film que tu aimerais rejouer avec ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0529",
+      "value": "Est-ce qu'un(e) ami(e) t'a déjà \"piqué\" (volé) la personne que tu aimais ?"
+    },
+    {
+      "key": "LOVE_0530",
+      "value": "À quoi espères-tu que ton partenaire ressemble quand il/elle sera vieux/vieille ?"
+    },
+    {
+      "key": "LOVE_0531",
+      "value": "As-tu déjà eu le béguin pour quelqu'un avec une grosse différence d'âge ?"
+    },
+    {
+      "key": "LOVE_0532",
+      "value": "Est-ce que quelqu'un avec une grosse différence d'âge s'est déjà déclaré(e) à toi ?"
+    },
+    {
+      "key": "LOVE_0533",
+      "value": "Avais-tu un béguin pour un(e) voisin(e) quand tu étais enfant ?"
+    },
+    {
+      "key": "LOVE_0534",
+      "value": "Peux-tu accepter (ou \"comprendre\") que ton partenaire fume ?"
+    },
+    {
+      "key": "LOVE_0535",
+      "value": "Si tu avais une fille, comment aimerais-tu l'appeler ?"
+    },
+    {
+      "key": "LOVE_0536",
+      "value": "Combien de temps penses-tu qu'il est nécessaire de se parler au téléphone chaque jour ?"
+    },
+    {
+      "key": "LOVE_0537",
+      "value": "Penses-tu qu'il faut absolument s'appeler tous les jours ?"
+    },
+    {
+      "key": "LOVE_0538",
+      "value": "Comment es-tu quand tu es ivre (tes \"habitudes d'alcoolo\") ?"
+    },
+    {
+      "key": "LOVE_0539",
+      "value": "Comment est-ce que tu décris ton partenaire à tes amis ?"
+    },
+    {
+      "key": "LOVE_0540",
+      "value": "Quel style vestimentaire (mode) trouves-tu attirant chez les autres ?"
+    },
+    {
+      "key": "LOVE_0541",
+      "value": "As-tu déjà pensé à te faire des tatouages assortis (identiques) avec ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0542",
+      "value": "Que ferais-tu si tu voyais ton partenaire se disputer (ou se battre) avec quelqu'un ?"
+    },
+    {
+      "key": "LOVE_0543",
+      "value": "Si vous aviez un bébé, à quoi aimerais-tu qu'il/elle ressemble ?"
+    },
+    {
+      "key": "LOVE_0544",
+      "value": "Combien de temps penses-tu qu'il faut attendre après une rupture avant de re-dater ?"
+    },
+    {
+      "key": "LOVE_0545",
+      "value": "De toutes les photos de ton partenaire, laquelle est ta préférée ?"
+    },
+    {
+      "key": "LOVE_0546",
+      "value": "Présente-toi (comme à un entretien) en imaginant que ton partenaire est l'intervieweur."
+    },
+    {
+      "key": "LOVE_0547",
+      "value": "Décris la personnalité de ton partenaire en détail (longuement)."
+    },
+    {
+      "key": "LOVE_0548",
+      "value": "Que dirais-tu si les parents de ton partenaire te demandaient de rompre ?"
+    },
+    {
+      "key": "LOVE_0549",
+      "value": "Que ferais-tu si ton/ta meilleur(e) ami(e) insultait (ou disait du mal de) ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0550",
+      "value": "Quelle est la signification du \"mariage\" pour toi ?"
+    },
+    {
+      "key": "LOVE_0551",
+      "value": "Si tu achetais une voiture, quel est le budget maximum que tu y mettrais ?"
+    },
+    {
+      "key": "LOVE_0552",
+      "value": "Quel est, selon toi, un montant raisonnable pour les dépenses mensuelles (par personne) ?"
+    },
+    {
+      "key": "LOVE_0553",
+      "value": "As-tu une bonne opinion des amis de ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0554",
+      "value": "À quel point est-ce important pour toi de gagner beaucoup d'argent ?"
+    },
+    {
+      "key": "LOVE_0555",
+      "value": "Que penses-tu de la cohabitation (vivre ensemble) avant le mariage ?"
+    },
+    {
+      "key": "LOVE_0556",
+      "value": "Si vous viviez ensemble, serais-tu d'accord pour que ton partenaire ramène des amis tard le soir ?"
+    },
+    {
+      "key": "LOVE_0557",
+      "value": "Quelle profession aimerais-tu que ton futur enfant exerce ?"
+    },
+    {
+      "key": "LOVE_0558",
+      "value": "Si vous vous mariez, quelles sont les 3 choses sur lesquelles vous devrez économiser ?"
+    },
+    {
+      "key": "LOVE_0559",
+      "value": "Quelle est la dernière chose que tu aimerais faire avant de te marier ?"
+    },
+    {
+      "key": "LOVE_0560",
+      "value": "Combien de fois par mois aimerais-tu manger au restaurant ?"
+    },
+    {
+      "key": "LOVE_0561",
+      "value": "Y a-t-il eu un moment où tu as trouvé ton partenaire pas très attirant (ou \"laid\") ?"
+    },
+    {
+      "key": "LOVE_0562",
+      "value": "Si tu pouvais changer de nom, lequel voudrais-tu ?"
+    },
+    {
+      "key": "LOVE_0563",
+      "value": "Pense à une épitaphe (phrase) que tu aimerais avoir sur ta pierre tombale."
+    },
+    {
+      "key": "LOVE_0564",
+      "value": "Quelle est la bonne chose quand on vieillit ?"
+    },
+    {
+      "key": "LOVE_0565",
+      "value": "Quelles sont tes trois conditions pour la personne que tu veux épouser ?"
+    },
+    {
+      "key": "LOVE_0566",
+      "value": "Quand as-tu pleuré la dernière fois, et pourquoi ?"
+    },
+    {
+      "key": "LOVE_0567",
+      "value": "Raconte un secret de couple de quelqu'un d'autre que seul toi connais."
+    },
+    {
+      "key": "LOVE_0568",
+      "value": "Comment fais-tu pour rejeter une déclaration (d'amour) ?"
+    },
+    {
+      "key": "LOVE_0569",
+      "value": "Quand un(e) ex t'a largué(e), l'as-tu déjà supplié(e) pathétiquement de revenir ?"
+    },
+    {
+      "key": "LOVE_0570",
+      "value": "As-tu déjà regardé en secret dans le téléphone de ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0571",
+      "value": "Quel est ton plus gros souci en ce moment ?"
+    },
+    {
+      "key": "LOVE_0572",
+      "value": "Quelle est la différence par rapport à ta première impression de ton partenaire ?"
+    },
+    {
+      "key": "LOVE_0573",
+      "value": "Si l'argent n'était pas un problème, que ferais-tu en premier ?"
+    },
+    {
+      "key": "LOVE_0574",
+      "value": "(Après le mariage) Si un(e) ami(e) t'appelle pour sortir tard le soir ? Que fais-tu ?"
+    },
+    {
+      "key": "LOVE_0575",
+      "value": "Si tu veux épouser ton partenaire, donne 3 raisons."
+    },
+    {
+      "key": "LOVE_0576",
+      "value": "Comment aimerais-tu partager les tâches ménagères ?"
+    },
+    {
+      "key": "LOVE_0577",
+      "value": "Que penses-tu de faire la cérémonie, mais d'attendre 1 an pour l'enregistrement légal ?"
+    },
+    {
+      "key": "LOVE_0578",
+      "value": "Crois-tu que l'amour a une \"date d'expiration\" ? Si oui, combien d'années ?"
+    },
+    {
+      "key": "LOVE_0579",
+      "value": "Quelle est ta philosophie sur l'éducation des enfants ?"
+    },
+    {
       "key": "SEXY_0001",
       "value": "Enfer d'Action1"
     },
