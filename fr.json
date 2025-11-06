@@ -97,84 +97,80 @@
       "value": "Mission accomplie ?"
     },
     {
-      "key": "Level_soft",
-      "value": "Soft"
+      "key": "result_comment",
+      "value": "Envie d'un jeu plus coquin ? Nous vous recommandons le niveau suivant ! ;)"
     },
     {
-      "key": "Level_hot",
-      "value": "HOT"
+      "key": "result_replay",
+      "value": "Rejouer"
     },
     {
-      "key": "Level_sexy",
-      "value": "Sexy"
-    },
-    {
-      "key": "Level_extream",
-      "value": "Extream"
+      "key": "result_other",
+      "value": "Autres Niveaux"
     },
     {
       "key": "LOVE_0001",
-      "value": "Enfer d'Action1"
+      "value": "Quel repas as-tu le plus envie de manger avec ton partenaire, là, maintenant ?"
     },
     {
       "key": "LOVE_0002",
-      "value": "Enfer d'Action2"
+      "value": "Quel snack as-tu le plus envie de manger avec ton partenaire, là, maintenant ?"
     },
     {
       "key": "LOVE_0003",
-      "value": "Enfer d'Action3"
+      "value": "Quel dessert as-tu le plus envie de manger avec ton partenaire, là, maintenant ?"
     },
     {
       "key": "LOVE_0004",
-      "value": "Enfer d'Action4"
+      "value": "Quel repas aimerais-tu manger avec ton partenaire au prochain rendez-vous ?"
     },
     {
       "key": "LOVE_0005",
-      "value": "Enfer d'Action1"
+      "value": "Quel snack aimerais-tu manger avec ton partenaire au prochain rendez-vous ?"
     },
     {
       "key": "LOVE_0006",
-      "value": "Enfer d'Action2"
+      "value": "Quel dessert aimerais-tu manger avec ton partenaire au prochain rendez-vous ?"
     },
     {
       "key": "LOVE_0007",
-      "value": "Enfer d'Action3"
+      "value": "Quel est le meilleur repas que vous ayez mangé ensemble ?"
     },
     {
       "key": "LOVE_0008",
-      "value": "Enfer d'Action4"
+      "value": "Quel est le pire repas que vous ayez mangé ensemble ?"
     },
     {
       "key": "LOVE_0009",
-      "value": "Enfer d'Action1"
+      "value": "Quel est le meilleur snack que vous ayez mangé ensemble ?"
     },
     {
       "key": "LOVE_0010",
-      "value": "Enfer d'Action2"
+      "value": "Quel est le pire snack que vous ayez mangé ensemble ?"
     },
     {
       "key": "LOVE_0011",
-      "value": "Enfer d'Action3"
+      "value": "Quel est le meilleur dessert que vous ayez mangé ensemble ?"
     },
     {
       "key": "LOVE_0012",
-      "value": "Enfer d'Action4"
+      "value": "Quel est le pire dessert que vous ayez mangé ensemble ?"
     },
     {
       "key": "LOVE_0013",
-      "value": "Enfer d'Action1"
+      "value": "As-tu déjà fait semblant de trouver ça bon en mangeant avec ton partenaire ? Si oui, raconte."
     },
     {
       "key": "LOVE_0014",
-      "value": "Enfer d'Action2"
+      "value": "Si tu ne pouvais manger qu'un seul plat avec ton partenaire pour le reste de ta vie, lequel choisirais-tu ?"
     },
     {
       "key": "LOVE_0015",
-      "value": "Enfer d'Action3"
+      "value": "Quel plat aimerais-tu que ton partenaire te cuisine ?"
     },
     {
       "key": "LOVE_0016",
-      "value": "Enfer d'Action4"
+      "value": "Quel plat aimerais-tu que ton partenaire accepte de manger avec toi ? (ex: un truc qu'il/elle n'aime pas)"
     },
     {
       "key": "SEXY_0001",
