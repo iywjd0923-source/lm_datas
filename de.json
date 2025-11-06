@@ -97,84 +97,80 @@
       "value": "Mission erfüllt?"
     },
     {
-      "key": "Level_soft",
-      "value": "Soft"
+      "key": "result_comment",
+      "value": "Lust auf ein heißeres Spiel? Wir empfehlen die nächste Stufe! ;)"
     },
     {
-      "key": "Level_hot",
-      "value": "HOT"
+      "key": "result_replay",
+      "value": "Nochmal"
     },
     {
-      "key": "Level_sexy",
-      "value": "Sexy"
-    },
-    {
-      "key": "Level_extream",
-      "value": "Extream"
+      "key": "result_other",
+      "value": "Andere Level"
     },
     {
       "key": "LOVE_0001",
-      "value": "Aktionshölle1"
+      "value": "Welches Gericht möchtest du jetzt am liebsten mit deinem Partner essen?"
     },
     {
       "key": "LOVE_0002",
-      "value": "Aktionshölle2"
+      "value": "Welchen Snack möchtest du jetzt am liebsten mit deinem Partner essen?"
     },
     {
       "key": "LOVE_0003",
-      "value": "Aktionshölle3"
+      "value": "Welches Dessert möchtest du jetzt am liebsten mit deinem Partner essen?"
     },
     {
       "key": "LOVE_0004",
-      "value": "Aktionshölle4"
+      "value": "Welches Gericht möchtest du beim nächsten Date mit deinem Partner essen?"
     },
     {
       "key": "LOVE_0005",
-      "value": "Aktionshölle1"
+      "value": "Welchen Snack möchtest du beim nächsten Date mit deinem Partner essen?"
     },
     {
       "key": "LOVE_0006",
-      "value": "Aktionshölle2"
+      "value": "Welches Dessert möchtest du beim nächsten Date mit deinem Partner essen?"
     },
     {
       "key": "LOVE_0007",
-      "value": "Aktionshölle3"
+      "value": "Was war das leckerste Gericht, das ihr je zusammen gegessen habt?"
     },
     {
       "key": "LOVE_0008",
-      "value": "Aktionshölle4"
+      "value": "Was war das schrecklichste Gericht, das ihr je zusammen gegessen habt?"
     },
     {
       "key": "LOVE_0009",
-      "value": "Aktionshölle1"
+      "value": "Was war der leckerste Snack, den ihr je zusammen gegessen habt?"
     },
     {
       "key": "LOVE_0010",
-      "value": "Aktionshölle2"
+      "value": "Was war der schrecklichste Snack, den ihr je zusammen gegessen habt?"
     },
     {
       "key": "LOVE_0011",
-      "value": "Aktionshölle3"
+      "value": "Was war das leckerste Dessert, das ihr je zusammen gegessen habt?"
     },
     {
       "key": "LOVE_0012",
-      "value": "Aktionshölle4"
+      "value": "Was war das schrecklichste Dessert, das ihr je zusammen gegessen habt?"
     },
     {
       "key": "LOVE_0013",
-      "value": "Aktionshölle1"
+      "value": "Hast du jemals so getan, als ob es lecker schmeckt, während du mit deinem Partner gegessen hast? Wenn ja, erzähl."
     },
     {
       "key": "LOVE_0014",
-      "value": "Aktionshölle2"
+      "value": "Wenn du für den Rest deines Lebens nur ein einziges Gericht mit deinem Partner essen könntest, was würdest du wählen?"
     },
     {
       "key": "LOVE_0015",
-      "value": "Aktionshölle3"
+      "value": "Welches Gericht wünschst du dir, dass dein Partner es für dich kocht?"
     },
     {
       "key": "LOVE_0016",
-      "value": "Aktionshölle4"
+      "value": "Welches Gericht wünschst du dir, dass dein Partner es mit dir zusammen probiert? (z.B. was er/sie nicht mag)"
     },
     {
       "key": "SEXY_0001",
