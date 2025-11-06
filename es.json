@@ -97,84 +97,80 @@
       "value": "¿Misión cumplida?"
     },
     {
-      "key": "Level_soft",
-      "value": "Soft"
+      "key": "result_comment",
+      "value": "¿Quieres un juego más picante? ¡Te recomendamos el siguiente nivel! ;)"
     },
     {
-      "key": "Level_hot",
-      "value": "HOT"
+      "key": "result_replay",
+      "value": "Jugar otra vez"
     },
     {
-      "key": "Level_sexy",
-      "value": "Sexy"
-    },
-    {
-      "key": "Level_extream",
-      "value": "Extream"
+      "key": "result_other",
+      "value": "Otros Niveles"
     },
     {
       "key": "LOVE_0001",
-      "value": "Infierno de Acción1"
+      "value": "¿Qué comida te apetece más comer con tu pareja ahora mismo?"
     },
     {
       "key": "LOVE_0002",
-      "value": "Infierno de Acción2"
+      "value": "¿Qué snack (aperitivo) te apetece más comer con tu pareja ahora mismo?"
     },
     {
       "key": "LOVE_0003",
-      "value": "Infierno de Acción3"
+      "value": "¿Qué postre te apetece más comer con tu pareja ahora mismo?"
     },
     {
       "key": "LOVE_0004",
-      "value": "Infierno de Acción4"
+      "value": "¿Qué comida te gustaría comer con tu pareja en vuestra próxima cita?"
     },
     {
       "key": "LOVE_0005",
-      "value": "Infierno de Acción1"
+      "value": "¿Qué snack (aperitivo) te gustaría comer con tu pareja en vuestra próxima cita?"
     },
     {
       "key": "LOVE_0006",
-      "value": "Infierno de Acción2"
+      "value": "¿Qué postre te gustaría comer con tu pareja en vuestra próxima cita?"
     },
     {
       "key": "LOVE_0007",
-      "value": "Infierno de Acción3"
+      "value": "¿Cuál es la mejor comida que habéis comido juntos?"
     },
     {
       "key": "LOVE_0008",
-      "value": "Infierno de Acción4"
+      "value": "¿Cuál es la peor comida que habéis comido juntos?"
     },
     {
       "key": "LOVE_0009",
-      "value": "Infierno de Acción1"
+      "value": "¿Cuál es el mejor snack (aperitivo) que habéis comido juntos?"
     },
     {
       "key": "LOVE_0010",
-      "value": "Infierno de Acción2"
+      "value": "¿Cuál es el peor snack (aperitivo) que habéis comido juntos?"
     },
     {
       "key": "LOVE_0011",
-      "value": "Infierno de Acción3"
+      "value": "¿Cuál es el mejor postre que habéis comido juntos?"
     },
     {
       "key": "LOVE_0012",
-      "value": "Infierno de Acción4"
+      "value": "¿Cuál es el peor postre que habéis comido juntos?"
     },
     {
       "key": "LOVE_0013",
-      "value": "Infierno de Acción1"
+      "value": "¿Alguna vez has fingido que algo estaba delicioso comiendo con tu pareja? Si es así, cuéntalo."
     },
     {
       "key": "LOVE_0014",
-      "value": "Infierno de Acción2"
+      "value": "Si solo pudieras comer una comida con tu pareja el resto de tu vida, ¿qué elegirías?"
     },
     {
       "key": "LOVE_0015",
-      "value": "Infierno de Acción3"
+      "value": "¿Qué plato te gustaría que tu pareja cocinara para ti?"
     },
     {
       "key": "LOVE_0016",
-      "value": "Infierno de Acción4"
+      "value": "¿Qué comida te gustaría que tu pareja se atreviera a comer contigo? (ej: algo que no le guste)"
     },
     {
       "key": "SEXY_0001",
