@@ -109,6 +109,14 @@
       "value": "Other Levels"
     },
     {
+      "key": "result_comment_review",
+      "value": "Enjoying the game?\nWe'd appreciate your valuable review! :D"
+    },
+    {
+      "key": "result_other_review",
+      "value": "Leave a Review"
+    },
+    {
       "key": "LOVE_0001",
       "value": "What meal do you want to eat with your partner the most right now?"
     },
@@ -462,1967 +470,2135 @@
     },
     {
       "key": "LOVE_0089",
-      "value": "Is there a specific park you want to go to together? Why?"
-    },
-    {
-      "key": "LOVE_0090",
       "value": "Is there an amusement park you want to go to together? Why?"
     },
     {
-      "key": "LOVE_0091",
+      "key": "LOVE_0090",
       "value": "Is there an international festival you want to go to together? Why?"
     },
     {
-      "key": "LOVE_0092",
+      "key": "LOVE_0091",
       "value": "Is there a domestic festival (in your country) you want to go to together? Why?"
     },
     {
-      "key": "LOVE_0093",
+      "key": "LOVE_0092",
       "value": "What historical site would you like to visit together? Is there a special reason?"
     },
     {
-      "key": "LOVE_0094",
+      "key": "LOVE_0093",
       "value": "What's your dream vacation destination to go to together? What do you want to do there?"
     },
     {
-      "key": "LOVE_0095",
+      "key": "LOVE_0094",
       "value": "Is there a specific amusement park ride you really want to try together? Why?"
     },
     {
-      "key": "LOVE_0096",
+      "key": "LOVE_0095",
       "value": "Is there a specific town or village you'd like to visit together?"
     },
     {
-      "key": "LOVE_0097",
+      "key": "LOVE_0096",
       "value": "Is there something you want to do at the beach together? Why?"
     },
     {
-      "key": "LOVE_0098",
+      "key": "LOVE_0097",
       "value": "Where would you like to go camping with your partner? Why?"
     },
     {
-      "key": "LOVE_0099",
+      "key": "LOVE_0098",
       "value": "Where would you like to go to see the night view together? Why?"
     },
     {
-      "key": "LOVE_0100",
+      "key": "LOVE_0099",
       "value": "Where would you like to go to find traces of an ancient civilization? What history do you want to learn there?"
     },
     {
-      "key": "LOVE_0101",
+      "key": "LOVE_0100",
       "value": "Is there a stadium where you'd like to watch a sports game together? Why?"
     },
     {
-      "key": "LOVE_0102",
+      "key": "LOVE_0101",
       "value": "Is there a famous river you'd like to visit together? What do you want to do there?"
     },
     {
-      "key": "LOVE_0103",
+      "key": "LOVE_0102",
       "value": "Is there a place with a great atmosphere where you'd like to spend time just talking? Why?"
     },
     {
-      "key": "LOVE_0104",
+      "key": "LOVE_0103",
       "value": "Is there a special place you'd like to kiss your partner? Why?"
     },
     {
-      "key": "LOVE_0105",
+      "key": "LOVE_0104",
       "value": "Where would you like to go on a night drive together? Why?"
     },
     {
-      "key": "LOVE_0106",
+      "key": "LOVE_0105",
       "value": "Where would you like to live together in the future? Why?"
     },
     {
-      "key": "LOVE_0107",
+      "key": "LOVE_0106",
       "value": "In the future, would you rather live together in the city or the countryside?"
     },
     {
-      "key": "LOVE_0108",
+      "key": "LOVE_0107",
       "value": "If you could live in another country together for one month, which country would you choose?"
     },
     {
-      "key": "LOVE_0109",
+      "key": "LOVE_0108",
       "value": "If you had to live in another country together, which one would you choose?"
     },
     {
-      "key": "LOVE_0110",
+      "key": "LOVE_0109",
       "value": "Could you handle a long-distance relationship with your partner?"
     },
     {
-      "key": "LOVE_0111",
+      "key": "LOVE_0110",
       "value": "Where would you like to visit together on the day of the first snow?"
     },
     {
-      "key": "LOVE_0112",
+      "key": "LOVE_0111",
       "value": "Where would you like to take a walk together? Why?"
     },
     {
-      "key": "LOVE_0113",
+      "key": "LOVE_0112",
       "value": "Is there a special place you'd like to go stargazing together?"
     },
     {
-      "key": "LOVE_0114",
+      "key": "LOVE_0113",
       "value": "Is there a special place you'd like to go to watch a beautiful sunset together?"
     },
     {
-      "key": "LOVE_0115",
+      "key": "LOVE_0114",
       "value": "Is there a quiet beach where you'd like to greet the morning? What would you do there?"
     },
     {
-      "key": "LOVE_0116",
+      "key": "LOVE_0115",
       "value": "Where would you go to escape the noise and find peace and quiet together?"
     },
     {
-      "key": "LOVE_0117",
+      "key": "LOVE_0116",
       "value": "What \"foodie destination\" (gourmet trip) would you like to explore together?"
     },
     {
-      "key": "LOVE_0118",
+      "key": "LOVE_0117",
       "value": "Is there a specific quiet café where you'd like to just sit, talk, and enjoy coffee together?"
     },
     {
-      "key": "LOVE_0119",
+      "key": "LOVE_0118",
       "value": "What is your dream destination for a \"trip of a lifetime\" together?"
     },
     {
-      "key": "LOVE_0120",
+      "key": "LOVE_0119",
       "value": "Where would you like to have your wedding ceremony with your partner in the future?"
     },
     {
-      "key": "LOVE_0121",
+      "key": "LOVE_0120",
       "value": "Is there a \"photo spot\" where you'd like to take a picture together, like a scene from a movie?"
     },
     {
-      "key": "LOVE_0122",
+      "key": "LOVE_0121",
       "value": "Where would you like to spend an unforgettable birthday? What would you want to do there?"
     },
     {
-      "key": "LOVE_0123",
+      "key": "LOVE_0122",
       "value": "Where is a \"relaxing getaway\" you'd like to visit together to slow down the pace of life?"
     },
     {
-      "key": "LOVE_0124",
+      "key": "LOVE_0123",
       "value": "If you went on an adventure together, where would you go? What adventure would you want to try?"
     },
     {
-      "key": "LOVE_0125",
+      "key": "LOVE_0124",
       "value": "Where would you like to spend a memorable anniversary? What would you want to do there?"
     },
     {
-      "key": "LOVE_0126",
+      "key": "LOVE_0125",
       "value": "If you were stranded on a desert island with your partner, what three items would you bring?"
     },
     {
-      "key": "LOVE_0127",
+      "key": "LOVE_0126",
       "value": "Is there a place where you'd like to admire magnificent natural scenery together?"
     },
     {
-      "key": "LOVE_0128",
+      "key": "LOVE_0127",
       "value": "Where would you like to go to spend an unforgettable romantic night together?"
     },
     {
-      "key": "LOVE_0129",
+      "key": "LOVE_0128",
       "value": "What is your dream destination for a future honeymoon together?"
     },
     {
-      "key": "LOVE_0130",
+      "key": "LOVE_0129",
       "value": "If you were going on a honeymoon, which country would you want to go to?"
     },
     {
-      "key": "LOVE_0131",
+      "key": "LOVE_0130",
       "value": "If you were going on a domestic honeymoon (in your country), where would you want to go?"
     },
     {
-      "key": "LOVE_0132",
+      "key": "LOVE_0131",
       "value": "If you were to travel to learn a new language together, which country would you choose?"
     },
     {
-      "key": "LOVE_0133",
+      "key": "LOVE_0132",
       "value": "If you were to study abroad together, which country would you want to go to?"
     },
     {
-      "key": "LOVE_0134",
+      "key": "LOVE_0133",
       "value": "Where is your hometown? Would you like to visit it with your partner?"
     },
     {
-      "key": "LOVE_0135",
+      "key": "LOVE_0134",
       "value": "If your partner wanted to live in the countryside in the future, would you live there with them?"
     },
     {
-      "key": "LOVE_0136",
+      "key": "LOVE_0135",
       "value": "If you live together in the future, would you prefer to live near the sea or the mountains? Why?"
     },
     {
-      "key": "LOVE_0137",
+      "key": "LOVE_0136",
       "value": "If you were planning a luxurious wedding, where would you want to have it?"
     },
     {
-      "key": "LOVE_0138",
+      "key": "LOVE_0137",
       "value": "If you were spending your last moments on Earth together, where would you want to be?"
     },
     {
-      "key": "LOVE_0139",
+      "key": "LOVE_0138",
       "value": "Do you remember the place where you first met? What did you feel at that moment?"
     },
     {
-      "key": "LOVE_0140",
+      "key": "LOVE_0139",
       "value": "If you were reborn and met again, where would you want it to be?"
     },
     {
-      "key": "LOVE_0141",
+      "key": "LOVE_0140",
       "value": "If you both had amnesia, is there a special place that could restore your memories?"
     },
     {
-      "key": "LOVE_0142",
+      "key": "LOVE_0141",
       "value": "If you broke up, where would you be and what would you be doing the next day?"
     },
     {
-      "key": "LOVE_0143",
+      "key": "LOVE_0142",
       "value": "If you broke up, where and how do you think it would happen? How would you act?"
     },
     {
-      "key": "LOVE_0144",
+      "key": "LOVE_0143",
       "value": "If you broke up and met by chance 10 years later, where would you run into each other?"
     },
     {
-      "key": "LOVE_0145",
+      "key": "LOVE_0144",
       "value": "If you traveled together in 30 years, where would you want to go?"
     },
     {
-      "key": "LOVE_0146",
+      "key": "LOVE_0145",
       "value": "If you had a time machine, past or future? What year would you go to?"
     },
     {
-      "key": "LOVE_0147",
+      "key": "LOVE_0146",
       "value": "If the world was ending, where would you want to spend your last moments together?"
     },
     {
-      "key": "LOVE_0148",
+      "key": "LOVE_0147",
       "value": "If you become parents together, what kind of parents do you want to be?"
     },
     {
-      "key": "LOVE_0149",
+      "key": "LOVE_0148",
       "value": "What do you think is more important, love or friendship? Why?"
     },
     {
-      "key": "LOVE_0150",
+      "key": "LOVE_0149",
       "value": "If your partner asked to borrow money, what's the maximum amount you could lend?"
     },
     {
-      "key": "LOVE_0151",
+      "key": "LOVE_0150",
       "value": "Describe your partner in one word."
     },
     {
-      "key": "LOVE_0152",
+      "key": "LOVE_0151",
       "value": "When does your partner look the sexiest? Why?"
     },
     {
-      "key": "LOVE_0153",
+      "key": "LOVE_0152",
       "value": "State two reasons why you love your partner."
     },
     {
-      "key": "LOVE_0154",
+      "key": "LOVE_0153",
       "value": "Describe your partner in one sentence."
     },
     {
-      "key": "LOVE_0155",
+      "key": "LOVE_0154",
       "value": "How do you describe your partner to your friends?"
     },
     {
-      "key": "LOVE_0156",
+      "key": "LOVE_0155",
       "value": "Talk about a time when your partner annoyed you (or was \"unlikeable\")."
     },
     {
-      "key": "LOVE_0157",
+      "key": "LOVE_0156",
       "value": "Talk about a time you felt jealous (regarding your partner)."
     },
     {
-      "key": "LOVE_0158",
+      "key": "LOVE_0157",
       "value": "Would you let your partner go clubbing alone?"
     },
     {
-      "key": "LOVE_0159",
+      "key": "LOVE_0158",
       "value": "Is there a sport you'd like to try with your partner? What is it?"
     },
     {
-      "key": "LOVE_0160",
+      "key": "LOVE_0159",
       "value": "Is there a specific date you'd like to go on with your partner? What is it?"
     },
     {
-      "key": "LOVE_0161",
+      "key": "LOVE_0160",
       "value": "Is there a hairstyle you'd like your partner to try? Why?"
     },
     {
-      "key": "LOVE_0162",
+      "key": "LOVE_0161",
       "value": "If your partner's gender was swapped, could you still love them? Why?"
     },
     {
-      "key": "LOVE_0163",
+      "key": "LOVE_0162",
       "value": "If your partner's gender was swapped, what kind of date would you want to go on?"
     },
     {
-      "key": "LOVE_0164",
+      "key": "LOVE_0163",
       "value": "Name one game you'd like to play together. Why?"
     },
     {
-      "key": "LOVE_0165",
+      "key": "LOVE_0164",
       "value": "If your partner committed murder, what would you say? What would you do?"
     },
     {
-      "key": "LOVE_0166",
+      "key": "LOVE_0165",
       "value": "If the world was ending, what's the last thing you'd want to do together?"
     },
     {
-      "key": "LOVE_0167",
+      "key": "LOVE_0166",
       "value": "If the world was ending, what are the last words you'd want to say to your partner?"
     },
     {
-      "key": "LOVE_0168",
+      "key": "LOVE_0167",
       "value": "Could you still live with your partner even if they couldn't earn any money?"
     },
     {
-      "key": "LOVE_0169",
+      "key": "LOVE_0168",
       "value": "Could you still love your partner if you could never have physical contact (skinship) again?"
     },
     {
-      "key": "LOVE_0170",
+      "key": "LOVE_0169",
       "value": "If your partner cheated on you, then cried and begged for forgiveness, would you forgive them?"
     },
     {
-      "key": "LOVE_0171",
+      "key": "LOVE_0170",
       "value": "If your partner were an animal, what animal would they be? Why?"
     },
     {
-      "key": "LOVE_0172",
+      "key": "LOVE_0171",
       "value": "Would you want to get a pet with your partner in the future? What kind?"
     },
     {
-      "key": "LOVE_0173",
+      "key": "LOVE_0172",
       "value": "Do you think it's right to share phone passcodes with a partner? Why?"
     },
     {
-      "key": "LOVE_0174",
+      "key": "LOVE_0173",
       "value": "Name two good things about your partner's personality."
     },
     {
-      "key": "LOVE_0175",
+      "key": "LOVE_0174",
       "value": "What would you do if your partner cheated on you?"
     },
     {
-      "key": "LOVE_0176",
+      "key": "LOVE_0175",
       "value": "If you were reborn, do you think you'd fall in love with your partner again? Why?"
     },
     {
-      "key": "LOVE_0177",
+      "key": "LOVE_0176",
       "value": "Name three good qualities (strengths) of your partner."
     },
     {
-      "key": "LOVE_0178",
+      "key": "LOVE_0177",
       "value": "In the future, do you want to be like friends, or always passionately in love?"
     },
     {
-      "key": "LOVE_0179",
+      "key": "LOVE_0178",
       "value": "Do you believe love has an \"expiration date\"? Why or why not?"
     },
     {
-      "key": "LOVE_0180",
+      "key": "LOVE_0179",
       "value": "If you were to break up, what do you think the reason would be?"
     },
     {
-      "key": "LOVE_0181",
+      "key": "LOVE_0180",
       "value": "Do you believe in destiny (or fate) in love? Why?"
     },
     {
-      "key": "LOVE_0182",
+      "key": "LOVE_0181",
       "value": "When you both die of old age, who would you want to die first? You or your partner?"
     },
     {
-      "key": "LOVE_0183",
+      "key": "LOVE_0182",
       "value": "Until what age do you want to live with your partner? Why?"
     },
     {
-      "key": "LOVE_0184",
+      "key": "LOVE_0183",
       "value": "Would it matter to you if your partner gained a significant amount of weight?"
     },
     {
-      "key": "LOVE_0185",
+      "key": "LOVE_0184",
       "value": "Tell me about your first impression of your partner."
     },
     {
-      "key": "LOVE_0186",
+      "key": "LOVE_0185",
       "value": "If your partner's gender was swapped, could you still love them?"
     },
     {
-      "key": "LOVE_0187",
+      "key": "LOVE_0186",
       "value": "Which would you rather give up: kissing your partner, or hugging your partner?"
     },
     {
-      "key": "LOVE_0188",
+      "key": "LOVE_0187",
       "value": "What's more important to you: sex drive (libido) or appetite (for food)? Why?"
     },
     {
-      "key": "LOVE_0189",
+      "key": "LOVE_0188",
       "value": "State two reasons why your partner is great, and explain them."
     },
     {
-      "key": "LOVE_0190",
+      "key": "LOVE_0189",
       "value": "Name two things you wish your partner would change (or fix)."
     },
     {
-      "key": "LOVE_0191",
+      "key": "LOVE_0190",
       "value": "Name two of your partner's attractive points."
     },
     {
-      "key": "LOVE_0192",
+      "key": "LOVE_0191",
       "value": "What is your favorite part of your partner's body?"
     },
     {
-      "key": "LOVE_0193",
+      "key": "LOVE_0192",
       "value": "Who is your favorite celebrity? Why?"
     },
     {
-      "key": "LOVE_0194",
+      "key": "LOVE_0193",
       "value": "On a scale of 1 to 10, what number is your libido (sex drive)?"
     },
     {
-      "key": "LOVE_0195",
+      "key": "LOVE_0194",
       "value": "Can you \"understand\" (accept) if your partner goes drinking alone with a friend of the opposite sex?"
     },
     {
-      "key": "LOVE_0196",
+      "key": "LOVE_0195",
       "value": "Can you \"understand\" (accept) if your partner goes traveling with a friend of the opposite sex?"
     },
     {
-      "key": "LOVE_0197",
+      "key": "LOVE_0196",
       "value": "If you had a son, what would you want to name him?"
     },
     {
-      "key": "LOVE_0198",
+      "key": "LOVE_0197",
       "value": "If you had a child, what gender would you prefer to have?"
     },
     {
-      "key": "LOVE_0199",
+      "key": "LOVE_0198",
       "value": "If you had children together, how many would you want to have?"
     },
     {
-      "key": "LOVE_0200",
+      "key": "LOVE_0199",
       "value": "If you had a child together, how would you want to raise them?"
     },
     {
-      "key": "LOVE_0201",
+      "key": "LOVE_0200",
       "value": "If you had a child together, what job would you want them to have?"
     },
     {
-      "key": "LOVE_0202",
+      "key": "LOVE_0201",
       "value": "If you had a child together, what do you think they would look like?"
     },
     {
-      "key": "LOVE_0203",
+      "key": "LOVE_0202",
       "value": "If you had a child together, at what age would you want to have them?"
     },
     {
-      "key": "LOVE_0204",
+      "key": "LOVE_0203",
       "value": "If you had a child together, what do you think their personality would be like?"
     },
     {
-      "key": "LOVE_0205",
+      "key": "LOVE_0204",
       "value": "If you had a child together, how would you want to educate them?"
     },
     {
-      "key": "LOVE_0206",
+      "key": "LOVE_0205",
       "value": "What gift would you like to receive on a special anniversary?"
     },
     {
-      "key": "LOVE_0207",
+      "key": "LOVE_0206",
       "value": "What kind of date would you like to have on a special anniversary?"
     },
     {
-      "key": "LOVE_0208",
+      "key": "LOVE_0207",
       "value": "Please describe your memory of when you first met."
     },
     {
-      "key": "LOVE_0209",
+      "key": "LOVE_0208",
       "value": "When was the moment your partner moved you (touched your heart) the most?"
     },
     {
-      "key": "LOVE_0210",
+      "key": "LOVE_0209",
       "value": "What is the most important value you expect from your partner?"
     },
     {
-      "key": "LOVE_0211",
+      "key": "LOVE_0210",
       "value": "Do you think there should be secrets between you? Why or why not?"
     },
     {
-      "key": "LOVE_0212",
+      "key": "LOVE_0211",
       "value": "What action or habit of your partner's makes you angry?"
     },
     {
-      "key": "LOVE_0213",
+      "key": "LOVE_0212",
       "value": "When do you need your partner the most?"
     },
     {
-      "key": "LOVE_0214",
+      "key": "LOVE_0213",
       "value": "When you fight, how do you want to reconcile?"
     },
     {
-      "key": "LOVE_0215",
+      "key": "LOVE_0214",
       "value": "What about your partner makes you feel proud?"
     },
     {
-      "key": "LOVE_0216",
+      "key": "LOVE_0215",
       "value": "What does a \"perfect holiday\" (day off) with your partner look like?"
     },
     {
-      "key": "LOVE_0217",
+      "key": "LOVE_0216",
       "value": "What is your biggest dream or goal in your life together?"
     },
     {
-      "key": "LOVE_0218",
+      "key": "LOVE_0217",
       "value": "What are you most thankful for about your partner?"
     },
     {
-      "key": "LOVE_0219",
+      "key": "LOVE_0218",
       "value": "What is your biggest fear regarding your relationship?"
     },
     {
-      "key": "LOVE_0220",
+      "key": "LOVE_0219",
       "value": "How can your partner make you even happier than you are now?"
     },
     {
-      "key": "LOVE_0221",
+      "key": "LOVE_0220",
       "value": "What is one way you could be a better partner (or do more) for them?"
     },
     {
-      "key": "LOVE_0222",
+      "key": "LOVE_0221",
       "value": "What's a simple way you can make your partner feel good (or happy)?"
     },
     {
-      "key": "LOVE_0223",
+      "key": "LOVE_0222",
       "value": "If there are any unresolved issues between you, what do you think they are?"
     },
     {
-      "key": "LOVE_0224",
+      "key": "LOVE_0223",
       "value": "What help or support do you need from each other to grow as individuals?"
     },
     {
-      "key": "LOVE_0225",
+      "key": "LOVE_0224",
       "value": "What is the most important promise you expect your partner to keep?"
     },
     {
-      "key": "LOVE_0226",
+      "key": "LOVE_0225",
       "value": "If you've told a lie, confess one honestly."
     },
     {
-      "key": "LOVE_0227",
+      "key": "LOVE_0226",
       "value": "What is the most attractive part of your partner's personality?"
     },
     {
-      "key": "LOVE_0228",
+      "key": "LOVE_0227",
       "value": "What words or actions from your partner reassure you (make you feel safe)?"
     },
     {
-      "key": "LOVE_0229",
+      "key": "LOVE_0228",
       "value": "What is your favorite memory with your partner?"
     },
     {
-      "key": "LOVE_0230",
+      "key": "LOVE_0229",
       "value": "How do you accept (or handle) the differences between you?"
     },
     {
-      "key": "LOVE_0231",
+      "key": "LOVE_0230",
       "value": "What do you think is the biggest difference between you and your partner?"
     },
     {
-      "key": "LOVE_0232",
+      "key": "LOVE_0231",
       "value": "What is the most important principle (or rule) in your relationship?"
     },
     {
-      "key": "LOVE_0233",
+      "key": "LOVE_0232",
       "value": "What is your favorite habit that your partner has?"
     },
     {
-      "key": "LOVE_0234",
+      "key": "LOVE_0233",
       "value": "What is your favorite hobby that your partner has?"
     },
     {
-      "key": "LOVE_0235",
+      "key": "LOVE_0234",
       "value": "What is your least favorite hobby that your partner has?"
     },
     {
-      "key": "LOVE_0236",
+      "key": "LOVE_0235",
       "value": "What is the most important lesson your partner has taught you?"
     },
     {
-      "key": "LOVE_0237",
+      "key": "LOVE_0236",
       "value": "What is your favorite expression or reaction your partner makes?"
     },
     {
-      "key": "LOVE_0238",
+      "key": "LOVE_0237",
       "value": "What was the biggest misunderstanding you've ever had about your partner?"
     },
     {
-      "key": "LOVE_0239",
+      "key": "LOVE_0238",
       "value": "What was your first feeling when you saw your partner for the first time?"
     },
     {
-      "key": "LOVE_0240",
+      "key": "LOVE_0239",
       "value": "Do you feel your partner's appearance (or self) has changed? Why?"
     },
     {
-      "key": "LOVE_0241",
+      "key": "LOVE_0240",
       "value": "Do you feel you as a couple have changed? Why?"
     },
     {
-      "key": "LOVE_0242",
+      "key": "LOVE_0241",
       "value": "Do you think you as a couple will change in the future? Why?"
     },
     {
-      "key": "LOVE_0243",
+      "key": "LOVE_0242",
       "value": "If you had met 5 years later (than you did), do you think you still would have fallen in love?"
     },
     {
-      "key": "LOVE_0244",
+      "key": "LOVE_0243",
       "value": "When was a moment your partner seemed especially cute to you?"
     },
     {
-      "key": "LOVE_0245",
+      "key": "LOVE_0244",
       "value": "When was a moment your partner seemed especially sexy to you?"
     },
     {
-      "key": "LOVE_0246",
+      "key": "LOVE_0245",
       "value": "What is the most important form of communication between you?"
     },
     {
-      "key": "LOVE_0247",
+      "key": "LOVE_0246",
       "value": "What is one thing you wish your partner respected more (about you)?"
     },
     {
-      "key": "LOVE_0248",
+      "key": "LOVE_0247",
       "value": "What words from your partner have given you great strength?"
     },
     {
-      "key": "LOVE_0249",
+      "key": "LOVE_0248",
       "value": "What is the most important time for each other, and how do you spend it?"
     },
     {
-      "key": "LOVE_0250",
+      "key": "LOVE_0249",
       "value": "How much personal time (apart) do you think you need per week?"
     },
     {
-      "key": "LOVE_0251",
+      "key": "LOVE_0250",
       "value": "How much personal time (for yourself) do you need in a week?"
     },
     {
-      "key": "LOVE_0252",
+      "key": "LOVE_0251",
       "value": "When you fight, how do you want your partner to make up with you?"
     },
     {
-      "key": "LOVE_0253",
+      "key": "LOVE_0252",
       "value": "After you fight, do you need personal time alone?"
     },
     {
-      "key": "LOVE_0254",
+      "key": "LOVE_0253",
       "value": "If you broke up, how would you want them to ask you to get back together?"
     },
     {
-      "key": "LOVE_0255",
+      "key": "LOVE_0254",
       "value": "If you were to break up, what do you think the reason would be?"
     },
     {
-      "key": "LOVE_0256",
+      "key": "LOVE_0255",
       "value": "What aspect of your partner do you respect (or admire) the most?"
     },
     {
-      "key": "LOVE_0257",
+      "key": "LOVE_0256",
       "value": "What is your favorite verbal habit (or catchphrase) of your partner?"
     },
     {
-      "key": "LOVE_0258",
+      "key": "LOVE_0257",
       "value": "How do you positively accept the differences between you?"
     },
     {
-      "key": "LOVE_0259",
+      "key": "LOVE_0258",
       "value": "What do you think you have given up (or sacrificed) for each other?"
     },
     {
-      "key": "LOVE_0260",
+      "key": "LOVE_0259",
       "value": "How has your first impression of your partner changed compared to now?"
+    },
+    {
+      "key": "LOVE_0260",
+      "value": "What was the biggest challenge in loving your partner, and how did you overcome it?"
     },
     {
       "key": "LOVE_0261",
-      "value": "What was the biggest challenge in loving your partner, and how did you overcome it?"
+      "value": "What is the most romantic thing you think you could do for your partner?"
     },
     {
       "key": "LOVE_0262",
-      "value": "What is the most romantic thing you think you could do for your partner?"
+      "value": "If you were to get married, what season would you want to do it in?"
     },
     {
       "key": "LOVE_0263",
-      "value": "If you were to get married, what season would you want to do it in?"
+      "value": "What trait (or characteristic) do you like most about your partner?"
     },
     {
       "key": "LOVE_0264",
-      "value": "What trait (or characteristic) do you like most about your partner?"
+      "value": "What about your partner makes you laugh the most?"
     },
     {
       "key": "LOVE_0265",
-      "value": "What about your partner makes you laugh the most?"
+      "value": "What about your partner makes you the happiest?"
     },
     {
       "key": "LOVE_0266",
-      "value": "What about your partner makes you the happiest?"
+      "value": "What is your partner's favorite outfit or style on you?"
     },
     {
       "key": "LOVE_0267",
-      "value": "What is your partner's favorite outfit or style on you?"
+      "value": "What is the memory with your partner where you laughed the most?"
     },
     {
       "key": "LOVE_0268",
-      "value": "What is the memory with your partner where you laughed the most?"
+      "value": "What is the saddest thing that has happened while you've been dating?"
     },
     {
       "key": "LOVE_0269",
-      "value": "What is the saddest thing that has happened while you've been dating?"
+      "value": "What do you think would be the saddest thing that could happen between you two?"
     },
     {
       "key": "LOVE_0270",
-      "value": "What do you think would be the saddest thing that could happen between you two?"
+      "value": "What's the most surprising thing you've learned about your partner?"
     },
     {
       "key": "LOVE_0271",
-      "value": "What's the most surprising thing you've learned about your partner?"
+      "value": "What positive change has your partner brought to your life?"
     },
     {
       "key": "LOVE_0272",
-      "value": "What positive change has your partner brought to your life?"
+      "value": "What's your favorite thing about your partner's sense of humor?"
     },
     {
       "key": "LOVE_0273",
-      "value": "What's your favorite thing about your partner's sense of humor?"
+      "value": "What book would you like to read together?"
     },
     {
       "key": "LOVE_0274",
-      "value": "What book would you like to read together?"
+      "value": "What words or actions make you feel your partner is most lovable?"
     },
     {
       "key": "LOVE_0275",
-      "value": "What words or actions make you feel your partner is most lovable?"
+      "value": "What is your partner's most unique (or quirky) trait?"
     },
     {
       "key": "LOVE_0276",
-      "value": "What is your partner's most unique (or quirky) trait?"
+      "value": "What aspect of your partner would you most like to see them develop (or improve)?"
     },
     {
       "key": "LOVE_0277",
-      "value": "What aspect of your partner would you most like to see them develop (or improve)?"
+      "value": "What future do you dream of with your partner, and what plans are you making to achieve it?"
     },
     {
       "key": "LOVE_0278",
-      "value": "What future do you dream of with your partner, and what plans are you making to achieve it?"
+      "value": "If you imagine yourselves in 30 years, what do you look like?"
     },
     {
       "key": "LOVE_0279",
-      "value": "If you imagine yourselves in 30 years, what do you look like?"
+      "value": "What's the best time you've spent together recently?"
     },
     {
       "key": "LOVE_0280",
-      "value": "How has your first impression of your partner changed compared to now?"
+      "value": "What is the most important daily routine for each of you?"
     },
     {
       "key": "LOVE_0281",
-      "value": "What was the biggest challenge in loving your partner, and how did you overcome it?"
+      "value": "What movie do you want to watch together? Why?"
     },
     {
       "key": "LOVE_0282",
-      "value": "What is the most romantic thing you think you could do for your partner?"
+      "value": "What's the most moving/impressive movie you've seen that you'd recommend?"
     },
     {
       "key": "LOVE_0283",
-      "value": "If you were to get married, what season would you want to do it in?"
+      "value": "Do you think you'll still be kissing each other when you're old (e.g., 80)?"
     },
     {
       "key": "LOVE_0284",
-      "value": "What trait (or characteristic) do you like most about your partner?"
+      "value": "What do you think are your partner's biggest strengths and weaknesses?"
     },
     {
       "key": "LOVE_0285",
-      "value": "What about your partner makes you laugh the most?"
+      "value": "What special effort are you making for your relationship?"
     },
     {
       "key": "LOVE_0286",
-      "value": "What about your partner makes you the happiest?"
+      "value": "What special effort should you be making for your relationship?"
     },
     {
       "key": "LOVE_0287",
-      "value": "What is your partner's favorite outfit or style on you?"
+      "value": "What is the most important rule for maintaining trust between you?"
     },
     {
       "key": "LOVE_0288",
-      "value": "What is the memory with your partner where you laughed the most?"
+      "value": "Tell one secret you haven't told your partner yet."
     },
     {
       "key": "LOVE_0289",
-      "value": "What is the saddest thing that has happened while you've been dating?"
+      "value": "Who was your celebrity crush when you were younger? Why?"
     },
     {
       "key": "LOVE_0290",
-      "value": "What do you think would be the saddest thing that could happen between you two?"
+      "value": "What kind of future do you want to build together?"
     },
     {
       "key": "LOVE_0291",
-      "value": "What's the most surprising thing you've learned about your partner?"
+      "value": "Which of your personalities or habits do you think are most compatible?"
     },
     {
       "key": "LOVE_0292",
-      "value": "What positive change has your partner brought to your life?"
+      "value": "What is a new fact you've learned about your partner recently?"
     },
     {
       "key": "LOVE_0293",
-      "value": "What's your favorite thing about your partner's sense of humor?"
+      "value": "To maintain your appearance for your partner, or live comfortably?"
     },
     {
       "key": "LOVE_0294",
-      "value": "What book would you like to read together?"
+      "value": "What do you like more about your partner: their mind or their body?"
     },
     {
       "key": "LOVE_0295",
-      "value": "What words or actions make you feel your partner is most lovable?"
+      "value": "Which do you like more: your partner's looks or personality?"
     },
     {
       "key": "LOVE_0296",
-      "value": "What is your partner's most unique (or quirky) trait?"
+      "value": "Do you want to be close with your partner's family, or keep some distance?"
     },
     {
       "key": "LOVE_0297",
-      "value": "What aspect of your partner would you most like to see them develop (or improve)?"
+      "value": "Which celebrity do you think your partner looks like?"
     },
     {
       "key": "LOVE_0298",
-      "value": "What future do you dream of with your partner, and what plans are you making to achieve it?"
+      "value": "Tell your partner about one memorable \"love confession\" you received in the past."
     },
     {
       "key": "LOVE_0299",
-      "value": "If you imagine yourselves in 30 years, what do you look like?"
-    },
-    {
-      "key": "LOVE_0300",
       "value": "What is your favorite type of physical affection (skinship)?"
     },
     {
-      "key": "LOVE_0301",
+      "key": "LOVE_0300",
       "value": "What makes you feel better: hugging your partner or holding their hand?"
     },
     {
-      "key": "LOVE_0302",
+      "key": "LOVE_0301",
       "value": "What part of your partner's body do you find most attractive?"
     },
     {
-      "key": "LOVE_0303",
+      "key": "LOVE_0302",
       "value": "What feature on your partner's face do you find most attractive?"
     },
     {
-      "key": "LOVE_0304",
+      "key": "LOVE_0303",
       "value": "What's the happiest thing you can imagine happening in your future together?"
     },
     {
-      "key": "LOVE_0305",
+      "key": "LOVE_0304",
       "value": "If there's one thing that makes you feel insecure (or anxious) about your partner, what is it?"
     },
     {
-      "key": "LOVE_0306",
+      "key": "LOVE_0305",
       "value": "Is there a topic you avoid because you don't want to fight about it?"
     },
     {
-      "key": "LOVE_0307",
+      "key": "LOVE_0306",
       "value": "Is there something you hesitate to say because you're afraid it will cause a fight?"
     },
     {
-      "key": "LOVE_0308",
+      "key": "LOVE_0307",
       "value": "Tell your partner one of your \"sensitive spots\" (a touchy subject)."
     },
     {
-      "key": "LOVE_0309",
+      "key": "LOVE_0308",
       "value": "What action do you need from your partner to feel loved?"
     },
     {
-      "key": "LOVE_0310",
+      "key": "LOVE_0309",
       "value": "What's something you routinely do to make your partner feel good?"
     },
     {
-      "key": "LOVE_0311",
+      "key": "LOVE_0310",
       "value": "What's the most important factor when you feel attracted to someone?"
     },
     {
-      "key": "LOVE_0312",
+      "key": "LOVE_0311",
       "value": "Tell your partner about one shocking (or traumatic) event you experienced as a child."
     },
     {
-      "key": "LOVE_0313",
+      "key": "LOVE_0312",
       "value": "Tell your partner about one embarrassing incident you experienced as a child."
     },
     {
-      "key": "LOVE_0314",
+      "key": "LOVE_0313",
       "value": "What's one aspect (of themselves) you hope your partner continues to maintain (or take care of) in the future?"
     },
     {
-      "key": "LOVE_0315",
+      "key": "LOVE_0314",
       "value": "Imagine your partner in the future. Describe what you see."
     },
     {
-      "key": "LOVE_0316",
+      "key": "LOVE_0315",
       "value": "If you bought a new car together, what kind would you want? Why?"
     },
     {
-      "key": "LOVE_0317",
+      "key": "LOVE_0316",
       "value": "What personality trait does your partner have that you want to emulate (be more like)? Why?"
     },
     {
-      "key": "LOVE_0318",
+      "key": "LOVE_0317",
       "value": "Do you prefer a fiery, passionate relationship or a calm, stable one?"
     },
     {
-      "key": "LOVE_0319",
+      "key": "LOVE_0318",
       "value": "What is your ideal relationship style?"
     },
     {
-      "key": "LOVE_0320",
+      "key": "LOVE_0319",
       "value": "What clothing style would you like to see your partner wear?"
     },
     {
-      "key": "LOVE_0321",
+      "key": "LOVE_0320",
       "value": "Is there an accessory you'd like to buy together (as a couple)?"
     },
     {
-      "key": "LOVE_0322",
+      "key": "LOVE_0321",
       "value": "What compliment would you most like to hear from your partner?"
     },
     {
-      "key": "LOVE_0323",
+      "key": "LOVE_0322",
       "value": "What's the best compliment you've ever received from your partner?"
     },
     {
-      "key": "LOVE_0324",
+      "key": "LOVE_0323",
       "value": "What surprise gift would you like to give your partner?"
     },
     {
-      "key": "LOVE_0325",
+      "key": "LOVE_0324",
       "value": "What surprise event (or romantic gesture) would you like to plan for your partner?"
     },
     {
-      "key": "LOVE_0326",
+      "key": "LOVE_0325",
       "value": "On weekends, do you want to be \"attached at the hip,\" or do you need personal time?"
     },
     {
-      "key": "LOVE_0327",
+      "key": "LOVE_0326",
       "value": "What are your thoughts on long-distance relationships?"
     },
     {
-      "key": "LOVE_0328",
+      "key": "LOVE_0327",
       "value": "How many days of personal time (for yourself) would you like per week?"
     },
     {
-      "key": "LOVE_0329",
+      "key": "LOVE_0328",
       "value": "What conversation topic do you \"click\" on the most?"
     },
     {
-      "key": "LOVE_0330",
+      "key": "LOVE_0329",
       "value": "What's the biggest challenge you think you'll have to solve together in the future?"
     },
     {
-      "key": "LOVE_0331",
+      "key": "LOVE_0330",
       "value": "What is the most important method of communication in your relationship?"
     },
     {
-      "key": "LOVE_0332",
+      "key": "LOVE_0331",
       "value": "What words do you most want to hear from your partner?"
     },
     {
-      "key": "LOVE_0333",
+      "key": "LOVE_0332",
       "value": "Is there something you'd like to learn from your partner? What is it?"
     },
     {
-      "key": "LOVE_0334",
+      "key": "LOVE_0333",
       "value": "What's the most interesting topic you've ever discussed together?"
     },
     {
-      "key": "LOVE_0335",
+      "key": "LOVE_0334",
       "value": "When is the moment you rely on (or lean on) your partner the most?"
     },
     {
-      "key": "LOVE_0336",
+      "key": "LOVE_0335",
       "value": "What's something you wish your partner would rely on you for?"
     },
     {
-      "key": "LOVE_0337",
+      "key": "LOVE_0336",
       "value": "Do you tend to rely on your partner, or are you more comfortable solving problems alone?"
     },
     {
-      "key": "LOVE_0338",
+      "key": "LOVE_0337",
       "value": "Is there a concert you'd like to go to together?"
     },
     {
-      "key": "LOVE_0339",
+      "key": "LOVE_0338",
       "value": "What's one bucket list item you feel you must do with your partner?"
     },
     {
-      "key": "LOVE_0340",
+      "key": "LOVE_0339",
       "value": "What pet name (or nickname) would you like to use for your partner?"
     },
     {
-      "key": "LOVE_0341",
+      "key": "LOVE_0340",
       "value": "If you started a YouTube channel together, what kind of channel would you want to make?"
     },
     {
-      "key": "LOVE_0342",
+      "key": "LOVE_0341",
       "value": "If you could live forever (immortal) with your partner, would you? Or do you think it's better to face death?"
     },
     {
-      "key": "LOVE_0343",
+      "key": "LOVE_0342",
       "value": "If your partner was a vampire, could you stay together? (You will grow old, but they won't.)"
     },
     {
-      "key": "LOVE_0344",
+      "key": "LOVE_0343",
       "value": "If there was one potion of anti-aging, would you take it, or give it to your partner?"
     },
     {
-      "key": "LOVE_0345",
+      "key": "LOVE_0344",
       "value": "If you got married, who would you want to manage the money?"
     },
     {
-      "key": "LOVE_0346",
+      "key": "LOVE_0345",
       "value": "Could you stay together even if your partner had a different religion?"
     },
     {
-      "key": "LOVE_0347",
+      "key": "LOVE_0346",
       "value": "If your partner had a different religion and forced you to convert, would you do it?"
     },
     {
-      "key": "LOVE_0348",
+      "key": "LOVE_0347",
       "value": "For your future together, is money very important, or is love all you need?"
     },
     {
-      "key": "LOVE_0349",
+      "key": "LOVE_0348",
       "value": "If you found out your partner had a criminal record (ex-convict), what's the first thing you would say?"
     },
     {
-      "key": "LOVE_0350",
+      "key": "LOVE_0349",
       "value": "If you committed murder, would you tell your partner?"
     },
     {
-      "key": "LOVE_0351",
+      "key": "LOVE_0350",
       "value": "What is one strength of your partner that you like to brag about to others?"
     },
     {
-      "key": "LOVE_0352",
+      "key": "LOVE_0351",
       "value": "If your partner had to work far away and you could only meet once every 3 months, could you maintain the relationship?"
     },
     {
-      "key": "LOVE_0353",
+      "key": "LOVE_0352",
       "value": "If your partner suddenly turned into a dog, what would your future look like?"
     },
     {
-      "key": "LOVE_0354",
+      "key": "LOVE_0353",
       "value": "Is it okay if your partner can't drink alcohol at all (not even one glass)?"
     },
     {
-      "key": "LOVE_0355",
+      "key": "LOVE_0354",
       "value": "Besides when you're physically together, is it okay if your partner doesn't contact you all day?"
     },
     {
-      "key": "LOVE_0356",
+      "key": "LOVE_0355",
       "value": "How much contact (or how often) would you like from your partner per day?"
     },
     {
-      "key": "LOVE_0357",
+      "key": "LOVE_0356",
       "value": "If your partner suddenly stopped contacting you for a whole week, what would you think?"
     },
     {
-      "key": "LOVE_0358",
+      "key": "LOVE_0357",
       "value": "If you got married and had to live with your partner's parents, what would you do?"
     },
     {
-      "key": "LOVE_0359",
+      "key": "LOVE_0358",
       "value": "If your partner became addicted to gambling, how would you handle it?"
     },
     {
-      "key": "LOVE_0360",
+      "key": "LOVE_0359",
       "value": "If your partner committed a crime and asked you to take the blame, what would you do?"
     },
     {
-      "key": "LOVE_0361",
+      "key": "LOVE_0360",
       "value": "What would you say if your partner told you they're going on an overnight (2-day, 1-night) trip with their friend of the opposite sex?"
     },
     {
-      "key": "LOVE_0362",
+      "key": "LOVE_0361",
       "value": "Is it okay if your partner goes out drinking with their ex (ex-girlfriend / ex-boyfriend)?"
     },
     {
-      "key": "LOVE_0363",
+      "key": "LOVE_0362",
       "value": "If your parents caught you while you were kissing your partner at home, how would you react?"
     },
     {
-      "key": "LOVE_0364",
+      "key": "LOVE_0363",
       "value": "Has your ex contacted you recently?"
     },
     {
-      "key": "LOVE_0365",
+      "key": "LOVE_0364",
       "value": "What's one good thing and one bad thing about your ex?"
     },
     {
-      "key": "LOVE_0366",
+      "key": "LOVE_0365",
       "value": "Has anyone (else) confessed their feelings for you recently?"
     },
     {
-      "key": "LOVE_0367",
+      "key": "LOVE_0366",
       "value": "When was the last time someone confessed their feelings to you?"
     },
     {
-      "key": "LOVE_0368",
+      "key": "LOVE_0367",
       "value": "Has someone (of the opposite sex) asked for your phone number recently? When?"
     },
     {
-      "key": "LOVE_0369",
+      "key": "LOVE_0368",
       "value": "Have you asked for someone else's (of the opposite sex) phone number recently? When?"
     },
     {
-      "key": "LOVE_0370",
+      "key": "LOVE_0369",
       "value": "Have you ever rejected someone's confession? Why did you reject them?"
     },
     {
-      "key": "LOVE_0371",
+      "key": "LOVE_0370",
       "value": "Have you ever confessed your feelings and gotten rejected? Why do you think you were rejected?"
     },
     {
-      "key": "LOVE_0372",
+      "key": "LOVE_0371",
       "value": "Do you wish your partner sang well? Or does it not matter?"
     },
     {
-      "key": "LOVE_0373",
+      "key": "LOVE_0372",
       "value": "What do you think of your partner's voice?"
     },
     {
-      "key": "LOVE_0374",
+      "key": "LOVE_0373",
       "value": "What do you think of your partner's singing ability?"
     },
     {
-      "key": "LOVE_0375",
+      "key": "LOVE_0374",
       "value": "What do you think of your partner's \"relationship style\"?"
     },
     {
-      "key": "LOVE_0376",
+      "key": "LOVE_0375",
       "value": "What do you think of your partner's \"communication style\"?"
     },
     {
-      "key": "LOVE_0377",
+      "key": "LOVE_0376",
       "value": "What is your ideal height for a partner?"
     },
     {
-      "key": "LOVE_0378",
+      "key": "LOVE_0377",
       "value": "What is your ideal \"style\" (fashion, vibe) for a partner?"
     },
     {
-      "key": "LOVE_0379",
+      "key": "LOVE_0378",
       "value": "Which celebrity is your ideal type?"
     },
     {
-      "key": "LOVE_0380",
+      "key": "LOVE_0379",
       "value": "Which celebrity has a voice that you love?"
     },
     {
-      "key": "LOVE_0381",
+      "key": "LOVE_0380",
       "value": "What would you do if your friends disliked your partner?"
     },
     {
-      "key": "LOVE_0382",
+      "key": "LOVE_0381",
       "value": "What would you do if your parents disliked your partner?"
     },
     {
-      "key": "LOVE_0383",
+      "key": "LOVE_0382",
       "value": "In the future, if your partner wanted to go on a solo world trip, would you let them?"
     },
     {
-      "key": "LOVE_0384",
+      "key": "LOVE_0383",
       "value": "In the future, if your partner had to go work in another country alone, what would you do?"
     },
     {
-      "key": "LOVE_0385",
+      "key": "LOVE_0384",
       "value": "What's something (a feature or trait) that makes your heart flutter (you find attractive)?"
     },
     {
-      "key": "LOVE_0386",
+      "key": "LOVE_0385",
       "value": "Tell me about your first love."
     },
     {
-      "key": "LOVE_0387",
+      "key": "LOVE_0386",
       "value": "Why did you like (or fall for) your first love?"
     },
     {
-      "key": "LOVE_0388",
+      "key": "LOVE_0387",
       "value": "What's the most memorable thing you've done for your partner?"
     },
     {
-      "key": "LOVE_0389",
+      "key": "LOVE_0388",
       "value": "If you could redo your first meeting, what would you do differently?"
     },
     {
-      "key": "LOVE_0390",
+      "key": "LOVE_0389",
       "value": "If you lived together, what style of home would you want to decorate?"
     },
     {
-      "key": "LOVE_0391",
+      "key": "LOVE_0390",
       "value": "What advice does your partner give you most often?"
     },
     {
-      "key": "LOVE_0392",
+      "key": "LOVE_0391",
       "value": "Have you ever gone to meet friends secretly (without telling your partner)?"
     },
     {
-      "key": "LOVE_0393",
+      "key": "LOVE_0392",
       "value": "How many people have you dated (been in a relationship with) so far?"
     },
     {
-      "key": "LOVE_0394",
+      "key": "LOVE_0393",
       "value": "If you compare your looks, who do you think is better looking (more attractive)?"
     },
     {
-      "key": "LOVE_0395",
+      "key": "LOVE_0394",
       "value": "Do you believe in \"white lies\"?"
     },
     {
-      "key": "LOVE_0396",
+      "key": "LOVE_0395",
       "value": "Do you think \"white lies\" are necessary for your relationship?"
     },
     {
-      "key": "LOVE_0397",
+      "key": "LOVE_0396",
       "value": "Have you told your partner a \"white lie\"? If so, confess one."
     },
     {
-      "key": "LOVE_0398",
+      "key": "LOVE_0397",
       "value": "What is your ideal type?"
     },
     {
-      "key": "LOVE_0399",
+      "key": "LOVE_0398",
       "value": "What is the part of your body you are most confident about?"
     },
     {
-      "key": "LOVE_0400",
+      "key": "LOVE_0399",
       "value": "What is the part of your face you are most confident about?"
     },
     {
-      "key": "LOVE_0401",
+      "key": "LOVE_0400",
       "value": "Do you think you should share phone passcodes with a partner?"
     },
     {
-      "key": "LOVE_0402",
+      "key": "LOVE_0401",
       "value": "When planning a trip, do you prefer planning it together, or letting your partner plan it?"
     },
     {
-      "key": "LOVE_0403",
+      "key": "LOVE_0402",
       "value": "What would you do if your partner farted in a crowded elevator?"
     },
     {
-      "key": "LOVE_0404",
+      "key": "LOVE_0403",
       "value": "What's the most effective way for your partner to relieve your stress?"
     },
     {
-      "key": "LOVE_0405",
+      "key": "LOVE_0404",
       "value": "What would you do if your partner got into an accident while driving your car?"
     },
     {
-      "key": "LOVE_0406",
+      "key": "LOVE_0405",
       "value": "What do you think are appropriate boundaries for friends of the opposite sex?"
     },
     {
-      "key": "LOVE_0407",
+      "key": "LOVE_0406",
       "value": "When you argue: talk it out immediately, or take time to cool down first?"
     },
     {
-      "key": "LOVE_0408",
+      "key": "LOVE_0407",
       "value": "If your unhappiness started to harm your partner, would you break up or work through it together?"
     },
     {
-      "key": "LOVE_0409",
+      "key": "LOVE_0408",
       "value": "When you have a complaint, are you the type to say it honestly?"
     },
     {
-      "key": "LOVE_0410",
+      "key": "LOVE_0409",
       "value": "When your partner has a complaint: tell you immediately, or wait and think first?"
     },
     {
-      "key": "LOVE_0411",
+      "key": "LOVE_0410",
       "value": "If you got married, how much money would you want to spend per month?"
     },
     {
-      "key": "LOVE_0412",
+      "key": "LOVE_0411",
       "value": "If you got married, would you want to save? How much per month?"
     },
     {
-      "key": "LOVE_0413",
+      "key": "LOVE_0412",
       "value": "If you got married, what's one \"expensive\" thing you wouldn't give up spending money on?"
     },
     {
-      "key": "LOVE_0414",
+      "key": "LOVE_0413",
       "value": "When was the time you felt most let down (or disappointed) by your partner?"
     },
     {
-      "key": "LOVE_0415",
+      "key": "LOVE_0414",
       "value": "What's the longest relationship (how long) you've ever been in?"
     },
     {
-      "key": "LOVE_0416",
+      "key": "LOVE_0415",
       "value": "Do you remember what your partner was wearing when you first met? What do you remember most?"
     },
     {
-      "key": "LOVE_0417",
+      "key": "LOVE_0416",
       "value": "Have you ever imagined breaking up? Why did you imagine that?"
     },
     {
-      "key": "LOVE_0418",
+      "key": "LOVE_0417",
       "value": "If your partner wanted to break up with you, what would you do?"
     },
     {
-      "key": "LOVE_0419",
+      "key": "LOVE_0418",
       "value": "What would you do if your parents opposed your marriage?"
     },
     {
-      "key": "LOVE_0420",
+      "key": "LOVE_0419",
       "value": "If you were \"on a break\" (temporary split) and saw your partner on a date, what would you do?"
     },
     {
-      "key": "LOVE_0421",
+      "key": "LOVE_0420",
       "value": "What would you do if your partner got plastic surgery suddenly without telling you?"
     },
     {
-      "key": "LOVE_0422",
+      "key": "LOVE_0421",
       "value": "What would you think if, in the future, your partner said they just want to be unemployed (and not work)?"
     },
     {
-      "key": "LOVE_0423",
+      "key": "LOVE_0422",
       "value": "What would you do if you found out your partner is cheating on you right now?"
     },
     {
-      "key": "LOVE_0424",
+      "key": "LOVE_0423",
       "value": "When was your first kiss?"
     },
     {
-      "key": "LOVE_0425",
+      "key": "LOVE_0424",
       "value": "If someone else confessed their feelings for you, would you tell your partner?"
     },
     {
-      "key": "LOVE_0426",
+      "key": "LOVE_0425",
       "value": "If someone (else) asked for your phone number, what would you do?"
     },
     {
-      "key": "LOVE_0427",
+      "key": "LOVE_0426",
       "value": "If your best friend and your partner got into a fight, what would you do?"
     },
     {
-      "key": "LOVE_0428",
+      "key": "LOVE_0427",
       "value": "What's more fun: hanging out with your partner or hanging out with your friends?"
     },
     {
-      "key": "LOVE_0429",
+      "key": "LOVE_0428",
       "value": "If you won the lottery, would you tell your partner?"
     },
     {
-      "key": "LOVE_0430",
+      "key": "LOVE_0429",
       "value": "If your ex contacted you, would you (or could you) tell your partner?"
     },
     {
-      "key": "LOVE_0431",
+      "key": "LOVE_0430",
       "value": "What's a gift you would not want to receive from your partner?"
     },
     {
-      "key": "LOVE_0432",
+      "key": "LOVE_0431",
       "value": "What is your current \"affection level\" (love index) as a percentage?"
     },
     {
-      "key": "LOVE_0433",
+      "key": "LOVE_0432",
       "value": "What is your partner's unique scent (the smell you associate with them)?"
     },
     {
-      "key": "LOVE_0434",
+      "key": "LOVE_0433",
       "value": "What do you think love is?"
     },
     {
-      "key": "LOVE_0435",
+      "key": "LOVE_0434",
       "value": "What are your thoughts on marriage?"
     },
     {
-      "key": "LOVE_0436",
+      "key": "LOVE_0435",
       "value": "What are your thoughts on having children?"
     },
     {
-      "key": "LOVE_0437",
+      "key": "LOVE_0436",
       "value": "What color comes to mind when you think of your partner?"
     },
     {
-      "key": "LOVE_0438",
+      "key": "LOVE_0437",
       "value": "If your partner granted you any wish, what would you ask for?"
     },
     {
-      "key": "LOVE_0439",
+      "key": "LOVE_0438",
       "value": "If you could live in your partner's body for one week, what would you do?"
     },
     {
-      "key": "LOVE_0440",
+      "key": "LOVE_0439",
       "value": "What is the biggest difference between you two?"
     },
     {
-      "key": "LOVE_0441",
+      "key": "LOVE_0440",
       "value": "What's the one photo you most want to take together?"
     },
     {
-      "key": "LOVE_0442",
+      "key": "LOVE_0441",
       "value": "Do you prefer a partner who is very jealous, or one who isn't jealous at all?"
     },
     {
-      "key": "LOVE_0443",
+      "key": "LOVE_0442",
       "value": "Do you consider anniversaries to be special? How would you like to spend them?"
     },
     {
-      "key": "LOVE_0444",
+      "key": "LOVE_0443",
       "value": "If you two met in a past life, what do you think you were?"
     },
     {
-      "key": "LOVE_0445",
+      "key": "LOVE_0444",
       "value": "Is there something from your past you haven't told your partner?"
     },
     {
-      "key": "LOVE_0446",
+      "key": "LOVE_0445",
       "value": "Do you consider your partner to be your ideal type?"
     },
     {
-      "key": "LOVE_0447",
+      "key": "LOVE_0446",
       "value": "Have you ever lied to your partner and gone out drinking secretly?"
     },
     {
-      "key": "LOVE_0448",
+      "key": "LOVE_0447",
       "value": "What's the grossest thing (or worst habit) you could tolerate from your partner?"
     },
     {
-      "key": "LOVE_0449",
+      "key": "LOVE_0448",
       "value": "If your partner was about to vomit, could you catch it with your hands?"
     },
     {
-      "key": "LOVE_0450",
+      "key": "LOVE_0449",
       "value": "Have you ever wanted to cancel a date just because you were too tired?"
     },
     {
-      "key": "LOVE_0451",
+      "key": "LOVE_0450",
       "value": "Could you pick your partner's boogers for them?"
     },
     {
-      "key": "LOVE_0452",
+      "key": "LOVE_0451",
       "value": "Could you kiss your partner right after eating smelly food (e.g., garlic)?"
     },
     {
-      "key": "LOVE_0453",
+      "key": "LOVE_0452",
       "value": "Do you ever think you meet up too often?"
     },
     {
-      "key": "LOVE_0454",
+      "key": "LOVE_0453",
       "value": "Is your first love very different from your current partner?"
     },
     {
-      "key": "LOVE_0455",
+      "key": "LOVE_0454",
       "value": "Is your ex very different from your current partner?"
     },
     {
-      "key": "LOVE_0456",
+      "key": "LOVE_0455",
       "value": "Have you ever used a dating app?"
     },
     {
-      "key": "LOVE_0457",
+      "key": "LOVE_0456",
       "value": "Have you ever met someone (gone on a date) from a dating app?"
     },
     {
-      "key": "LOVE_0458",
+      "key": "LOVE_0457",
       "value": "Have you ever told a white lie just to avoid hurting your partner's feelings?"
     },
     {
-      "key": "LOVE_0459",
+      "key": "LOVE_0458",
       "value": "Have you ever seen your partner's message but replied late on purpose?"
     },
     {
-      "key": "LOVE_0460",
+      "key": "LOVE_0459",
       "value": "Have you ever felt that you want to marry your partner?"
     },
     {
-      "key": "LOVE_0461",
+      "key": "LOVE_0460",
       "value": "If your partner wanted to get plastic surgery, would you be okay with it (or \"allow\" it)?"
     },
     {
-      "key": "LOVE_0462",
+      "key": "LOVE_0461",
       "value": "Have you ever watched porn (adult videos) without your partner knowing?"
     },
     {
-      "key": "LOVE_0463",
+      "key": "LOVE_0462",
       "value": "Have you ever taken your current partner to a place you went to with an ex?"
     },
     {
-      "key": "LOVE_0464",
+      "key": "LOVE_0463",
       "value": "Has there ever been a time you were with your partner but didn't feel happy (or enjoy it)?"
     },
     {
-      "key": "LOVE_0465",
+      "key": "LOVE_0464",
       "value": "Have you ever pretended a movie was fun when you actually found it boring?"
     },
     {
-      "key": "LOVE_0466",
+      "key": "LOVE_0465",
       "value": "Do you have a food preference (or taste) that your partner doesn't know about?"
     },
     {
-      "key": "LOVE_0467",
+      "key": "LOVE_0466",
       "value": "Have you ever cried alone at home because of your partner?"
     },
     {
-      "key": "LOVE_0468",
+      "key": "LOVE_0467",
       "value": "Do you think you could successfully seduce someone (else) if you really tried?"
     },
     {
-      "key": "LOVE_0469",
+      "key": "LOVE_0468",
       "value": "Which do you prefer: a partner with a high libido or a low libido?"
     },
     {
-      "key": "LOVE_0470",
+      "key": "LOVE_0469",
       "value": "Is there a hidden side of yourself that you haven't shown your partner?"
     },
     {
-      "key": "LOVE_0471",
+      "key": "LOVE_0470",
       "value": "Tell your partner two of your own strengths."
     },
     {
-      "key": "LOVE_0472",
+      "key": "LOVE_0471",
       "value": "What celebrity do people often say you look like?"
     },
     {
-      "key": "LOVE_0473",
+      "key": "LOVE_0472",
       "value": "Tell your partner the story of your most devastating breakup."
     },
     {
-      "key": "LOVE_0474",
+      "key": "LOVE_0473",
       "value": "Tell your partner two of your own weaknesses."
     },
     {
-      "key": "LOVE_0475",
+      "key": "LOVE_0474",
       "value": "What was your childhood nickname?"
     },
     {
-      "key": "LOVE_0476",
+      "key": "LOVE_0475",
       "value": "What's one thing you'd like to tell your partner about your family?"
     },
     {
-      "key": "LOVE_0477",
+      "key": "LOVE_0476",
       "value": "If your partner got amnesia, how would you describe yourself to them?"
     },
     {
-      "key": "LOVE_0478",
+      "key": "LOVE_0477",
       "value": "If your partner got amnesia, what memory would you tell them about first?"
     },
     {
-      "key": "LOVE_0479",
+      "key": "LOVE_0478",
       "value": "Would you still want to sleep in the same bed, even if your partner snores loudly?"
     },
     {
-      "key": "LOVE_0480",
+      "key": "LOVE_0479",
       "value": "You happen to see \"Important Day\" on your partner's calendar. Would you ask what it is?"
     },
     {
-      "key": "LOVE_0481",
+      "key": "LOVE_0480",
       "value": "(While LDR) Your partner starts going to the gym with a friend of the opposite sex. Are you okay with that?"
     },
     {
-      "key": "LOVE_0482",
+      "key": "LOVE_0481",
       "value": "What would you do if your partner's friend (of the opposite sex) tried to flirt with you?"
     },
     {
-      "key": "LOVE_0483",
+      "key": "LOVE_0482",
       "value": "Would you \"allow\" your partner to carpool to work alone with their colleague of the opposite sex every morning?"
     },
     {
-      "key": "LOVE_0484",
+      "key": "LOVE_0483",
       "value": "What would you do if your partner's drunk friend kept touching you (inappropriately/flirtatiously)?"
     },
     {
-      "key": "LOVE_0485",
+      "key": "LOVE_0484",
       "value": "If you could sing a song to your partner right now, what song would you choose?"
     },
     {
-      "key": "LOVE_0486",
+      "key": "LOVE_0485",
       "value": "If you won the lottery right now, what's the first thing you'd want to do with your partner?"
     },
     {
-      "key": "LOVE_0487",
+      "key": "LOVE_0486",
       "value": "If your partner had debt, what's the maximum amount you could understand (or accept)?"
     },
     {
-      "key": "LOVE_0488",
+      "key": "LOVE_0487",
       "value": "If your partner had debt, would you be willing to pay it off together?"
     },
     {
-      "key": "LOVE_0489",
+      "key": "LOVE_0488",
       "value": "If you were to get a pet together, what animal would you want?"
     },
     {
-      "key": "LOVE_0490",
+      "key": "LOVE_0489",
       "value": "If you were on a desert island together, what is the one most essential item you'd need?"
     },
     {
-      "key": "LOVE_0491",
+      "key": "LOVE_0490",
       "value": "Have you ever had an unrequited love (a one-sided crush)? Tell the story."
     },
     {
-      "key": "LOVE_0492",
+      "key": "LOVE_0491",
       "value": "If you could have one superpower for your partner, what would it be?"
     },
     {
-      "key": "LOVE_0493",
+      "key": "LOVE_0492",
       "value": "If you gifted your partner a robot helper, what ability would it have?"
     },
     {
-      "key": "LOVE_0494",
+      "key": "LOVE_0493",
       "value": "What's the biggest sacrifice you would be willing to make for your partner?"
     },
     {
-      "key": "LOVE_0495",
+      "key": "LOVE_0494",
       "value": "What is your favorite part of physical affection (skinship)? (e.g., kissing, hugging, holding hands...)"
     },
     {
-      "key": "LOVE_0496",
+      "key": "LOVE_0495",
       "value": "Has your partner ever appeared in your dreams? Describe the dream."
     },
     {
-      "key": "LOVE_0497",
+      "key": "LOVE_0496",
       "value": "Do you think your partner looks better in person or in photos?"
     },
     {
-      "key": "LOVE_0498",
+      "key": "LOVE_0497",
       "value": "Did you ever have a crush on a teacher?"
     },
     {
-      "key": "LOVE_0499",
+      "key": "LOVE_0498",
       "value": "Have you ever kissed a friend (of the opposite sex) while drunk?"
     },
     {
-      "key": "LOVE_0500",
+      "key": "LOVE_0499",
       "value": "If you could time travel together, which era would you go to?"
     },
     {
-      "key": "LOVE_0501",
+      "key": "LOVE_0500",
       "value": "If you swapped lives (bodies) for a day, what's the first thing you'd do?"
     },
     {
-      "key": "LOVE_0502",
+      "key": "LOVE_0501",
       "value": "If your partner became famous, what field would you want them to be famous in?"
     },
     {
-      "key": "LOVE_0503",
+      "key": "LOVE_0502",
       "value": "If you wrote a book for your partner, what would the title be?"
     },
     {
-      "key": "LOVE_0504",
+      "key": "LOVE_0503",
       "value": "If you both became animals, what animals would you want to be?"
     },
     {
-      "key": "LOVE_0505",
+      "key": "LOVE_0504",
       "value": "If you were on a TV show together, what show would you want to be on?"
     },
     {
-      "key": "LOVE_0506",
+      "key": "LOVE_0505",
       "value": "What's your favorite movie/drama scene you'd like to re-enact together?"
     },
     {
-      "key": "LOVE_0507",
+      "key": "LOVE_0506",
       "value": "If you had a child, would you want them to look more like you or your partner?"
     },
     {
+      "key": "LOVE_0507",
+      "value": "If your partner had the chance to date their ultimate celebrity crush, would you \"let\" them?"
+    },
+    {
       "key": "LOVE_0508",
-      "value": "If your partner had the chance to date their ultimate celebrity crush, would you \"let\" them?"
-    },
-    {
-      "key": "LOVE_0509",
-      "value": "If your partner had the chance to date their ultimate celebrity crush, would you \"let\" them?"
-    },
-    {
-      "key": "LOVE_0510",
       "value": "Is there a secret spot where you'd like to kiss your partner?"
     },
     {
-      "key": "LOVE_0511",
+      "key": "LOVE_0509",
       "value": "What kind of date do you enjoy the most?"
     },
     {
-      "key": "LOVE_0512",
+      "key": "LOVE_0510",
       "value": "If only one of you could work in the future, who do you think should do it?"
     },
     {
-      "key": "LOVE_0513",
+      "key": "LOVE_0511",
       "value": "What's a secret (between you) that you hope your parents never find out?"
     },
     {
-      "key": "LOVE_0514",
+      "key": "LOVE_0512",
       "value": "Describe your dating life (with your partner) in one word."
     },
     {
-      "key": "LOVE_0515",
+      "key": "LOVE_0513",
       "value": "Describe your memories (together) in one word."
     },
     {
-      "key": "LOVE_0516",
+      "key": "LOVE_0514",
       "value": "Describe your future (together) in one word."
     },
     {
-      "key": "LOVE_0517",
+      "key": "LOVE_0515",
       "value": "Do you have a fantasy about dating a foreigner?"
     },
     {
-      "key": "LOVE_0518",
+      "key": "LOVE_0516",
       "value": "What's the maximum age gap you're comfortable with for dating?"
     },
     {
-      "key": "LOVE_0519",
+      "key": "LOVE_0517",
       "value": "What's the maximum age gap you're comfortable with for marriage?"
     },
     {
-      "key": "LOVE_0520",
+      "key": "LOVE_0518",
       "value": "When was the last time you dated someone purely for their looks?"
     },
     {
-      "key": "LOVE_0521",
+      "key": "LOVE_0519",
       "value": "Were you more nervous on your first date or your second date?"
     },
     {
-      "key": "LOVE_0522",
+      "key": "LOVE_0520",
       "value": "Were you nervous on your first date? How did it feel?"
     },
     {
-      "key": "LOVE_0523",
+      "key": "LOVE_0521",
       "value": "Have you ever wanted to copy a celebrity's tattoo? Which one?"
     },
     {
-      "key": "LOVE_0524",
+      "key": "LOVE_0522",
       "value": "What would you do if your friend told you they had feelings for your partner?"
     },
     {
-      "key": "LOVE_0525",
+      "key": "LOVE_0523",
       "value": "Tell us about a love (or crush) you had during your school days."
     },
     {
-      "key": "LOVE_0526",
+      "key": "LOVE_0524",
       "value": "If you broke up and then ran into them on the street, how would you act?"
     },
     {
-      "key": "LOVE_0527",
+      "key": "LOVE_0525",
       "value": "What kind of video (or home movie) would you like to make together?"
     },
     {
-      "key": "LOVE_0528",
+      "key": "LOVE_0526",
       "value": "Is there a scene from a drama/movie you'd like to act out together?"
     },
     {
-      "key": "LOVE_0529",
+      "key": "LOVE_0527",
       "value": "Has a friend ever \"stolen\" someone you were in love with?"
     },
     {
-      "key": "LOVE_0530",
+      "key": "LOVE_0528",
       "value": "What do you hope your partner looks like when they are old?"
     },
     {
-      "key": "LOVE_0531",
+      "key": "LOVE_0529",
       "value": "Have you ever had a crush on someone with a big age gap?"
     },
     {
-      "key": "LOVE_0532",
+      "key": "LOVE_0530",
       "value": "Has someone with a big age gap ever confessed their feelings to you?"
     },
     {
-      "key": "LOVE_0533",
+      "key": "LOVE_0531",
       "value": "Did you have a childhood crush on a neighbor?"
     },
     {
-      "key": "LOVE_0534",
+      "key": "LOVE_0532",
       "value": "Can you accept (or \"understand\") if your partner smokes?"
     },
     {
-      "key": "LOVE_0535",
+      "key": "LOVE_0533",
       "value": "If you had a daughter, what would you want to name her?"
     },
     {
-      "key": "LOVE_0536",
+      "key": "LOVE_0534",
       "value": "How long do you think you need to talk on the phone each day?"
     },
     {
-      "key": "LOVE_0537",
+      "key": "LOVE_0535",
       "value": "Do you think you must call each other every single day?"
     },
     {
-      "key": "LOVE_0538",
+      "key": "LOVE_0536",
       "value": "What are you like when you're drunk (your \"drinking habits\")?"
     },
     {
-      "key": "LOVE_0539",
+      "key": "LOVE_0537",
       "value": "How do you describe your partner to your friends?"
     },
     {
-      "key": "LOVE_0540",
+      "key": "LOVE_0538",
       "value": "What fashion style on someone (else) do you find attractive?"
     },
     {
-      "key": "LOVE_0541",
+      "key": "LOVE_0539",
       "value": "Have you ever thought about getting matching tattoos with your partner?"
     },
     {
-      "key": "LOVE_0542",
+      "key": "LOVE_0540",
       "value": "What would you do if you saw your partner getting into a fight (verbal or physical) with someone?"
     },
     {
-      "key": "LOVE_0543",
+      "key": "LOVE_0541",
       "value": "If you had a baby together, what do you hope they would look like?"
     },
     {
-      "key": "LOVE_0544",
+      "key": "LOVE_0542",
       "value": "After a breakup, how long do you think you should wait before dating someone new?"
     },
     {
-      "key": "LOVE_0545",
+      "key": "LOVE_0543",
       "value": "Of all the photos of your partner, which one is your favorite?"
     },
     {
-      "key": "LOVE_0546",
+      "key": "LOVE_0544",
       "value": "Introduce yourself (like a job interview), pretending your partner is the interviewer."
     },
     {
-      "key": "LOVE_0547",
+      "key": "LOVE_0545",
       "value": "Describe your partner's personality in detail (as long as possible)."
     },
     {
-      "key": "LOVE_0548",
+      "key": "LOVE_0546",
       "value": "What would you say if your partner's parents told you to break up?"
     },
     {
-      "key": "LOVE_0549",
+      "key": "LOVE_0547",
       "value": "What would you do if your best friend was insulting (or bad-mouthing) your partner?"
     },
     {
-      "key": "LOVE_0550",
+      "key": "LOVE_0548",
       "value": "What is the meaning of \"marriage\" to you?"
     },
     {
-      "key": "LOVE_0551",
+      "key": "LOVE_0549",
       "value": "If you were to buy a car, what's the maximum amount you would spend?"
     },
     {
-      "key": "LOVE_0552",
+      "key": "LOVE_0550",
       "value": "What do you think is a reasonable amount for monthly living expenses (for one person)?"
     },
     {
-      "key": "LOVE_0553",
+      "key": "LOVE_0551",
       "value": "Do you have a good impression of your partner's friends?"
     },
     {
-      "key": "LOVE_0554",
+      "key": "LOVE_0552",
       "value": "How important is it to you to earn a lot of money?"
     },
     {
-      "key": "LOVE_0555",
+      "key": "LOVE_0553",
       "value": "What do you think about living together (cohabitation) before marriage?"
     },
     {
-      "key": "LOVE_0556",
+      "key": "LOVE_0554",
       "value": "If you were living together, would it be okay for your partner to bring friends over late at night?"
     },
     {
-      "key": "LOVE_0557",
+      "key": "LOVE_0555",
       "value": "What profession (job) would you hope your future child has?"
     },
     {
-      "key": "LOVE_0558",
+      "key": "LOVE_0556",
       "value": "If you get married, what are 3 things you must save money on (cut back on)?"
     },
     {
-      "key": "LOVE_0559",
+      "key": "LOVE_0557",
       "value": "What's the last thing you'd want to do before you get married?"
     },
     {
-      "key": "LOVE_0560",
+      "key": "LOVE_0558",
       "value": "How many times a month do you want to eat out?"
     },
     {
-      "key": "LOVE_0561",
+      "key": "LOVE_0559",
       "value": "When was a time your partner looked unattractive (or \"ugly\") to you?"
     },
     {
-      "key": "LOVE_0562",
+      "key": "LOVE_0560",
       "value": "If you could change your name, what name would you want to have?"
     },
     {
-      "key": "LOVE_0563",
+      "key": "LOVE_0561",
       "value": "Think of an epitaph (phrase) you'd want on your tombstone one day."
     },
     {
-      "key": "LOVE_0564",
+      "key": "LOVE_0562",
       "value": "What's one good thing about getting older?"
     },
     {
-      "key": "LOVE_0565",
+      "key": "LOVE_0563",
       "value": "What are three conditions for the person you want to marry?"
     },
     {
-      "key": "LOVE_0566",
+      "key": "LOVE_0564",
       "value": "When was the last time you cried, and why?"
     },
     {
-      "key": "LOVE_0567",
+      "key": "LOVE_0565",
       "value": "Tell one relationship secret about someone else that only you know."
     },
     {
-      "key": "LOVE_0568",
+      "key": "LOVE_0566",
       "value": "How do you reject someone's confession?"
     },
     {
-      "key": "LOVE_0569",
+      "key": "LOVE_0567",
       "value": "When you were dumped by an ex, have you ever pathetically begged them to come back?"
     },
     {
-      "key": "LOVE_0570",
+      "key": "LOVE_0568",
       "value": "Have you ever secretly looked at your partner's phone?"
     },
     {
-      "key": "LOVE_0571",
+      "key": "LOVE_0569",
       "value": "What is your biggest worry right now?"
     },
     {
-      "key": "LOVE_0572",
+      "key": "LOVE_0570",
       "value": "What's the difference now, compared to your first impression of your partner?"
     },
     {
-      "key": "LOVE_0573",
+      "key": "LOVE_0571",
       "value": "If money was no object, what's the first thing you'd want to do?"
     },
     {
-      "key": "LOVE_0574",
+      "key": "LOVE_0572",
       "value": "(After marriage) What if a friend calls you out late at night? What do you do?"
     },
     {
-      "key": "LOVE_0575",
+      "key": "LOVE_0573",
       "value": "If you want to marry your partner, state 3 reasons why."
     },
     {
-      "key": "LOVE_0576",
+      "key": "LOVE_0574",
       "value": "How would you want to divide the housework (chores)?"
     },
     {
-      "key": "LOVE_0577",
+      "key": "LOVE_0575",
       "value": "What do you think about having the wedding, but waiting 1 year to legally register it?"
     },
     {
-      "key": "LOVE_0578",
+      "key": "LOVE_0576",
       "value": "Do you believe love has an \"expiration date\"? If so, how many years?"
     },
     {
-      "key": "LOVE_0579",
+      "key": "LOVE_0577",
       "value": "What is your philosophy on child-rearing (education)?"
+    },
+    {
+      "key": "LOVE_0578",
+      "value": "If you won the lottery, how would you spend the money?"
+    },
+    {
+      "key": "LOVE_0579",
+      "value": "Tell me about your childhood."
+    },
+    {
+      "key": "LOVE_0580",
+      "value": "How many times have you been confessed to (romantically) in your life?"
+    },
+    {
+      "key": "LOVE_0581",
+      "value": "Is there anyone you'd like to have as your child in your next life?"
+    },
+    {
+      "key": "LOVE_0582",
+      "value": "If it were completely free, is there any plastic surgery you'd want to get?"
+    },
+    {
+      "key": "LOVE_0583",
+      "value": "What would it be like if your partner was your boss at work?"
+    },
+    {
+      "key": "LOVE_0584",
+      "value": "If you won the lottery, how much would you give to your partner?"
+    },
+    {
+      "key": "LOVE_0585",
+      "value": "If you won the lottery, what would you buy for your partner?"
+    },
+    {
+      "key": "LOVE_0586",
+      "value": "Tell one secret about your friend that only you know."
+    },
+    {
+      "key": "LOVE_0587",
+      "value": "What part of your partner's body do you wish you could \"steal\" (have for yourself)?"
+    },
+    {
+      "key": "LOVE_0588",
+      "value": "What was the time you felt most sorry toward your partner?"
+    },
+    {
+      "key": "LOVE_0589",
+      "value": "On a scale of 1 to 10, how would you rate your partner's fashion sense?"
+    },
+    {
+      "key": "LOVE_0590",
+      "value": "What YouTube channel do you watch most often these days?"
+    },
+    {
+      "key": "LOVE_0591",
+      "value": "What do you think about feminism?"
+    },
+    {
+      "key": "LOVE_0592",
+      "value": "When dating, what is one expense that you feel is a bit of a waste?"
+    },
+    {
+      "key": "LOVE_0593",
+      "value": "Have you complained (or bitched) about your partner to a friend recently? What was it?"
+    },
+    {
+      "key": "LOVE_0594",
+      "value": "Tell me about your most regrettable relationship (or breakup)."
+    },
+    {
+      "key": "LOVE_0595",
+      "value": "Have you ever \"stalked\" (secretly looked at) your ex's social media?"
+    },
+    {
+      "key": "LOVE_0596",
+      "value": "Do you think the world today is equal between men and women?"
+    },
+    {
+      "key": "LOVE_0597",
+      "value": "When was the last time you felt a spark for someone else? (No saying \"never\"!)"
+    },
+    {
+      "key": "LOVE_0598",
+      "value": "What's the most expensive gift you've ever given to an ex?"
+    },
+    {
+      "key": "LOVE_0599",
+      "value": "What's the \"craziest\" (or most extreme) thing you've ever done for an ex?"
+    },
+    {
+      "key": "LOVE_0600",
+      "value": "Please disclose all your financial assets (wealth) to your partner."
+    },
+    {
+      "key": "LOVE_0601",
+      "value": "Have you ever compared your partner to your ex?"
+    },
+    {
+      "key": "LOVE_0602",
+      "value": "Do your friends say you're \"too good\" for your partner (or \"you could do better\")?"
+    },
+    {
+      "key": "LOVE_0603",
+      "value": "How much debt (if any) do you currently have?"
+    },
+    {
+      "key": "LOVE_0604",
+      "value": "Do you prefer a grand, \"extra\" proposal or a simple, ordinary one?"
+    },
+    {
+      "key": "LOVE_0605",
+      "value": "What is the biggest lie you've ever told (and when)?"
+    },
+    {
+      "key": "LOVE_0606",
+      "value": "Have you ever wished you could change your gender?"
+    },
+    {
+      "key": "LOVE_0607",
+      "value": "If they made a movie about your life, what genre would it be?"
+    },
+    {
+      "key": "LOVE_0608",
+      "value": "Imagine your partner as a child and describe what you see."
+    },
+    {
+      "key": "LOVE_0609",
+      "value": "If your relationship was a drama/movie, which actors would you cast?"
+    },
+    {
+      "key": "LOVE_0610",
+      "value": "If you lived together, what's one chore you'd really want your partner to do?"
+    },
+    {
+      "key": "LOVE_0611",
+      "value": "If you could only eat one for life: Italian food or Mexican food?"
+    },
+    {
+      "key": "LOVE_0612",
+      "value": "Do you have a \"dream proposal\" fantasy?"
+    },
+    {
+      "key": "LOVE_0613",
+      "value": "Do you believe men and women can be \"just friends\"?"
+    },
+    {
+      "key": "LOVE_0614",
+      "value": "Is there one part of your partner's personality you wish would change?"
+    },
+    {
+      "key": "LOVE_0615",
+      "value": "What's one way you feel you two are completely different?"
+    },
+    {
+      "key": "LOVE_0616",
+      "value": "What \"animal face type\" (vibe) do you like? (e.g., cat-like, puppy-like)"
+    },
+    {
+      "key": "LOVE_0617",
+      "value": "What animal are you told you \"look like\"? (e.g., a cat, a puppy)"
+    },
+    {
+      "key": "LOVE_0618",
+      "value": "What's the funniest dance you've ever seen in your life?"
+    },
+    {
+      "key": "LOVE_0619",
+      "value": "After a breakup, are you the type to try to get them back, or walk away immediately?"
+    },
+    {
+      "key": "LOVE_0620",
+      "value": "Have you ever gotten back together with an ex? If so, why did you want them back?"
+    },
+    {
+      "key": "LOVE_0621",
+      "value": "What would you do if you saw your friend cheating on their partner?"
     },
     {
       "key": "SEXY_0001",
@@ -3946,19 +4122,19 @@
     },
     {
       "key": "RANDOM_0009",
-      "value": "하트회복"
+      "value": "하트 회복"
     },
     {
       "key": "RANDOM_0010",
-      "value": "비행장가기"
+      "value": "워프빔 가기"
     },
     {
       "key": "RANDOM_0011",
-      "value": "액션감옥가기"
+      "value": "액션지옥 가기"
     },
     {
       "key": "RANDOM_0012",
-      "value": "무인도가기"
+      "value": "무인도 가기"
     },
     {
       "key": "pop_island_on",
