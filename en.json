@@ -121,6 +121,10 @@
       "value": "Start Timer"
     },
     {
+      "key": "timer_stop",
+      "value": "Stop Timer"
+    },
+    {
       "key": "LOVE_0001",
       "value": "What meal do you want to eat with your partner the most right now?"
     },
@@ -4091,6 +4095,1602 @@
     {
       "key": "VS_0016",
       "value": "Live rich until 30 vs Live healthy until 100 1"
+    },
+    {
+      "key": "VS_0017",
+      "value": "Low income with no stress vs High income with high stress 1"
+    },
+    {
+      "key": "VS_0018",
+      "value": "Go to the past vs Go to the future 1"
+    },
+    {
+      "key": "VS_0019",
+      "value": "$10 every day for life vs $100,000 right now 1"
+    },
+    {
+      "key": "VS_0020",
+      "value": "Teeth in your anus: Dentist vs Proctologist 1"
+    },
+    {
+      "key": "VS_0021",
+      "value": "For life: Only YouTube vs Only Social Media 1"
+    },
+    {
+      "key": "VS_0022",
+      "value": "Give up bread & pasta for life vs Give up meat for life 1"
+    },
+    {
+      "key": "VS_0023",
+      "value": "Know the time of your death vs Know the cause of your death 1"
+    },
+    {
+      "key": "VS_0024",
+      "value": "Give up soda for life vs Give up pizza for life 1"
+    },
+    {
+      "key": "VS_0025",
+      "value": "Date your friend's ex vs Date your ex's friend 1"
+    },
+    {
+      "key": "VS_0026",
+      "value": "100% chance of $100,000 vs 10% chance of $1,000,000 1"
+    },
+    {
+      "key": "VS_0027",
+      "value": "Send sexy pic to: Family Group Chat vs Your Crush 1"
+    },
+    {
+      "key": "VS_0028",
+      "value": "Partner cheats (before birthday): Dump now vs Get gift, then dump 1"
+    },
+    {
+      "key": "VS_0029",
+      "value": "Face vs Body 1"
+    },
+    {
+      "key": "VS_0030",
+      "value": "Partner ignores your texts (but posts on IG) vs Always 30 mins late (no text) 1"
+    },
+    {
+      "key": "VS_0031",
+      "value": "Partner only wears designer brands vs Partner only wears tracksuits 1"
+    },
+    {
+      "key": "VS_0032",
+      "value": "Cereal with orange juice vs Ketchup on a well-done steak 1"
+    },
+    {
+      "key": "VS_0033",
+      "value": "Partner drinks every day vs Partner gets drunk & ghosts you 1"
+    },
+    {
+      "key": "VS_0034",
+      "value": "Leaving someone on \"Read\" vs Leaving someone on \"Delivered\" 1"
+    },
+    {
+      "key": "VS_0035",
+      "value": "Lag spike every 5 seconds vs Disconnect every 10 minutes 1"
+    },
+    {
+      "key": "VS_0036",
+      "value": "Be a master of one thing vs Be a jack-of-all-trades 1"
+    },
+    {
+      "key": "VS_0037",
+      "value": "Hilarious but ugly partner vs Boring but gorgeous partner 1"
+    },
+    {
+      "key": "VS_0038",
+      "value": "Not wash hair for a month vs Not brush teeth for a month 1"
+    },
+    {
+      "key": "VS_0039",
+      "value": "Overcooked, soggy pasta vs Undercooked, crunchy pasta 1"
+    },
+    {
+      "key": "VS_0040",
+      "value": "Time machine vs Teleportation 1"
+    },
+    {
+      "key": "VS_0041",
+      "value": "Won lottery (ticket from friend): Give them half vs Keep it secret 1"
+    },
+    {
+      "key": "VS_0042",
+      "value": "Quick trip to the future: Get lottery numbers vs See your future self 1"
+    },
+    {
+      "key": "VS_0043",
+      "value": "Cute younger partner vs Sexy older partner 1"
+    },
+    {
+      "key": "VS_0044",
+      "value": "No food for 3 days vs No sleep for 3 days 1"
+    },
+    {
+      "key": "VS_0045",
+      "value": "Bald partner vs Very hairy partner 1"
+    },
+    {
+      "key": "VS_0046",
+      "value": "Eat vomit-flavored tomato vs Eat tomato-flavored vomit 1"
+    },
+    {
+      "key": "VS_0047",
+      "value": "$50,000 in pennies (no exchange) vs $5,000 in bills 1"
+    },
+    {
+      "key": "VS_0048",
+      "value": "1 year without your phone vs 1 year without your friends 1"
+    },
+    {
+      "key": "VS_0049",
+      "value": "Partner (drunk, needs pickup) vs Partner (drunk, ghosts you) 1"
+    },
+    {
+      "key": "VS_0050",
+      "value": "Partner: Politically Liberal vs Politically Conservative 1"
+    },
+    {
+      "key": "VS_0051",
+      "value": "Our dates are getting boring vs No, they're not 1"
+    },
+    {
+      "key": "VS_0052",
+      "value": "Partner accidentally kills someone: Report them vs Hide it forever 1"
+    },
+    {
+      "key": "VS_0053",
+      "value": "Marriage proposal: Big & public vs Simple & private 1"
+    },
+    {
+      "key": "VS_0054",
+      "value": "Say \"I love you\" every day vs Kiss every day 1"
+    },
+    {
+      "key": "VS_0055",
+      "value": "Partner hits 220 lbs: \"Lose weight\" vs \"Doesn't matter\" 1"
+    },
+    {
+      "key": "VS_0056",
+      "value": "Win the lottery: Tell your partner vs Don't tell them 1"
+    },
+    {
+      "key": "VS_0057",
+      "value": "Cute partner vs Sexy partner 1"
+    },
+    {
+      "key": "VS_0058",
+      "value": "Boring but kind vs Hilarious but mean 1"
+    },
+    {
+      "key": "VS_0059",
+      "value": "Partner (no phone) vs Phone (no partner) 1"
+    },
+    {
+      "key": "VS_0060",
+      "value": "Get married now vs Get married in 20 years 1"
+    },
+    {
+      "key": "VS_0061",
+      "value": "Get $4 Million to break up vs Stay together (never meet again) 1"
+    },
+    {
+      "key": "VS_0062",
+      "value": "Marry them again in the next life vs Marry someone else 1"
+    },
+    {
+      "key": "VS_0063",
+      "value": "$100,000 now vs $1,000,000 in 10 years 1"
+    },
+    {
+      "key": "VS_0064",
+      "value": "Older partner vs Younger partner 1"
+    },
+    {
+      "key": "VS_0065",
+      "value": "Happiness vs Love 1"
+    },
+    {
+      "key": "VS_0066",
+      "value": "Lick the yogurt lid vs Throw it away 1"
+    },
+    {
+      "key": "VS_0067",
+      "value": "Free soda vending machine vs Free ice cream freezer 1"
+    },
+    {
+      "key": "VS_0068",
+      "value": "Be a CEO vs Be a YouTuber (3M subs) 1"
+    },
+    {
+      "key": "VS_0069",
+      "value": "Be blind vs Have no hands 1"
+    },
+    {
+      "key": "VS_0070",
+      "value": "The beach vs The mountains 1"
+    },
+    {
+      "key": "VS_0071",
+      "value": "Get stung by 3 bees vs Catch 5 roaches (bare-handed) 1"
+    },
+    {
+      "key": "VS_0072",
+      "value": "Ugly and popular vs Hot and unpopular 1"
+    },
+    {
+      "key": "VS_0073",
+      "value": "Chicken drumstick vs Chicken wing 1"
+    },
+    {
+      "key": "VS_0074",
+      "value": "Pizza vs Burger 1"
+    },
+    {
+      "key": "VS_0075",
+      "value": "Summer vs Winter 1"
+    },
+    {
+      "key": "VS_0076",
+      "value": "Be a great singer vs Be a great dancer 1"
+    },
+    {
+      "key": "VS_0077",
+      "value": "Get very hairy all over vs Go completely bald 1"
+    },
+    {
+      "key": "VS_0078",
+      "value": "See 5 seconds into the future vs See 5 seconds into the past 1"
+    },
+    {
+      "key": "VS_0079",
+      "value": "Live as a man vs Live as a woman 1"
+    },
+    {
+      "key": "VS_0080",
+      "value": "Eat only fruits vs Eat only vegetables 1"
+    },
+    {
+      "key": "VS_0081",
+      "value": "Phone call vs Text message 1"
+    },
+    {
+      "key": "VS_0082",
+      "value": "Lump-sum lottery win vs Lottery win (paid for life) 1"
+    },
+    {
+      "key": "VS_0083",
+      "value": "Invisibility vs Teleportation 1"
+    },
+    {
+      "key": "VS_0084",
+      "value": "10th Anniversary vs Parent's Birthday 1"
+    },
+    {
+      "key": "VS_0085",
+      "value": "Break up (for someone else) vs Get ghosted 1"
+    },
+    {
+      "key": "VS_0086",
+      "value": "Bite your tongue (hard) vs Stub your toe (hard) 1"
+    },
+    {
+      "key": "VS_0087",
+      "value": "Sleep without a blanket vs Sleep without a pillow 1"
+    },
+    {
+      "key": "VS_0088",
+      "value": "Smelly feet vs Body odor (B.O.) 1"
+    },
+    {
+      "key": "VS_0089",
+      "value": "Lick the sole of your foot vs Lick your armpit 1"
+    },
+    {
+      "key": "VS_0090",
+      "value": "Go 10 years into the past vs Go 10 years into the future 1"
+    },
+    {
+      "key": "VS_0091",
+      "value": "Mom vs Dad 1"
+    },
+    {
+      "key": "VS_0092",
+      "value": "No talking for 3 days vs No food for 1 day 1"
+    },
+    {
+      "key": "VS_0093",
+      "value": "Skirts vs Pants 1"
+    },
+    {
+      "key": "VS_0094",
+      "value": "Three eyes vs Three nipples 1"
+    },
+    {
+      "key": "VS_0095",
+      "value": "Never gain weight vs Get $250,000 1"
+    },
+    {
+      "key": "VS_0096",
+      "value": "Rich (no love for 10 yrs) vs Normal life (with love) 1"
+    },
+    {
+      "key": "VS_0097",
+      "value": "Attentive but clingy partner vs Cool but distant partner 1"
+    },
+    {
+      "key": "VS_0098",
+      "value": "Call 10 times a day vs Call once every 15 days 1"
+    },
+    {
+      "key": "VS_0099",
+      "value": "Partner: Bald (but perfect) vs Dumb & broke (with hair) 1"
+    },
+    {
+      "key": "VS_0100",
+      "value": "Partner: Stoic when stressed vs Needy/Whiny when stressed 1"
+    },
+    {
+      "key": "VS_0101",
+      "value": "Partner: Book smart (only) vs Athletic (only) 1"
+    },
+    {
+      "key": "VS_0102",
+      "value": "Marry after short relationship vs Marry after long relationship 1"
+    },
+    {
+      "key": "VS_0103",
+      "value": "Fire in sauna, underwear costs $800: Buy vs Don't buy 1"
+    },
+    {
+      "key": "VS_0104",
+      "value": "First thing you notice: Face vs Body 1"
+    },
+    {
+      "key": "VS_0105",
+      "value": "Tonight's dinner: Mango stew vs Strawberry rice bowl 1"
+    },
+    {
+      "key": "VS_0106",
+      "value": "Partner who digs up all your past vs Partner (zero curiosity) 1"
+    },
+    {
+      "key": "VS_0107",
+      "value": "Partner (dated 10 people in 1 yr) vs Partner (dated 1 person for 10 yrs) 1"
+    },
+    {
+      "key": "VS_0108",
+      "value": "Partner (friends with their ex) vs Partner (still has ex's number) 1"
+    },
+    {
+      "key": "VS_0109",
+      "value": "Partner: \"Delete contacts\" vs Partner: \"I don't care\" 1"
+    },
+    {
+      "key": "VS_0110",
+      "value": "Partner (cold to your friends) vs Partner (must see their friends daily) 1"
+    },
+    {
+      "key": "VS_0111",
+      "value": "Partner (drunk, needs pickup) vs Partner (drunk, ghosts you) 1"
+    },
+    {
+      "key": "VS_0112",
+      "value": "Your friend hits on your partner vs Your partner hits on your friend 1"
+    },
+    {
+      "key": "VS_0113",
+      "value": "Partner cheats (secret forever) vs Partner cheats (confesses) 1"
+    },
+    {
+      "key": "VS_0114",
+      "value": "Economy seat (next to your idol) vs First Class (next to loud person) 1"
+    },
+    {
+      "key": "VS_0115",
+      "value": "Meeting organically vs Blind date / Set-up 1"
+    },
+    {
+      "key": "VS_0116",
+      "value": "Curious about partner's past vs Not curious 1"
+    },
+    {
+      "key": "VS_0117",
+      "value": "Eat a stranger's leftovers vs Eat food off the ground 1"
+    },
+    {
+      "key": "VS_0118",
+      "value": "Desperate to pee (run 20 min) vs Desperate to poop (wait 20 min) 1"
+    },
+    {
+      "key": "VS_0119",
+      "value": "All body hair (3 feet / 1m long) vs All nails (3 feet / 1m long) 1"
+    },
+    {
+      "key": "VS_0120",
+      "value": "Only watch TV shows for life vs Only watch movies for life 1"
+    },
+    {
+      "key": "VS_0121",
+      "value": "Job: Physically hard (easy mind) vs Mentally hard (easy body) 1"
+    },
+    {
+      "key": "VS_0122",
+      "value": "\"Cat-like\" partner (independent) vs \"Dog-like\" partner (affectionate) 1"
+    },
+    {
+      "key": "VS_0123",
+      "value": "World without coffee vs World without soda 1"
+    },
+    {
+      "key": "VS_0124",
+      "value": "Use formal language (first meeting) vs Use casual language 1"
+    },
+    {
+      "key": "VS_0125",
+      "value": "Use formal language (when dating) vs Use casual language 1"
+    },
+    {
+      "key": "VS_0126",
+      "value": "Being alone vs Being with your partner 1"
+    },
+    {
+      "key": "VS_0127",
+      "value": "Show-off partner (brags) vs Super frugal partner (stingy) 1"
+    },
+    {
+      "key": "VS_0128",
+      "value": "Confession in group chat vs Public confession (street) 1"
+    },
+    {
+      "key": "VS_0129",
+      "value": "Cringey \"edgelord\" partner vs Childish (like a 5-yr-old) partner 1"
+    },
+    {
+      "key": "VS_0130",
+      "value": "You die first vs Your partner dies first 1"
+    },
+    {
+      "key": "VS_0131",
+      "value": "Live without a partner (forever) vs Live without friends (forever) 1"
+    },
+    {
+      "key": "VS_0132",
+      "value": "$150,000 vs Your partner 1"
+    },
+    {
+      "key": "VS_0133",
+      "value": "Your partner becomes a celeb vs You become a celeb 1"
+    },
+    {
+      "key": "VS_0134",
+      "value": "Partner always at your place vs You always at partner's place 1"
+    },
+    {
+      "key": "VS_0135",
+      "value": "Partner becomes an influencer vs You become an influencer 1"
+    },
+    {
+      "key": "VS_0136",
+      "value": "Partner becomes a YouTuber vs You become a YouTuber 1"
+    },
+    {
+      "key": "VS_0137",
+      "value": "Partner's 1 best friend (10 yrs) vs Partner's 10 college friends 1"
+    },
+    {
+      "key": "VS_0138",
+      "value": "Alcoholic partner vs Chain-smoker partner 1"
+    },
+    {
+      "key": "VS_0139",
+      "value": "Your best friend hits on your partner vs Your partner hits on your best friend 1"
+    },
+    {
+      "key": "VS_0140",
+      "value": "Date your best friend's sibling vs Your sibling dates your best friend 1"
+    },
+    {
+      "key": "VS_0141",
+      "value": "Get $1 Million (live with someone you hate for 2 yrs) vs Normal life 1"
+    },
+    {
+      "key": "VS_0142",
+      "value": "Partner: Face (your type) but body (not) vs Body (your type) but face (not) 1"
+    },
+    {
+      "key": "VS_0143",
+      "value": "Outdoor date (cold, thin clothes) vs Indoor date (hot, no A/C) 1"
+    },
+    {
+      "key": "VS_0144",
+      "value": "Get $400,000 (change to weird name) vs Pay $4,000 (keep your name) 1"
+    },
+    {
+      "key": "VS_0145",
+      "value": "Keep your current face vs Get $1 Million (randomize face) 1"
+    },
+    {
+      "key": "VS_0146",
+      "value": "Partner kisses their celeb crush (movie role, gets $50,000) vs You forbid it 1"
+    },
+    {
+      "key": "VS_0147",
+      "value": "Search for your ex on social media vs Search for 100 hot influencers 1"
+    },
+    {
+      "key": "VS_0148",
+      "value": "Partner (scammed $10k buying your gift) vs Partner (borrows $10k for their own gift) 1"
+    },
+    {
+      "key": "VS_0149",
+      "value": "Giant pimple on your forehead (wedding day) vs Diarrhea (all wedding day) 1"
+    },
+    {
+      "key": "VS_0150",
+      "value": "Partner cheats (secret forever) vs Partner cheats (confesses & asks forgiveness) 1"
+    },
+    {
+      "key": "VS_0151",
+      "value": "Partner who cries all day vs Partner who is grumpy all day 1"
+    },
+    {
+      "key": "VS_0152",
+      "value": "Rich, popular partner (2k+ followers) vs \"Loner\" partner (no social media, waits for you) 1"
+    },
+    {
+      "key": "VS_0153",
+      "value": "Partner who is empty-headed (dumb) vs Partner who has an empty head (bald) 1"
+    },
+    {
+      "key": "VS_0154",
+      "value": "Partner who is very hairy vs Partner (perfectly smooth) who sweats waterfalls 1"
+    },
+    {
+      "key": "VS_0155",
+      "value": "World without bread vs World without pasta 1"
+    },
+    {
+      "key": "VS_0156",
+      "value": "Not wash hair for 3 days vs Not brush teeth for 3 days 1"
+    },
+    {
+      "key": "VS_0157",
+      "value": "Go 1000 years into the past vs Go 1000 years into the future 1"
+    },
+    {
+      "key": "VS_0158",
+      "value": "Partner with stinky feet vs Partner whose breath smells like stinky feet 1"
+    },
+    {
+      "key": "VS_0159",
+      "value": "Partner who is 2 hours early vs Partner who is 2 hours late 1"
+    },
+    {
+      "key": "VS_0160",
+      "value": "Partner cheats with your best friend vs Partner cheats with your worst enemy 1"
+    },
+    {
+      "key": "VS_0161",
+      "value": "Partner cheats (secret forever) vs Partner cheats (confesses & asks forgiveness) 1"
+    },
+    {
+      "key": "VS_0162",
+      "value": "Partner with long armpit hair vs Partner with long nose hair 1"
+    },
+    {
+      "key": "VS_0163",
+      "value": "Partner is a spy: Report them (get $400,000) vs Don't report them 1"
+    },
+    {
+      "key": "VS_0164",
+      "value": "Date your friend's parent vs Date your parent's friend 1"
+    },
+    {
+      "key": "VS_0165",
+      "value": "Partner (anxious if no contact for 1 min) vs Partner (zero interference) 1"
+    },
+    {
+      "key": "VS_0166",
+      "value": "Partner (surprise events, no words) vs Partner (daily \"I love you\", no events) 1"
+    },
+    {
+      "key": "VS_0167",
+      "value": "Marry civilian (worth $8M) vs Marry celeb crush (in $8M debt) 1"
+    },
+    {
+      "key": "VS_0168",
+      "value": "Partner: Cute \"Puppy\" Vibe vs Partner: Chic \"Cat\" Vibe 1"
+    },
+    {
+      "key": "VS_0169",
+      "value": "Partner re-gifts your present vs Partner sells your present on eBay 1"
+    },
+    {
+      "key": "VS_0170",
+      "value": "Partner wears skin-tight clothes vs Partner wears super baggy clothes 1"
+    },
+    {
+      "key": "VS_0171",
+      "value": "Partner (argues every detail when mad) vs Partner (silent treatment when mad) 1"
+    },
+    {
+      "key": "VS_0172",
+      "value": "Partner: \"Let's eat (1+ hr)\" vs Partner: \"Let's exercise (1+ hr)\" 1"
+    },
+    {
+      "key": "VS_0173",
+      "value": "Partner: \"Bear-like\" (cuddly) vs Partner: \"Deer-like\" (elegant) 1"
+    },
+    {
+      "key": "VS_0174",
+      "value": "Partner (never talks about exes) vs Partner (TMI about exes) 1"
+    },
+    {
+      "key": "VS_0175",
+      "value": "Care about your underwear (on dates) vs Don't care 2"
+    },
+    {
+      "key": "VS_0176",
+      "value": "Talking during sex: Ruins the mood vs Doesn't ruin the mood 2"
+    },
+    {
+      "key": "VS_0177",
+      "value": "Being the \"Big Spoon\" vs Being the \"Little Spoon\" 2"
+    },
+    {
+      "key": "VS_0178",
+      "value": "No sex before marriage vs Living together before marriage 2"
+    },
+    {
+      "key": "VS_0179",
+      "value": "Partner is infertile: Still marry them vs Don't marry them 2"
+    },
+    {
+      "key": "VS_0180",
+      "value": "Marriage proposal: Big & public vs Simple & private 2"
+    },
+    {
+      "key": "VS_0181",
+      "value": "Partner hits 220 lbs: \"Lose weight\" vs \"Doesn't matter\" 2"
+    },
+    {
+      "key": "VS_0182",
+      "value": "Initiate the kiss vs Receive the kiss 2"
+    },
+    {
+      "key": "VS_0183",
+      "value": "Deep kiss (best friend) vs Kiss their most sensitive spot 2"
+    },
+    {
+      "key": "VS_0184",
+      "value": "Partner (sleepover w/ a friend) vs Partner (drinking w/ an ex) 2"
+    },
+    {
+      "key": "VS_0185",
+      "value": "Perfect upper body vs Perfect lower body 2"
+    },
+    {
+      "key": "VS_0186",
+      "value": "Petite body type vs Voluptuous body type 2"
+    },
+    {
+      "key": "VS_0187",
+      "value": "Plastic surgery vs No plastic surgery 2"
+    },
+    {
+      "key": "VS_0188",
+      "value": "Your partner kisses your best friend vs You kiss your best friend 2"
+    },
+    {
+      "key": "VS_0189",
+      "value": "Alcoholic partner vs Chain-smoker partner 2"
+    },
+    {
+      "key": "VS_0190",
+      "value": "Partner's cheating: A physical mistake vs An emotional affair 2"
+    },
+    {
+      "key": "VS_0191",
+      "value": "Partner (raises arms \"Hooray!\") vs Partner (shouts \"Hooray!\") 2"
+    },
+    {
+      "key": "VS_0192",
+      "value": "Peck a friend (in front of partner) vs Kiss partner (in front of mom) 2"
+    },
+    {
+      "key": "VS_0193",
+      "value": "1 yr Platonic love (no skinship) vs 1 yr Skinship only (no talking) 2"
+    },
+    {
+      "key": "VS_0194",
+      "value": "Kiss with eyes open vs Kiss with eyes closed 2"
+    },
+    {
+      "key": "VS_0195",
+      "value": "Kiss (lips only) vs Deep kiss (using tongue) 2"
+    },
+    {
+      "key": "VS_0196",
+      "value": "Skinship with a clumsy partner vs Skinship with a skilled partner 2"
+    },
+    {
+      "key": "VS_0197",
+      "value": "Living together before marriage vs Marrying without cohabitation 2"
+    },
+    {
+      "key": "VS_0198",
+      "value": "Partner with long nose hair vs Partner with long armpit hair 2"
+    },
+    {
+      "key": "VS_0199",
+      "value": "Skinship only (no talking) vs Talking only (no skinship) 2"
+    },
+    {
+      "key": "VS_0200",
+      "value": "Ask for a kiss vs Kiss without asking 2"
+    },
+    {
+      "key": "VS_0201",
+      "value": "Very revealing clothes vs Hot pants 2"
+    },
+    {
+      "key": "VS_0202",
+      "value": "No holding hands for a month vs No kissing for a month 2"
+    },
+    {
+      "key": "VS_0203",
+      "value": "Express your love with skinship, without saying \"I love you\" 2"
+    },
+    {
+      "key": "VS_0204",
+      "value": "Date someone 10 years older vs Date someone who is married 2"
+    },
+    {
+      "key": "VS_0205",
+      "value": "Your ideal type (but poor) vs Ugly (but rich) 1"
+    },
+    {
+      "key": "VS_0206",
+      "value": "Fire in sauna: Cover face vs Cover private parts 1"
+    },
+    {
+      "key": "VS_0207",
+      "value": "Partner (takes 200 photos on trips) vs Partner (hates having their photo taken) 1"
+    },
+    {
+      "key": "VS_0208",
+      "value": "Never use your left arm (for life) vs Lose your \"function\" as a man/woman (for life) 2"
+    },
+    {
+      "key": "VS_0209",
+      "value": "Work 1 yr in convenience store (underwear only) vs Be 285 lbs (130kg) for life 2"
+    },
+    {
+      "key": "VS_0210",
+      "value": "No skinship for life vs Go to prison for 2 years 2"
+    },
+    {
+      "key": "VS_0211",
+      "value": "Catch them cheating in the act vs Hear about it from a friend 2"
+    },
+    {
+      "key": "VS_0212",
+      "value": "Never change underwear (for life) vs Shower once every 2 weeks (for life) 2"
+    },
+    {
+      "key": "VS_0213",
+      "value": "Partner (never brushes teeth) vs Partner (never showers, but washes hair) 2"
+    },
+    {
+      "key": "VS_0214",
+      "value": "Partner (kiss smells like a sewer) vs Partner (farts every 1 minute) 2"
+    },
+    {
+      "key": "VS_0215",
+      "value": "Partner (tells boring stories) vs Partner (looks deadpan at your stories) 2"
+    },
+    {
+      "key": "VS_0216",
+      "value": "Partner (master of skinship) vs Partner (clumsy skinship, but gives you butterflies) 2"
+    },
+    {
+      "key": "VS_0217",
+      "value": "Partner (TMI about skinship with ex) vs Partner (says nothing about ex) 2"
+    },
+    {
+      "key": "VS_0218",
+      "value": "Ugly but great at skinship vs Gorgeous but no touching 2"
+    },
+    {
+      "key": "VS_0219",
+      "value": "Partner (hugs twice a year) vs Partner (hugs daily, but for 1 hour straight) 2"
+    },
+    {
+      "key": "VS_0220",
+      "value": "Partner (kiss smells of stale cigarettes) vs Partner (smells of stale alcohol) 2"
+    },
+    {
+      "key": "VS_0221",
+      "value": "Kiss your ideal type (in underwear) at a club vs Dance at a club for 1hr (in underwear + mask) 2"
+    },
+    {
+      "key": "VS_0222",
+      "value": "Deep kiss (in front of partner's parents) vs Deep kiss (in front of your parents) 2"
+    },
+    {
+      "key": "VS_0223",
+      "value": "Deep kiss (in front of your friends) vs Deep kiss (in front of partner's friends) 2"
+    },
+    {
+      "key": "VS_0224",
+      "value": "When kissing: Lips only vs Touching each other's bodies 2"
+    },
+    {
+      "key": "VS_0225",
+      "value": "Kiss on the sole of the foot vs Kiss on the armpit 2"
+    },
+    {
+      "key": "VS_0226",
+      "value": "Hear (partner cheated) vs Hear (friend kissed partner, \"just drunk\") 2"
+    },
+    {
+      "key": "VS_0227",
+      "value": "You drunkenly kiss partner's friend vs Partner drunkenly kisses your friend 2"
+    },
+    {
+      "key": "VS_0228",
+      "value": "Person you kissed (club) is partner's BFF vs Person partner kissed (club) is your BFF 2"
+    },
+    {
+      "key": "VS_0229",
+      "value": "Partner (met at a \"pick-up\" bar) vs Partner (met at a club) 2"
+    },
+    {
+      "key": "VS_0230",
+      "value": "Kiss (chew food from partner's teeth) vs Kiss (sneeze into partner's mouth) 2"
+    },
+    {
+      "key": "VS_0231",
+      "value": "See photo (partner kissing ex) vs Get caught (with photo kissing your ex) 2"
+    },
+    {
+      "key": "VS_0232",
+      "value": "Tying hands vs Light spanking 3"
+    },
+    {
+      "key": "VS_0233",
+      "value": "Lose your sexual \"function\": Break up vs Stay together 3"
+    },
+    {
+      "key": "VS_0234",
+      "value": "Your hand on their \"sensitive spot\" vs Their hand on your \"sensitive spot\" 3"
+    },
+    {
+      "key": "VS_0235",
+      "value": "Love with two partners (at once) vs Love with your partner and one other 3"
+    },
+    {
+      "key": "VS_0236",
+      "value": "Woke up naked (with partner's friend) vs Woke up naked (with your best friend) 3"
+    },
+    {
+      "key": "VS_0237",
+      "value": "Faked it during lovemaking: Yes vs No 3"
+    },
+    {
+      "key": "VS_0238",
+      "value": "\"Finish\" on the face vs \"Finish\" in the mouth 3"
+    },
+    {
+      "key": "VS_0239",
+      "value": "Lovemaking when drunk vs Lovemaking when sober 3"
+    },
+    {
+      "key": "VS_0240",
+      "value": "Great personality (bad bed chemistry) vs Bad personality (great bed chemistry) 3"
+    },
+    {
+      "key": "VS_0241",
+      "value": "Great bed chemistry (not your type body) vs Bad bed chemistry (perfect body) 3"
+    },
+    {
+      "key": "VS_0242",
+      "value": "Have had a one-night stand vs Never had one 3"
+    },
+    {
+      "key": "VS_0243",
+      "value": "Your partner's underwear (at your friend's place) vs Your friend's underwear (at your partner's place) 3"
+    },
+    {
+      "key": "VS_0244",
+      "value": "\"Lamb\" (outside) & \"Wolf\" (in bed) vs \"Wolf\" (outside) & \"Lamb\" (in bed) 3"
+    },
+    {
+      "key": "VS_0245",
+      "value": "Watch another couple make love vs Let another couple watch you 3"
+    },
+    {
+      "key": "VS_0246",
+      "value": "\"Finish\" in the mouth vs \"Finish\" inside the body 3"
+    },
+    {
+      "key": "VS_0247",
+      "value": "Finish making love in 3 mins vs Make love for 3 hours 3"
+    },
+    {
+      "key": "VS_0248",
+      "value": "Muscular body (but small size) vs Skinny body (but large size) 3"
+    },
+    {
+      "key": "VS_0249",
+      "value": "Can make love without love vs Cannot 3"
+    },
+    {
+      "key": "VS_0250",
+      "value": "Had lovemaking out of obligation: Yes vs No 3"
+    },
+    {
+      "key": "VS_0251",
+      "value": "Get pregnant (before marriage): Get married vs Don't get married 3"
+    },
+    {
+      "key": "VS_0252",
+      "value": "Make love (lights off) vs Make love (lights on) 3"
+    },
+    {
+      "key": "VS_0253",
+      "value": "Take the lead (in bed) vs Be led (in bed) 3"
+    },
+    {
+      "key": "VS_0254",
+      "value": "Get $8 Million (never make love again) vs Normal life 3"
+    },
+    {
+      "key": "VS_0255",
+      "value": "(In bed) Satisfied vs Not satisfied 3"
+    },
+    {
+      "key": "VS_0256",
+      "value": "Want to go clubbing vs Don't want to 3"
+    },
+    {
+      "key": "VS_0257",
+      "value": "Make love (no brushing teeth) vs Make love (no showering for 3 days) 3"
+    },
+    {
+      "key": "VS_0258",
+      "value": "Make love (2 mins) with a celeb crush vs (30 mins) with your partner 3"
+    },
+    {
+      "key": "VS_0259",
+      "value": "Fast rhythm vs Deep rhythm 3"
+    },
+    {
+      "key": "VS_0260",
+      "value": "Partner who reacts quietly (in bed) vs Partner who reacts passionately (in bed) 3"
+    },
+    {
+      "key": "VS_0261",
+      "value": "Light Spanking: Prefer to Receive vs Prefer to Give 3"
+    },
+    {
+      "key": "VS_0262",
+      "value": "Make love every day vs Make love once a month 3"
+    },
+    {
+      "key": "VS_0263",
+      "value": "Partner (great technique) vs Partner (clumsy but pure) 3"
+    },
+    {
+      "key": "VS_0264",
+      "value": "(In bed): Prefer to lead vs Prefer to be led 3"
+    },
+    {
+      "key": "VS_0265",
+      "value": "Partner's touch: Using their lips vs Using their hands 3"
+    },
+    {
+      "key": "VS_0266",
+      "value": "A thrilling place: Classroom vs Elevator 3"
+    },
+    {
+      "key": "VS_0267",
+      "value": "Hear \"I love you\": Before making love vs After making love 3"
+    },
+    {
+      "key": "VS_0268",
+      "value": "1 best friend (10 years) vs 10 \"physical\" partners 3"
+    },
+    {
+      "key": "VS_0269",
+      "value": "Partner (burps during kiss) vs Partner (farts during lovemaking) 3"
+    },
+    {
+      "key": "VS_0270",
+      "value": "Make love outdoors: Reed field vs Beach 3"
+    },
+    {
+      "key": "VS_0271",
+      "value": "(In bed): 20s Stamina vs 40s Skill 3"
+    },
+    {
+      "key": "VS_0272",
+      "value": "Make love then date vs Date then make love 3"
+    },
+    {
+      "key": "VS_0273",
+      "value": "Cheating (with opposite sex) vs Cheating (with same sex) 3"
+    },
+    {
+      "key": "VS_0274",
+      "value": "During lovemaking: Crow sound vs Mosquito sound 3"
+    },
+    {
+      "key": "VS_0275",
+      "value": "Partner (has a \"second\" partner) vs You (are the \"second\" partner) 3"
+    },
+    {
+      "key": "VS_0276",
+      "value": "Partner (lived with ex) vs Partner (has couple tattoo with ex) 3"
+    },
+    {
+      "key": "VS_0277",
+      "value": "Other person's underwear (at your partner's place) vs Your partner's underwear (at other person's place) 3"
+    },
+    {
+      "key": "VS_0278",
+      "value": "Make love at: Motel vs Home 3"
+    },
+    {
+      "key": "VS_0279",
+      "value": "Ask before making love vs Start without words 3"
+    },
+    {
+      "key": "VS_0280",
+      "value": "Amazing hand skills vs Amazing tongue skills 3"
+    },
+    {
+      "key": "VS_0281",
+      "value": "Make love with a zombie vs Make love with a ghost 3"
+    },
+    {
+      "key": "VS_0282",
+      "value": "Get $1 Million (never make love again) vs Pay $10,000 (live as is) 3"
+    },
+    {
+      "key": "VS_0283",
+      "value": "Make love outdoors: In the park vs At the beach 3"
+    },
+    {
+      "key": "VS_0284",
+      "value": "Thrilling touch: In a cinema vs In a car 3"
+    },
+    {
+      "key": "VS_0285",
+      "value": "Gorgeous (but no \"function\") vs Ugly (but amazing physique) 3"
+    },
+    {
+      "key": "VS_0286",
+      "value": "Marry partner (virgin before marriage) vs Marry partner (very experienced) 3"
+    },
+    {
+      "key": "VS_0287",
+      "value": "Lots of armpit hair vs Lots of hair (in private area) 3"
+    },
+    {
+      "key": "VS_0288",
+      "value": "Partner (master at making love) vs Partner (clumsy but makes you flutter) 3"
+    },
+    {
+      "key": "VS_0289",
+      "value": "Partner (TMI about making love with ex) vs Partner (says nothing about ex) 3"
+    },
+    {
+      "key": "VS_0290",
+      "value": "Make love: With underwear on vs Completely naked 3"
+    },
+    {
+      "key": "VS_0291",
+      "value": "Partner (no \"reaction\" at all) vs Partner (\"finishes\" too quickly) 3"
+    },
+    {
+      "key": "VS_0292",
+      "value": "No \"points\" on the chest vs Four \"points\" on the chest 3"
+    },
+    {
+      "key": "VS_0293",
+      "value": "Make love (in front of partner's parents) vs Make love (in front of your parents) 3"
+    },
+    {
+      "key": "VS_0294",
+      "value": "(In bed): Experienced vs First time 3"
+    },
+    {
+      "key": "VS_0295",
+      "value": "(Partner's touch): Hands vs Mouth 3"
+    },
+    {
+      "key": "VS_0296",
+      "value": "Kissing vs Making love 3"
+    },
+    {
+      "key": "VS_0297",
+      "value": "\"Size\": 10 inches (25cm) vs 3 inches (7cm) 3"
+    },
+    {
+      "key": "VS_0298",
+      "value": "Appetite vs Libido 3"
+    },
+    {
+      "key": "VS_0299",
+      "value": "(In bed): Experienced person vs First-timer 3"
+    },
+    {
+      "key": "VS_0300",
+      "value": "Deep \"body\" talk vs Deep \"heart-to-heart\" talk 3"
+    },
+    {
+      "key": "VS_0301",
+      "value": "See partner's \"intimate\" photos (with ex) vs Partner sees yours 3"
+    },
+    {
+      "key": "VS_0302",
+      "value": "My secret fantasy: With two people vs With three people 4"
+    },
+    {
+      "key": "VS_0303",
+      "value": "Refrain (solo) for 1 month vs Refrain (partner) for 1 month 4"
+    },
+    {
+      "key": "VS_0304",
+      "value": "A \"groomed\" look vs A \"natural\" look 4"
+    },
+    {
+      "key": "VS_0305",
+      "value": "With the tongue vs With the fingers 4"
+    },
+    {
+      "key": "VS_0306",
+      "value": "Exciting \"words\" vs Light spanking 4"
+    },
+    {
+      "key": "VS_0307",
+      "value": "\"Leather\" toy vs Warm \"wax\" 4"
+    },
+    {
+      "key": "VS_0308",
+      "value": "Caught loving (solo) vs Caught loving (partner) 4"
+    },
+    {
+      "key": "VS_0309",
+      "value": "Watch another couple vs Let another couple watch you 4"
+    },
+    {
+      "key": "VS_0310",
+      "value": "Love with two people vs Explore a \"new place\" 4"
+    },
+    {
+      "key": "VS_0311",
+      "value": "\"Size\": Length vs Girth 4"
+    },
+    {
+      "key": "VS_0312",
+      "value": "Loving (face-to-face) vs Loving (from behind) 4"
+    },
+    {
+      "key": "VS_0313",
+      "value": "(Partner's touch): Hands vs Mouth 4"
+    },
+    {
+      "key": "VS_0314",
+      "value": "Loud, passionate \"reactions\" vs Quiet, held-in \"reactions\" 4"
+    },
+    {
+      "key": "VS_0315",
+      "value": "Give \"love\" (with mouth) vs Receive \"love\" (with mouth) 4"
+    },
+    {
+      "key": "VS_0316",
+      "value": "Lingerie: Corset vs Garter belt 4"
+    },
+    {
+      "key": "VS_0317",
+      "value": "\"XL Size\" (finishes in 30 sec) vs \"XS Size\" (lasts for 30 min) 4"
+    },
+    {
+      "key": "VS_0318",
+      "value": "Blindfold vs Tie hands 4"
+    },
+    {
+      "key": "VS_0319",
+      "value": "30 mins of \"foreplay\" vs 30 mins of \"the main event\" 4"
+    },
+    {
+      "key": "VS_0320",
+      "value": "Make love (drunk) vs Make love (sober) 4"
+    },
+    {
+      "key": "VS_0321",
+      "value": "(In bed): Give commands vs Obey commands 4"
+    },
+    {
+      "key": "VS_0322",
+      "value": "Undress gently vs Undress roughly (like tearing) 4"
+    },
+    {
+      "key": "VS_0323",
+      "value": "Receive \"full service\" (from ideal type) vs Give \"full service\" (to ideal type) 4"
+    },
+    {
+      "key": "VS_0324",
+      "value": "Grab their hips vs Grab their hair 4"
+    },
+    {
+      "key": "VS_0325",
+      "value": "Seduce (with nothing on) vs Seduce (with a costume) 4"
+    },
+    {
+      "key": "VS_0326",
+      "value": "One \"position\" (for a long time) vs Many \"positions\" (changing) 4"
+    },
+    {
+      "key": "VS_0327",
+      "value": "\"Finish\" in the mouth vs \"Finish\" inside the body 4"
+    },
+    {
+      "key": "VS_0328",
+      "value": "Love \"simultaneously\" (face-to-face) vs Love \"simultaneously\" (side-lying) 4"
+    },
+    {
+      "key": "VS_0329",
+      "value": "Make love (legs apart) vs Make love (legs together) 4"
+    },
+    {
+      "key": "VS_0330",
+      "value": "(During lovemaking): Eye contact vs Eyes closed 4"
+    },
+    {
+      "key": "VS_0331",
+      "value": "Rhythm: Up & down vs Front & back 4"
+    },
+    {
+      "key": "VS_0332",
+      "value": "\"Thrilling\" call: Voice only vs Muted video 4"
+    },
+    {
+      "key": "VS_0333",
+      "value": "(Partner) Lying down: \"with mouth\" vs Standing: \"with mouth\" 4"
+    },
+    {
+      "key": "VS_0334",
+      "value": "From behind (on all fours) vs From behind (standing) 4"
+    },
+    {
+      "key": "VS_0335",
+      "value": "From behind (legs apart) vs From behind (legs together) 4"
+    },
+    {
+      "key": "VS_0336",
+      "value": "Lovemaking: Roughly (casual talk) vs Gently (formal talk) 4"
+    },
+    {
+      "key": "VS_0337",
+      "value": "Skirt (just lifted) vs Pants (just lowered) 4"
+    },
+    {
+      "key": "VS_0338",
+      "value": "Thrilling place: Classroom vs Elevator 4"
+    },
+    {
+      "key": "VS_0339",
+      "value": "Make love (motel door open) vs Make love (on a rooftop) 4"
+    },
+    {
+      "key": "VS_0340",
+      "value": "\"Physical\" partner: Korean vs Foreigner 4"
+    },
+    {
+      "key": "VS_0341",
+      "value": "\"Physical feature\" (private): Black vs White 4"
+    },
+    {
+      "key": "VS_0342",
+      "value": "Adult \"toys\": Use them vs Don't use them 4"
+    },
+    {
+      "key": "VS_0343",
+      "value": "Get \"ready\" (wet) quickly vs Get \"ready\" (wet) slowly 4"
+    },
+    {
+      "key": "VS_0344",
+      "value": "Make love (while talking) vs Make love (body only, no talk) 4"
+    },
+    {
+      "key": "VS_0345",
+      "value": "The \"finish\": Swallow vs Spit 4"
+    },
+    {
+      "key": "VS_0346",
+      "value": "One-night stand: With a stranger vs With someone you know 4"
+    },
+    {
+      "key": "VS_0347",
+      "value": "(During lovemaking): Hair down vs Hair tied up 4"
+    },
+    {
+      "key": "VS_0348",
+      "value": "Shy and sweet lovemaking vs Ripe and passionate lovemaking 4"
+    },
+    {
+      "key": "VS_0349",
+      "value": "\"Finishes\" quickly vs \"Finishes\" very slowly 4"
+    },
+    {
+      "key": "VS_0350",
+      "value": "Tying wrists: (You tie) vs (You are tied) 4"
+    },
+    {
+      "key": "VS_0351",
+      "value": "Love (with two others) vs Love (with multiple others) 4"
+    },
+    {
+      "key": "VS_0352",
+      "value": "Give \"love\" (with mouth) vs Receive \"love\" (with mouth) 4"
+    },
+    {
+      "key": "VS_0353",
+      "value": "\"Vibrating\" toy vs \"Insertion\" toy 4"
+    },
+    {
+      "key": "VS_0354",
+      "value": "One-night stand: With a stranger vs With a long-time friend 4"
+    },
+    {
+      "key": "VS_0355",
+      "value": "\"Foreplay\" vs \"The main event\" 4"
+    },
+    {
+      "key": "VS_0356",
+      "value": "\"Dominance/Submission\" play vs A specific \"Fetish\" 4"
+    },
+    {
+      "key": "VS_0357",
+      "value": "Obvious \"implants\" vs \"Push-up bra\" 4"
+    },
+    {
+      "key": "VS_0358",
+      "value": "(Lovemaking): Position (looking up) vs Position (looking down) 4"
+    },
+    {
+      "key": "VS_0359",
+      "value": "Celebrity (\"XS\" size) vs Ugly person (\"XL\" size) 4"
+    },
+    {
+      "key": "VS_0360",
+      "value": "Go out without a bra vs Go out without panties 4"
+    },
+    {
+      "key": "VS_0361",
+      "value": "Perfect \"emotional\" chemistry vs Perfect \"physical\" chemistry 4"
+    },
+    {
+      "key": "VS_0362",
+      "value": "(During lovemaking) Hear ex's name vs Say ex's name 4"
+    },
+    {
+      "key": "VS_0363",
+      "value": "Tying hands vs Light spanking 4"
+    },
+    {
+      "key": "VS_0364",
+      "value": "(If you had to make love): In China vs In Japan 4"
+    },
+    {
+      "key": "VS_0365",
+      "value": "\"Finish\" (do it) vs \"Finish\" (watch it) 4"
+    },
+    {
+      "key": "VS_0366",
+      "value": "Costume: Military uniform vs \"Shirt only\" 4"
+    },
+    {
+      "key": "VS_0367",
+      "value": "Kiss your partner's foot (1 sec) vs Lick a stranger's smelly foot (1 hour) 4"
+    },
+    {
+      "key": "VS_0368",
+      "value": "Gently bite: Chest \"point\" vs Most \"sensitive spot\" 4"
+    },
+    {
+      "key": "VS_0369",
+      "value": "Lose your \"function\" vs Lose your right arm 4"
+    },
+    {
+      "key": "VS_0370",
+      "value": "Two \"private parts\" vs Three arms 4"
+    },
+    {
+      "key": "VS_0371",
+      "value": "Man's face (with woman's \"part\") vs Woman's face (with man's \"part\") 4"
+    },
+    {
+      "key": "VS_0372",
+      "value": "Lick (whipped cream) off vs Lick (ice cream) off 4"
+    },
+    {
+      "key": "VS_0373",
+      "value": "\"Touching\" (eyes closed) vs \"Touching\" (eyes open) 4"
+    },
+    {
+      "key": "VS_0374",
+      "value": "Partner (quiet lovemaking) vs Partner (talkative lovemaking) 4"
+    },
+    {
+      "key": "VS_0375",
+      "value": "Partner (gentle kissing/touching) vs Partner (licks your whole body) 4"
+    },
+    {
+      "key": "VS_0376",
+      "value": "Partner (loud reactions) vs Partner (silent reactions) 4"
+    },
+    {
+      "key": "VS_0377",
+      "value": "\"Finish\" inside vs \"Finish\" in the mouth 4"
+    },
+    {
+      "key": "VS_0378",
+      "value": "Partner (devoted, but \"dysfunctional\") vs Partner (cheater, but a master in bed) 4"
+    },
+    {
+      "key": "VS_0379",
+      "value": "Make love in a car vs Make love outdoors 4"
+    },
+    {
+      "key": "VS_0380",
+      "value": "Make love (thinking of ex) vs Make love (say ex's name by mistake) 4"
+    },
+    {
+      "key": "VS_0381",
+      "value": "Rubbing (on chest) vs Rubbing (on \"private part\") 4"
+    },
+    {
+      "key": "VS_0382",
+      "value": "(In bed): Only you are satisfied vs Only your partner is satisfied 4"
+    },
+    {
+      "key": "VS_0383",
+      "value": "Partner (bad breath) vs Partner (bad \"private part\" odor) 4"
+    },
+    {
+      "key": "VS_0384",
+      "value": "\"Finish\" (inside) vs \"Finish\" (in the back) 4"
+    },
+    {
+      "key": "VS_0385",
+      "value": "Kiss (mouth smells like Durian) vs Deep kiss (an armpit) 2"
+    },
+    {
+      "key": "VS_0386",
+      "value": "Kiss a cockroach vs Kiss (animal droppings) 2"
+    },
+    {
+      "key": "VS_0387",
+      "value": "\"Taste\" partner's armpit sweat vs Partner smells yours (after workout) 2"
+    },
+    {
+      "key": "VS_0388",
+      "value": "Swear heavily (at partner's parents) vs Deep kiss (in front of your parents) 2"
+    },
+    {
+      "key": "VS_0389",
+      "value": "Lose your \"function\" (for life) vs Never use your left arm (for life) 2"
+    },
+    {
+      "key": "VS_0390",
+      "value": "Work 1 yr in convenience store (underwear only) vs Be 285 lbs (130kg) for life 2"
+    },
+    {
+      "key": "VS_0391",
+      "value": "No skinship for life vs Go to prison for 2 years 2"
+    },
+    {
+      "key": "VS_0392",
+      "value": "Catch them cheating in the act vs Hear about it from a friend 2"
+    },
+    {
+      "key": "VS_0393",
+      "value": "Never change underwear (for life) vs Shower once every 2 weeks (for life) 2"
+    },
+    {
+      "key": "VS_0394",
+      "value": "Partner (never brushes teeth) vs Partner (never showers, but washes hair) 2"
+    },
+    {
+      "key": "VS_0395",
+      "value": "Partner (kiss smells like a sewer) vs Partner (farts a foul fart every 1 min) 2"
+    },
+    {
+      "key": "VS_0396",
+      "value": "Partner (tells boring stories) vs Partner (looks deadpan at your stories) 2"
+    },
+    {
+      "key": "VS_0397",
+      "value": "Partner (master of skinship) vs Partner (clumsy skinship, but gives you butterflies) 2"
+    },
+    {
+      "key": "VS_0398",
+      "value": "Partner (TMI about skinship with ex) vs Partner (says nothing about ex) 2"
+    },
+    {
+      "key": "VS_0399",
+      "value": "Ugly but great at skinship vs Gorgeous but no touching 2"
+    },
+    {
+      "key": "VS_0400",
+      "value": "Partner (hugs twice a year) vs Partner (hugs daily, but for 1 hour straight) 2"
+    },
+    {
+      "key": "VS_0401",
+      "value": "Kiss once a year vs Kiss daily (for 2 hours straight) 2"
+    },
+    {
+      "key": "VS_0402",
+      "value": "Partner (kiss smells of stale cigarettes) vs Partner (smells of stale alcohol) 2"
+    },
+    {
+      "key": "VS_0403",
+      "value": "Kiss a gorgeous celeb (in underwear) vs Dance at a club for 1hr (wearing nothing + mask) 2"
+    },
+    {
+      "key": "VS_0404",
+      "value": "Deep kiss (in front of partner's parents) vs Deep kiss (in front of your parents) 2"
+    },
+    {
+      "key": "VS_0405",
+      "value": "Make love (in front of partner's parents) vs Make love (in front of your parents) 3"
+    },
+    {
+      "key": "VS_0406",
+      "value": "Deep kiss (in front of your friends) vs Deep kiss (in front of partner's friends) 2"
+    },
+    {
+      "key": "VS_0407",
+      "value": "When kissing: Lips only vs Touching each other's bodies 2"
+    },
+    {
+      "key": "VS_0408",
+      "value": "Kiss on the sole of the foot vs Kiss on the armpit 2"
+    },
+    {
+      "key": "VS_0409",
+      "value": "Hear (partner cheated) vs Hear (friend kissed partner, \"just drunk\") 2"
+    },
+    {
+      "key": "VS_0410",
+      "value": "You drunkenly kiss partner's friend vs Partner drunkenly kisses your friend 2"
+    },
+    {
+      "key": "VS_0411",
+      "value": "Person you kissed (club) is partner's BFF vs Person partner kissed (club) is your BFF 2"
+    },
+    {
+      "key": "VS_0412",
+      "value": "Partner (met at a \"pick-up\" bar) vs Partner (met at a club) 2"
+    },
+    {
+      "key": "VS_0413",
+      "value": "Kiss (chew tartar from partner's teeth) vs Kiss (sneeze phlegm into partner's mouth) 2"
+    },
+    {
+      "key": "VS_0414",
+      "value": "See photo (partner kissing ex) vs Get caught (with photo kissing your ex) 2"
+    },
+    {
+      "key": "VS_0415",
+      "value": "See partner's \"intimate\" photos (with ex) vs Partner sees yours 3"
     },
     {
       "key": "RANDOM_0001",
