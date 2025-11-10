@@ -117,6 +117,10 @@
       "value": "Escribir una reseña"
     },
     {
+      "key": "timer_start",
+      "value": "Iniciar temporizador"
+    },
+    {
       "key": "LOVE_0001",
       "value": "¿Qué comida te apetece más comer con tu pareja ahora mismo?"
     },
