@@ -117,6 +117,10 @@
       "value": "Laisser un avis"
     },
     {
+      "key": "timer_start",
+      "value": "Démarrer le minuteur"
+    },
+    {
       "key": "LOVE_0001",
       "value": "Quel repas as-tu le plus envie de manger avec ton partenaire, là, maintenant ?"
     },
