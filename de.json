@@ -4090,51 +4090,51 @@
     },
     {
       "key": "RANDOM_0001",
-      "value": "앞으로 1칸 가기"
+      "value": "1 Feld vor"
     },
     {
       "key": "RANDOM_0002",
-      "value": "앞으로 2칸 가기"
+      "value": "2 Felder vor"
     },
     {
       "key": "RANDOM_0003",
-      "value": "앞으로 3칸 가기"
+      "value": "3 Felder vor"
     },
     {
       "key": "RANDOM_0004",
-      "value": "뒤로 1칸 가기"
+      "value": "1 Feld zurück"
     },
     {
       "key": "RANDOM_0005",
-      "value": "뒤로 2칸 가기"
+      "value": "2 Felder zurück"
     },
     {
       "key": "RANDOM_0006",
-      "value": "뒤로 3칸 가기"
+      "value": "3 Felder zurück"
     },
     {
       "key": "RANDOM_0007",
-      "value": "다른 수위 Sexy Question"
+      "value": "Sexy Frage (Anderes Level)"
     },
     {
       "key": "RANDOM_0008",
-      "value": "다른 수위 Action"
+      "value": "Aktion (Anderes Level)"
     },
     {
       "key": "RANDOM_0009",
-      "value": "하트 회복"
+      "value": "1 Herz heilen"
     },
     {
       "key": "RANDOM_0010",
-      "value": "워프빔 가기"
+      "value": "Gehe zum Warpfeld"
     },
     {
       "key": "RANDOM_0011",
-      "value": "액션지옥 가기"
+      "value": "Gehe zur Aktions-Hölle"
     },
     {
       "key": "RANDOM_0012",
-      "value": "무인도 가기"
+      "value": "Gehe zur Einsamen Insel"
     },
     {
       "key": "pop_island_on",
