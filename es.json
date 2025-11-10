@@ -121,6 +121,10 @@
       "value": "Iniciar temporizador"
     },
     {
+      "key": "timer_stop",
+      "value": "Detener temporizador"
+    },
+    {
       "key": "LOVE_0001",
       "value": "¿Qué comida te apetece más comer con tu pareja ahora mismo?"
     },
@@ -4091,6 +4095,1602 @@
     {
       "key": "VS_0016",
       "value": "Vivir rico hasta los 30 vs Vivir sano hasta los 100 1"
+    },
+    {
+      "key": "VS_0017",
+      "value": "Bajos ingresos sin estrés vs Altos ingresos con mucho estrés 1"
+    },
+    {
+      "key": "VS_0018",
+      "value": "Viajar al pasado vs Viajar al futuro 1"
+    },
+    {
+      "key": "VS_0019",
+      "value": "10 € diarios de por vida vs 100.000 € ahora 1"
+    },
+    {
+      "key": "VS_0020",
+      "value": "Dientes en el ano: Dentista vs Proctólogo 1"
+    },
+    {
+      "key": "VS_0021",
+      "value": "De por vida: Solo YouTube vs Solo Redes Sociales 1"
+    },
+    {
+      "key": "VS_0022",
+      "value": "Dejar la harina (pan/pasta) de por vida vs Dejar la carne de por vida 1"
+    },
+    {
+      "key": "VS_0023",
+      "value": "Saber la hora de tu muerte vs Saber la causa de tu muerte 1"
+    },
+    {
+      "key": "VS_0024",
+      "value": "Dejar los refrescos de por vida vs Dejar la pizza de por vida 1"
+    },
+    {
+      "key": "VS_0025",
+      "value": "Salir con la ex de tu amigo/a vs Salir con el amigo/a de tu ex 1"
+    },
+    {
+      "key": "VS_0026",
+      "value": "100% de probabilidad (100.000 €) vs 10% de probabilidad (1.000.000 €) 1"
+    },
+    {
+      "key": "VS_0027",
+      "value": "Enviar foto sexy por error: Grupo de la familia (WhatsApp) vs Tu Crush 1"
+    },
+    {
+      "key": "VS_0028",
+      "value": "Tu pareja te engaña (antes de cumple): Dejarle ya vs Recibir el regalo y dejarle 1"
+    },
+    {
+      "key": "VS_0029",
+      "value": "Cara vs Cuerpo 1"
+    },
+    {
+      "key": "VS_0030",
+      "value": "Pareja que te ignora (pero postea en IG) vs Siempre llega 30 min tarde (sin avisar) 1"
+    },
+    {
+      "key": "VS_0031",
+      "value": "Pareja (solo marcas de lujo) vs Pareja (solo en chándal) 1"
+    },
+    {
+      "key": "VS_0032",
+      "value": "Cereales con zumo de naranja vs Piña en la paella 1"
+    },
+    {
+      "key": "VS_0033",
+      "value": "Pareja que bebe todos los días vs Pareja que se emborracha y desaparece 1"
+    },
+    {
+      "key": "VS_0034",
+      "value": "Dejar en \"Visto\" vs Ni siquiera abrir el mensaje 1"
+    },
+    {
+      "key": "VS_0035",
+      "value": "Lag cada 5 segundos vs Desconexión cada 10 minutos 1"
+    },
+    {
+      "key": "VS_0036",
+      "value": "Ser un maestro en una cosa vs Ser un \"aprendiz de todo\" 1"
+    },
+    {
+      "key": "VS_0037",
+      "value": "Pareja divertidísima pero fea vs Pareja aburridísima pero guapísima 1"
+    },
+    {
+      "key": "VS_0038",
+      "value": "No lavarse el pelo en un mes vs No lavarse los dientes en un mes 1"
+    },
+    {
+      "key": "VS_0039",
+      "value": "Pasta pasada (blanda) vs Pasta cruda (dura) 1"
+    },
+    {
+      "key": "VS_0040",
+      "value": "Máquina del tiempo vs Teletransportación 1"
+    },
+    {
+      "key": "VS_0041",
+      "value": "Ganas la lotería (boleto regalado): Darle la mitad vs Guardar el secreto 1"
+    },
+    {
+      "key": "VS_0042",
+      "value": "Viaje rápido al futuro: Ver números lotería vs Ver a tu \"yo\" futuro 1"
+    },
+    {
+      "key": "VS_0043",
+      "value": "Lindo/a y más joven vs Sexy y mayor 1"
+    },
+    {
+      "key": "VS_0044",
+      "value": "3 días sin comer vs 3 días sin dormir 1"
+    },
+    {
+      "key": "VS_0045",
+      "value": "Pareja calva vs Pareja muy peluda 1"
+    },
+    {
+      "key": "VS_0046",
+      "value": "Tomate sabor a vómito vs Vómito sabor a tomate 1"
+    },
+    {
+      "key": "VS_0047",
+      "value": "50.000 € en monedas de 1 céntimo (no se puede cambiar) vs 5.000 € en billetes 1"
+    },
+    {
+      "key": "VS_0048",
+      "value": "1 año sin móvil vs 1 año sin amigos 1"
+    },
+    {
+      "key": "VS_0049",
+      "value": "Pareja (borracha, pide que la recojas) vs Pareja (borracha, desaparece) 1"
+    },
+    {
+      "key": "VS_0050",
+      "value": "Pareja: políticamente de Izquierdas vs políticamente de Derechas 1"
+    },
+    {
+      "key": "VS_0051",
+      "value": "Nuestras citas se están volviendo aburridas vs No, qué va 1"
+    },
+    {
+      "key": "VS_0052",
+      "value": "Tu pareja mata a alguien (accidente): Denunciar vs Encubrirlo de por vida 1"
+    },
+    {
+      "key": "VS_0053",
+      "value": "Petición de matrimonio: A lo grande vs Algo sencillo 1"
+    },
+    {
+      "key": "VS_0054",
+      "value": "Decir \"Te quiero\" todos los días vs Besarse todos los días 1"
+    },
+    {
+      "key": "VS_0055",
+      "value": "Pareja llega a 100 kg: \"Adelgaza\" vs \"No me importa\" 1"
+    },
+    {
+      "key": "VS_0056",
+      "value": "Ganar la lotería: Decírselo a tu pareja vs No decírselo 1"
+    },
+    {
+      "key": "VS_0057",
+      "value": "Pareja adorable vs Pareja sexy 1"
+    },
+    {
+      "key": "VS_0058",
+      "value": "Aburrido/a pero bueno/a vs Divertido/a pero malo/a 1"
+    },
+    {
+      "key": "VS_0059",
+      "value": "Pareja (sin móvil) vs Móvil (sin pareja) 1"
+    },
+    {
+      "key": "VS_0060",
+      "value": "Casarse ahora vs Casarse en 20 años 1"
+    },
+    {
+      "key": "VS_0061",
+      "value": "3,5 millones de € por romper vs Seguir juntos (sin veros nunca más) 1"
+    },
+    {
+      "key": "VS_0062",
+      "value": "Casarme con mi pareja (otra vida) vs Casarme con otra persona 1"
+    },
+    {
+      "key": "VS_0063",
+      "value": "100.000 € ahora vs 1.000.000 € en 10 años 1"
+    },
+    {
+      "key": "VS_0064",
+      "value": "Pareja mayor vs Pareja menor 1"
+    },
+    {
+      "key": "VS_0065",
+      "value": "Felicidad vs Amor 1"
+    },
+    {
+      "key": "VS_0066",
+      "value": "Chupar la tapa del yogur vs Tirarla 1"
+    },
+    {
+      "key": "VS_0067",
+      "value": "Máquina de refrescos gratis vs Nevera de helados gratis 1"
+    },
+    {
+      "key": "VS_0068",
+      "value": "Ser CEO vs Ser YouTuber (3M de suscriptores) 1"
+    },
+    {
+      "key": "VS_0069",
+      "value": "Ser ciego/a vs No tener manos 1"
+    },
+    {
+      "key": "VS_0070",
+      "value": "Playa vs Montaña 1"
+    },
+    {
+      "key": "VS_0071",
+      "value": "Ser picado (3 abejas) vs Coger 5 cucarachas (con la mano) 1"
+    },
+    {
+      "key": "VS_0072",
+      "value": "Feo/a y popular vs Guapo/a y no popular 1"
+    },
+    {
+      "key": "VS_0073",
+      "value": "Muslo de pollo vs Alita de pollo 1"
+    },
+    {
+      "key": "VS_0074",
+      "value": "Pizza vs Hamburguesa 1"
+    },
+    {
+      "key": "VS_0075",
+      "value": "Verano vs Invierno 1"
+    },
+    {
+      "key": "VS_0076",
+      "value": "Cantar genial vs Bailar genial 1"
+    },
+    {
+      "key": "VS_0077",
+      "value": "Volverse muy peludo/a vs Quedarse calvo/a 1"
+    },
+    {
+      "key": "VS_0078",
+      "value": "Ver 5 segundos el futuro vs Ver 5 segundos el pasado 1"
+    },
+    {
+      "key": "VS_0079",
+      "value": "Vivir como hombre vs Vivir como mujer 1"
+    },
+    {
+      "key": "VS_0080",
+      "value": "Comer solo fruta vs Comer solo verdura 1"
+    },
+    {
+      "key": "VS_0081",
+      "value": "Llamada vs Mensaje (WhatsApp) 1"
+    },
+    {
+      "key": "VS_0082",
+      "value": "Lotería (premio único) vs Lotería (pago vitalicio) 1"
+    },
+    {
+      "key": "VS_0083",
+      "value": "Invisibilidad vs Teletransporte 1"
+    },
+    {
+      "key": "VS_0084",
+      "value": "10º Aniversario vs Cumpleaños de tus padres 1"
+    },
+    {
+      "key": "VS_0085",
+      "value": "Que te dejen (por otro/a) vs Que te hagan \"ghosting\" 1"
+    },
+    {
+      "key": "VS_0086",
+      "value": "Morderse la lengua (fuerte) vs Darse un golpe (fuerte) en el dedo del pie 1"
+    },
+    {
+      "key": "VS_0087",
+      "value": "Dormir sin manta vs Dormir sin almohada 1"
+    },
+    {
+      "key": "VS_0088",
+      "value": "Olor a pies vs Olor a sudor (corporal) 1"
+    },
+    {
+      "key": "VS_0089",
+      "value": "Lamer la planta del pie vs Lamer la axila 1"
+    },
+    {
+      "key": "VS_0090",
+      "value": "Viajar 10 años al pasado vs Viajar 10 años al futuro 1"
+    },
+    {
+      "key": "VS_0091",
+      "value": "Mamá vs Papá 1"
+    },
+    {
+      "key": "VS_0092",
+      "value": "No hablar en 3 días vs No comer en 1 día 1"
+    },
+    {
+      "key": "VS_0093",
+      "value": "Falda vs Pantalón 1"
+    },
+    {
+      "key": "VS_0094",
+      "value": "Tres ojos vs Tres pezones 1"
+    },
+    {
+      "key": "VS_0095",
+      "value": "No engordar nunca vs Recibir 200.000 € 1"
+    },
+    {
+      "key": "VS_0096",
+      "value": "Rico/a (sin amor 10 años) vs Vida normal (con amor) 1"
+    },
+    {
+      "key": "VS_0097",
+      "value": "Pareja atenta pero posesiva vs Pareja \"guay\" pero distante 1"
+    },
+    {
+      "key": "VS_0098",
+      "value": "Llamar 10 veces al día vs Llamar 1 vez cada 15 días 1"
+    },
+    {
+      "key": "VS_0099",
+      "value": "Pareja (perfecta pero calva) vs Pareja (tonta y sin dinero, con pelo) 1"
+    },
+    {
+      "key": "VS_0100",
+      "value": "Pareja: Se calla todo (estrés) vs Se pone pesada y lloriquea (estrés) 1"
+    },
+    {
+      "key": "VS_0101",
+      "value": "Pareja: Solo empollón/a vs Solo deportista 1"
+    },
+    {
+      "key": "VS_0102",
+      "value": "Casarse tras poco tiempo vs Casarse tras mucho tiempo 1"
+    },
+    {
+      "key": "VS_0103",
+      "value": "Fuego en la sauna, calzoncillos por 750 €: Comprar vs No comprar 1"
+    },
+    {
+      "key": "VS_0104",
+      "value": "Lo primero que miras: Cara vs Cuerpo 1"
+    },
+    {
+      "key": "VS_0105",
+      "value": "Cena de hoy: Guiso de mango vs Arroz con fresas 1"
+    },
+    {
+      "key": "VS_0106",
+      "value": "Pareja (investiga todo tu pasado) vs Pareja (cero curiosidad) 1"
+    },
+    {
+      "key": "VS_0107",
+      "value": "Pareja (10 en 1 año) vs Pareja (1 en 10 años) 1"
+    },
+    {
+      "key": "VS_0108",
+      "value": "Pareja (amigo/a de su ex) vs Pareja (no borra el nº de su ex) 1"
+    },
+    {
+      "key": "VS_0109",
+      "value": "Pareja (\"Borra contactos\") vs Pareja (\"No me importa\") 1"
+    },
+    {
+      "key": "VS_0110",
+      "value": "Pareja (fría con tus amigos) vs Pareja (quiere ver a sus amigos a diario) 1"
+    },
+    {
+      "key": "VS_0111",
+      "value": "Pareja (borracha, pide que la recojas) vs Pareja (borracha, desaparece) 1"
+    },
+    {
+      "key": "VS_0112",
+      "value": "Tu amigo/a liga con tu pareja vs Tu pareja liga con tu amigo/a 1"
+    },
+    {
+      "key": "VS_0113",
+      "value": "Pareja (infiel, secreto eterno) vs Pareja (infiel, confiesa) 1"
+    },
+    {
+      "key": "VS_0114",
+      "value": "Turista (al lado de tu ídolo) vs Primera Clase (al lado de ruidoso) 1"
+    },
+    {
+      "key": "VS_0115",
+      "value": "Conocerse \"por casualidad\" vs Cita a ciegas 1"
+    },
+    {
+      "key": "VS_0116",
+      "value": "Curiosidad por el pasado de pareja vs Sin curiosidad 1"
+    },
+    {
+      "key": "VS_0117",
+      "value": "Comer sobras de un extraño vs Comer algo del suelo 1"
+    },
+    {
+      "key": "VS_0118",
+      "value": "Ganas de mear (correr 20 min) vs Ganas de cagar (esperar 20 min) 1"
+    },
+    {
+      "key": "VS_0119",
+      "value": "Todo el vello corporal (1m) vs Todas las uñas (1m) 1"
+    },
+    {
+      "key": "VS_0120",
+      "value": "Ver solo series vs Ver solo películas 1"
+    },
+    {
+      "key": "VS_0121",
+      "value": "Trabajo: Duro físicamente (mente relax) vs Duro mentalmente (cuerpo relax) 1"
+    },
+    {
+      "key": "VS_0122",
+      "value": "Pareja \"tipo gato\" (independiente) vs Pareja \"tipo perro\" (cariñosa) 1"
+    },
+    {
+      "key": "VS_0123",
+      "value": "Un mundo sin café vs Un mundo sin refrescos 1"
+    },
+    {
+      "key": "VS_0124",
+      "value": "Tutear (al conocerse) vs Hablar de \"Usted\" 1"
+    },
+    {
+      "key": "VS_0125",
+      "value": "Tutearse (en la relación) vs Hablarse de \"Usted\" 1"
+    },
+    {
+      "key": "VS_0126",
+      "value": "Estar a solas vs Estar con tu pareja 1"
+    },
+    {
+      "key": "VS_0127",
+      "value": "Pareja \"fantasma\" (presume) vs Pareja súper tacaña 1"
+    },
+    {
+      "key": "VS_0128",
+      "value": "Confesión (grupo WhatsApp) vs Confesión pública (en la calle) 1"
+    },
+    {
+      "key": "VS_0129",
+      "value": "Pareja (intenso/dramático \"emo\") vs Pareja (infantil, 5 años) 1"
+    },
+    {
+      "key": "VS_0130",
+      "value": "Morir yo primero vs Que mi pareja muera primero 1"
+    },
+    {
+      "key": "VS_0131",
+      "value": "Vivir sin pareja (siempre) vs Vivir sin amigos (siempre) 1"
+    },
+    {
+      "key": "VS_0132",
+      "value": "150.000 € vs Tu pareja 1"
+    },
+    {
+      "key": "VS_0133",
+      "value": "Tu pareja se hace famosa vs Tú te haces famoso/a 1"
+    },
+    {
+      "key": "VS_0134",
+      "value": "Pareja (siempre en tu casa) vs Tú (siempre en casa de pareja) 1"
+    },
+    {
+      "key": "VS_0135",
+      "value": "Pareja (se hace Influencer) vs Tú (te haces Influencer) 1"
+    },
+    {
+      "key": "VS_0136",
+      "value": "Pareja (se hace YouTuber) vs Tú (te haces YouTuber) 1"
+    },
+    {
+      "key": "VS_0137",
+      "value": "1 mejor amigo/a (10 años) vs 10 amigos/as (universidad) 1"
+    },
+    {
+      "key": "VS_0138",
+      "value": "Pareja alcohólica vs Pareja fumadora compulsiva 1"
+    },
+    {
+      "key": "VS_0139",
+      "value": "Tu mejor amigo/a liga con tu pareja vs Tu pareja liga con tu mejor amigo/a 1"
+    },
+    {
+      "key": "VS_0140",
+      "value": "Salir con el/la hermano/a de tu mejor amigo/a vs Que tu hermano/a salga con tu mejor amigo/a 1"
+    },
+    {
+      "key": "VS_0141",
+      "value": "750.000 € (vivir 2 años con alguien que odias) vs Tu vida normal 1"
+    },
+    {
+      "key": "VS_0142",
+      "value": "Pareja: Cara (tu tipo) pero cuerpo (no) vs Cuerpo (tu tipo) pero cara (no) 1"
+    },
+    {
+      "key": "VS_0143",
+      "value": "Cita fuera (frío, poca ropa) vs Cita dentro (calor, sin aire acond.) 1"
+    },
+    {
+      "key": "VS_0144",
+      "value": "350.000 € (cambiar a un nombre raro) vs Pagar 3.500 € (quedarte tu nombre) 1"
+    },
+    {
+      "key": "VS_0145",
+      "value": "Quedarte con tu cara vs 750.000 € (cara aleatoria) 1"
+    },
+    {
+      "key": "VS_0146",
+      "value": "Tu pareja besa a su \"crush\" famoso (peli, gana 40.000 €) vs Se lo prohíbes 1"
+    },
+    {
+      "key": "VS_0147",
+      "value": "Buscar a tu ex en redes sociales vs Buscar a 100 influencers \"hot\" 1"
+    },
+    {
+      "key": "VS_0148",
+      "value": "Pareja (le estafan 8.000 € comprando tu regalo) vs Pareja (pide 8.000 € para su regalo) 1"
+    },
+    {
+      "key": "VS_0149",
+      "value": "Un grano gigante en la frente (día de la boda) vs Diarrea (todo el día de la boda) 1"
+    },
+    {
+      "key": "VS_0150",
+      "value": "Pareja (infiel, secreto eterno) vs Pareja (infiel, confiesa y pide perdón) 1"
+    },
+    {
+      "key": "VS_0151",
+      "value": "Pareja que llora todo el día vs Pareja que está de mal humor todo el día 1"
+    },
+    {
+      "key": "VS_0152",
+      "value": "Pareja rica y popular (2k+ seguidores) vs Pareja \"antisocial\" (sin redes, te espera en casa) 1"
+    },
+    {
+      "key": "VS_0153",
+      "value": "Pareja \"cabeza hueca\" (tonto/a) vs Pareja \"cabeza pelada\" (calvo/a) 1"
+    },
+    {
+      "key": "VS_0154",
+      "value": "Pareja muy peluda vs Pareja (depilada) que suda a mares 1"
+    },
+    {
+      "key": "VS_0155",
+      "value": "Un mundo sin pan vs Un mundo sin pasta 1"
+    },
+    {
+      "key": "VS_0156",
+      "value": "3 días sin lavarse el pelo vs 3 días sin lavarse los dientes 1"
+    },
+    {
+      "key": "VS_0157",
+      "value": "Viajar 1000 años al pasado vs Viajar 1000 años al futuro 1"
+    },
+    {
+      "key": "VS_0158",
+      "value": "Pareja con olor a pies vs Pareja con aliento que huele a pies 1"
+    },
+    {
+      "key": "VS_0159",
+      "value": "Pareja que llega 2 horas antes vs Pareja que llega 2 horas tarde 1"
+    },
+    {
+      "key": "VS_0160",
+      "value": "Pareja (infiel con mejor amigo) vs Pareja (infiel con peor enemigo) 1"
+    },
+    {
+      "key": "VS_0161",
+      "value": "Pareja (infiel, secreto eterno) vs Pareja (infiel, confiesa) 1"
+    },
+    {
+      "key": "VS_0162",
+      "value": "Pareja (vello largo axilas) vs Pareja (vello largo nariz) 1"
+    },
+    {
+      "key": "VS_0163",
+      "value": "Pareja (espía): Denunciar (y ganar 350.000 €) vs No denunciar 1"
+    },
+    {
+      "key": "VS_0164",
+      "value": "Salir con el padre/madre de un amigo vs Salir con el amigo/a de tus padres 1"
+    },
+    {
+      "key": "VS_0165",
+      "value": "Pareja (ansiosa, 1 min sin contacto) vs Pareja (cero interferencia) 1"
+    },
+    {
+      "key": "VS_0166",
+      "value": "Pareja (eventos sorpresa) vs Pareja (expresa amor a diario) 1"
+    },
+    {
+      "key": "VS_0167",
+      "value": "Casarse con civil (con 7,5 M €) vs Casarse con \"crush\" famoso (con 7,5 M € de deuda) 1"
+    },
+    {
+      "key": "VS_0168",
+      "value": "Pareja: \"Cara de perrito\" (tierno/a) vs \"Cara de gato/a\" (chic) 1"
+    },
+    {
+      "key": "VS_0169",
+      "value": "Pareja (regala tu regalo) vs Pareja (vende tu regalo en Wallapop) 1"
+    },
+    {
+      "key": "VS_0170",
+      "value": "Pareja (ropa ajustada) vs Pareja (ropa súper ancha) 1"
+    },
+    {
+      "key": "VS_0171",
+      "value": "Pareja (discute por todo al enfadarse) vs Pareja (te aplica la \"ley del hielo\") 1"
+    },
+    {
+      "key": "VS_0172",
+      "value": "Pareja: \"Comamos algo rico (1h+)\" vs Pareja: \"Hagamos ejercicio (1h+)\" 1"
+    },
+    {
+      "key": "VS_0173",
+      "value": "Pareja: \"Tipo Oso\" (adorable) vs \"Tipo Ciervo\" (elegante) 1"
+    },
+    {
+      "key": "VS_0174",
+      "value": "Pareja (nunca habla de sus ex) vs Pareja (da demasiados detalles de sus ex) 1"
+    },
+    {
+      "key": "VS_0175",
+      "value": "Cuidar tu ropa interior (en citas) vs No te importa 2"
+    },
+    {
+      "key": "VS_0176",
+      "value": "Hablar durante el sexo: Corta el rollo vs No lo corta 2"
+    },
+    {
+      "key": "VS_0177",
+      "value": "Ser la \"cuchara grande\" vs Ser la \"cuchara pequeña\" 2"
+    },
+    {
+      "key": "VS_0178",
+      "value": "Virginidad (hasta matrimonio) vs Vivir juntos (antes de matrimonio) 2"
+    },
+    {
+      "key": "VS_0179",
+      "value": "Si tu pareja es estéril: Casarse vs No casarse 2"
+    },
+    {
+      "key": "VS_0180",
+      "value": "Petición de matrimonio: A lo grande vs Algo sencillo 2"
+    },
+    {
+      "key": "VS_0181",
+      "value": "Pareja llega a 100 kg: \"Adelgaza\" vs \"No me importa\" 2"
+    },
+    {
+      "key": "VS_0182",
+      "value": "Iniciar el beso vs Recibir el beso 2"
+    },
+    {
+      "key": "VS_0183",
+      "value": "Beso profundo (mejor amigo/a) vs Besar su punto más sensible 2"
+    },
+    {
+      "key": "VS_0184",
+      "value": "Pareja (pasa la noche con amigo/a) vs Pareja (bebe con su ex) 2"
+    },
+    {
+      "key": "VS_0185",
+      "value": "Parte superior (cuerpo) perfecta vs Parte inferior (cuerpo) perfecta 2"
+    },
+    {
+      "key": "VS_0186",
+      "value": "Poco pecho vs Mucho pecho 2"
+    },
+    {
+      "key": "VS_0187",
+      "value": "Cirugía plástica vs Natural 2"
+    },
+    {
+      "key": "VS_0188",
+      "value": "Tu pareja besa a tu mejor amigo/a vs Tú besas a tu mejor amigo/a 2"
+    },
+    {
+      "key": "VS_0189",
+      "value": "Pareja alcohólica vs Pareja fumadora compulsiva 2"
+    },
+    {
+      "key": "VS_0190",
+      "value": "Infidelidad de pareja: Un error físico vs Una aventura emocional 2"
+    },
+    {
+      "key": "VS_0191",
+      "value": "Pareja (levanta los brazos \"¡Viva!\") vs Pareja (grita \"¡Viva!\") 2"
+    },
+    {
+      "key": "VS_0192",
+      "value": "Dar un beso a un amigo/a (delante pareja) vs Besar a tu pareja (delante madre) 2"
+    },
+    {
+      "key": "VS_0193",
+      "value": "1 año de amor platónico (sin contacto) vs 1 año solo contacto físico (sin hablar) 2"
+    },
+    {
+      "key": "VS_0194",
+      "value": "Besar (ojos abiertos) vs Besar (ojos cerrados) 2"
+    },
+    {
+      "key": "VS_0195",
+      "value": "Beso (solo labios) vs Beso profundo (con lengua) 2"
+    },
+    {
+      "key": "VS_0196",
+      "value": "Contacto físico (pareja torpe) vs Contacto físico (pareja experta) 2"
+    },
+    {
+      "key": "VS_0197",
+      "value": "Vivir juntos antes de casarse vs Casarse directamente 2"
+    },
+    {
+      "key": "VS_0198",
+      "value": "Pareja (vello largo nariz) vs Pareja (vello largo axilas) 2"
+    },
+    {
+      "key": "VS_0199",
+      "value": "Solo contacto físico (sin hablar) vs Solo hablar (sin contacto físico) 2"
+    },
+    {
+      "key": "VS_0200",
+      "value": "Pedir permiso para besar vs Besar sin avisar 2"
+    },
+    {
+      "key": "VS_0201",
+      "value": "Ropa muy reveladora vs \"Hot pants\" 2"
+    },
+    {
+      "key": "VS_0202",
+      "value": "Un mes sin cogerse de la mano vs Un mes sin besarse 2"
+    },
+    {
+      "key": "VS_0203",
+      "value": "Expresa tu amor con contacto físico, sin decir \"Te quiero\" 2"
+    },
+    {
+      "key": "VS_0204",
+      "value": "Salir con alguien 10 años mayor vs Salir con alguien casado/a 2"
+    },
+    {
+      "key": "VS_0205",
+      "value": "Tu tipo ideal (pero pobre) vs Feo/a (pero rico/a) 1"
+    },
+    {
+      "key": "VS_0206",
+      "value": "Fuego en la sauna: Cubrir la cara vs Cubrir tus partes íntimas 1"
+    },
+    {
+      "key": "VS_0207",
+      "value": "Pareja (hace 200 fotos en viajes) vs Pareja (odia las fotos) 1"
+    },
+    {
+      "key": "VS_0208",
+      "value": "No usar brazo izq. (de por vida) vs Perder tu \"función\" sexual (de por vida) 2"
+    },
+    {
+      "key": "VS_0209",
+      "value": "Trabajar 1 año (en ropa interior) vs Pesar 130 kg de por vida 2"
+    },
+    {
+      "key": "VS_0210",
+      "value": "Sin contacto físico de por vida vs Ir a la cárcel 2 años 2"
+    },
+    {
+      "key": "VS_0211",
+      "value": "Pillarles \"in fraganti\" vs Enterarte por un amigo/a 2"
+    },
+    {
+      "key": "VS_0212",
+      "value": "No cambiarse de ropa interior (nunca) vs Ducharse (1 vez cada 2 semanas) 2"
+    },
+    {
+      "key": "VS_0213",
+      "value": "Pareja (nunca se lava los dientes) vs Pareja (nunca se ducha, pero sí lava el pelo) 2"
+    },
+    {
+      "key": "VS_0214",
+      "value": "Pareja (beso huele a alcantarilla) vs Pareja (se tira pedos cada minuto) 2"
+    },
+    {
+      "key": "VS_0215",
+      "value": "Pareja (cuenta historias aburridas) vs Pareja (pone cara seria con tus historias) 2"
+    },
+    {
+      "key": "VS_0216",
+      "value": "Pareja (maestro/a del contacto) vs Pareja (torpe, pero te da mariposas) 2"
+    },
+    {
+      "key": "VS_0217",
+      "value": "Pareja (TMI contacto físico con ex) vs Pareja (nunca habla de su ex) 2"
+    },
+    {
+      "key": "VS_0218",
+      "value": "Feo/a (maestro/a del contacto) vs Guapo/a (pero no te deja tocarle) 2"
+    },
+    {
+      "key": "VS_0219",
+      "value": "Pareja (2 abrazos al año) vs Pareja (1 abrazo al día, dura 1 hora) 2"
+    },
+    {
+      "key": "VS_0220",
+      "value": "Pareja (beso huele a tabaco) vs Pareja (beso huele a alcohol) 2"
+    },
+    {
+      "key": "VS_0221",
+      "value": "Besar a tu tipo ideal (en ropa interior) en la discoteca vs Bailar 1h (en ropa interior + máscara) 2"
+    },
+    {
+      "key": "VS_0222",
+      "value": "Beso profundo (delante de sus padres) vs Beso profundo (delante de tus padres) 2"
+    },
+    {
+      "key": "VS_0223",
+      "value": "Beso profundo (delante de mis amigos) vs Beso profundo (delante de sus amigos) 2"
+    },
+    {
+      "key": "VS_0224",
+      "value": "Al besar: Solo labios vs Tocaros el cuerpo 2"
+    },
+    {
+      "key": "VS_0225",
+      "value": "Beso en la planta del pie vs Beso en la axila 2"
+    },
+    {
+      "key": "VS_0226",
+      "value": "Enterarte (pareja te engaña) vs Enterarte (amigo/a besó a tu pareja, \"borrachos\") 2"
+    },
+    {
+      "key": "VS_0227",
+      "value": "Besas (borracho/a) a su amigo/a vs Tu pareja besa (borracha) a tu amigo/a 2"
+    },
+    {
+      "key": "VS_0228",
+      "value": "Persona (besaste en disco) es su mejor amigo/a vs Persona (besó en disco) es tu mejor amigo/a 2"
+    },
+    {
+      "key": "VS_0229",
+      "value": "Pareja (conocida en bar de \"ligue\") vs Pareja (conocida en discoteca) 2"
+    },
+    {
+      "key": "VS_0230",
+      "value": "Besar (masticar comida de sus dientes) vs Besar (estornudarle en la boca) 2"
+    },
+    {
+      "key": "VS_0231",
+      "value": "Ver foto (pareja besando a ex) vs Que te pillen (foto besando a tu ex) 2"
+    },
+    {
+      "key": "VS_0232",
+      "value": "Atar las muñecas vs Un azote suave (Spanking) 3"
+    },
+    {
+      "key": "VS_0233",
+      "value": "Perder tu \"función\" sexual: Romper vs Seguir 3"
+    },
+    {
+      "key": "VS_0234",
+      "value": "Tu mano en su \"zona íntima\" vs Su mano en tu \"zona íntima\" 3"
+    },
+    {
+      "key": "VS_0235",
+      "value": "Amar a dos personas (a la vez) vs Amar (a tu pareja y a otra persona) 3"
+    },
+    {
+      "key": "VS_0236",
+      "value": "Despertar desnudo/a (con amigo/a de pareja) vs Despertar desnudo/a (con mejor amigo/a) 3"
+    },
+    {
+      "key": "VS_0237",
+      "value": "Has fingido al hacer el amor: Sí vs No 3"
+    },
+    {
+      "key": "VS_0238",
+      "value": "\"Acabar\" en la cara vs \"Acabar\" en la boca 3"
+    },
+    {
+      "key": "VS_0239",
+      "value": "Hacer el amor (borracho/a) vs Hacer el amor (sobrio/a) 3"
+    },
+    {
+      "key": "VS_0240",
+      "value": "Genial (pero mala química en la cama) vs Fatal (pero buena química en la cama) 3"
+    },
+    {
+      "key": "VS_0241",
+      "value": "Buena química (cuerpo no te gusta) vs Mala química (cuerpo perfecto) 3"
+    },
+    {
+      "key": "VS_0242",
+      "value": "Has tenido una aventura de una noche vs Nunca 3"
+    },
+    {
+      "key": "VS_0243",
+      "value": "Ropa interior (pareja) en casa de amigo/a vs Ropa interior (amigo/a) en casa de pareja 3"
+    },
+    {
+      "key": "VS_0244",
+      "value": "\"Cordero/a\" (fuera) y \"Lobo/a\" (cama) vs \"Lobo/a\" (fuera) y \"Cordero/a\" (cama) 3"
+    },
+    {
+      "key": "VS_0245",
+      "value": "Ver a otra pareja hacerlo vs Dejar que otra pareja os vea 3"
+    },
+    {
+      "key": "VS_0246",
+      "value": "\"Acabar\" en la boca vs \"Acabar\" dentro 3"
+    },
+    {
+      "key": "VS_0247",
+      "value": "Hacer el amor (3 minutos) vs Hacer el amor (3 horas) 3"
+    },
+    {
+      "key": "VS_0248",
+      "value": "Cuerpo musculoso (pero tamaño pequeño) vs Cuerpo delgado (pero tamaño grande) 3"
+    },
+    {
+      "key": "VS_0249",
+      "value": "Se puede hacer el amor sin amor vs No se puede 3"
+    },
+    {
+      "key": "VS_0250",
+      "value": "Has hecho el amor (por obligación): Sí vs No 3"
+    },
+    {
+      "key": "VS_0251",
+      "value": "Quedarse embarazada: Casarse vs No casarse 3"
+    },
+    {
+      "key": "VS_0252",
+      "value": "Hacer el amor (con luz apagada) vs (con luz encendida) 3"
+    },
+    {
+      "key": "VS_0253",
+      "value": "Llevar la iniciativa (en la cama) vs Dejarse llevar (en la cama) 3"
+    },
+    {
+      "key": "VS_0254",
+      "value": "7,5 M € (sin hacer el amor nunca más) vs Vida normal 3"
+    },
+    {
+      "key": "VS_0255",
+      "value": "(En la cama) Satisfecho/a vs No satisfecho/a 3"
+    },
+    {
+      "key": "VS_0256",
+      "value": "Quiero ir a la discoteca vs No quiero 3"
+    },
+    {
+      "key": "VS_0257",
+      "value": "Hacer el amor (sin lavarse los dientes) vs (sin ducharse 3 días) 3"
+    },
+    {
+      "key": "VS_0258",
+      "value": "Hacer el amor (2 min) con tu \"crush\" famoso vs (30 min) con tu pareja 3"
+    },
+    {
+      "key": "VS_0259",
+      "value": "Ritmo rápido vs Ritmo profundo 3"
+    },
+    {
+      "key": "VS_0260",
+      "value": "Pareja que reacciona en silencio (en la cama) vs Pareja que reacciona con pasión 3"
+    },
+    {
+      "key": "VS_0261",
+      "value": "Azote suave: Preferir recibir vs Preferir dar 3"
+    },
+    {
+      "key": "VS_0262",
+      "value": "Hacer el amor todos los días vs Hacer el amor una vez al mes 3"
+    },
+    {
+      "key": "VS_0263",
+      "value": "Pareja (con gran técnica) vs Pareja (torpe pero inocente) 3"
+    },
+    {
+      "key": "VS_0264",
+      "value": "(En la cama): Preferir liderar vs Preferir que te lideren 3"
+    },
+    {
+      "key": "VS_0265",
+      "value": "Caricias: Con la boca vs Con las manos 3"
+    },
+    {
+      "key": "VS_0266",
+      "value": "Un sitio excitante: Aula vs Ascensor 3"
+    },
+    {
+      "key": "VS_0267",
+      "value": "Oír \"Te quiero\": Antes de hacer el amor vs Después de hacer el amor 3"
+    },
+    {
+      "key": "VS_0268",
+      "value": "1 mejor amigo/a (10 años) vs 10 \"amigos con derechos\" 3"
+    },
+    {
+      "key": "VS_0269",
+      "value": "Pareja (eructa al besar) vs Pareja (se tira pedos al hacer el amor) 3"
+    },
+    {
+      "key": "VS_0270",
+      "value": "Hacer el amor al aire libre: Campo de juncos vs Playa 3"
+    },
+    {
+      "key": "VS_0271",
+      "value": "(En la cama): Resistencia (20s) vs Habilidad (40s) 3"
+    },
+    {
+      "key": "VS_0272",
+      "value": "Hacer el amor y luego salir vs Salir y luego hacer el amor 3"
+    },
+    {
+      "key": "VS_0273",
+      "value": "Infidelidad (sexo opuesto) vs Infidelidad (mismo sexo) 3"
+    },
+    {
+      "key": "VS_0274",
+      "value": "Al hacer el amor: Sonido de cuervo vs Zumbido de mosquito 3"
+    },
+    {
+      "key": "VS_0275",
+      "value": "Pareja (tiene \"otro/a\") vs Tú (eres \"el/la otro/a\") 3"
+    },
+    {
+      "key": "VS_0276",
+      "value": "Pareja (vivió con su ex) vs Pareja (tatuaje de pareja con su ex) 3"
+    },
+    {
+      "key": "VS_0277",
+      "value": "Ropa interior (de otro/a) en casa de pareja vs Ropa interior (de pareja) en casa de otro/a 3"
+    },
+    {
+      "key": "VS_0278",
+      "value": "Hacer el amor en: Motel vs Casa 3"
+    },
+    {
+      "key": "VS_0279",
+      "value": "Preguntar antes de hacer el amor vs Empezar sin hablar 3"
+    },
+    {
+      "key": "VS_0280",
+      "value": "Habilidad (manos) vs Habilidad (lengua) 3"
+    },
+    {
+      "key": "VS_0281",
+      "value": "Hacer el amor (zombi) vs Hacer el amor (fantasma) 3"
+    },
+    {
+      "key": "VS_0282",
+      "value": "1 Millón € (sin hacer el amor nunca más) vs Pagar 10.000 € (seguir igual) 3"
+    },
+    {
+      "key": "VS_0283",
+      "value": "Hacer el amor al aire libre: Parque vs Playa 3"
+    },
+    {
+      "key": "VS_0284",
+      "value": "Toque excitante: En el cine vs En el coche 3"
+    },
+    {
+      "key": "VS_0285",
+      "value": "Guapísimo/a (pero sin \"función\") vs Feísimo/a (pero físico increíble) 3"
+    },
+    {
+      "key": "VS_0286",
+      "value": "Casarse (pareja virgen) vs Casarse (pareja con experiencia) 3"
+    },
+    {
+      "key": "VS_0287",
+      "value": "Mucho vello (axilas) vs Mucho vello (zona íntima) 3"
+    },
+    {
+      "key": "VS_0288",
+      "value": "Pareja (maestro/a haciendo el amor) vs Pareja (torpe, pero te da mariposas) 3"
+    },
+    {
+      "key": "VS_0289",
+      "value": "Pareja (TMI sexo con ex) vs Pareja (nunca habla de su ex) 3"
+    },
+    {
+      "key": "VS_0290",
+      "value": "Hacer el amor: Con ropa interior vs Sin ropa interior 3"
+    },
+    {
+      "key": "VS_0291",
+      "value": "Pareja (sin \"reacción\") vs Pareja (\"acaba\" demasiado rápido) 3"
+    },
+    {
+      "key": "VS_0292",
+      "value": "Sin \"puntos\" (pecho) vs Cuatro \"puntos\" (pecho) 3"
+    },
+    {
+      "key": "VS_0293",
+      "value": "Hacer el amor (delante de sus padres) vs Hacer el amor (delante de tus padres) 3"
+    },
+    {
+      "key": "VS_0294",
+      "value": "(En la cama): Experto/a vs Primera vez 3"
+    },
+    {
+      "key": "VS_0295",
+      "value": "(Caricias): Manos vs Boca 3"
+    },
+    {
+      "key": "VS_0296",
+      "value": "Besos vs Hacer el amor 3"
+    },
+    {
+      "key": "VS_0297",
+      "value": "\"Tamaño\": 25 cm vs 7 cm 3"
+    },
+    {
+      "key": "VS_0298",
+      "value": "Apetito vs Libido 3"
+    },
+    {
+      "key": "VS_0299",
+      "value": "(En la cama): Alguien con experiencia vs Alguien (primera vez) 3"
+    },
+    {
+      "key": "VS_0300",
+      "value": "Conversación \"corporal\" profunda vs Conversación \"de corazón\" 3"
+    },
+    {
+      "key": "VS_0301",
+      "value": "Ver fotos \"íntimas\" (pareja con ex) vs Que tu pareja vea tus fotos \"íntimas\" (con ex) 3"
+    },
+    {
+      "key": "VS_0302",
+      "value": "Mi fantasía secreta: \"Con dos personas\" vs \"Con tres personas\" 4"
+    },
+    {
+      "key": "VS_0303",
+      "value": "Abstinencia (solo) 1 mes vs Abstinencia (en pareja) 1 mes 4"
+    },
+    {
+      "key": "VS_0304",
+      "value": "Aspecto \"recortado\" vs Aspecto \"natural\" 4"
+    },
+    {
+      "key": "VS_0305",
+      "value": "Con la lengua vs Con los dedos 4"
+    },
+    {
+      "key": "VS_0306",
+      "value": "Palabras \"excitantes\" vs Azote suave 4"
+    },
+    {
+      "key": "VS_0307",
+      "value": "Juguete de \"cuero\" vs \"Cera\" caliente 4"
+    },
+    {
+      "key": "VS_0308",
+      "value": "Que te pillen (en solitario) vs Que te pillen (en pareja) 4"
+    },
+    {
+      "key": "VS_0309",
+      "value": "Ver a otra pareja vs Dejar que otra pareja os vea 4"
+    },
+    {
+      "key": "VS_0310",
+      "value": "Hacerlo (con 2 personas) vs Explorar un \"sitio nuevo\" 4"
+    },
+    {
+      "key": "VS_0311",
+      "value": "\"Tamaño\": Longitud vs Grosor 4"
+    },
+    {
+      "key": "VS_0312",
+      "value": "Amor (cara a cara) vs Amor (por detrás) 4"
+    },
+    {
+      "key": "VS_0313",
+      "value": "(Caricias): Manos vs Boca 4"
+    },
+    {
+      "key": "VS_0314",
+      "value": "\"Reacciones\" ruidosas vs \"Reacciones\" contenidas 4"
+    },
+    {
+      "key": "VS_0315",
+      "value": "Dar \"amor\" (con la boca) vs Recibir \"amor\" (con la boca) 4"
+    },
+    {
+      "key": "VS_0316",
+      "value": "Lencería: Corsé vs Liguero 4"
+    },
+    {
+      "key": "VS_0317",
+      "value": "\"Talla XL\" (acaba en 30 seg) vs \"Talla XS\" (dura 30 min) 4"
+    },
+    {
+      "key": "VS_0318",
+      "value": "Vendar los ojos vs Atar las manos 4"
+    },
+    {
+      "key": "VS_0319",
+      "value": "30 min de \"preliminares\" vs 30 min de \"acto principal\" 4"
+    },
+    {
+      "key": "VS_0320",
+      "value": "Hacer el amor (borracho/a) vs Hacer el amor (sobrio/a) 4"
+    },
+    {
+      "key": "VS_0321",
+      "value": "(En la cama): Dar órdenes vs Obedecer 4"
+    },
+    {
+      "key": "VS_0322",
+      "value": "Desnudar (suavemente) vs Desnudar (brutalmente, \"rasgando\") 4"
+    },
+    {
+      "key": "VS_0323",
+      "value": "Recibir \"servicio completo\" (de tu ideal) vs Dar \"servicio completo\" 4"
+    },
+    {
+      "key": "VS_0324",
+      "value": "Agarrar las caderas vs Agarrar el pelo 4"
+    },
+    {
+      "key": "VS_0325",
+      "value": "Seducir (sin nada) vs Seducir (con disfraz) 4"
+    },
+    {
+      "key": "VS_0326",
+      "value": "Una \"posición\" (mucho tiempo) vs Muchas \"posiciones\" (cambiando) 4"
+    },
+    {
+      "key": "VS_0327",
+      "value": "\"Acabar\" en la boca vs \"Acabar\" dentro 4"
+    },
+    {
+      "key": "VS_0328",
+      "value": "\"Amor simultáneo\" (cara a cara) vs \"Amor simultáneo\" (de lado) 4"
+    },
+    {
+      "key": "VS_0329",
+      "value": "Hacer el amor (piernas abiertas) vs Hacer el amor (piernas juntas) 4"
+    },
+    {
+      "key": "VS_0330",
+      "value": "(Al hacer el amor): Contacto visual vs Ojos cerrados 4"
+    },
+    {
+      "key": "VS_0331",
+      "value": "Ritmo: Arriba/Abajo vs Delante/Detrás 4"
+    },
+    {
+      "key": "VS_0332",
+      "value": "Llamada \"caliente\": Solo voz vs Vídeo (sin sonido) 4"
+    },
+    {
+      "key": "VS_0333",
+      "value": "(Tumbado/a): \"con la boca\" vs (De pie): \"con la boca\" 4"
+    },
+    {
+      "key": "VS_0334",
+      "value": "\"Por detrás\" (a cuatro patas) vs \"Por detrás\" (de pie) 4"
+    },
+    {
+      "key": "VS_0335",
+      "value": "\"Por detrás\" (piernas abiertas) vs \"Por detrás\" (piernas juntas) 4"
+    },
+    {
+      "key": "VS_0336",
+      "value": "Hacer el amor: Rudo (tuteando) vs Suave (hablando de \"usted\") 4"
+    },
+    {
+      "key": "VS_0337",
+      "value": "Falda (solo subida) vs Pantalones (solo bajados) 4"
+    },
+    {
+      "key": "VS_0338",
+      "value": "Un sitio excitante: Aula vs Ascensor 4"
+    },
+    {
+      "key": "VS_0339",
+      "value": "Hacer el amor (puerta abierta) vs Hacer el amor (en una azotea) 4"
+    },
+    {
+      "key": "VS_0340",
+      "value": "Pareja \"física\": Coreano/a vs Extranjero/a 4"
+    },
+    {
+      "key": "VS_0341",
+      "value": "\"Atributo físico\": Negro vs Blanco 4"
+    },
+    {
+      "key": "VS_0342",
+      "value": "\"Juguetes\" para adultos: Usarlos vs No usarlos 4"
+    },
+    {
+      "key": "VS_0343",
+      "value": "\"Prepararse\" (lubricar) rápido vs \"Prepararse\" (lubricar) lento 4"
+    },
+    {
+      "key": "VS_0344",
+      "value": "Hacer el amor (hablando) vs Hacer el amor (solo cuerpos, sin hablar) 4"
+    },
+    {
+      "key": "VS_0345",
+      "value": "El \"final\": Tragar vs Escupir 4"
+    },
+    {
+      "key": "VS_0346",
+      "value": "Aventura de una noche: Desconocido/a vs Conocido/a 4"
+    },
+    {
+      "key": "VS_0347",
+      "value": "(Haciendo el amor): Pelo suelto vs Pelo recogido 4"
+    },
+    {
+      "key": "VS_0348",
+      "value": "Hacer el amor (tímido y dulce) vs Hacer el amor (apasionado e intenso) 4"
+    },
+    {
+      "key": "VS_0349",
+      "value": "\"Acaba\" rápido vs \"Acaba\" muy lento 4"
+    },
+    {
+      "key": "VS_0350",
+      "value": "Atar las muñecas: (El que ata) vs (El que es atado) 4"
+    },
+    {
+      "key": "VS_0351",
+      "value": "Amor (con 2 personas) vs Amor (con varias personas) 4"
+    },
+    {
+      "key": "VS_0352",
+      "value": "Dar \"amor\" (con la boca) vs Recibir \"amor\" (con la boca) 4"
+    },
+    {
+      "key": "VS_0353",
+      "value": "Juguete \"vibrador\" vs Juguete \"de inserción\" 4"
+    },
+    {
+      "key": "VS_0354",
+      "value": "Aventura de una noche: Desconocido/a vs Viejo/a amigo/a 4"
+    },
+    {
+      "key": "VS_0355",
+      "value": "\"Preliminares\" vs \"Acto principal\" 4"
+    },
+    {
+      "key": "VS_0356",
+      "value": "Juego de \"Dominación/Sumisión\" vs \"Fetiche\" (específico) 4"
+    },
+    {
+      "key": "VS_0357",
+      "value": "\"Implantes\" (obvios) vs Sujetador \"push-up\" 4"
+    },
+    {
+      "key": "VS_0358",
+      "value": "(Haciendo el amor): Posición (mirando arriba) vs Posición (mirando abajo) 4"
+    },
+    {
+      "key": "VS_0359",
+      "value": "Famoso/a (\"Talla XS\") vs Feo/a (\"Talla XL\") 4"
+    },
+    {
+      "key": "VS_0360",
+      "value": "Salir sin sujetador vs Salir sin bragas 4"
+    },
+    {
+      "key": "VS_0361",
+      "value": "Química \"emocional\" perfecta vs Química \"física\" perfecta 4"
+    },
+    {
+      "key": "VS_0362",
+      "value": "(Haciendo el amor) Oír el nombre de tu ex vs Decir el nombre de tu ex 4"
+    },
+    {
+      "key": "VS_0363",
+      "value": "Atar las muñecas vs Azote suave 4"
+    },
+    {
+      "key": "VS_0364",
+      "value": "(Si tuvieras que hacer el amor): China vs Japón 4"
+    },
+    {
+      "key": "VS_0365",
+      "value": "\"Acabar\" (tú) vs \"Acabar\" (verlo) 4"
+    },
+    {
+      "key": "VS_0366",
+      "value": "Disfraz: Militar vs \"Solo camisa\" 4"
+    },
+    {
+      "key": "VS_0367",
+      "value": "Besar el pie (pareja) 1 seg vs Lamer el pie (extraño, huele mal) 1h 4"
+    },
+    {
+      "key": "VS_0368",
+      "value": "Morder suavemente: \"Punta\" (pecho) vs \"Punto más sensible\" 4"
+    },
+    {
+      "key": "VS_0369",
+      "value": "Perder tu \"función\" vs Perder tu brazo derecho 4"
+    },
+    {
+      "key": "VS_0370",
+      "value": "Dos \"partes íntimas\" vs Tres brazos 4"
+    },
+    {
+      "key": "VS_0371",
+      "value": "Cara de hombre (con \"parte\" de mujer) vs Cara de mujer (con \"parte\" de hombre) 4"
+    },
+    {
+      "key": "VS_0372",
+      "value": "Lamer (nata) vs Lamer (helado) 4"
+    },
+    {
+      "key": "VS_0373",
+      "value": "Caricias (ojos cerrados) vs Caricias (ojos abiertos) 4"
+    },
+    {
+      "key": "VS_0374",
+      "value": "Pareja (silenciosa al hacer el amor) vs Pareja (habladora al hacer el amor) 4"
+    },
+    {
+      "key": "VS_0375",
+      "value": "Pareja (besos/caricias suaves) vs Pareja (que te lame entero/a) 4"
+    },
+    {
+      "key": "VS_0376",
+      "value": "Pareja (reacciones ruidosas) vs Pareja (reacciones silenciosas) 4"
+    },
+    {
+      "key": "VS_0377",
+      "value": "\"Acabar\" dentro vs \"Acabar\" en la boca 4"
+    },
+    {
+      "key": "VS_0378",
+      "value": "Pareja (fiel, pero \"disfuncional\") vs Pareja (infiel, pero \"maestro/a\" en la cama) 4"
+    },
+    {
+      "key": "VS_0379",
+      "value": "Hacer el amor (en el coche) vs Hacer el amor (al aire libre) 4"
+    },
+    {
+      "key": "VS_0380",
+      "value": "Hacer el amor (pensando en ex) vs Hacer el amor (decir nombre de ex) 4"
+    },
+    {
+      "key": "VS_0381",
+      "value": "Restregarse (en el pecho) vs Restregarse (en la \"parte íntima\") 4"
+    },
+    {
+      "key": "VS_0382",
+      "value": "(En la cama): Solo tú te satisfaces vs Solo tu pareja se satisface 4"
+    },
+    {
+      "key": "VS_0383",
+      "value": "Pareja (mal aliento) vs Pareja (mal olor \"íntimo\") 4"
+    },
+    {
+      "key": "VS_0384",
+      "value": "\"Acabar\" (dentro) vs \"Acabar\" (detrás) 4"
+    },
+    {
+      "key": "VS_0385",
+      "value": "Beso (boca huele a Cabrales) vs Beso profundo (en axila) 2"
+    },
+    {
+      "key": "VS_0386",
+      "value": "Besar una cucaracha vs Besar un (excremento de animal) 2"
+    },
+    {
+      "key": "VS_0387",
+      "value": "\"Probar\" el sudor (axila) vs Que tu pareja huela el tuyo (después de ejercicio) 2"
+    },
+    {
+      "key": "VS_0388",
+      "value": "Insultar gravemente (a sus padres) vs Beso profundo (delante de tus padres) 2"
+    },
+    {
+      "key": "VS_0389",
+      "value": "Perder tu \"función\" sexual (de por vida) vs No usar brazo izq. (de por vida) 2"
+    },
+    {
+      "key": "VS_0390",
+      "value": "Trabajar 1 año (en ropa interior) vs Pesar 130 kg de por vida 2"
+    },
+    {
+      "key": "VS_0391",
+      "value": "Sin contacto físico de por vida vs Ir a la cárcel 2 años 2"
+    },
+    {
+      "key": "VS_0392",
+      "value": "Pillarles \"in fraganti\" vs Enterarte por un amigo/a 2"
+    },
+    {
+      "key": "VS_0393",
+      "value": "No cambiarse de ropa interior (nunca) vs Ducharse (1 vez cada 2 semanas) 2"
+    },
+    {
+      "key": "VS_0394",
+      "value": "Pareja (nunca se lava los dientes) vs Pareja (nunca se ducha, pero sí lava el pelo) 2"
+    },
+    {
+      "key": "VS_0395",
+      "value": "Pareja (beso huele a alcantarilla) vs Pareja (se tira pedos \"fétidos\" cada minuto) 2"
+    },
+    {
+      "key": "VS_0396",
+      "value": "Pareja (cuenta historias aburridas) vs Pareja (pone cara seria con tus historias) 2"
+    },
+    {
+      "key": "VS_0397",
+      "value": "Pareja (maestro/a del contacto) vs Pareja (torpe, pero te da mariposas) 2"
+    },
+    {
+      "key": "VS_0398",
+      "value": "Pareja (TMI contacto físico con ex) vs Pareja (nunca habla de su ex) 2"
+    },
+    {
+      "key": "VS_0399",
+      "value": "Feo/a (maestro/a del contacto) vs Guapo/a (pero no te deja tocarle) 2"
+    },
+    {
+      "key": "VS_0400",
+      "value": "Pareja (2 abrazos al año) vs Pareja (1 abrazo al día, dura 1 hora) 2"
+    },
+    {
+      "key": "VS_0401",
+      "value": "Besar 1 vez al año vs Besar (2 horas seguidas) al día 2"
+    },
+    {
+      "key": "VS_0402",
+      "value": "Pareja (beso huele a tabaco) vs Pareja (beso huele a alcohol) 2"
+    },
+    {
+      "key": "VS_0403",
+      "value": "Besar a un/a famoso/a guapísimo/a (en ropa interior) vs Bailar 1h (sin nada de ropa + máscara) 2"
+    },
+    {
+      "key": "VS_0404",
+      "value": "Beso profundo (delante de sus padres) vs Beso profundo (delante de tus padres) 2"
+    },
+    {
+      "key": "VS_0405",
+      "value": "Hacer el amor (delante de sus padres) vs Hacer el amor (delante de tus padres) 3"
+    },
+    {
+      "key": "VS_0406",
+      "value": "Beso profundo (delante de mis amigos) vs Beso profundo (delante de sus amigos) 2"
+    },
+    {
+      "key": "VS_0407",
+      "value": "Al besar: Solo labios vs Tocaros el cuerpo 2"
+    },
+    {
+      "key": "VS_0408",
+      "value": "Beso en la planta del pie vs Beso en la axila 2"
+    },
+    {
+      "key": "VS_0409",
+      "value": "Enterarte (pareja te engaña) vs Enterarte (amigo/a besó a tu pareja, \"borrachos\") 2"
+    },
+    {
+      "key": "VS_0410",
+      "value": "Besas (borracho/a) a su amigo/a vs Tu pareja besa (borracha) a tu amigo/a 2"
+    },
+    {
+      "key": "VS_0411",
+      "value": "Persona (besaste en disco) es su mejor amigo/a vs Persona (besó en disco) es tu mejor amigo/a 2"
+    },
+    {
+      "key": "VS_0412",
+      "value": "Pareja (conocida en bar de \"ligue\") vs Pareja (conocida en discoteca) 2"
+    },
+    {
+      "key": "VS_0413",
+      "value": "Besar (masticar sarro de sus dientes) vs Besar (estornudar flema en su boca) 2"
+    },
+    {
+      "key": "VS_0414",
+      "value": "Ver foto (pareja besando a ex) vs Que te pillen (foto besando a tu ex) 2"
+    },
+    {
+      "key": "VS_0415",
+      "value": "Ver fotos \"íntimas\" (pareja con ex) vs Que tu pareja vea tus fotos \"íntimas\" (con ex) 3"
     },
     {
       "key": "RANDOM_0001",
