@@ -117,6 +117,10 @@
       "value": "Leave a Review"
     },
     {
+      "key": "timer_start",
+      "value": "Start Timer"
+    },
+    {
       "key": "LOVE_0001",
       "value": "What meal do you want to eat with your partner the most right now?"
     },
