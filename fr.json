@@ -4090,51 +4090,51 @@
     },
     {
       "key": "RANDOM_0001",
-      "value": "앞으로 1칸 가기"
+      "value": "Avancez de 1 case"
     },
     {
       "key": "RANDOM_0002",
-      "value": "앞으로 2칸 가기"
+      "value": "Avancez de 2 cases"
     },
     {
       "key": "RANDOM_0003",
-      "value": "앞으로 3칸 가기"
+      "value": "Avancez de 3 cases"
     },
     {
       "key": "RANDOM_0004",
-      "value": "뒤로 1칸 가기"
+      "value": "Reculez de 1 case"
     },
     {
       "key": "RANDOM_0005",
-      "value": "뒤로 2칸 가기"
+      "value": "Reculez de 2 cases"
     },
     {
       "key": "RANDOM_0006",
-      "value": "뒤로 3칸 가기"
+      "value": "Reculez de 3 cases"
     },
     {
       "key": "RANDOM_0007",
-      "value": "다른 수위 Sexy Question"
+      "value": "Question Sexy (Autre Niveau)"
     },
     {
       "key": "RANDOM_0008",
-      "value": "다른 수위 Action"
+      "value": "Action (Autre Niveau)"
     },
     {
       "key": "RANDOM_0009",
-      "value": "하트 회복"
+      "value": "Récupérez 1 Cœur"
     },
     {
       "key": "RANDOM_0010",
-      "value": "워프빔 가기"
+      "value": "Allez au Téléporteur"
     },
     {
       "key": "RANDOM_0011",
-      "value": "액션지옥 가기"
+      "value": "Allez en Enfer des Actions"
     },
     {
       "key": "RANDOM_0012",
-      "value": "무인도 가기"
+      "value": "Allez sur l'Île Déserte"
     },
     {
       "key": "pop_island_on",
