@@ -117,6 +117,10 @@
       "value": "Bewertung schreiben"
     },
     {
+      "key": "timer_start",
+      "value": "Timer starten"
+    },
+    {
       "key": "LOVE_0001",
       "value": "Welches Gericht möchtest du jetzt am liebsten mit deinem Partner essen?"
     },
