@@ -117,6 +117,10 @@
       "value": "撰寫評論"
     },
     {
+      "key": "timer_start",
+      "value": "開始計時"
+    },
+    {
       "key": "LOVE_0001",
       "value": "現在最想和伴侶一起吃的料理是什麼？"
     },
@@ -2666,67 +2670,67 @@
     },
     {
       "key": "ACTION_0001",
-      "value": "行動地獄1"
+      "value": "行動地獄[30]1"
     },
     {
       "key": "ACTION_0002",
-      "value": "行動地獄2"
+      "value": "行動地獄[30]2"
     },
     {
       "key": "ACTION_0003",
-      "value": "行動地獄3"
+      "value": "行動地獄[30]3"
     },
     {
       "key": "ACTION_0004",
-      "value": "行動地獄4"
+      "value": "行動地獄[30]4"
     },
     {
       "key": "ACTION_0005",
-      "value": "行動地獄1"
+      "value": "行動地獄[30]1"
     },
     {
       "key": "ACTION_0006",
-      "value": "行動地獄2"
+      "value": "行動地獄[30]2"
     },
     {
       "key": "ACTION_0007",
-      "value": "行動地獄3"
+      "value": "行動地獄[30]3"
     },
     {
       "key": "ACTION_0008",
-      "value": "行動地獄4"
+      "value": "行動地獄[30]4"
     },
     {
       "key": "ACTION_0009",
-      "value": "行動地獄1"
+      "value": "行動地獄[30]1"
     },
     {
       "key": "ACTION_0010",
-      "value": "行動地獄2"
+      "value": "行動地獄[30]2"
     },
     {
       "key": "ACTION_0011",
-      "value": "行動地獄3"
+      "value": "行動地獄[30]3"
     },
     {
       "key": "ACTION_0012",
-      "value": "行動地獄4"
+      "value": "行動地獄[30]4"
     },
     {
       "key": "ACTION_0013",
-      "value": "行動地獄1"
+      "value": "行動地獄[30]1"
     },
     {
       "key": "ACTION_0014",
-      "value": "行動地獄2"
+      "value": "行動地獄[30]2"
     },
     {
       "key": "ACTION_0015",
-      "value": "行動地獄3"
+      "value": "行動地獄[30]3"
     },
     {
       "key": "ACTION_0016",
-      "value": "行動地獄4"
+      "value": "行動地獄[30]4"
     },
     {
       "key": "DRINK_0001",
