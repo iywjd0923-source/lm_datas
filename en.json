@@ -4090,51 +4090,51 @@
     },
     {
       "key": "RANDOM_0001",
-      "value": "앞으로 1칸 가기"
+      "value": "Move Forward 1 Space"
     },
     {
       "key": "RANDOM_0002",
-      "value": "앞으로 2칸 가기"
+      "value": "Move Forward 2 Spaces"
     },
     {
       "key": "RANDOM_0003",
-      "value": "앞으로 3칸 가기"
+      "value": "Move Forward 3 Spaces"
     },
     {
       "key": "RANDOM_0004",
-      "value": "뒤로 1칸 가기"
+      "value": "Move Back 1 Space"
     },
     {
       "key": "RANDOM_0005",
-      "value": "뒤로 2칸 가기"
+      "value": "Move Back 2 Spaces"
     },
     {
       "key": "RANDOM_0006",
-      "value": "뒤로 3칸 가기"
+      "value": "Move Back 3 Spaces"
     },
     {
       "key": "RANDOM_0007",
-      "value": "다른 수위 Sexy Question"
+      "value": "Other Level Sexy Question"
     },
     {
       "key": "RANDOM_0008",
-      "value": "다른 수위 Action"
+      "value": "Other Level Action"
     },
     {
       "key": "RANDOM_0009",
-      "value": "하트 회복"
+      "value": "Restore 1 Heart"
     },
     {
       "key": "RANDOM_0010",
-      "value": "워프빔 가기"
+      "value": "Go to Warp Beam"
     },
     {
       "key": "RANDOM_0011",
-      "value": "액션지옥 가기"
+      "value": "Go to Action Hell"
     },
     {
       "key": "RANDOM_0012",
-      "value": "무인도 가기"
+      "value": "Go to Deserted Island"
     },
     {
       "key": "pop_island_on",
