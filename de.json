@@ -121,6 +121,10 @@
       "value": "Timer starten"
     },
     {
+      "key": "timer_stop",
+      "value": "Timer stoppen"
+    },
+    {
       "key": "LOVE_0001",
       "value": "Welches Gericht möchtest du jetzt am liebsten mit deinem Partner essen?"
     },
@@ -4091,6 +4095,1602 @@
     {
       "key": "VS_0016",
       "value": "Reich leben bis 30 vs Gesund leben bis 100 1"
+    },
+    {
+      "key": "VS_0017",
+      "value": "Geringes Einkommen (stressfrei) vs Hohes Einkommen (stressig) 1"
+    },
+    {
+      "key": "VS_0018",
+      "value": "In die Vergangenheit reisen vs In die Zukunft reisen 1"
+    },
+    {
+      "key": "VS_0019",
+      "value": "10 € jeden Tag lebenslang vs 100.000 € sofort 1"
+    },
+    {
+      "key": "VS_0020",
+      "value": "Zähne im Anus: Zahnarzt vs Proktologe 1"
+    },
+    {
+      "key": "VS_0021",
+      "value": "Lebenslang: Nur YouTube vs Nur Social Media 1"
+    },
+    {
+      "key": "VS_0022",
+      "value": "Lebenslang auf Mehl (Brot/Nudeln) verzichten vs Auf Fleisch verzichten 1"
+    },
+    {
+      "key": "VS_0023",
+      "value": "Todeszeitpunkt kennen vs Todesursache kennen 1"
+    },
+    {
+      "key": "VS_0024",
+      "value": "Nie wieder Softdrinks vs Nie wieder Döner 1"
+    },
+    {
+      "key": "VS_0025",
+      "value": "Mit dem/der Ex eines Freundes zusammen sein vs Mit dem/der Freund(in) des/der Ex zusammen sein 1"
+    },
+    {
+      "key": "VS_0026",
+      "value": "100% Chance auf 100.000 € vs 10% Chance auf 1.000.000 € 1"
+    },
+    {
+      "key": "VS_0027",
+      "value": "Versehentlich Nacktbild gesendet: Familiengruppe (WhatsApp) vs Dein Schwarm 1"
+    },
+    {
+      "key": "VS_0028",
+      "value": "Partner betrügt (vor Geburstag): Sofort Schluss machen vs Geschenk nehmen, dann Schluss machen 1"
+    },
+    {
+      "key": "VS_0029",
+      "value": "Gesicht vs Figur 1"
+    },
+    {
+      "key": "VS_0030",
+      "value": "Partner ignoriert Nachrichten (postet auf Insta) vs Immer 30 Min. zu spät (ohne Bescheid zu sagen) 1"
+    },
+    {
+      "key": "VS_0031",
+      "value": "Partner (nur Designer-Marken) vs Partner (nur Jogginganzüge) 1"
+    },
+    {
+      "key": "VS_0032",
+      "value": "Müsli mit Orangensaft vs Ketchup auf einem Schnitzel 1"
+    },
+    {
+      "key": "VS_0033",
+      "value": "Partner, der jeden Tag trinkt vs Partner, der sich betrinkt & nicht meldet 1"
+    },
+    {
+      "key": "VS_0034",
+      "value": "Gelesen & nicht antworten vs Nicht mal lesen 1"
+    },
+    {
+      "key": "VS_0035",
+      "value": "Alle 5 Sek. ein Lag vs Alle 10 Min. ein Disconnect 1"
+    },
+    {
+      "key": "VS_0036",
+      "value": "Meister in einer Sache sein vs Alleskönner sein 1"
+    },
+    {
+      "key": "VS_0037",
+      "value": "Urkomischer, hässlicher Partner vs Langweiliger, wunderschöner Partner 1"
+    },
+    {
+      "key": "VS_0038",
+      "value": "Einen Monat Haare nicht waschen vs Einen Monat Zähne nicht putzen 1"
+    },
+    {
+      "key": "VS_0039",
+      "value": "30 Min. gekochte Nudeln (Matsch) vs 30 Sek. gekochte Nudeln (hart) 1"
+    },
+    {
+      "key": "VS_0040",
+      "value": "Zeitmaschine vs Teleportation 1"
+    },
+    {
+      "key": "VS_0041",
+      "value": "Im Lotto gewonnen (Schein geschenkt): Hälfte abgeben vs Geheim halten 1"
+    },
+    {
+      "key": "VS_0042",
+      "value": "Kurztrip in die Zukunft: Lottozahlen holen vs Dein Zukunfts-Ich treffen 1"
+    },
+    {
+      "key": "VS_0043",
+      "value": "Süß & jünger vs Sexy & älter 1"
+    },
+    {
+      "key": "VS_0044",
+      "value": "3 Tage nichts essen vs 3 Tage nicht schlafen 1"
+    },
+    {
+      "key": "VS_0045",
+      "value": "Glatzköpfiger Partner vs Sehr haariger Partner 1"
+    },
+    {
+      "key": "VS_0046",
+      "value": "Tomate (schmeckt n. Kotze) vs Kotze (schmeckt n. Tomate) 1"
+    },
+    {
+      "key": "VS_0047",
+      "value": "50.000 € in 1-Cent-Münzen (kein Tausch) vs 5.000 € in Scheinen 1"
+    },
+    {
+      "key": "VS_0048",
+      "value": "1 Jahr ohne Handy vs 1 Jahr ohne Freunde 1"
+    },
+    {
+      "key": "VS_0049",
+      "value": "Partner (betrunken, abholen) vs Partner (betrunken, nicht erreichbar) 1"
+    },
+    {
+      "key": "VS_0050",
+      "value": "Partner: politisch Links vs politisch Rechts 1"
+    },
+    {
+      "key": "VS_0051",
+      "value": "Unsere Dates sind langweilig geworden vs Nein, sind sie nicht 1"
+    },
+    {
+      "key": "VS_0052",
+      "value": "Partner tötet jemanden (aus Versehen): Anzeigen vs Für immer verstecken 1"
+    },
+    {
+      "key": "VS_0053",
+      "value": "Heiratsantrag: Spektakulär vs Schlicht 1"
+    },
+    {
+      "key": "VS_0054",
+      "value": "Jeden Tag \"Ich liebe dich\" sagen vs Jeden Tag küssen 1"
+    },
+    {
+      "key": "VS_0055",
+      "value": "Partner wiegt 100 kg: \"Nimm ab\" vs \"Ist mir egal\" 1"
+    },
+    {
+      "key": "VS_0056",
+      "value": "Im Lotto gewonnen: Dem Partner sagen vs Nicht sagen 1"
+    },
+    {
+      "key": "VS_0057",
+      "value": "Süßer Partner vs Sexy Partner 1"
+    },
+    {
+      "key": "VS_0058",
+      "value": "Langweilig, aber lieb vs Lustig, aber gemein 1"
+    },
+    {
+      "key": "VS_0059",
+      "value": "Partner (ohne Handy) vs Handy (ohne Partner) 1"
+    },
+    {
+      "key": "VS_0060",
+      "value": "Jetzt heiraten vs In 20 Jahren heiraten 1"
+    },
+    {
+      "key": "VS_0061",
+      "value": "3,5 Mio. € für die Trennung vs Zusammenbleiben (nie wiedersehen) 1"
+    },
+    {
+      "key": "VS_0062",
+      "value": "Im nächsten Leben nochmal heiraten vs Jemand anderen heiraten 1"
+    },
+    {
+      "key": "VS_0063",
+      "value": "100.000 € sofort vs 1.000.000 € in 10 Jahren 1"
+    },
+    {
+      "key": "VS_0064",
+      "value": "Älterer Partner vs Jüngerer Partner 1"
+    },
+    {
+      "key": "VS_0065",
+      "value": "Glück vs Liebe 1"
+    },
+    {
+      "key": "VS_0066",
+      "value": "Joghurtdeckel ablecken vs Wegwerfen 1"
+    },
+    {
+      "key": "VS_0067",
+      "value": "Gratis Getränkeautomat vs Gratis Eistruhe 1"
+    },
+    {
+      "key": "VS_0068",
+      "value": "CEO sein vs YouTuber sein (3 Mio. Abos) 1"
+    },
+    {
+      "key": "VS_0069",
+      "value": "Blind sein vs Keine Hände haben 1"
+    },
+    {
+      "key": "VS_0070",
+      "value": "Meer vs Berge 1"
+    },
+    {
+      "key": "VS_0071",
+      "value": "Von 3 Bienen gestochen werden vs 5 Kakerlaken (bloßen Händen) fangen 1"
+    },
+    {
+      "key": "VS_0072",
+      "value": "Hässlich und beliebt vs Hübsch und unbeliebt 1"
+    },
+    {
+      "key": "VS_0073",
+      "value": "Hähnchenkeule vs Hähnchenflügel 1"
+    },
+    {
+      "key": "VS_0074",
+      "value": "Pizza vs Burger 1"
+    },
+    {
+      "key": "VS_0075",
+      "value": "Sommer vs Winter 1"
+    },
+    {
+      "key": "VS_0076",
+      "value": "Großartiger Sänger sein vs Großartiger Tänzer sein 1"
+    },
+    {
+      "key": "VS_0077",
+      "value": "Überall sehr behaart werden vs Komplette Glatze bekommen 1"
+    },
+    {
+      "key": "VS_0078",
+      "value": "5 Sek. in die Zukunft sehen vs 5 Sek. in die Vergangenheit sehen 1"
+    },
+    {
+      "key": "VS_0079",
+      "value": "Als Mann leben vs Als Frau leben 1"
+    },
+    {
+      "key": "VS_0080",
+      "value": "Nur Obst essen vs Nur Gemüse essen 1"
+    },
+    {
+      "key": "VS_0081",
+      "value": "Anruf vs Textnachricht (Chat) 1"
+    },
+    {
+      "key": "VS_0082",
+      "value": "Lotto-Sofortgewinn (alles) vs Lotto-Rente (lebenslang) 1"
+    },
+    {
+      "key": "VS_0083",
+      "value": "Unsichtbarkeit vs Teleportation 1"
+    },
+    {
+      "key": "VS_0084",
+      "value": "10. Jahrestag vs Elterngeschenk 1"
+    },
+    {
+      "key": "VS_0085",
+      "value": "Für jmd. anderen verlassen werden vs Geghostet werden 1"
+    },
+    {
+      "key": "VS_0086",
+      "value": "Sich (fest) auf die Zunge beißen vs Sich (fest) den Zeh stoßen 1"
+    },
+    {
+      "key": "VS_0087",
+      "value": "Schlafen ohne Decke vs Schlafen ohne Kissen 1"
+    },
+    {
+      "key": "VS_0088",
+      "value": "Fußgeruch vs Schweißgeruch 1"
+    },
+    {
+      "key": "VS_0089",
+      "value": "Fußsohle lecken vs Achsel lecken 1"
+    },
+    {
+      "key": "VS_0090",
+      "value": "10 Jahre in die Vergangenheit vs 10 Jahre in die Zukunft 1"
+    },
+    {
+      "key": "VS_0091",
+      "value": "Mama vs Papa 1"
+    },
+    {
+      "key": "VS_0092",
+      "value": "3 Tage nicht reden vs 1 Tag nichts essen 1"
+    },
+    {
+      "key": "VS_0093",
+      "value": "Rock vs Hose 1"
+    },
+    {
+      "key": "VS_0094",
+      "value": "Drei Augen vs Drei Brustwarzen 1"
+    },
+    {
+      "key": "VS_0095",
+      "value": "Nie zunehmen vs 200.000 € bekommen 1"
+    },
+    {
+      "key": "VS_0096",
+      "value": "Reich (10 J. ohne Liebe) vs Normales Leben (mit Liebe) 1"
+    },
+    {
+      "key": "VS_0097",
+      "value": "Fürsorglicher, aber klammernder Partner vs Cooler, aber distanzierter Partner 1"
+    },
+    {
+      "key": "VS_0098",
+      "value": "10 Mal pro Tag anrufen vs Alle 15 Tage 1 Mal anrufen 1"
+    },
+    {
+      "key": "VS_0099",
+      "value": "Partner (perfekt, aber kahl) vs Partner (dumm & pleite, mit Haaren) 1"
+    },
+    {
+      "key": "VS_0100",
+      "value": "Partner: Spricht nie (Stress) vs Klammert & jammert (Stress) 1"
+    },
+    {
+      "key": "VS_0101",
+      "value": "Partner: Nur schlau vs Nur sportlich 1"
+    },
+    {
+      "key": "VS_0102",
+      "value": "Früh heiraten vs Spät heiraten 1"
+    },
+    {
+      "key": "VS_0103",
+      "value": "Feuer in Sauna, Unterwäsche für 750 €: Kaufen vs Nicht kaufen 1"
+    },
+    {
+      "key": "VS_0104",
+      "value": "Was du zuerst siehst: Gesicht vs Figur 1"
+    },
+    {
+      "key": "VS_0105",
+      "value": "Abendessen: Mango-Eintopf vs Erdbeer-Reis 1"
+    },
+    {
+      "key": "VS_0106",
+      "value": "Partner (gräbt Vergangenheit aus) vs Partner (null Interesse) 1"
+    },
+    {
+      "key": "VS_0107",
+      "value": "Partner (10 P. in 1 J.) vs Partner (1 P. in 10 J.) 1"
+    },
+    {
+      "key": "VS_0108",
+      "value": "Partner (mit Ex befreundet) vs Partner (hat noch Ex-Nummer) 1"
+    },
+    {
+      "key": "VS_0109",
+      "value": "Partner (\"Lösch Kontakte\") vs Partner (\"Mir egal\") 1"
+    },
+    {
+      "key": "VS_0110",
+      "value": "Partner (kalt zu deinen Freunden) vs Partner (will tgl. seine Freunde sehen) 1"
+    },
+    {
+      "key": "VS_0111",
+      "value": "Partner (betrunken, abholen) vs Partner (betrunken, nicht erreichbar) 1"
+    },
+    {
+      "key": "VS_0112",
+      "value": "Freund flirtet mit Partner vs Partner flirtet mit Freund 1"
+    },
+    {
+      "key": "VS_0113",
+      "value": "Partner (betrügt, Geheimnis) vs Partner (betrügt, gesteht) 1"
+    },
+    {
+      "key": "VS_0114",
+      "value": "Economy (neben Idol) vs First Class (neben lauter Person) 1"
+    },
+    {
+      "key": "VS_0115",
+      "value": "Zufällig kennenlernen vs Blind Date / Verkuppelt werden 1"
+    },
+    {
+      "key": "VS_0116",
+      "value": "Neugierig (Partner-Vergangenheit) vs Nicht neugierig 1"
+    },
+    {
+      "key": "VS_0117",
+      "value": "Reste von Fremden essen vs Essen vom Boden essen 1"
+    },
+    {
+      "key": "VS_0118",
+      "value": "Dringend Pipi (20 Min. laufen) vs Dringend Kacka (20 Min. warten) 1"
+    },
+    {
+      "key": "VS_0119",
+      "value": "Alle Körperhaare (1m lang) vs Alle Nägel (1m lang) 1"
+    },
+    {
+      "key": "VS_0120",
+      "value": "Nur Serien schauen vs Nur Filme schauen 1"
+    },
+    {
+      "key": "VS_0121",
+      "value": "Job: Körperlich hart (Psyche okay) vs Körperlich leicht (Psyche kaputt) 1"
+    },
+    {
+      "key": "VS_0122",
+      "value": "\"Katzen\"-Partner (unabhängig) vs \"Hunde\"-Partner (anhänglich) 1"
+    },
+    {
+      "key": "VS_0123",
+      "value": "Welt ohne Kaffee vs Welt ohne Softdrinks 1"
+    },
+    {
+      "key": "VS_0124",
+      "value": "Sofort \"Du\" sagen vs Zuerst \"Sie\" sagen 1"
+    },
+    {
+      "key": "VS_0125",
+      "value": "In der Beziehung \"Du\" sagen vs \"Sie\" sagen 1"
+    },
+    {
+      "key": "VS_0126",
+      "value": "Alleine sein vs Mit Partner sein 1"
+    },
+    {
+      "key": "VS_0127",
+      "value": "Angeber-Partner vs Extrem sparsamer Partner 1"
+    },
+    {
+      "key": "VS_0128",
+      "value": "Geständnis im Gruppenchat vs Öffentliches Geständnis (Straße) 1"
+    },
+    {
+      "key": "VS_0129",
+      "value": "\"Cringe-Teenie\" Partner vs Kindischer (wie 5 J.) Partner 1"
+    },
+    {
+      "key": "VS_0130",
+      "value": "Du stirbst zuerst vs Dein Partner stirbt zuerst 1"
+    },
+    {
+      "key": "VS_0131",
+      "value": "Leben ohne Partner (ewig) vs Leben ohne Freunde (ewig) 1"
+    },
+    {
+      "key": "VS_0132",
+      "value": "150.000 € vs Dein Partner 1"
+    },
+    {
+      "key": "VS_0133",
+      "value": "Dein Partner wird ein Star vs Du wirst ein Star 1"
+    },
+    {
+      "key": "VS_0134",
+      "value": "Partner (täglich bei dir) vs Du (täglich bei Partner) 1"
+    },
+    {
+      "key": "VS_0135",
+      "value": "Partner (Influencer) vs Du (Influencer) 1"
+    },
+    {
+      "key": "VS_0136",
+      "value": "Partner (YouTuber) vs Du (YouTuber) 1"
+    },
+    {
+      "key": "VS_0137",
+      "value": "1 bester Freund (10 J.) vs 10 Uni-Freunde 1"
+    },
+    {
+      "key": "VS_0138",
+      "value": "Alkoholsüchtiger Partner vs Kettenraucher-Partner 1"
+    },
+    {
+      "key": "VS_0139",
+      "value": "Bester Freund flirtet mit Partner vs Partner flirtet mit bestem Freund 1"
+    },
+    {
+      "key": "VS_0140",
+      "value": "Mit Geschwister (bester Freund) daten vs Geschwister datet besten Freund 1"
+    },
+    {
+      "key": "VS_0141",
+      "value": "750.000 € (dafür 2 J. mit Hasser leben) vs Normales Leben 1"
+    },
+    {
+      "key": "VS_0142",
+      "value": "Partner: Gesicht (dein Typ) aber Figur (nicht) vs Figur (dein Typ) aber Gesicht (nicht) 1"
+    },
+    {
+      "key": "VS_0143",
+      "value": "Date draußen (kalt, dünn angezogen) vs Date drinnen (heiß, keine Klima) 1"
+    },
+    {
+      "key": "VS_0144",
+      "value": "350.000 € (für komischen Namen) vs 3.500 € zahlen (Namen behalten) 1"
+    },
+    {
+      "key": "VS_0145",
+      "value": "Dein Gesicht behalten vs 750.000 € (Gesicht wird zufällig) 1"
+    },
+    {
+      "key": "VS_0146",
+      "value": "Partner küsst Schwarm (Filmrolle, 40.000 €) vs Du verbietest es 1"
+    },
+    {
+      "key": "VS_0147",
+      "value": "Deinen Ex auf Social Media suchen vs 100 heiße Influencer suchen 1"
+    },
+    {
+      "key": "VS_0148",
+      "value": "Partner (beim Geschenk-Kauf um 8.000 € betrogen) vs Partner (leiht 8.000 € für sein Geschenk) 1"
+    },
+    {
+      "key": "VS_0149",
+      "value": "Riesiger Pickel auf der Stirn (Hochzeitstag) vs Durchfall (ganzer Hochzeitstag) 1"
+    },
+    {
+      "key": "VS_0150",
+      "value": "Partner (betrügt, Geheimnis) vs Partner (betrügt, gesteht & bittet um Verzeihung) 1"
+    },
+    {
+      "key": "VS_0151",
+      "value": "Partner, der den ganzen Tag weint vs Partner, der den ganzen Tag gereizt ist 1"
+    },
+    {
+      "key": "VS_0152",
+      "value": "Reicher, beliebter Partner (2000+ Follower) vs \"Stubenhocker\"-Partner (kein Social Media, wartet auf dich) 1"
+    },
+    {
+      "key": "VS_0153",
+      "value": "Partner mit \"leerem Kopf\" (dumm) vs Partner mit \"leerem Kopf\" (kahl) 1"
+    },
+    {
+      "key": "VS_0154",
+      "value": "Sehr behaarter Partner vs Perfekt rasiert, aber schwitzt wie ein Wasserfall 1"
+    },
+    {
+      "key": "VS_0155",
+      "value": "Welt ohne Brot vs Welt ohne Nudeln 1"
+    },
+    {
+      "key": "VS_0156",
+      "value": "3 Tage Haare nicht waschen vs 3 Tage Zähne nicht putzen 1"
+    },
+    {
+      "key": "VS_0157",
+      "value": "1000 Jahre in die Vergangenheit vs 1000 Jahre in die Zukunft 1"
+    },
+    {
+      "key": "VS_0158",
+      "value": "Partner mit Stinkefüßen vs Partner mit Mundgeruch (riecht nach Stinkefüßen) 1"
+    },
+    {
+      "key": "VS_0159",
+      "value": "Partner (2 Std. zu früh) vs Partner (2 Std. zu spät) 1"
+    },
+    {
+      "key": "VS_0160",
+      "value": "Partner (betrügt mit bestem Freund) vs Partner (betrügt mit Erzfeind) 1"
+    },
+    {
+      "key": "VS_0161",
+      "value": "Partner (betrügt, Geheimnis) vs Partner (betrügt, gesteht) 1"
+    },
+    {
+      "key": "VS_0162",
+      "value": "Partner (lange Achselhaare) vs Partner (lange Nasenhaare) 1"
+    },
+    {
+      "key": "VS_0163",
+      "value": "Partner (Spion): Anzeigen (350.000 €) vs Nicht anzeigen 1"
+    },
+    {
+      "key": "VS_0164",
+      "value": "Mit Elternteil (Freund) daten vs Mit Freund (Eltern) daten 1"
+    },
+    {
+      "key": "VS_0165",
+      "value": "Partner (ängstlich, 1 Min. kein Kontakt) vs Partner (mischt sich null ein) 1"
+    },
+    {
+      "key": "VS_0166",
+      "value": "Partner (Überraschungen) vs Partner (tägliche Liebesbeweise) 1"
+    },
+    {
+      "key": "VS_0167",
+      "value": "Normalo heiraten (mit 7,5 Mio. €) vs Star heiraten (mit 7,5 Mio. € Schulden) 1"
+    },
+    {
+      "key": "VS_0168",
+      "value": "Partner: \"Hunde-Gesicht\" (süß) vs \"Katzen-Gesicht\" (elegant) 1"
+    },
+    {
+      "key": "VS_0169",
+      "value": "Partner (verschenkt dein Geschenk weiter) vs Partner (verkauft dein Geschenk auf eBay Kleinanzeigen) 1"
+    },
+    {
+      "key": "VS_0170",
+      "value": "Partner (trägt hautenge Kleidung) vs Partner (trägt Schlabber-Look) 1"
+    },
+    {
+      "key": "VS_0171",
+      "value": "Partner (diskutiert alles aus) vs Partner (schweigt dich an) 1"
+    },
+    {
+      "key": "VS_0172",
+      "value": "Partner: \"Lecker essen (1h+)\" vs Partner: \"Sport machen (1h+)\" 1"
+    },
+    {
+      "key": "VS_0173",
+      "value": "Partner: \"Bären-Typ\" (kuschelig) vs \"Reh-Typ\" (elegant) 1"
+    },
+    {
+      "key": "VS_0174",
+      "value": "Partner (spricht nie über Ex) vs Partner (zu viele Details über Ex) 1"
+    },
+    {
+      "key": "VS_0175",
+      "value": "Besondere Unterwäsche (Dates) vs Ist egal 2"
+    },
+    {
+      "key": "VS_0176",
+      "value": "Reden beim Sex: Ruiniert die Stimmung vs Ruiniert sie nicht 2"
+    },
+    {
+      "key": "VS_0177",
+      "value": "Der \"große Löffel\" sein vs Der \"kleine Löffel\" sein 2"
+    },
+    {
+      "key": "VS_0178",
+      "value": "Kein Sex vor der Ehe vs Zusammenleben vor der Ehe 2"
+    },
+    {
+      "key": "VS_0179",
+      "value": "Partner (unfruchtbar): Trotzdem heiraten vs Nicht heiraten 2"
+    },
+    {
+      "key": "VS_0180",
+      "value": "Heiratsantrag: Spektakulär vs Schlicht 2"
+    },
+    {
+      "key": "VS_0181",
+      "value": "Partner wiegt 100 kg: \"Nimm ab\" vs \"Ist mir egal\" 2"
+    },
+    {
+      "key": "VS_0182",
+      "value": "Den Kuss initiieren vs Geküsst werden 2"
+    },
+    {
+      "key": "VS_0183",
+      "value": "Zungenkuss (bester Freund) vs Empfindlichste Stelle (Freund) küssen 2"
+    },
+    {
+      "key": "VS_0184",
+      "value": "Partner (übernachtet bei Freund) vs Partner (trinkt mit Ex) 2"
+    },
+    {
+      "key": "VS_0185",
+      "value": "Perfekter Oberkörper vs Perfekter Unterkörper 2"
+    },
+    {
+      "key": "VS_0186",
+      "value": "Kleiner Busen vs Großer Busen 2"
+    },
+    {
+      "key": "VS_0187",
+      "value": "Schönheits-OP vs Keine Schönheits-OP 2"
+    },
+    {
+      "key": "VS_0188",
+      "value": "Dein Partner küsst besten Freund vs Du küsst besten Freund 2"
+    },
+    {
+      "key": "VS_0189",
+      "value": "Alkoholsüchtiger Partner vs Kettenraucher-Partner 2"
+    },
+    {
+      "key": "VS_0190",
+      "value": "Betrug des Partners: Ein körperlicher Fehler vs Eine emotionale Affäre 2"
+    },
+    {
+      "key": "VS_0191",
+      "value": "Partner (streckt Arme hoch \"Hurra!\") vs Partner (ruft \"Hurra!\") 2"
+    },
+    {
+      "key": "VS_0192",
+      "value": "Freund küssen (vor Partner) vs Partner küssen (vor Mutter) 2"
+    },
+    {
+      "key": "VS_0193",
+      "value": "1 J. platonische Liebe (ohne Körperkontakt) vs 1 J. nur Körperkontakt (ohne Reden) 2"
+    },
+    {
+      "key": "VS_0194",
+      "value": "Mit offenen Augen küssen vs Mit geschlossenen Augen küssen 2"
+    },
+    {
+      "key": "VS_0195",
+      "value": "Kuss (nur Lippen) vs Tiefer Kuss (mit Zunge) 2"
+    },
+    {
+      "key": "VS_0196",
+      "value": "Körperkontakt (unbeholfener Partner) vs Körperkontakt (erfahrener Partner) 2"
+    },
+    {
+      "key": "VS_0197",
+      "value": "Erst zusammenwohnen, dann heiraten vs Direkt heiraten 2"
+    },
+    {
+      "key": "VS_0198",
+      "value": "Partner (lange Nasenhaare) vs Partner (lange Achselhaare) 2"
+    },
+    {
+      "key": "VS_0199",
+      "value": "Nur Körperkontakt (ohne Reden) vs Nur Reden (ohne Körperkontakt) 2"
+    },
+    {
+      "key": "VS_0200",
+      "value": "Um einen Kuss bitten vs Ohne Vorwarnung küssen 2"
+    },
+    {
+      "key": "VS_0201",
+      "value": "Sehr freizügige Kleidung vs Hotpants 2"
+    },
+    {
+      "key": "VS_0202",
+      "value": "1 Monat kein Händchenhalten vs 1 Monat kein Küssen 2"
+    },
+    {
+      "key": "VS_0203",
+      "value": "Drücke deine Liebe durch Körperkontakt aus, ohne \"Ich liebe dich\" zu sagen 2"
+    },
+    {
+      "key": "VS_0204",
+      "value": "Jmd. (10 J. älter) daten vs Jmd. (verheiratet) daten 2"
+    },
+    {
+      "key": "VS_0205",
+      "value": "Dein Idealtyp (aber arm) vs Hässlich (aber reich) 1"
+    },
+    {
+      "key": "VS_0206",
+      "value": "Feuer in Sauna: Gesicht bedecken vs Private Teile bedecken 1"
+    },
+    {
+      "key": "VS_0207",
+      "value": "Partner (macht 200 Fotos im Urlaub) vs Partner (hasst Fotos von sich) 1"
+    },
+    {
+      "key": "VS_0208",
+      "value": "Nie link. Arm benutzen vs Sexuelle \"Funktion\" verlieren 2"
+    },
+    {
+      "key": "VS_0209",
+      "value": "1 Jahr (nur in Unterwäsche) im Laden arbeiten vs Lebenslang 130 kg wiegen 2"
+    },
+    {
+      "key": "VS_0210",
+      "value": "Nie wieder Körperkontakt vs 2 Jahre ins Gefängnis 2"
+    },
+    {
+      "key": "VS_0211",
+      "value": "Beim Betrügen erwischen vs Von einem Freund davon hören 2"
+    },
+    {
+      "key": "VS_0212",
+      "value": "Nie Unterwäsche wechseln vs Nur alle 2 Wochen duschen 2"
+    },
+    {
+      "key": "VS_0213",
+      "value": "Partner (putzt nie Zähne) vs Partner (duscht nie, wäscht Haare) 2"
+    },
+    {
+      "key": "VS_0214",
+      "value": "Partner (Kuss riecht nach Kloake) vs Partner (pupst jede Minute) 2"
+    },
+    {
+      "key": "VS_0215",
+      "value": "Partner (erzählt langweilig) vs Partner (deine Storys: Pokerface) 2"
+    },
+    {
+      "key": "VS_0216",
+      "value": "Partner (Meister im Körperkontakt) vs Partner (unbeholfen, aber Schmetterlinge) 2"
+    },
+    {
+      "key": "VS_0217",
+      "value": "Partner (TMI über Sex mit Ex) vs Partner (spricht nie über Ex) 2"
+    },
+    {
+      "key": "VS_0218",
+      "value": "Hässlich (aber super im Bett) vs Wunderschön (aber kein Anfassen) 2"
+    },
+    {
+      "key": "VS_0219",
+      "value": "Partner (2 Umarmungen/Jahr) vs Partner (1 Umarmung/Tag, dauert 1 Std.) 2"
+    },
+    {
+      "key": "VS_0220",
+      "value": "Partner (Kuss schmeckt nach Aschenbecher) vs Partner (Kuss schmeckt nach Alkohol) 2"
+    },
+    {
+      "key": "VS_0221",
+      "value": "Ideal-Typ (in Unterwäsche) im Club küssen vs 1 Std. im Club tanzen (Unterwäsche + Maske) 2"
+    },
+    {
+      "key": "VS_0222",
+      "value": "Zungenkuss (vor seinen Eltern) vs Zungenkuss (vor deinen Eltern) 2"
+    },
+    {
+      "key": "VS_0223",
+      "value": "Zungenkuss (vor deinen Freunden) vs Zungenkuss (vor seinen Freunden) 2"
+    },
+    {
+      "key": "VS_0224",
+      "value": "Beim Küssen: Nur Lippen vs Sich gegenseitig anfassen 2"
+    },
+    {
+      "key": "VS_0225",
+      "value": "Kuss auf die Fußsohle vs Kuss auf die Achsel 2"
+    },
+    {
+      "key": "VS_0226",
+      "value": "Hören (Partner betrügt) vs Hören (Freund hat Partner geküsst, \"nur betrunken\") 2"
+    },
+    {
+      "key": "VS_0227",
+      "value": "Du küsst (betrunken) seinen Freund vs Er küsst (betrunken) deinen Freund 2"
+    },
+    {
+      "key": "VS_0228",
+      "value": "Geküsst (Club) = Sein bester Freund vs Er geküsst (Club) = Dein bester Freund 2"
+    },
+    {
+      "key": "VS_0229",
+      "value": "Partner (in \"Aufreißer\"-Bar getroffen) vs Partner (im Club getroffen) 2"
+    },
+    {
+      "key": "VS_0230",
+      "value": "Küssen (Essensrest aus Zähnen) vs Küssen (in Mund niesen) 2"
+    },
+    {
+      "key": "VS_0231",
+      "value": "Foto sehen (Partner küsst Ex) vs Erwischt werden (Foto: du küsst Ex) 2"
+    },
+    {
+      "key": "VS_0232",
+      "value": "Hände fesseln vs Leichter Klaps (Spanking) 3"
+    },
+    {
+      "key": "VS_0233",
+      "value": "Sexuelle \"Funktion\" verlieren: Trennung vs Zusammenbleiben 3"
+    },
+    {
+      "key": "VS_0234",
+      "value": "Deine Hand (seine/ihre sensible Stelle) vs Seine/Ihre Hand (deine sensible Stelle) 3"
+    },
+    {
+      "key": "VS_0235",
+      "value": "Liebe mit 2 Partnern (gleichzeitig) vs Liebe (mit Partner + 1 anderem) 3"
+    },
+    {
+      "key": "VS_0236",
+      "value": "Nackt aufwachen (mit Freund d. Partners) vs Nackt aufwachen (mit bestem Freund) 3"
+    },
+    {
+      "key": "VS_0237",
+      "value": "Beim Sex schon mal vorgetäuscht: Ja vs Nein 3"
+    },
+    {
+      "key": "VS_0238",
+      "value": "Im Gesicht \"kommen\" vs In den Mund \"kommen\" 3"
+    },
+    {
+      "key": "VS_0239",
+      "value": "Sex (betrunken) vs Sex (nüchtern) 3"
+    },
+    {
+      "key": "VS_0240",
+      "value": "Passt super (außer im Bett) vs Passt null (außer im Bett) 3"
+    },
+    {
+      "key": "VS_0241",
+      "value": "Super Chemie im Bett (Figur naja) vs Schlechte Chemie im Bett (Traumfigur) 3"
+    },
+    {
+      "key": "VS_0242",
+      "value": "Schon mal einen One-Night-Stand gehabt vs Nie 3"
+    },
+    {
+      "key": "VS_0243",
+      "value": "Unterwäsche (Partner) bei Freund vs Unterwäsche (Freund) bei Partner 3"
+    },
+    {
+      "key": "VS_0244",
+      "value": "\"Lamm\" (draußen) & \"Wolf\" (im Bett) vs \"Wolf\" (draußen) & \"Lamm\" (im Bett) 3"
+    },
+    {
+      "key": "VS_0245",
+      "value": "Anderen zusehen vs Sich zusehen lassen 3"
+    },
+    {
+      "key": "VS_0246",
+      "value": "In den Mund \"kommen\" vs In (ihr/ihm) \"kommen\" 3"
+    },
+    {
+      "key": "VS_0247",
+      "value": "Sex (dauert 3 Min.) vs Sex (dauert 3 Std.) 3"
+    },
+    {
+      "key": "VS_0248",
+      "value": "Muskulös (aber klein gebaut) vs Dünn (aber groß gebaut) 3"
+    },
+    {
+      "key": "VS_0249",
+      "value": "Man kann Sex ohne Liebe haben vs Kann man nicht 3"
+    },
+    {
+      "key": "VS_0250",
+      "value": "Schon mal Sex (aus Pflicht) gehabt: Ja vs Nein 3"
+    },
+    {
+      "key": "VS_0251",
+      "value": "Schwanger werden: Heiraten vs Nicht heiraten 3"
+    },
+    {
+      "key": "VS_0252",
+      "value": "Sex (Licht aus) vs Sex (Licht an) 3"
+    },
+    {
+      "key": "VS_0253",
+      "value": "Führen (im Bett) vs Geführt werden (im Bett) 3"
+    },
+    {
+      "key": "VS_0254",
+      "value": "7,5 Mio. € (nie wieder Sex) vs Normales Leben 3"
+    },
+    {
+      "key": "VS_0255",
+      "value": "(Im Bett) Zufrieden vs Nicht zufrieden 3"
+    },
+    {
+      "key": "VS_0256",
+      "value": "Will in den Club gehen vs Will nicht 3"
+    },
+    {
+      "key": "VS_0257",
+      "value": "Sex (ohne Zähneputzen) vs Sex (3 Tage nicht geduscht) 3"
+    },
+    {
+      "key": "VS_0258",
+      "value": "Sex (2 Min.) mit Star-Schwarm vs (30 Min.) mit Partner 3"
+    },
+    {
+      "key": "VS_0259",
+      "value": "Schneller Rhythmus vs Tiefer Rhythmus 3"
+    },
+    {
+      "key": "VS_0260",
+      "value": "Partner, der leise reagiert (im Bett) vs Partner, der lautstark reagiert 3"
+    },
+    {
+      "key": "VS_0261",
+      "value": "Leichtes Spanking: Lieber empfangen vs Lieber geben 3"
+    },
+    {
+      "key": "VS_0262",
+      "value": "Jeden Tag Sex vs Einmal im Monat Sex 3"
+    },
+    {
+      "key": "VS_0263",
+      "value": "Partner (super Technik) vs Partner (unbeholfen, aber unschuldig) 3"
+    },
+    {
+      "key": "VS_0264",
+      "value": "(Im Bett): Lieber führen vs Lieber geführt werden 3"
+    },
+    {
+      "key": "VS_0265",
+      "value": "Berührung: Mit dem Mund vs Mit den Händen 3"
+    },
+    {
+      "key": "VS_0266",
+      "value": "Aufregender Ort: Klassenzimmer vs Aufzug 3"
+    },
+    {
+      "key": "VS_0267",
+      "value": "\"Ich liebe dich\" hören: Vor dem Sex vs Nach dem Sex 3"
+    },
+    {
+      "key": "VS_0268",
+      "value": "1 bester Freund (10 J.) vs 10 Sexpartner 3"
+    },
+    {
+      "key": "VS_0269",
+      "value": "Partner (rülpst beim Küssen) vs Partner (pupst beim Sex) 3"
+    },
+    {
+      "key": "VS_0270",
+      "value": "Sex im Freien: Schilffeld vs Strand 3"
+    },
+    {
+      "key": "VS_0271",
+      "value": "(Im Bett): Ausdauer (20er) vs Erfahrung (40er) 3"
+    },
+    {
+      "key": "VS_0272",
+      "value": "Sex dann Beziehung vs Beziehung dann Sex 3"
+    },
+    {
+      "key": "VS_0273",
+      "value": "Betrug (mit anderem Geschlecht) vs Betrug (mit gleichem Geschlecht) 3"
+    },
+    {
+      "key": "VS_0274",
+      "value": "Beim Sex: Krähen-Geräusch vs Mücken-Summen 3"
+    },
+    {
+      "key": "VS_0275",
+      "value": "Partner (hat \"Zweitpartner\") vs Du (bist der \"Zweitpartner\") 3"
+    },
+    {
+      "key": "VS_0276",
+      "value": "Partner (hat mit Ex gewohnt) vs Partner (hat Partner-Tattoo mit Ex) 3"
+    },
+    {
+      "key": "VS_0277",
+      "value": "Fremde Unterwäsche (bei Partner) vs Partner-Unterwäsche (bei Fremdem) 3"
+    },
+    {
+      "key": "VS_0278",
+      "value": "Sex: Motel vs Zuhause 3"
+    },
+    {
+      "key": "VS_0279",
+      "value": "Vor dem Sex fragen vs Ohne Worte anfangen 3"
+    },
+    {
+      "key": "VS_0280",
+      "value": "Tolle Hand-Technik vs Tolle Zungen-Technik 3"
+    },
+    {
+      "key": "VS_0281",
+      "value": "Sex mit einem Zombie vs Sex mit einem Geist 3"
+    },
+    {
+      "key": "VS_0282",
+      "value": "750.000 € (nie wieder Sex) vs 7.500 € zahlen (weiter so) 3"
+    },
+    {
+      "key": "VS_0283",
+      "value": "Sex im Freien: Im Park vs Am Strand 3"
+    },
+    {
+      "key": "VS_0284",
+      "value": "Aufregende Berührung: Im Kino vs Im Auto 3"
+    },
+    {
+      "key": "VS_0285",
+      "value": "Wunderschön (aber \"funktioniert\" nicht) vs Hässlich (aber top Körper) 3"
+    },
+    {
+      "key": "VS_0286",
+      "value": "Heiraten (Partner jungfräulich) vs Heiraten (Partner sehr erfahren) 3"
+    },
+    {
+      "key": "VS_0287",
+      "value": "Viele Achselhaare vs Viele Haare (Intimbereich) 3"
+    },
+    {
+      "key": "VS_0288",
+      "value": "Partner (Meister im Sex) vs Partner (unbeholfen, aber gibt Schmetterlinge) 3"
+    },
+    {
+      "key": "VS_0289",
+      "value": "Partner (TMI Sex mit Ex) vs Partner (spricht nie über Ex) 3"
+    },
+    {
+      "key": "VS_0290",
+      "value": "Sex: Mit Unterwäsche vs Komplett nackt 3"
+    },
+    {
+      "key": "VS_0291",
+      "value": "Partner (null \"Reaktion\") vs Partner (\"kommt\" zu schnell) 3"
+    },
+    {
+      "key": "VS_0292",
+      "value": "Keine \"Punkte\" (Brust) vs Vier \"Punkte\" (Brust) 3"
+    },
+    {
+      "key": "VS_0293",
+      "value": "Sex (vor seinen Eltern) vs Sex (vor deinen Eltern) 3"
+    },
+    {
+      "key": "VS_0294",
+      "value": "(Im Bett): Erfahren vs Erstes Mal 3"
+    },
+    {
+      "key": "VS_0295",
+      "value": "(Berührung): Hände vs Mund 3"
+    },
+    {
+      "key": "VS_0296",
+      "value": "Küssen vs Sex 3"
+    },
+    {
+      "key": "VS_0297",
+      "value": "\"Größe\": 25 cm vs 7 cm 3"
+    },
+    {
+      "key": "VS_0298",
+      "value": "Appetit vs Libido 3"
+    },
+    {
+      "key": "VS_0299",
+      "value": "(Im Bett): Erfahrene Person vs Anfänger 3"
+    },
+    {
+      "key": "VS_0300",
+      "value": "Tiefes \"Körpergespräch\" vs Tiefes \"Herzensgespräch\" 3"
+    },
+    {
+      "key": "VS_0301",
+      "value": "\"Intime\" Fotos (Partner + Ex) sehen vs Partner sieht deine \"intimen\" Fotos (mit Ex) 3"
+    },
+    {
+      "key": "VS_0302",
+      "value": "Meine Fantasie: \"Mit zwei Leuten\" vs \"Mit drei Leuten\" 4"
+    },
+    {
+      "key": "VS_0303",
+      "value": "1 Monat Enthaltung (allein) vs 1 Monat Enthaltung (zu zweit) 4"
+    },
+    {
+      "key": "VS_0304",
+      "value": "\"Gepflegter\" Look vs \"Natürlicher\" Look 4"
+    },
+    {
+      "key": "VS_0305",
+      "value": "Mit der Zunge vs Mit den Fingern 4"
+    },
+    {
+      "key": "VS_0306",
+      "value": "\"Schmutzige\" Worte vs Leichter Klaps (Spanking) 4"
+    },
+    {
+      "key": "VS_0307",
+      "value": "\"Leder\"-Spielzeug vs Warmes \"Wachs\" 4"
+    },
+    {
+      "key": "VS_0308",
+      "value": "Erwischt werden (allein) vs Erwischt werden (zu zweit) 4"
+    },
+    {
+      "key": "VS_0309",
+      "value": "Anderen zusehen vs Sich zusehen lassen 4"
+    },
+    {
+      "key": "VS_0310",
+      "value": "Liebe (mit 2 Leuten) vs Einen \"neuen Ort\" erkunden 4"
+    },
+    {
+      "key": "VS_0311",
+      "value": "\"Größe\": Länge vs Umfang 4"
+    },
+    {
+      "key": "VS_0312",
+      "value": "Liebe (von Angesicht zu Angesicht) vs Liebe (von hinten) 4"
+    },
+    {
+      "key": "VS_0313",
+      "value": "(Berührung): Hände vs Mund 4"
+    },
+    {
+      "key": "VS_0314",
+      "value": "Laute \"Reaktionen\" vs Leise, unterdrückte \"Reaktionen\" 4"
+    },
+    {
+      "key": "VS_0315",
+      "value": "\"Liebe\" geben (Mund) vs \"Liebe\" empfangen (Mund) 4"
+    },
+    {
+      "key": "VS_0316",
+      "value": "Dessous: Korsett vs Strumpfband 4"
+    },
+    {
+      "key": "VS_0317",
+      "value": "\"Größe XL\" (fertig in 30 Sek.) vs \"Größe XS\" (dauert 30 Min.) 4"
+    },
+    {
+      "key": "VS_0318",
+      "value": "Augenbinde vs Hände fesseln 4"
+    },
+    {
+      "key": "VS_0319",
+      "value": "30 Min. \"Vorspiel\" vs 30 Min. \"Hauptakt\" 4"
+    },
+    {
+      "key": "VS_0320",
+      "value": "Sex (betrunken) vs Sex (nüchtern) 4"
+    },
+    {
+      "key": "VS_0321",
+      "value": "(Im Bett): Befehle geben vs Gehorchen 4"
+    },
+    {
+      "key": "VS_0322",
+      "value": "Sanft ausziehen vs Wild (zerreißen) 4"
+    },
+    {
+      "key": "VS_0323",
+      "value": "\"Full Service\" (vom Ideal) vs \"Full Service\" (fürs Ideal) 4"
+    },
+    {
+      "key": "VS_0324",
+      "value": "Hüften packen vs Haare packen 4"
+    },
+    {
+      "key": "VS_0325",
+      "value": "Verführen (nackt) vs Verführen (im Kostüm) 4"
+    },
+    {
+      "key": "VS_0326",
+      "value": "Eine \"Stellung\" (lange) vs Viele \"Stellungen\" (wechseln) 4"
+    },
+    {
+      "key": "VS_0327",
+      "value": "In den Mund \"kommen\" vs In (ihr/ihm) \"kommen\" 4"
+    },
+    {
+      "key": "VS_0328",
+      "value": "\"Gegenseitig\" (normal) vs \"Gegenseitig\" (seitlich) 4"
+    },
+    {
+      "key": "VS_0329",
+      "value": "Sex (Beine gespreizt) vs Sex (Beine geschlossen) 4"
+    },
+    {
+      "key": "VS_0330",
+      "value": "(Beim Sex): Augenkontakt vs Augen geschlossen 4"
+    },
+    {
+      "key": "VS_0331",
+      "value": "Rhythmus: Hoch/Runter vs Vor/Zurück 4"
+    },
+    {
+      "key": "VS_0332",
+      "value": "\"Heißer\" Anruf: Nur Stimme vs Stummes Video 4"
+    },
+    {
+      "key": "VS_0333",
+      "value": "Im Liegen: \"mit dem Mund\" vs Im Stehen: \"mit dem Mund\" 4"
+    },
+    {
+      "key": "VS_0334",
+      "value": "\"Von hinten\" (auf allen Vieren) vs \"Von hinten\" (im Stehen) 4"
+    },
+    {
+      "key": "VS_0335",
+      "value": "\"Von hinten\" (Beine gespreizt) vs \"Von hinten\" (Beine geschlossen) 4"
+    },
+    {
+      "key": "VS_0336",
+      "value": "Sex: Hart (und \"Du\") vs Sanft (und \"Sie\") 4"
+    },
+    {
+      "key": "VS_0337",
+      "value": "Rock (nur hochgeschoben) vs Hose (nur runtergezogen) 4"
+    },
+    {
+      "key": "VS_0338",
+      "value": "Aufregender Ort: Klassenzimmer vs Aufzug 4"
+    },
+    {
+      "key": "VS_0339",
+      "value": "Sex (mit offener Tür) vs Sex (auf einem Dach) 4"
+    },
+    {
+      "key": "VS_0340",
+      "value": "\"Körperlicher\" Partner: Koreaner vs Ausländer 4"
+    },
+    {
+      "key": "VS_0341",
+      "value": "\"Körperliches Merkmal\": Schwarz vs Weiß 4"
+    },
+    {
+      "key": "VS_0342",
+      "value": "\"Erwachsenen-Spielzeug\": Benutzen vs Nicht benutzen 4"
+    },
+    {
+      "key": "VS_0343",
+      "value": "Schnell \"bereit\" (feucht) werden vs Langsam \"bereit\" (feucht) werden 4"
+    },
+    {
+      "key": "VS_0344",
+      "value": "Sex (mit Reden) vs Sex (nur Körper, ohne Reden) 4"
+    },
+    {
+      "key": "VS_0345",
+      "value": "Das \"Ende\": Schlucken vs Spucken 4"
+    },
+    {
+      "key": "VS_0346",
+      "value": "One-Night-Stand: Mit Fremdem vs Mit Bekanntem 4"
+    },
+    {
+      "key": "VS_0347",
+      "value": "(Beim Sex): Haare offen vs Haare zusammengebunden 4"
+    },
+    {
+      "key": "VS_0348",
+      "value": "Schüchterner, süßer Sex vs Leidenschaftlicher, intensiver Sex 4"
+    },
+    {
+      "key": "VS_0349",
+      "value": "\"Kommt\" schnell vs \"Kommt\" sehr spät 4"
+    },
+    {
+      "key": "VS_0350",
+      "value": "Hände fesseln: (Du fesselst) vs (Du wirst gefesselt) 4"
+    },
+    {
+      "key": "VS_0351",
+      "value": "Liebe (mit 2 Leuten) vs Liebe (mit vielen Leuten) 4"
+    },
+    {
+      "key": "VS_0352",
+      "value": "\"Liebe\" geben (Mund) vs \"Liebe\" empfangen (Mund) 4"
+    },
+    {
+      "key": "VS_0353",
+      "value": "\"Vibrierendes\" Spielzeug vs \"Einführbares\" Spielzeug 4"
+    },
+    {
+      "key": "VS_0354",
+      "value": "One-Night-Stand: Mit Fremdem vs Mit altem Freund 4"
+    },
+    {
+      "key": "VS_0355",
+      "value": "\"Vorspiel\" vs \"Hauptakt\" 4"
+    },
+    {
+      "key": "VS_0356",
+      "value": "\"BDSM\" (Dominanz/Unterwerfung) vs Spezieller \"Fetisch\" 4"
+    },
+    {
+      "key": "VS_0357",
+      "value": "\"Offensichtliche\" Implantate vs \"Push-up-BH\" 4"
+    },
+    {
+      "key": "VS_0358",
+      "value": "(Beim Sex): Position (hochschauen) vs Position (runterschauen) 4"
+    },
+    {
+      "key": "VS_0359",
+      "value": "Star (\"Größe XS\") vs Hässliche Person (\"Größe XL\") 4"
+    },
+    {
+      "key": "VS_0360",
+      "value": "Ohne BH rausgehen vs Ohne Slip rausgehen 4"
+    },
+    {
+      "key": "VS_0361",
+      "value": "Perfekte \"emotionale\" Chemie vs Perfekte \"körperliche\" Chemie 4"
+    },
+    {
+      "key": "VS_0362",
+      "value": "(Beim Sex) Namen des Ex hören vs Namen des Ex sagen 4"
+    },
+    {
+      "key": "VS_0363",
+      "value": "Hände fesseln vs Leichter Klaps (Spanking) 4"
+    },
+    {
+      "key": "VS_0364",
+      "value": "(Wenn du Sex haben müsstest): China vs Japan 4"
+    },
+    {
+      "key": "VS_0365",
+      "value": "\"Kommen\" (selbst) vs \"Kommen\" (zusehen) 4"
+    },
+    {
+      "key": "VS_0366",
+      "value": "Kostüm: Militär-Uniform vs \"Nur ein Hemd\" 4"
+    },
+    {
+      "key": "VS_0367",
+      "value": "Kuss (Fuß d. Partners) 1 Sek. vs Lecken (stinkender Fremden-Fuß) 1 Std. 4"
+    },
+    {
+      "key": "VS_0368",
+      "value": "Leicht beißen: \"Punkt\" (Brust) vs \"Sensibelste Stelle\" 4"
+    },
+    {
+      "key": "VS_0369",
+      "value": "\"Funktion\" verlieren vs Rechten Arm verlieren 4"
+    },
+    {
+      "key": "VS_0370",
+      "value": "Zwei \"Geschlechtsteile\" vs Drei Arme 4"
+    },
+    {
+      "key": "VS_0371",
+      "value": "Männergesicht (mit \"Teil\" v. Frau) vs Frauengesicht (mit \"Teil\" v. Mann) 4"
+    },
+    {
+      "key": "VS_0372",
+      "value": "(Sahne) ablecken vs (Eis) ablecken 4"
+    },
+    {
+      "key": "VS_0373",
+      "value": "Berühren (Augen geschlossen) vs Berühren (Augen offen) 4"
+    },
+    {
+      "key": "VS_0374",
+      "value": "Partner (ruhig beim Sex) vs Partner (gesprächig beim Sex) 4"
+    },
+    {
+      "key": "VS_0375",
+      "value": "Partner (sanfte Küsse/Berührungen) vs Partner (leckt ganzen Körper ab) 4"
+    },
+    {
+      "key": "VS_0376",
+      "value": "Partner (laute Reaktionen) vs Partner (stille Reaktionen) 4"
+    },
+    {
+      "key": "VS_0377",
+      "value": "\"Kommen\" (in ihr/ihm) vs \"Kommen\" (in den Mund) 4"
+    },
+    {
+      "key": "VS_0378",
+      "value": "Partner (treu, aber \"funktionslos\") vs Partner (untreu, aber \"Meister\" im Bett) 4"
+    },
+    {
+      "key": "VS_0379",
+      "value": "Sex im Auto vs Sex im Freien 4"
+    },
+    {
+      "key": "VS_0380",
+      "value": "Sex (an Ex denken) vs Sex (Ex-Namen sagen) 4"
+    },
+    {
+      "key": "VS_0381",
+      "value": "Reiben (an der Brust) vs Reiben (im Intimbereich) 4"
+    },
+    {
+      "key": "VS_0382",
+      "value": "(Im Bett): Nur du befriedigt vs Nur Partner befriedigt 4"
+    },
+    {
+      "key": "VS_0383",
+      "value": "Partner (Mundgeruch) vs Partner (Intimgeruch) 4"
+    },
+    {
+      "key": "VS_0384",
+      "value": "\"Kommen\" (innen) vs \"Kommen\" (hinten) 4"
+    },
+    {
+      "key": "VS_0385",
+      "value": "Kuss (Mund riecht nach Harzer Käse) vs Zungenkuss (Achselhöhle) 2"
+    },
+    {
+      "key": "VS_0386",
+      "value": "Eine Kakerlake küssen vs (Tierkot) küssen 2"
+    },
+    {
+      "key": "VS_0387",
+      "value": "Achselschweiß \"schmecken\" vs Partner riecht an deiner (nach Sport) 2"
+    },
+    {
+      "key": "VS_0388",
+      "value": "Übelst fluchen (vor seinen Eltern) vs Zungenkuss (vor deinen Eltern) 2"
+    },
+    {
+      "key": "VS_0389",
+      "value": "Sexuelle \"Funktion\" verlieren vs Nie link. Arm benutzen 2"
+    },
+    {
+      "key": "VS_0390",
+      "value": "1 Jahr (nur in Unterwäsche) im Laden arbeiten vs Lebenslang 130 kg wiegen 2"
+    },
+    {
+      "key": "VS_0391",
+      "value": "Nie wieder Körperkontakt vs 2 Jahre ins Gefängnis 2"
+    },
+    {
+      "key": "VS_0392",
+      "value": "Beim Betrügen erwischen vs Von einem Freund davon hören 2"
+    },
+    {
+      "key": "VS_0393",
+      "value": "Nie Unterwäsche wechseln vs Nur alle 2 Wochen duschen 2"
+    },
+    {
+      "key": "VS_0394",
+      "value": "Partner (putzt nie Zähne) vs Partner (duscht nie, wäscht Haare) 2"
+    },
+    {
+      "key": "VS_0395",
+      "value": "Partner (Kuss riecht nach Kloake) vs Partner (pupst jede Minute \"stinkend\") 2"
+    },
+    {
+      "key": "VS_0396",
+      "value": "Partner (erzählt langweilig) vs Partner (deine Storys: Pokerface) 2"
+    },
+    {
+      "key": "VS_0397",
+      "value": "Partner (Meister im Körperkontakt) vs Partner (unbeholfen, aber Schmetterlinge) 2"
+    },
+    {
+      "key": "VS_0398",
+      "value": "Partner (TMI über Sex mit Ex) vs Partner (spricht nie über Ex) 2"
+    },
+    {
+      "key": "VS_0399",
+      "value": "Hässlich (aber super im Bett) vs Wunderschön (aber kein Anfassen) 2"
+    },
+    {
+      "key": "VS_0400",
+      "value": "Partner (2 Umarmungen/Jahr) vs Partner (1 Umarmung/Tag, dauert 1 Std.) 2"
+    },
+    {
+      "key": "VS_0401",
+      "value": "1 Kuss pro Jahr vs Tgl. küssen (2 Std. am Stück) 2"
+    },
+    {
+      "key": "VS_0402",
+      "value": "Partner (Kuss schmeckt nach Aschenbecher) vs Partner (Kuss schmeckt nach Alkohol) 2"
+    },
+    {
+      "key": "VS_0403",
+      "value": "Super-heißen Star (in Unterwäsche) im Club küssen vs 1 Std. im Club tanzen (nichts anhaben + Maske) 2"
+    },
+    {
+      "key": "VS_0404",
+      "value": "Zungenkuss (vor seinen Eltern) vs Zungenkuss (vor deinen Eltern) 2"
+    },
+    {
+      "key": "VS_0405",
+      "value": "Sex (vor seinen Eltern) vs Sex (vor deinen Eltern) 3"
+    },
+    {
+      "key": "VS_0406",
+      "value": "Zungenkuss (vor deinen Freunden) vs Zungenkuss (vor seinen Freunden) 2"
+    },
+    {
+      "key": "VS_0407",
+      "value": "Beim Küssen: Nur Lippen vs Sich gegenseitig anfassen 2"
+    },
+    {
+      "key": "VS_0408",
+      "value": "Kuss auf die Fußsohle vs Kuss auf die Achsel 2"
+    },
+    {
+      "key": "VS_0409",
+      "value": "Hören (Partner betrügt) vs Hören (Freund hat Partner geküsst, \"nur betrunken\") 2"
+    },
+    {
+      "key": "VS_0410",
+      "value": "Du küsst (betrunken) seinen Freund vs Er küsst (betrunken) deinen Freund 2"
+    },
+    {
+      "key": "VS_0411",
+      "value": "Geküsst (Club) = Sein bester Freund vs Er geküsst (Club) = Dein bester Freund 2"
+    },
+    {
+      "key": "VS_0412",
+      "value": "Partner (in \"Aufreißer\"-Bar getroffen) vs Partner (im Club getroffen) 2"
+    },
+    {
+      "key": "VS_0413",
+      "value": "Küssen (Zahnstein aus Zähnen) vs Küssen (und Schleim in Mund niesen) 2"
+    },
+    {
+      "key": "VS_0414",
+      "value": "Foto sehen (Partner küsst Ex) vs Erwischt werden (Foto: du küsst Ex) 2"
+    },
+    {
+      "key": "VS_0415",
+      "value": "\"Intime\" Fotos (Partner + Ex) sehen vs Partner sieht deine \"intimen\" Fotos (mit Ex) 3"
     },
     {
       "key": "RANDOM_0001",
