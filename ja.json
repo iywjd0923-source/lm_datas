@@ -110,7 +110,7 @@
     },
     {
       "key": "result_comment_review",
-      "value": "ゲームは楽しんでいただけましたか？\n貴重なレビューを頂けると幸いです！:D"
+      "value": "ゲームは楽しんでいただけましたか？\n貴重なレビューを頂けると幸いです！(^o^)"
     },
     {
       "key": "result_other_review",
@@ -4090,51 +4090,51 @@
     },
     {
       "key": "RANDOM_0001",
-      "value": "앞으로 1칸 가기"
+      "value": "1マス進む"
     },
     {
       "key": "RANDOM_0002",
-      "value": "앞으로 2칸 가기"
+      "value": "2マス進む"
     },
     {
       "key": "RANDOM_0003",
-      "value": "앞으로 3칸 가기"
+      "value": "3マス進む"
     },
     {
       "key": "RANDOM_0004",
-      "value": "뒤로 1칸 가기"
+      "value": "1マス戻る"
     },
     {
       "key": "RANDOM_0005",
-      "value": "뒤로 2칸 가기"
+      "value": "2マス戻る"
     },
     {
       "key": "RANDOM_0006",
-      "value": "뒤로 3칸 가기"
+      "value": "3マス戻る"
     },
     {
       "key": "RANDOM_0007",
-      "value": "다른 수위 Sexy Question"
+      "value": "別レベル セクシー質問"
     },
     {
       "key": "RANDOM_0008",
-      "value": "다른 수위 Action"
+      "value": "別レベル アクション"
     },
     {
       "key": "RANDOM_0009",
-      "value": "하트 회복"
+      "value": "ハートを1回復"
     },
     {
       "key": "RANDOM_0010",
-      "value": "워프빔 가기"
+      "value": "ワープゾーンへ移動"
     },
     {
       "key": "RANDOM_0011",
-      "value": "액션지옥 가기"
+      "value": "アクション地獄へ"
     },
     {
       "key": "RANDOM_0012",
-      "value": "무인도 가기"
+      "value": "無人島へ移動"
     },
     {
       "key": "pop_island_on",
