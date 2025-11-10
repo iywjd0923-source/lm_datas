@@ -110,7 +110,7 @@
     },
     {
       "key": "result_comment_review",
-      "value": "您喜歡這款遊戲嗎？\n請給我們留一個寶貴的評論吧！:D"
+      "value": "您喜歡這款遊戲嗎？\n請給我們留一個寶貴的評論吧！(^_^)"
     },
     {
       "key": "result_other_review",
@@ -4090,51 +4090,51 @@
     },
     {
       "key": "RANDOM_0001",
-      "value": "앞으로 1칸 가기"
+      "value": "前進 1 格"
     },
     {
       "key": "RANDOM_0002",
-      "value": "앞으로 2칸 가기"
+      "value": "前進 2 格"
     },
     {
       "key": "RANDOM_0003",
-      "value": "앞으로 3칸 가기"
+      "value": "前進 3 格"
     },
     {
       "key": "RANDOM_0004",
-      "value": "뒤로 1칸 가기"
+      "value": "後退 1 格"
     },
     {
       "key": "RANDOM_0005",
-      "value": "뒤로 2칸 가기"
+      "value": "後退 2 格"
     },
     {
       "key": "RANDOM_0006",
-      "value": "뒤로 3칸 가기"
+      "value": "後退 3 格"
     },
     {
       "key": "RANDOM_0007",
-      "value": "다른 수위 Sexy Question"
+      "value": "其他級別 性感提問"
     },
     {
       "key": "RANDOM_0008",
-      "value": "다른 수위 Action"
+      "value": "其他級別 挑戰行動"
     },
     {
       "key": "RANDOM_0009",
-      "value": "하트 회복"
+      "value": "恢復 1 顆愛心"
     },
     {
       "key": "RANDOM_0010",
-      "value": "워프빔 가기"
+      "value": "前往傳送點"
     },
     {
       "key": "RANDOM_0011",
-      "value": "액션지옥 가기"
+      "value": "前往行動地獄"
     },
     {
       "key": "RANDOM_0012",
-      "value": "무인도 가기"
+      "value": "前往無人島"
     },
     {
       "key": "pop_island_on",
