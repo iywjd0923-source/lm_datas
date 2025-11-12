@@ -125,6 +125,10 @@
       "value": "Arrêter le minuteur"
     },
     {
+      "key": "language",
+      "value": "Langue"
+    },
+    {
       "key": "LOVE_0001",
       "value": "Quel repas as-tu le plus envie de manger avec ton partenaire, là, maintenant ?"
     },
@@ -2610,131 +2614,2523 @@
     },
     {
       "key": "SEXY_0001",
-      "value": "Enfer d'Action1"
+      "value": "Quelle est la partie du corps de ton/ta partenaire que tu trouves la plus sexy en ce moment ? 2"
     },
     {
       "key": "SEXY_0002",
-      "value": "Enfer d'Action2"
+      "value": "As-tu déjà pensé à autre chose en embrassant ton/ta partenaire ? À quoi ? 2"
     },
     {
       "key": "SEXY_0003",
-      "value": "Enfer d'Action3"
+      "value": "Où aimerais-tu le plus toucher ton/ta partenaire pendant un baiser ? 2"
     },
     {
       "key": "SEXY_0004",
-      "value": "Enfer d'Action4"
+      "value": "As-tu déjà eu envie darrêter au milieu dun baiser avec ton/ta partenaire ? 2"
     },
     {
       "key": "SEXY_0005",
-      "value": "Enfer d'Action1"
+      "value": "Préfères-tu embrasser (sobre) ou embrasser (après avoir bu) ? 2"
     },
     {
       "key": "SEXY_0006",
-      "value": "Enfer d'Action2"
+      "value": "Quand trouves-tu ton/ta partenaire le/la plus sexy ? 2"
     },
     {
       "key": "SEXY_0007",
-      "value": "Enfer d'Action3"
+      "value": "Quels vêtements porte ton/ta partenaire quand tu as le plus envie de lembrasser ? 2"
     },
     {
       "key": "SEXY_0008",
-      "value": "Enfer d'Action4"
+      "value": "As-tu déjà eu lenvie de tromper quelquun dans ta vie ? 2"
     },
     {
       "key": "SEXY_0009",
-      "value": "Enfer d'Action1"
+      "value": "Quel est lendroit le plus romantique où tu aimerais embrasser ton/ta partenaire ? 2"
     },
     {
       "key": "SEXY_0010",
-      "value": "Enfer d'Action2"
+      "value": "Quelle est ta méthode la plus fréquente pour séduire ton/ta partenaire ? 2"
     },
     {
       "key": "SEXY_0011",
-      "value": "Enfer d'Action3"
+      "value": "Quel est le mot le plus excitant que dit ton/ta partenaire en faisant lamour ? 2"
     },
     {
       "key": "SEXY_0012",
-      "value": "Enfer d'Action4"
+      "value": "Comment décrirais-tu ton premier baiser avec ton/ta partenaire ? 2"
     },
     {
       "key": "SEXY_0013",
-      "value": "Enfer d'Action1"
+      "value": "Préfères-tu les baisers tendres ou les baisers fougueux ? 2"
     },
     {
       "key": "SEXY_0014",
-      "value": "Enfer d'Action2"
+      "value": "Quelle est la durée parfaite pour un baiser, selon toi ? 2"
     },
     {
       "key": "SEXY_0015",
-      "value": "Enfer d'Action3"
+      "value": "Y a-t-il un costume play (cosplay) que tu aimerais faire avec ton/ta partenaire ? 2"
     },
     {
       "key": "SEXY_0016",
-      "value": "Enfer d'Action4"
+      "value": "Y a-t-il un costume que tu aimerais voir porter par ton/ta partenaire ? 2"
+    },
+    {
+      "key": "SEXY_0017",
+      "value": "Si les lèvres de ton/ta partenaire étaient un aliment, quel goût auraient-elles ? 2"
+    },
+    {
+      "key": "SEXY_0018",
+      "value": "Si tu devais décrire vos baisers en un seul mot ? 2"
+    },
+    {
+      "key": "SEXY_0019",
+      "value": "Penses-tu que tu embrasses bien ? 2"
+    },
+    {
+      "key": "SEXY_0020",
+      "value": "Penses-tu que ton/ta partenaire embrasse bien ? 2"
+    },
+    {
+      "key": "SEXY_0021",
+      "value": "Penses-tu que ton/ta partenaire est bon/bonne au lit ? 2"
+    },
+    {
+      "key": "SEXY_0022",
+      "value": "Quelle est la meilleure chose quand tu embrasses ton/ta partenaire ? 2"
+    },
+    {
+      "key": "SEXY_0023",
+      "value": "Que ferais-tu si tu voyais ton/ta partenaire mater le corps de qqn dautre ? 2"
+    },
+    {
+      "key": "SEXY_0024",
+      "value": "Que ferais-tu si tu voyais qqn dautre toucher ton/ta partenaire en boîte ? 2"
+    },
+    {
+      "key": "SEXY_0025",
+      "value": "Jusquà quel âge penses-tu pouvoir embrasser ton/ta partenaire ? 2"
+    },
+    {
+      "key": "SEXY_0026",
+      "value": "Peux-tu aimer quelquun sans lembrasser ? 2"
+    },
+    {
+      "key": "SEXY_0027",
+      "value": "Trouves-tu le petit ventre de ton/ta partenaire attirant ? 2"
+    },
+    {
+      "key": "SEXY_0028",
+      "value": "Quest-ce que tu trouves sexuellement attirant chez une personne ? 2"
+    },
+    {
+      "key": "SEXY_0029",
+      "value": "Penses-tu que ton/ta partenaire a une forte libido ? Pourquoi ? 2"
+    },
+    {
+      "key": "SEXY_0030",
+      "value": "Que ferais-tu si tu découvrais que ton/ta partenaire a embrassé ton/ta meilleur(e) ami(e) (dans le passé) ? 2"
+    },
+    {
+      "key": "SEXY_0031",
+      "value": "Si tu pouvais changer le visage de ton/ta partenaire (en celui dune célébrité) quand vous vous embrassez, qui choisirais-tu ? 2"
+    },
+    {
+      "key": "SEXY_0032",
+      "value": "Quel costume aimerais-tu que ton/ta partenaire porte ? 2"
+    },
+    {
+      "key": "SEXY_0033",
+      "value": "As-tu déjà été infidèle ? 2"
+    },
+    {
+      "key": "SEXY_0034",
+      "value": "Pourrais-tu tomber amoureux/se dune personne du même sexe ? 2"
+    },
+    {
+      "key": "SEXY_0035",
+      "value": "Si ton/ta partenaire avouait tavoir trompé(e) (en étant saoul), lui pardonnerais-tu ? 2"
+    },
+    {
+      "key": "SEXY_0036",
+      "value": "Pour combien dargent accepterais-tu dêtre modèle nu pour un cours de dessin ? 2"
+    },
+    {
+      "key": "SEXY_0037",
+      "value": "Aimerais-tu aller sur une plage nudiste ? 2"
+    },
+    {
+      "key": "SEXY_0038",
+      "value": "Quel âge avais-tu la première fois que tu as vu du contenu pour adultes ? 2"
+    },
+    {
+      "key": "SEXY_0039",
+      "value": "As-tu déjà lu des BD ou romans pour adultes ? Lesquels ? 2"
+    },
+    {
+      "key": "SEXY_0040",
+      "value": "Décris ce que tu ressens quand tu touches ton/ta partenaire. 2"
+    },
+    {
+      "key": "SEXY_0041",
+      "value": "À quels moments ressens-tu lenvie de toucher ton/ta partenaire ? 2"
+    },
+    {
+      "key": "SEXY_0042",
+      "value": "Quelle est la scène de film la plus osée que tu aies vue ? Décris-la. 2"
+    },
+    {
+      "key": "SEXY_0043",
+      "value": "Quelle est la scène la plus osée que tu aies lue (BD/roman) ? Décris-la. 2"
+    },
+    {
+      "key": "SEXY_0044",
+      "value": "As-tu déjà fait un rêve osé ? Décris-en un dont tu te souviens. 2"
+    },
+    {
+      "key": "SEXY_0045",
+      "value": "Quelle est la scène (réelle) la plus osée à laquelle tu aies assisté ? 2"
+    },
+    {
+      "key": "SEXY_0046",
+      "value": "Quelle célébrité (TV) ta déjà fait penser sexy ? Pourquoi ? 2"
+    },
+    {
+      "key": "SEXY_0047",
+      "value": "Décris létat ou les changements de ton corps quand tu es excité(e) sexuellement. 2"
+    },
+    {
+      "key": "SEXY_0048",
+      "value": "Quel sport trouves-tu le plus sexy quand quelquun le pratique ? 2"
+    },
+    {
+      "key": "SEXY_0049",
+      "value": "Raconte une histoire osée que tu as entendue (amis, école). 2"
+    },
+    {
+      "key": "SEXY_0050",
+      "value": "Tes-tu déjà senti(e) mal après avoir embrassé quelquun dautre ? 2"
+    },
+    {
+      "key": "SEXY_0051",
+      "value": "Est-ce que les gens te paraissent plus attirants quand tu as bu ? 2"
+    },
+    {
+      "key": "SEXY_0052",
+      "value": "Quelle partie du corps de ton/ta partenaire est la plus agréable à toucher ? 2"
+    },
+    {
+      "key": "SEXY_0053",
+      "value": "Quel trait de personnalité trouves-tu le plus sexy ? 2"
+    },
+    {
+      "key": "SEXY_0054",
+      "value": "Si tu devais embrasser ton/ta partenaire (transformé en une autre race), laquelle ? 2"
+    },
+    {
+      "key": "SEXY_0055",
+      "value": "Penses-tu que tu pourrais embrasser qqn du même sexe ? 2"
+    },
+    {
+      "key": "SEXY_0056",
+      "value": "Que penses-tu de la virginité avant le mariage ? 2"
+    },
+    {
+      "key": "SEXY_0057",
+      "value": "Si tu pouvais faire un tatouage sur la partie intime de ton/ta partenaire, où ? 2"
+    },
+    {
+      "key": "SEXY_0058",
+      "value": "Si tu devais te faire tatouer sur une partie intime, où ? 2"
+    },
+    {
+      "key": "SEXY_0059",
+      "value": "Que penses-tu des coups dun soir ? 2"
+    },
+    {
+      "key": "SEXY_0060",
+      "value": "Que ferais-tu si ton/ta partenaire avait très mauvaise haleine (matin) pendant un baiser ? 2"
+    },
+    {
+      "key": "SEXY_0061",
+      "value": "As-tu déjà regardé une vidéo pour adultes avec un(e) ami(e) ? 2"
+    },
+    {
+      "key": "SEXY_0062",
+      "value": "Y a-t-il de la lingerie que tu aimerais voir porter par ton/ta partenaire ? 2"
+    },
+    {
+      "key": "SEXY_0063",
+      "value": "Quelle couleur de lingerie (sous-vêtements) trouves-tu la plus sexy ? 2"
+    },
+    {
+      "key": "SEXY_0064",
+      "value": "Y a-t-il une histoire osée que tu as entendue au travail ? Raconte. 2"
+    },
+    {
+      "key": "SEXY_0065",
+      "value": "Si tu avais les yeux bandés, pourrais-tu reconnaître ton/ta partenaire juste en lembrassant ? 2"
+    },
+    {
+      "key": "SEXY_0066",
+      "value": "Si tu avais les yeux bandés, pourrais-tu reconnaître ton/ta partenaire juste en touchant son corps ? 2"
+    },
+    {
+      "key": "SEXY_0067",
+      "value": "Si tu devais écrire un roman osé, de quoi parlerait-il ? 2"
+    },
+    {
+      "key": "SEXY_0068",
+      "value": "Quelle est la limite du contact physique (acceptable) avec un(e) ami(e) du même sexe ? 2"
+    },
+    {
+      "key": "SEXY_0069",
+      "value": "Si ton/ta partenaire voulait tembrasser juste après avoir vomi, accepterais-tu ? 2"
+    },
+    {
+      "key": "SEXY_0070",
+      "value": "As-tu déjà pensé à vouloir embrasser quelquun au cinéma ? 2"
+    },
+    {
+      "key": "SEXY_0071",
+      "value": "As-tu déjà été témoin dun baiser entre des amis proches ? 2"
+    },
+    {
+      "key": "SEXY_0072",
+      "value": "Si tu avais des enfants, comment voudrais-tu gérer leur éducation sexuelle ? 2"
+    },
+    {
+      "key": "SEXY_0073",
+      "value": "Y a-t-il quelque chose qui ta choqué(e) la première fois que tu as reçu une éducation sexuelle ? 2"
+    },
+    {
+      "key": "SEXY_0074",
+      "value": "Explique en détail à ton/ta partenaire comment utiliser un préservatif, daprès ce que tu sais. 2"
+    },
+    {
+      "key": "SEXY_0075",
+      "value": "Comment te sentais-tu (enfant) la première fois que tu as vu une vidéo pour adultes ? 2"
+    },
+    {
+      "key": "SEXY_0076",
+      "value": "Comment tes parents ont-ils abordé ton éducation sexuelle ? 2"
+    },
+    {
+      "key": "SEXY_0077",
+      "value": "Dis à ton/ta partenaire avec combien de personnes tu as échangé un baiser. 2"
+    },
+    {
+      "key": "SEXY_0078",
+      "value": "As-tu déjà embrassé qqn (par erreur) en étant saoul(e) ? 2"
+    },
+    {
+      "key": "SEXY_0079",
+      "value": "Aimerais-tu que ton/ta partenaire ait une forte libido ? 2"
+    },
+    {
+      "key": "SEXY_0080",
+      "value": "Décrivez le processus par lequel un bébé est conçu par lamour de deux personnes. 2"
+    },
+    {
+      "key": "SEXY_0081",
+      "value": "Y a-t-il une partie de ton corps que tu préférerais que ton/ta partenaire ne touche pas ? 2"
+    },
+    {
+      "key": "SEXY_0082",
+      "value": "Y a-t-il une partie de ton corps que tu aimerais que ton/ta partenaire touche souvent ? 2"
+    },
+    {
+      "key": "SEXY_0083",
+      "value": "Quelle partie de ton propre corps trouves-tu la plus sexy ? 2"
+    },
+    {
+      "key": "SEXY_0084",
+      "value": "Quand tu étais enfant, as-tu déjà vu une autre personne sans aucun vêtement ? 2"
+    },
+    {
+      "key": "SEXY_0085",
+      "value": "Si tu devais avoir un bébé, quel est lâge minimum auquel tu penses que tu devrais lavoir ? 2"
+    },
+    {
+      "key": "SEXY_0086",
+      "value": "As-tu déjà fréquenté quelquun dun autre pays ? 2"
+    },
+    {
+      "key": "SEXY_0087",
+      "value": "Quelle est la pose la plus sexy que tu puisses montrer à ton/ta partenaire ? 2"
+    },
+    {
+      "key": "SEXY_0088",
+      "value": "Décris la forme de ta ligne de hanches . 2"
+    },
+    {
+      "key": "SEXY_0089",
+      "value": "Décris comment ton/ta partenaire se comporte quand il/elle tembrasse. 2"
+    },
+    {
+      "key": "SEXY_0090",
+      "value": "Quel est le plus grand atout sexuel de ton/ta partenaire, selon toi ? 2"
+    },
+    {
+      "key": "SEXY_0091",
+      "value": "As-tu déjà menti à ton/ta partenaire (en disant Je dors) pour aller en boîte ? 2"
+    },
+    {
+      "key": "SEXY_0092",
+      "value": "Quel contact physique (skinship) as-tu fait semblant daimer, mais quen fait tu naimais pas ? 2"
+    },
+    {
+      "key": "SEXY_0093",
+      "value": "Quels sites utilisais-tu pour regarder du contenu osé ? 2"
+    },
+    {
+      "key": "SEXY_0094",
+      "value": "Y a-t-il une partie de ton corps que tu ne voudrais pas que ton/ta partenaire touche ? 2"
+    },
+    {
+      "key": "SEXY_0095",
+      "value": "De quelle couleur sont les sous-vêtements que tu portes aujourdhui ? 2"
+    },
+    {
+      "key": "SEXY_0096",
+      "value": "Devine la couleur des sous-vêtements que porte ton/ta partenaire aujourdhui. 2"
+    },
+    {
+      "key": "SEXY_0097",
+      "value": "Quaimerais-tu que ton/ta partenaire te dise après un baiser ? 2"
+    },
+    {
+      "key": "SEXY_0098",
+      "value": "Penses-tu que ton/ta partenaire embrasse bien ? 2"
+    },
+    {
+      "key": "SEXY_0099",
+      "value": "Quel est ce complexe physique que tu as, et que les autres ne connaissent pas ? 2"
+    },
+    {
+      "key": "SEXY_0100",
+      "value": "Quelle est ta couleur de lingerie (sous-vêtements) préférée chez une personne ? 2"
+    },
+    {
+      "key": "SEXY_0101",
+      "value": "Classe ces besoins (du + fort au - fort) : Sommeil, Faim, Libido. 2"
+    },
+    {
+      "key": "SEXY_0102",
+      "value": "As-tu déjà pris des photos intimes de toi-même (seul/e) ? 2"
+    },
+    {
+      "key": "SEXY_0103",
+      "value": "Quelle est la photo la plus osée que tu aies jamais vue ? 2"
+    },
+    {
+      "key": "SEXY_0104",
+      "value": "Si tu pouvais offrir une chirurgie esthétique (gratuite) à ton/ta partenaire, que changerais-tu ? 2"
+    },
+    {
+      "key": "SEXY_0105",
+      "value": "Quand tu as rencontré ton/ta partenaire, as-tu pensé quil/elle aurait lair sexy ? 2"
+    },
+    {
+      "key": "SEXY_0106",
+      "value": "Pourrais-tu avoir un coup dun soir avec un(e) inconnu(e) ? 2"
+    },
+    {
+      "key": "SEXY_0107",
+      "value": "Quel est le nom de lex qui embrassait le mieux ? 2"
+    },
+    {
+      "key": "SEXY_0108",
+      "value": "Quel est le nom de la personne avec qui tu as eu ton premier baiser ? 2"
+    },
+    {
+      "key": "SEXY_0109",
+      "value": "Qui de vous deux drague le plus activement en ce moment ? 2"
+    },
+    {
+      "key": "SEXY_0110",
+      "value": "Si ton/ta partenaire te demandait une épilation brésilienne (ensemble), le ferais-tu ? 2"
+    },
+    {
+      "key": "SEXY_0111",
+      "value": "Imite lexpression de ton/ta partenaire quand vous vous embrassez. 2"
+    },
+    {
+      "key": "SEXY_0112",
+      "value": "Décris en détail votre premier baiser (avec ton/ta partenaire). 2"
+    },
+    {
+      "key": "SEXY_0113",
+      "value": "As-tu déjà rêvé dembrasser quelquun ? Qui était-ce ? 2"
+    },
+    {
+      "key": "SEXY_0114",
+      "value": "Raconte si tu as déjà embrassé qqn (sexe opposé) en étant saoul(e). 2"
+    },
+    {
+      "key": "SEXY_0115",
+      "value": "(En soirée) As-tu déjà vu dautres personnes faire des choses osées en secret ? 2"
+    },
+    {
+      "key": "SEXY_0116",
+      "value": "Lequel(le) de tes ami(e)s proches a un corps que tu admires ? Pourquoi ? 2"
+    },
+    {
+      "key": "SEXY_0117",
+      "value": "Quelle taille (hauteur) trouves-tu la plus sexy chez une personne ? 2"
+    },
+    {
+      "key": "SEXY_0118",
+      "value": "Pour être sexy (femme), vaut-il mieux être grande (taille) ou voluptueuse (poitrine) ? 2"
+    },
+    {
+      "key": "SEXY_0119",
+      "value": "Quel pourcentage de la sexytude dun homme représentent ses épaules ? 2"
+    },
+    {
+      "key": "SEXY_0120",
+      "value": "Quel pourcentage de la sexytude dune femme représente sa poitrine ? 2"
+    },
+    {
+      "key": "SEXY_0121",
+      "value": "Trouves-tu le petit ventre (la graisse du ventre) attirant ? 2"
+    },
+    {
+      "key": "SEXY_0122",
+      "value": "As-tu déjà un peu forcé un baiser (à quelquun) ? 2"
+    },
+    {
+      "key": "SEXY_0123",
+      "value": "Raconte une fois où un simple câlin ta fait vibrer (le cœur). 2"
+    },
+    {
+      "key": "SEXY_0124",
+      "value": "Si ton/ta partenaire initiait un contact physique (caresses) dans un coin caché dun café, accepterais-tu ? 2"
+    },
+    {
+      "key": "SEXY_0125",
+      "value": "Quel contact physique (skinship) aimerais-tu faire à ton/ta partenaire (maintenant) ? 2"
+    },
+    {
+      "key": "SEXY_0126",
+      "value": "Quelle est la limite du contact physique que tu accepterais (ici, maintenant) ? 2"
+    },
+    {
+      "key": "SEXY_0127",
+      "value": "Trouves-tu ton/ta partenaire sexy quand il/elle porte un débardeur (tank top) ? 2"
+    },
+    {
+      "key": "SEXY_0128",
+      "value": "Décris ta texture de peau (sensation au toucher) préférée. 2"
+    },
+    {
+      "key": "SEXY_0129",
+      "value": "Fais-tu très attention à tes poils sous les aisselles ? 2"
+    },
+    {
+      "key": "SEXY_0130",
+      "value": "Est-ce que ça te dérange si ton/ta partenaire a beaucoup de poils ? 2"
+    },
+    {
+      "key": "SEXY_0131",
+      "value": "Penses-tu quil vaut mieux faire de la chirurgie (pour être sexy) que de rester tel(le) quel(le) ? 2"
+    },
+    {
+      "key": "SEXY_0132",
+      "value": "Quel jeu de séduction (flirt) évident ton/ta partenaire a-t-il/elle fait avant de sortir ensemble ? 2"
+    },
+    {
+      "key": "SEXY_0133",
+      "value": "Quel est ton type de contact physique (skinship) préféré ? 2"
+    },
+    {
+      "key": "SEXY_0134",
+      "value": "Quel contact physique (entre ton/ta partenaire et qqn dautre) te rendrait jaloux/se ? 2"
+    },
+    {
+      "key": "SEXY_0135",
+      "value": "As-tu déjà visité le profil (réseaux sociaux) de ton ex ? 2"
+    },
+    {
+      "key": "SEXY_0136",
+      "value": "Suis-tu des influenceurs/euses (avec des corps de rêve) ? 2"
+    },
+    {
+      "key": "SEXY_0137",
+      "value": "À quels moments ton ex te manque-t-il/elle le plus ? 2"
+    },
+    {
+      "key": "SEXY_0138",
+      "value": "Quelle est ta définition personnelle de la tromperie ? 2"
+    },
+    {
+      "key": "SEXY_0139",
+      "value": "Penses-tu que ton/ta partenaire a beaucoup doptions (est très sollicité/e) ? 2"
+    },
+    {
+      "key": "SEXY_0140",
+      "value": "Lors dun premier rdv, quelle est la limite (jusquoù peut-on aller) ? 2"
+    },
+    {
+      "key": "SEXY_0141",
+      "value": "Quelle est ta technique secrète pour séduire quelquun ? 2"
+    },
+    {
+      "key": "SEXY_0142",
+      "value": "As-tu déjà embrassé deux personnes différentes (sexe opposé) au cours du même mois ? 2"
+    },
+    {
+      "key": "SEXY_0143",
+      "value": "Que penses-tu du fait de sortir avec qqn rencontré en boîte de nuit (club) ? 2"
+    },
+    {
+      "key": "SEXY_0144",
+      "value": "As-tu déjà embrassé qqn en boîte ? Ou aimerais-tu essayer ? 2"
+    },
+    {
+      "key": "SEXY_0145",
+      "value": "Quelle est la scène la plus osée que tu aies vue en boîte ? 2"
+    },
+    {
+      "key": "SEXY_0146",
+      "value": "Si vous viviez ensemble, que penserais-tu de dormir dans des chambres séparées ? 2"
+    },
+    {
+      "key": "SEXY_0147",
+      "value": "Que dirais-tu si ton ami(e) (en couple) te disait quil/elle part en voyage avec un(e) ami(e) du sexe opposé ? 2"
+    },
+    {
+      "key": "SEXY_0148",
+      "value": "Ton/ta meilleur(e) ami(e) te propose un double date secret (avec des gens canons). Tu fais quoi ? 2"
+    },
+    {
+      "key": "SEXY_0149",
+      "value": "Ton/ta meilleur(e) ami(e) (seul/e) veut faire une table de 4 (2 vs 2) avec qqn qui lui plaît. Tu fais quoi ? 2"
+    },
+    {
+      "key": "SEXY_0150",
+      "value": "Quelle partie du corps de ton/ta partenaire aimerais-tu stimuler avec ta bouche ? 3"
+    },
+    {
+      "key": "SEXY_0151",
+      "value": "Haut du corps vs Bas du corps : Lequel préférerais-tu stimuler avec ta bouche ? Pourquoi ? 3"
+    },
+    {
+      "key": "SEXY_0152",
+      "value": "As-tu déjà pensé à autre chose en faisant lamour ? À quoi ? 3"
+    },
+    {
+      "key": "SEXY_0153",
+      "value": "Quelle partie aimerais-tu stimuler avec ta bouche (avant de faire lamour) ? 3"
+    },
+    {
+      "key": "SEXY_0154",
+      "value": "As-tu déjà eu envie darrêter au milieu de lamour ? 3"
+    },
+    {
+      "key": "SEXY_0155",
+      "value": "Quelle expression de ton/ta partenaire te stimule le plus pendant lamour ? 3"
+    },
+    {
+      "key": "SEXY_0156",
+      "value": "Que porte ton/ta partenaire quand tu as le plus envie de faire lamour ? 3"
+    },
+    {
+      "key": "SEXY_0157",
+      "value": "Choisis une tenue que tu aimerais que ton/ta partenaire porte pendant lamour. 3"
+    },
+    {
+      "key": "SEXY_0158",
+      "value": "Embrasser te donne envie de faire lamour, ou de te concentrer sur le baiser ? 3"
+    },
+    {
+      "key": "SEXY_0159",
+      "value": "Quelle position pendant lamour te stimule le plus ? 3"
+    },
+    {
+      "key": "SEXY_0160",
+      "value": "Y a-t-il un endroit spécial où tu aimerais faire lamour avec ton/ta partenaire ? 3"
+    },
+    {
+      "key": "SEXY_0161",
+      "value": "Comment décrirais-tu votre première fois (amour) ? 3"
+    },
+    {
+      "key": "SEXY_0162",
+      "value": "Raconte un de tes fantasmes intimes à ton/ta partenaire. 3"
+    },
+    {
+      "key": "SEXY_0163",
+      "value": "Quand vous faites lamour, tu préfères la douceur ou lintensité ? 3"
+    },
+    {
+      "key": "SEXY_0164",
+      "value": "Quand vous faites lamour, préférez-vous la lumière allumée ? 3"
+    },
+    {
+      "key": "SEXY_0165",
+      "value": "Quelle est la durée parfaite pour faire lamour, selon toi ? 3"
+    },
+    {
+      "key": "SEXY_0166",
+      "value": "Faire lamour : Profond et intense vs Doux et lent ? 3"
+    },
+    {
+      "key": "SEXY_0167",
+      "value": "Les caresses : Préfères-tu (avec les mains) ou (avec la bouche) ? 3"
+    },
+    {
+      "key": "SEXY_0168",
+      "value": "Y a-t-il une partie de ton corps que tu aimerais que ton/ta partenaire stimule avec sa bouche (pdt lamour) ? 3"
+    },
+    {
+      "key": "SEXY_0169",
+      "value": "Quel est le meilleur moment où tu as été stimulé(e) (caressé/e) par ton/ta partenaire ? 3"
+    },
+    {
+      "key": "SEXY_0170",
+      "value": "Y a-t-il un endroit (dehors) où tu aimerais faire lamour en secret ? 3"
+    },
+    {
+      "key": "SEXY_0171",
+      "value": "Y a-t-il une stimulation (préliminaires) que tu aimerais recevoir avant de faire lamour ? 3"
+    },
+    {
+      "key": "SEXY_0172",
+      "value": "Y a-t-il une tenue que tu aimerais que ton/ta partenaire porte pendant lamour ? 3"
+    },
+    {
+      "key": "SEXY_0173",
+      "value": "Y a-t-il un costume (cosplay) que tu aimerais porter (avec partenaire) pendant lamour ? 3"
+    },
+    {
+      "key": "SEXY_0174",
+      "value": "Aimes-tu faire du cosplay pendant lamour ? 3"
+    },
+    {
+      "key": "SEXY_0175",
+      "value": "As-tu des fantasmes sur le fait de faire lamour en jouant un rôle ? 3"
+    },
+    {
+      "key": "SEXY_0176",
+      "value": "Si tu devais décrire votre amour (physique) en un seul mot ? 3"
+    },
+    {
+      "key": "SEXY_0177",
+      "value": "As-tu des fantasmes sur le fait de faire lamour avec un(e) étranger(ère) ? 3"
+    },
+    {
+      "key": "SEXY_0178",
+      "value": "Si tu faisais lamour (autre race), laquelle voudrais-tu essayer ? 3"
+    },
+    {
+      "key": "SEXY_0179",
+      "value": "Penses-tu que tu pourrais faire lamour avec qqn du même sexe ? 3"
+    },
+    {
+      "key": "SEXY_0180",
+      "value": "Penses-tu que tu es bon/bonne au lit ? 3"
+    },
+    {
+      "key": "SEXY_0181",
+      "value": "Quelle est la meilleure chose quand vous faites lamour ? 3"
+    },
+    {
+      "key": "SEXY_0182",
+      "value": "Que ferais-tu si les parents de ton/ta partenaire vous surprenaient en faisant lamour ? 3"
+    },
+    {
+      "key": "SEXY_0183",
+      "value": "Quand vous faites lamour, tu préfères diriger ou être dirigé(e) ? 3"
+    },
+    {
+      "key": "SEXY_0184",
+      "value": "Tidentifies-tu plus au côté M (soumis) ou S (dominant) ? 3"
+    },
+    {
+      "key": "SEXY_0185",
+      "value": "Préfères-tu que ton/ta partenaire soit épilé(e) (ex: épilation brésilienne) ? 3"
+    },
+    {
+      "key": "SEXY_0186",
+      "value": "Aimes-tu être stimulé(e) par la bouche de ton/ta partenaire ? 3"
+    },
+    {
+      "key": "SEXY_0187",
+      "value": "Aimes-tu stimuler ton/ta partenaire avec ta bouche ? 3"
+    },
+    {
+      "key": "SEXY_0188",
+      "value": "Raconte un fantasme intime que tu as gardé secret. 3"
+    },
+    {
+      "key": "SEXY_0189",
+      "value": "Aimes-tu quand ton/ta partenaire te chuchote à loreille pendant lamour ? 3"
+    },
+    {
+      "key": "SEXY_0190",
+      "value": "Aimes-tu quand ton/ta partenaire stimule ton oreille (bouche) pendant lamour ? 3"
+    },
+    {
+      "key": "SEXY_0191",
+      "value": "En stimulant la partie intime, as-tu déjà eu un poil dans la bouche ? Cétait comment ? 3"
+    },
+    {
+      "key": "SEXY_0192",
+      "value": "Que penses-tu du fait que ton/ta partenaire se fasse plaisir (solo) en secret ? 3"
+    },
+    {
+      "key": "SEXY_0193",
+      "value": "Que ressentirait ton/ta partenaire sil/elle te voyait te faire plaisir (solo) ? 3"
+    },
+    {
+      "key": "SEXY_0194",
+      "value": "Que ressentirais-tu si tu voyais ton/ta partenaire se faire plaisir (solo) ? 3"
+    },
+    {
+      "key": "SEXY_0195",
+      "value": "Tes-tu déjà fait plaisir (solo) sans que ton/ta partenaire le sache ? Quand ? 3"
+    },
+    {
+      "key": "SEXY_0196",
+      "value": "As-tu déjà eu un coup dun soir avec qqn rencontré en boîte ? 3"
+    },
+    {
+      "key": "SEXY_0197",
+      "value": "As-tu déjà eu un coup dun soir avec qqn rencontré dans un bar ? 3"
+    },
+    {
+      "key": "SEXY_0198",
+      "value": "Quand tu as rencontré ton/ta partenaire, as-tu ressenti lenvie de faire lamour ? 3"
+    },
+    {
+      "key": "SEXY_0199",
+      "value": "Si tu devais stimuler ton/ta partenaire (avec un dessert sur son corps), lequel ? 3"
+    },
+    {
+      "key": "SEXY_0200",
+      "value": "Est-ce que les mots crus  te stimulent pendant lamour ? 3"
+    },
+    {
+      "key": "SEXY_0201",
+      "value": "Si ton/ta partenaire avait 10 ans de plus, penses-tu que vous pourriez faire lamour ? 3"
+    },
+    {
+      "key": "SEXY_0202",
+      "value": "Jusquà quel âge penses-tu pouvoir faire lamour avec ton/ta partenaire ? 3"
+    },
+    {
+      "key": "SEXY_0203",
+      "value": "Si tu ne pouvais plus jamais faire lamour, pourrais-tu rester avec ton/ta partenaire ? 3"
+    },
+    {
+      "key": "SEXY_0204",
+      "value": "Peux-tu aimer quelquun sans faire lamour ? 3"
+    },
+    {
+      "key": "SEXY_0205",
+      "value": "Durée de lamour : Tu préfères (long) ou (court) ? 3"
+    },
+    {
+      "key": "SEXY_0206",
+      "value": "Pendant lamour : Tu préfères (donner des ordres) ou (obéir aux ordres) ? 3"
+    },
+    {
+      "key": "SEXY_0207",
+      "value": "Corps du partenaire : Tu préfères (le haut) ou (le bas) ? 3"
+    },
+    {
+      "key": "SEXY_0208",
+      "value": "Que penses-tu des appels coquins ? Aimerais-tu essayer ? 3"
+    },
+    {
+      "key": "SEXY_0209",
+      "value": "As-tu le fantasme de faire lamour à ton/ta partenaire (complètement saoul/e) ? 3"
+    },
+    {
+      "key": "SEXY_0210",
+      "value": "Si tu te maries, combien de fois par mois aimerais-tu faire lamour ? 3"
+    },
+    {
+      "key": "SEXY_0211",
+      "value": "As-tu déjà pensé à vouloir faire un plan à trois ? 3"
+    },
+    {
+      "key": "SEXY_0212",
+      "value": "Que ferais-tu si ton/ta partenaire pétait pendant lamour ? 3"
+    },
+    {
+      "key": "SEXY_0213",
+      "value": "Que ferais-tu si ton/ta partenaire te demandait de faire lamour à trois avec son/sa meilleur(e) ami(e) ? 3"
+    },
+    {
+      "key": "SEXY_0214",
+      "value": "Si ton/ta partenaire ne pouvait pas faire lamour (1 an), comment gérerais-tu tes pulsions ? 3"
+    },
+    {
+      "key": "SEXY_0215",
+      "value": "Avez-vous déjà pris une douche ensemble ? Que penses-tu de faire lamour sous la douche ? 3"
+    },
+    {
+      "key": "SEXY_0216",
+      "value": "Sur une échelle de 1 à 10, quel est ton niveau de libido ? 3"
+    },
+    {
+      "key": "SEXY_0217",
+      "value": "Sur une échelle de 1 à 10, quel est ton niveau de libido ? 3"
+    },
+    {
+      "key": "SEXY_0218",
+      "value": "Penses-tu que ton/ta partenaire a une forte libido ? Pourquoi ? 3"
+    },
+    {
+      "key": "SEXY_0219",
+      "value": "Position (pour lamour) : Préfères-tu face à face ou par derrière ? 3"
+    },
+    {
+      "key": "SEXY_0220",
+      "value": "Préfères-tu qqn avec beaucoup dexpérience ou qqn sans expérience ? 3"
+    },
+    {
+      "key": "SEXY_0221",
+      "value": "Que ferais-tu si la partie intime de ton/ta partenaire sentait très fort ? 3"
+    },
+    {
+      "key": "SEXY_0222",
+      "value": "Que ferais-tu si tu découvrais que ton/ta partenaire a fait lamour (passé) avec ton/ta meilleur(e) ami(e) ? 3"
+    },
+    {
+      "key": "SEXY_0223",
+      "value": "Penses-tu que lalchimie physique est très importante dans une relation ? 3"
+    },
+    {
+      "key": "SEXY_0224",
+      "value": "Que penses-tu de faire lamour dès le matin au réveil ? 3"
+    },
+    {
+      "key": "SEXY_0225",
+      "value": "Si tu pouvais changer le visage de ton/ta partenaire (en célébrité) pendant lamour, qui ? 3"
+    },
+    {
+      "key": "SEXY_0226",
+      "value": "Aimerais-tu regarder une vidéo pour adultes avec ton/ta partenaire ? 3"
+    },
+    {
+      "key": "SEXY_0227",
+      "value": "Si tu ne pouvais utiliser quune seule position (amour) (reste de ta vie), laquelle ? 3"
+    },
+    {
+      "key": "SEXY_0228",
+      "value": "Quel est ton point le plus sensible (zone érogène) sur le corps ? 3"
+    },
+    {
+      "key": "SEXY_0229",
+      "value": "As-tu déjà fait lamour plusieurs fois en une nuit ? 3"
+    },
+    {
+      "key": "SEXY_0230",
+      "value": "Cest quoi le nombre maximum de fois que tu penses pouvoir faire lamour en un jour ? 3"
+    },
+    {
+      "key": "SEXY_0231",
+      "value": "Si tu pars en voyage (amis), voudrais-tu faire lamour en secret (avec partenaire) ? 3"
+    },
+    {
+      "key": "SEXY_0232",
+      "value": "Décris en détail les sous-vêtements que tu portes aujourdhui. 3"
+    },
+    {
+      "key": "SEXY_0233",
+      "value": "Quelle partie du corps de ton/ta partenaire préfères-tu stimuler avec ta bouche ? 3"
+    },
+    {
+      "key": "SEXY_0234",
+      "value": "Tes-tu fait plaisir (solo) cette semaine ? 3"
+    },
+    {
+      "key": "SEXY_0235",
+      "value": "Aimerais-tu essayer de faire lamour dans des toilettes publiques ? 3"
+    },
+    {
+      "key": "SEXY_0236",
+      "value": "Aimerais-tu essayer de faire lamour dans une voiture ? 3"
+    },
+    {
+      "key": "SEXY_0237",
+      "value": "Aimerais-tu faire lamour en secret au travail (avec partenaire) ? 3"
+    },
+    {
+      "key": "SEXY_0238",
+      "value": "(Après une longue journée) Aimerais-tu rentrer et trouver ton/ta partenaire sans vêtement ? 3"
+    },
+    {
+      "key": "SEXY_0239",
+      "value": "Aimerais-tu essayer de faire lamour (les yeux bandés) ? 3"
+    },
+    {
+      "key": "SEXY_0240",
+      "value": "Y a-t-il une scène de vidéo pour adultes que tu aimerais recréer ? 3"
+    },
+    {
+      "key": "SEXY_0241",
+      "value": "Peux-tu être satisfait(e) si ton/ta partenaire atteint lextase, même si toi non ? 3"
+    },
+    {
+      "key": "SEXY_0242",
+      "value": "Décris le meilleur climax (orgasme) que tu aies jamais ressenti. 3"
+    },
+    {
+      "key": "SEXY_0243",
+      "value": "Dis à ton/ta partenaire ce dont tu as besoin pour atteindre ton meilleur climax. 3"
+    },
+    {
+      "key": "SEXY_0244",
+      "value": "Y a-t-il une chose coquine que tu aimerais essayer un jour ? 3"
+    },
+    {
+      "key": "SEXY_0245",
+      "value": "Tes-tu déjà fait plaisir (solo) au travail ? 3"
+    },
+    {
+      "key": "SEXY_0246",
+      "value": "Quand vous faites lamour, préfères-tu que ton/ta partenaire dirige ? 3"
+    },
+    {
+      "key": "SEXY_0247",
+      "value": "Décris en détail la dernière vidéo pour adultes que tu as regardée. 3"
+    },
+    {
+      "key": "SEXY_0248",
+      "value": "Y a-t-il qqc que tu aimerais essayer au lit, mais que tu hésites à faire ? 3"
+    },
+    {
+      "key": "SEXY_0249",
+      "value": "Quaimerais-tu entendre juste après avoir fait lamour ? 3"
+    },
+    {
+      "key": "SEXY_0250",
+      "value": "Quel est ton genre préféré de vidéos pour adultes ? 3"
+    },
+    {
+      "key": "SEXY_0251",
+      "value": "Quelle position te donne le plus de sensations (te stimule le plus) ? 3"
+    },
+    {
+      "key": "SEXY_0252",
+      "value": "Penses-tu que tu serais plus stimulé(e) si tu faisais lamour (attaché/e) ? 3"
+    },
+    {
+      "key": "SEXY_0253",
+      "value": "As-tu déjà été témoin (vu) un autre couple en train de faire lamour ? 3"
+    },
+    {
+      "key": "SEXY_0254",
+      "value": "Que penses-tu du fait que ton/ta partenaire te stimule avec ses pieds ? 3"
+    },
+    {
+      "key": "SEXY_0255",
+      "value": "Quand tu te fais plaisir (solo), as-tu déjà imaginé qqn ? Qui ? 3"
+    },
+    {
+      "key": "SEXY_0256",
+      "value": "Au lit, penses-tu que tu gagnes (domines) la plupart du temps ? 3"
+    },
+    {
+      "key": "SEXY_0257",
+      "value": "As-tu déjà pensé à quelquun dautre pendant lamour ? 3"
+    },
+    {
+      "key": "SEXY_0258",
+      "value": "(Une nuit calme) Pourrais-tu faire lamour avec ton/ta partenaire sur une plage ? 3"
+    },
+    {
+      "key": "SEXY_0259",
+      "value": "Essaie de deviner quel fantasme intime ton/ta partenaire pourrait avoir. 3"
+    },
+    {
+      "key": "SEXY_0260",
+      "value": "Décris tes compétences au lit (récentes) en un seul mot. 3"
+    },
+    {
+      "key": "SEXY_0261",
+      "value": "Devine quand était la dernière fois que ton/ta partenaire sest fait plaisir (solo). 3"
+    },
+    {
+      "key": "SEXY_0262",
+      "value": "Devine quand était la dernière fois que ton/ta partenaire a regardé une vidéo pour adultes. 3"
+    },
+    {
+      "key": "SEXY_0263",
+      "value": "Quel est ton point le plus sensible (zone érogène) ? 3"
+    },
+    {
+      "key": "SEXY_0264",
+      "value": "(À part la chambre) Quel est le meilleur endroit où tu as fait lamour ? 3"
+    },
+    {
+      "key": "SEXY_0265",
+      "value": "Est-ce que ça te stimule de voir ton/ta partenaire attaché(e) au lit ? 3"
+    },
+    {
+      "key": "SEXY_0266",
+      "value": "Y a-t-il un endroit de rêve où tu aimerais faire lamour ? 3"
+    },
+    {
+      "key": "SEXY_0267",
+      "value": "Quelle est la plus longue durée (dun acte damour) que tu aies eue ? 3"
+    },
+    {
+      "key": "SEXY_0268",
+      "value": "Quelle est la durée la plus courte (dun acte damour) que tu aies eue ? 3"
+    },
+    {
+      "key": "SEXY_0269",
+      "value": "As-tu déjà rêvé de faire lamour ? Cétait quel rêve ? 3"
+    },
+    {
+      "key": "SEXY_0270",
+      "value": "Te souviens-tu de ta première fois (solo) ? Raconte en détail. 3"
+    },
+    {
+      "key": "SEXY_0271",
+      "value": "Tes-tu déjà fait surprendre en train de te faire plaisir (solo) ? 3"
+    },
+    {
+      "key": "SEXY_0272",
+      "value": "Choisis 3 acteurs/actrices avec qui tu aimerais faire lamour. 3"
+    },
+    {
+      "key": "SEXY_0273",
+      "value": "Quelle est la durée idéale pour les stimulations (préliminaires) ? 3"
+    },
+    {
+      "key": "SEXY_0274",
+      "value": "Si tu pouvais conseiller ton toi du passé (juste avant la première fois) ? 3"
+    },
+    {
+      "key": "SEXY_0275",
+      "value": "Aimerais-tu aller dans une boutique pour adultes avec ton/ta partenaire ? 3"
+    },
+    {
+      "key": "SEXY_0276",
+      "value": "Si tu as une compétence au lit que les autres ignorent, dis-la. 3"
+    },
+    {
+      "key": "SEXY_0277",
+      "value": "Décris comment était votre première fois (amour) ensemble. 3"
+    },
+    {
+      "key": "SEXY_0278",
+      "value": "Est-ce mieux de faire lamour en écoutant de la musique ? 3"
+    },
+    {
+      "key": "SEXY_0279",
+      "value": "Que ferais-tu si ton/ta partenaire apparaissait dans une vidéo pour adultes ? 3"
+    },
+    {
+      "key": "SEXY_0280",
+      "value": "Matin, Après-midi, Nuit : Quel est le meilleur moment pour faire lamour ? 3"
+    },
+    {
+      "key": "SEXY_0281",
+      "value": "Y a-t-il qqc que tu aimerais acheter dans une boutique pour adultes ? 3"
+    },
+    {
+      "key": "SEXY_0282",
+      "value": "Aimerais-tu que ton/ta partenaire te donne une légère fessée pendant lamour ? 3"
+    },
+    {
+      "key": "SEXY_0283",
+      "value": "Connais-tu la position inversée ? Lapprécies-tu ? 3"
+    },
+    {
+      "key": "SEXY_0284",
+      "value": "Y a-t-il un acte que tu ne veux vraiment pas faire pendant lamour ? Pourquoi ? 3"
+    },
+    {
+      "key": "SEXY_0285",
+      "value": "Aimerais-tu faire une épilation intime (ex: brésilienne) avec ton/ta partenaire ? 3"
+    },
+    {
+      "key": "SEXY_0286",
+      "value": "(Pendant lamour intense) Aimerais-tu que ton/ta partenaire te serre légèrement le cou ? 3"
+    },
+    {
+      "key": "SEXY_0287",
+      "value": "Quelle est la meilleure façon de donner du plaisir (avec ta bouche) à ton/ta partenaire ? 3"
+    },
+    {
+      "key": "SEXY_0288",
+      "value": "Que ferais-tu si tu apprenais que ton/ta partenaire a couché avec son boss (promotion) ? 3"
+    },
+    {
+      "key": "SEXY_0289",
+      "value": "Aimerais-tu entendre des mots crus et excitants  pendant lamour ? Lesquels ? 3"
+    },
+    {
+      "key": "SEXY_0290",
+      "value": "Pourrais-tu vivre avec qqn qui veut faire lamour au moins 3 fois par jour ? 3"
+    },
+    {
+      "key": "SEXY_0291",
+      "value": "Y a-t-il une position que tu pensais être bien, mais qui ne létait pas ? 3"
+    },
+    {
+      "key": "SEXY_0292",
+      "value": "As-tu déjà ressenti de la douleur en faisant lamour ? Pourquoi ? 3"
+    },
+    {
+      "key": "SEXY_0293",
+      "value": "Penses-tu que tu pourrais faire lamour dans un bus (avec peu de passagers) ? 3"
+    },
+    {
+      "key": "SEXY_0294",
+      "value": "Pourrais-tu faire lamour en secret (avec qqn) pendant que ta famille est à la maison ? 3"
+    },
+    {
+      "key": "SEXY_0295",
+      "value": "Si tu devais comparer ton/ta partenaire (pendant lamour) à un animal ? 3"
+    },
+    {
+      "key": "SEXY_0296",
+      "value": "(À part avec toi) Que penses-tu du fait que ton/ta partenaire se fasse plaisir (solo) ? 3"
+    },
+    {
+      "key": "SEXY_0297",
+      "value": "As-tu envie de stimuler ton/ta partenaire en utilisant un jouet pour adultes ? 3"
+    },
+    {
+      "key": "SEXY_0298",
+      "value": "As-tu une aversion contre lutilisation de préservatifs ? 3"
+    },
+    {
+      "key": "SEXY_0299",
+      "value": "Y a-t-il une technique au lit que tu aimerais que ton/ta partenaire essaie ? 3"
+    },
+    {
+      "key": "SEXY_0300",
+      "value": "Si vous rompriez, penses-tu que vous pourriez rester sex friends (relation physique) ? 3"
+    },
+    {
+      "key": "SEXY_0301",
+      "value": "À quoi ressemble ton amour de lune de miel idéal ? 3"
+    },
+    {
+      "key": "SEXY_0302",
+      "value": "Quand as-tu appris ce quétait faire lamour pour la première fois ? 3"
+    },
+    {
+      "key": "SEXY_0303",
+      "value": "Si ton/ta partenaire refuse de tembrasser (après stimulation orale), tu fais quoi ? 3"
+    },
+    {
+      "key": "SEXY_0304",
+      "value": "Quel comportement (de ton/ta partenaire) te fait perdre lenvie de faire lamour ? 3"
+    },
+    {
+      "key": "SEXY_0305",
+      "value": "Décris à ton/ta partenaire ce que tu ressens quand tu atteins le climax. 3"
+    },
+    {
+      "key": "SEXY_0306",
+      "value": "Es-tu à laise avec lidée de faire lamour sans sêtre douché avant ? 3"
+    },
+    {
+      "key": "SEXY_0307",
+      "value": "Dis à ton/ta partenaire avec combien de personnes tu as fait lamour. 3"
+    },
+    {
+      "key": "SEXY_0308",
+      "value": "Que ferais-tu si ton/ta partenaire disait (par erreur) un autre nom pendant lamour ? 3"
+    },
+    {
+      "key": "SEXY_0309",
+      "value": "As-tu déjà regretté davoir fait lamour avec quelquun ? 3"
+    },
+    {
+      "key": "SEXY_0310",
+      "value": "Penses-tu parfois à un(e) ex qui était doué(e) (pendant lamour) ? 3"
+    },
+    {
+      "key": "SEXY_0311",
+      "value": "As-tu déjà prétexté (règles, fatigue, maladie) pour éviter de faire lamour ? 3"
+    },
+    {
+      "key": "SEXY_0312",
+      "value": "As-tu déjà eu un(e) partenaire physique (sex friend) ? 3"
+    },
+    {
+      "key": "SEXY_0313",
+      "value": "As-tu déjà essayé de stimuler (exciter) ton/ta partenaire dans un lieu public ? 3"
+    },
+    {
+      "key": "SEXY_0314",
+      "value": "Quelle est la chose la plus stimulante que tu aies entendue pendant lamour ? 3"
+    },
+    {
+      "key": "SEXY_0315",
+      "value": "Raconte un secret intime que tu connais sur quelquun dautre. 3"
+    },
+    {
+      "key": "SEXY_0316",
+      "value": "As-tu déjà surpris (par accident) tes parents en train de faire lamour ? 3"
+    },
+    {
+      "key": "SEXY_0317",
+      "value": "Quelle compétence au lit as-tu fait semblant daimer, mais quen fait tu naimais pas ? 3"
+    },
+    {
+      "key": "SEXY_0318",
+      "value": "Quelle est ta durée (en minutes) préférée pour faire lamour ? 3"
+    },
+    {
+      "key": "SEXY_0319",
+      "value": "Y a-t-il des photos intimes que tu aimerais prendre avec ton/ta partenaire ? 3"
+    },
+    {
+      "key": "SEXY_0320",
+      "value": "Si vous preniez des photos intimes, quel niveau (jusquoù) iriez-vous ? 3"
+    },
+    {
+      "key": "SEXY_0321",
+      "value": "Quaimerais-tu que ton/ta partenaire te dise après avoir fait lamour ? 3"
+    },
+    {
+      "key": "SEXY_0322",
+      "value": "Cite 3 points forts de ton/ta partenaire (pendant lamour). 3"
+    },
+    {
+      "key": "SEXY_0323",
+      "value": "Penses-tu que ton/ta partenaire est doué(e) au lit ? 3"
+    },
+    {
+      "key": "SEXY_0324",
+      "value": "Quelle est la meilleure stimulation (caresse) que tu aies reçue (partenaire) ? 3"
+    },
+    {
+      "key": "SEXY_0325",
+      "value": "Y a-t-il un jouet pour adultes que tu aimerais utiliser pendant lamour ? 3"
+    },
+    {
+      "key": "SEXY_0326",
+      "value": "(Habillés) Simulez faire lamour avec votre partenaire pendant 20 secondes. [20]"
+    },
+    {
+      "key": "SEXY_0327",
+      "value": "Combien de fois penses-tu avoir fait lamour (total) ? 3"
+    },
+    {
+      "key": "SEXY_0328",
+      "value": "(Avant la 1ère fois) Comment pensais-tu que serait la compétence au lit (partenaire) ? 3"
+    },
+    {
+      "key": "SEXY_0329",
+      "value": "Quelle est la différence entre votre première fois (amour) et maintenant ? 3"
+    },
+    {
+      "key": "SEXY_0330",
+      "value": "Dis-nous ton style préféré de vidéos pour adultes (pays, concept, niveau...) ? 3"
+    },
+    {
+      "key": "SEXY_0331",
+      "value": "Si tu pouvais avoir une chirurgie gratuite (sur tes parties), que changerais-tu ? 3"
+    },
+    {
+      "key": "SEXY_0332",
+      "value": "Quel est le nom de lex qui était le/la meilleur(e) pour la stimulation (prélis) ? 3"
+    },
+    {
+      "key": "SEXY_0333",
+      "value": "Quel est le nom de lex qui était le/la meilleur(e) (au lit) ? 3"
+    },
+    {
+      "key": "SEXY_0334",
+      "value": "Quel est le nom de lex avec qui tu avais la meilleure alchimie physique ? 3"
+    },
+    {
+      "key": "SEXY_0335",
+      "value": "Quel est le nom de la personne avec qui tu as eu ta première fois (amour) ? 3"
+    },
+    {
+      "key": "SEXY_0336",
+      "value": "As-tu déjà fait lamour avec un(e) étranger(ère) ? 3"
+    },
+    {
+      "key": "SEXY_0337",
+      "value": "As-tu entendu des spécificités sur lamour avec les étrangers ? 3"
+    },
+    {
+      "key": "SEXY_0338",
+      "value": "Avec combien de personnes as-tu fait lamour (jusquici) ? 3"
+    },
+    {
+      "key": "SEXY_0339",
+      "value": "As-tu déjà fait lamour à trois, ou presque ? 3"
+    },
+    {
+      "key": "SEXY_0340",
+      "value": "As-tu déjà décrit ta vie intime (avec partenaire) à tes ami(e)s ? 3"
+    },
+    {
+      "key": "SEXY_0341",
+      "value": "Honnêtement, y a-t-il des moments où se faire plaisir (solo) est meilleur que lamour ? 3"
+    },
+    {
+      "key": "SEXY_0342",
+      "value": "Es-tu déjà allé(e) dans un établissement de divertissement pour adultes ? 3"
+    },
+    {
+      "key": "SEXY_0343",
+      "value": "Jusquoù es-tu allé(e) lors dune première rencontre ? 3"
+    },
+    {
+      "key": "SEXY_0344",
+      "value": "(Sur 100%) À quel pourcentage évalues-tu votre alchimie physique ? 3"
+    },
+    {
+      "key": "SEXY_0345",
+      "value": "Cest quoi le nombre max de fois que tu as fait lamour en un jour ? 3"
+    },
+    {
+      "key": "SEXY_0346",
+      "value": "As-tu déjà rompu à cause dune mauvaise alchimie physique ? 3"
+    },
+    {
+      "key": "SEXY_0347",
+      "value": "Penses-tu parfois à un(e) ex (avec qui tu avais une bonne alchimie) ? 3"
+    },
+    {
+      "key": "SEXY_0348",
+      "value": "Y a-t-il une nouvelle position que tu aimerais essayer (avec partenaire) ? 3"
+    },
+    {
+      "key": "SEXY_0349",
+      "value": "Quels sont les 3 mots qui représentent votre amour (physique) ? 3"
+    },
+    {
+      "key": "SEXY_0350",
+      "value": "À quelle fréquence penses-tu à faire lamour ? 3"
+    },
+    {
+      "key": "SEXY_0351",
+      "value": "Décris le processus idéal qui mène à faire lamour. 3"
+    },
+    {
+      "key": "SEXY_0352",
+      "value": "Que dit ton/ta partenaire quand il/elle est stimulé(e) pendant lamour ? 3"
+    },
+    {
+      "key": "SEXY_0353",
+      "value": "Si tu pouvais embrasser (1 endroit) son corps (sauf visage), où ? 3"
+    },
+    {
+      "key": "SEXY_0354",
+      "value": "Quelle tenue sexy (vue dans une vidéo adulte) te revient en mémoire ? 3"
+    },
+    {
+      "key": "SEXY_0355",
+      "value": "Quel type de bas (collants) trouves-tu le plus sexy ? 3"
+    },
+    {
+      "key": "SEXY_0356",
+      "value": "As-tu déjà rêvé de faire lamour ? Si oui, cétait quel rêve ? 3"
+    },
+    {
+      "key": "SEXY_0357",
+      "value": "Es-tu satisfait(e) de la forme de tes pointes (tétons) ? Pourquoi ? 3"
+    },
+    {
+      "key": "SEXY_0358",
+      "value": "Perds-tu lenvie de faire lamour avec qqn (en surpoids) ? 3"
+    },
+    {
+      "key": "SEXY_0359",
+      "value": "Quel niveau dentretien (physique) attends-tu (pour garder lenvie) ? 3"
+    },
+    {
+      "key": "SEXY_0360",
+      "value": "Perds-tu lenvie dembrasser qqn (en surpoids) ? 3"
+    },
+    {
+      "key": "SEXY_0361",
+      "value": "Quelle partie du corps (partenaire) (si changée) rendrait lamour meilleur ? 3"
+    },
+    {
+      "key": "SEXY_0362",
+      "value": "Quel changement (aux parties intimes du partenaire) rendrait votre vie intime 2x meilleure ? 3"
+    },
+    {
+      "key": "SEXY_0363",
+      "value": "Est-ce mieux de faire lamour (après épilation, ex: Brésilienne) ? 3"
+    },
+    {
+      "key": "SEXY_0364",
+      "value": "As-tu déjà perdu lenvie de faire lamour (à cause des poils) ? 3"
+    },
+    {
+      "key": "SEXY_0365",
+      "value": "Que penses-tu du fait davaler la finition (fluides) ? 3"
+    },
+    {
+      "key": "SEXY_0366",
+      "value": "Si tu as déjà été très excitée (mouillée) (à cause de partenaire), cétait quand ? 3"
+    },
+    {
+      "key": "SEXY_0367",
+      "value": "As-tu déjà été très excitée (mouillée) dans un lieu public ? 3"
+    },
+    {
+      "key": "SEXY_0368",
+      "value": "As-tu déjà pensé à faire lamour en secret (lieu public) ? Où ? 3"
+    },
+    {
+      "key": "SEXY_0369",
+      "value": "As-tu déjà eu envie de stimuler ton/ta partenaire (avec ta bouche) pendant son sommeil ? 3"
+    },
+    {
+      "key": "SEXY_0370",
+      "value": "As-tu le fantasme que ton/ta partenaire te domine brutalement (quand tu es saoul/e) ? 3"
+    },
+    {
+      "key": "SEXY_0371",
+      "value": "Fais-tu attention à ce que ton soutien-gorge et ta culotte soient assortis ? 3"
+    },
+    {
+      "key": "SEXY_0372",
+      "value": "Trouves-tu les sous-vêtements (imprimé léopard) sexy ? 3"
+    },
+    {
+      "key": "SEXY_0373",
+      "value": "Aimes-tu la lingerie avec de la dentelle ? 3"
+    },
+    {
+      "key": "SEXY_0374",
+      "value": "Aimes-tu les sous-vêtements (à motifs floraux) ? 3"
+    },
+    {
+      "key": "SEXY_0375",
+      "value": "Que penses-tu des tenues (révélant un décolleté plongeant) ? 3"
+    },
+    {
+      "key": "SEXY_0376",
+      "value": "Que penses-tu de le faire sans préservatif ? 3"
+    },
+    {
+      "key": "SEXY_0377",
+      "value": "Si vous utilisez un moyen de contraception, quelle méthode penses-tu être la meilleure ? 3"
+    },
+    {
+      "key": "SEXY_0378",
+      "value": "Quand est-ce que tu tépiles (ou te rases) ? 3"
+    },
+    {
+      "key": "SEXY_0379",
+      "value": "Quest-ce qui est un tue-lamour (casse lambiance) pour toi pendant lamour ? 3"
+    },
+    {
+      "key": "SEXY_0380",
+      "value": "Jusquoù laisserais-tu ton/ta partenaire te toucher (maintenant) ? 3"
+    },
+    {
+      "key": "SEXY_0381",
+      "value": "Quel est ton signal personnel quand tu es stimulé(e) ? 3"
+    },
+    {
+      "key": "SEXY_0383",
+      "value": "Tes-tu fait plaisir (solo) depuis que vous sortez ensemble ? 3"
+    },
+    {
+      "key": "SEXY_0384",
+      "value": "As-tu déjà fait un rêve intime (coquin) avec ton/ta partenaire ? 3"
+    },
+    {
+      "key": "SEXY_0385",
+      "value": "As-tu déjà eu un(e) partenaire physique (sex friend) ? 3"
+    },
+    {
+      "key": "SEXY_0386",
+      "value": "Quel est le meilleur endroit où tu as (déjà) fait lamour ? 3"
+    },
+    {
+      "key": "SEXY_0387",
+      "value": "Jusquoù es-tu prêt(e) à aller aujourdhui ? 3"
+    },
+    {
+      "key": "SEXY_0388",
+      "value": "Penses-tu que tu pourrais sortir avec qqn (malgré une mauvaise alchimie physique) ? 3"
+    },
+    {
+      "key": "SEXY_0389",
+      "value": "As-tu déjà embrassé qqn en boîte ? Ou aimerais-tu essayer ? 3"
+    },
+    {
+      "key": "SEXY_0390",
+      "value": "Quelle est ta phrase daccroche (pour séduire) quand tu nas pas envie de rentrer ? 3"
+    },
+    {
+      "key": "SEXY_0391",
+      "value": "Honnêtement, quel est lendroit qui te fait le plus vibrer quand ton/ta partenaire te stimule ? 3"
+    },
+    {
+      "key": "SEXY_0392",
+      "value": "As-tu déjà senti que seul(e) ton/ta partenaire était satisfait(e) (après lamour) ? 3"
+    },
+    {
+      "key": "SEXY_0393",
+      "value": "Pourrais-tu stimuler larrière de ton/ta partenaire (avec ta bouche) sil/elle le demandait ? 4"
+    },
+    {
+      "key": "SEXY_0394",
+      "value": "Si tu devais absolument faire lamour avec un être non-humain, quel genre ? 4"
+    },
+    {
+      "key": "SEXY_0395",
+      "value": "As-tu déjà pensé à vouloir faire lamour avec un être non-humain ? 4"
+    },
+    {
+      "key": "SEXY_0396",
+      "value": "Penses-tu que tu pourrais jouer dans une vidéo pour adultes (si on ne voit pas ton visage) ? 4"
+    },
+    {
+      "key": "SEXY_0397",
+      "value": "As-tu déjà pensé à vouloir vous filmer en train de faire lamour ? 4"
+    },
+    {
+      "key": "SEXY_0398",
+      "value": "Aimerais-tu te réveiller demain matin (avec la douce stimulation de ton/ta partenaire) ? 4"
+    },
+    {
+      "key": "SEXY_0399",
+      "value": "Stimulerais-tu (activement) ton/ta partenaire (même sil/elle ne sest pas lavé/e 2j) ? 4"
+    },
+    {
+      "key": "SEXY_0400",
+      "value": "(Si tu devais participer à un tournage adulte) : Filmer vs Être filmé(e). 4"
+    },
+    {
+      "key": "SEXY_0401",
+      "value": "Pourrais-tu donner une stimulation excitante à ton/ta partenaire (cabine dessayage) ? 4"
+    },
+    {
+      "key": "SEXY_0402",
+      "value": "Pourrais-tu accepter le jet chaud de ton/ta partenaire sur ton corps ? (Et sous la douche) ? 4"
+    },
+    {
+      "key": "SEXY_0403",
+      "value": "Que penses-tu de léchangisme (faire lamour avec un inconnu) ? 4"
+    },
+    {
+      "key": "SEXY_0404",
+      "value": "Si ton/ta partenaire toffrait un plan à trois comme cadeau danniversaire ? 4"
+    },
+    {
+      "key": "SEXY_0405",
+      "value": "As-tu déjà pensé à vouloir faire lamour (mélangisme) avec dautres couples ? 4"
+    },
+    {
+      "key": "SEXY_0406",
+      "value": "Si tu ne pouvais faire lamour que (lieux publics), où choisirais-tu ? 4"
+    },
+    {
+      "key": "SEXY_0407",
+      "value": "(Relation D/S) Aimerais-tu que ton/ta partenaire te donne un surnom dominant ? 4"
+    },
+    {
+      "key": "SEXY_0408",
+      "value": "As-tu envie dessayer lamour par derrière ? 4"
+    },
+    {
+      "key": "SEXY_0409",
+      "value": "Dis tout ce que tu sais sur lamour par derrière. 4"
+    },
+    {
+      "key": "SEXY_0410",
+      "value": "Que penses-tu de lamour par derrière ? 4"
+    },
+    {
+      "key": "SEXY_0411",
+      "value": "As-tu déjà pensé à vouloir regarder ton/ta partenaire faire lamour (avec qqn dautre) ? 4"
     },
     {
       "key": "ACTION_0001",
-      "value": "Enfer d'Action1"
+      "value": "Chante une phrase d'une chanson pour ton/ta partenaire. 1"
     },
     {
       "key": "ACTION_0002",
-      "value": "Enfer d'Action2"
+      "value": "Fais un petit rap pour ton/ta partenaire. 1"
     },
     {
       "key": "ACTION_0003",
-      "value": "Enfer d'Action3"
+      "value": "Supporte que ton/ta partenaire te chatouille pendant 15 secondes [15] 1"
     },
     {
       "key": "ACTION_0004",
-      "value": "Enfer d'Action4"
+      "value": "Ouvre légèrement la bouche et fais un clin d'œil sexy (lentement). 1"
     },
     {
       "key": "ACTION_0005",
-      "value": "Enfer d'Action1"
+      "value": "Montre le mouvement le plus \"sexy\" que tu peux faire avec ta langue (pendant 20s) [20] 1"
     },
     {
       "key": "ACTION_0006",
-      "value": "Enfer d'Action2"
+      "value": "Murmure \"Je t'aime\" à l'oreille de ton/ta partenaire. 1"
     },
     {
       "key": "ACTION_0007",
-      "value": "Enfer d'Action3"
+      "value": "Souffle de l'air chaud dans l'oreille de ton/ta partenaire (20s) [20] 1"
     },
     {
       "key": "ACTION_0008",
-      "value": "Enfer d'Action4"
+      "value": "Explique ce qu'est un \"baiser\" (en utilisant seulement tes mains). 1"
     },
     {
       "key": "ACTION_0009",
-      "value": "Enfer d'Action1"
+      "value": "Sens les pieds de ton/ta partenaire et décris l'odeur. 1"
     },
     {
       "key": "ACTION_0010",
-      "value": "Enfer d'Action2"
+      "value": "Laisse ton/ta partenaire sentir le sommet de ton crâne (20s) [20] 1"
     },
     {
       "key": "ACTION_0011",
-      "value": "Enfer d'Action3"
+      "value": "Masse la tête de ton/ta partenaire (60s) [60] 1"
     },
     {
       "key": "ACTION_0012",
-      "value": "Enfer d'Action4"
+      "value": "Masse les mains de ton/ta partenaire (60s) [60] 1"
     },
     {
       "key": "ACTION_0013",
-      "value": "Enfer d'Action1"
+      "value": "Masse les épaules de ton/ta partenaire (60s) [60] 1"
     },
     {
       "key": "ACTION_0014",
-      "value": "Enfer d'Action2"
+      "value": "Masse le dos de ton/ta partenaire (60s) [60] 1"
     },
     {
       "key": "ACTION_0015",
-      "value": "Enfer d'Action3"
+      "value": "Masse les pieds de ton/ta partenaire (60s) [60] 1"
     },
     {
       "key": "ACTION_0016",
-      "value": "Enfer d'Action4"
+      "value": "Masse les jambes de ton/ta partenaire (60s) [60] 1"
+    },
+    {
+      "key": "ACTION_0017",
+      "value": "Tiens les deux mains de ton/ta partenaire et dis \"Je t'aime\". 1"
+    },
+    {
+      "key": "ACTION_0018",
+      "value": "Rapproche-toi, regarde-le/la dans les yeux (5s), puis dis \"Je t'aime\". 1"
+    },
+    {
+      "key": "ACTION_0019",
+      "value": "Fais un léger baiser sur le dos de la main de ton/ta partenaire. 1"
+    },
+    {
+      "key": "ACTION_0020",
+      "value": "Fais une \"tête mignonne\" jusqu'à ce que ton/ta partenaire le reconnaisse. 1"
+    },
+    {
+      "key": "ACTION_0021",
+      "value": "Dis un \"gros mot mignon\" à ton/ta partenaire. 1"
+    },
+    {
+      "key": "ACTION_0022",
+      "value": "Sers fort ton/ta partenaire dans tes bras (20s) [20] 1"
+    },
+    {
+      "key": "ACTION_0023",
+      "value": "Fais une \"tête sexy\" jusqu'à ce que ton/ta partenaire le reconnaisse. 1"
+    },
+    {
+      "key": "ACTION_0024",
+      "value": "Fais une \"grimace drôle\" jusqu'à ce que ton/ta partenaire le reconnaisse. 1"
+    },
+    {
+      "key": "ACTION_0025",
+      "value": "Fais un \"nez de cochon\" (avec les doigts) et tiens 15 secondes [15] 1"
+    },
+    {
+      "key": "ACTION_0026",
+      "value": "Comporte-toi comme un \"adorable chiot\" (30s) [30] 1"
+    },
+    {
+      "key": "ACTION_0027",
+      "value": "Comporte-toi comme un \"adorable chaton\" (30s) [30] 1"
+    },
+    {
+      "key": "ACTION_0028",
+      "value": "Fais l'imitation d'une célébrité. 1"
+    },
+    {
+      "key": "ACTION_0029",
+      "value": "Fais l'imitation d'un personnage de dessin animé. 1"
+    },
+    {
+      "key": "ACTION_0030",
+      "value": "Fais l'imitation d'un animal. 1"
+    },
+    {
+      "key": "ACTION_0031",
+      "value": "Fais l'imitation d'un(e) chanteur/euse. 1"
+    },
+    {
+      "key": "ACTION_0032",
+      "value": "Fais l'imitation d'un(e) acteur/actrice. 1"
+    },
+    {
+      "key": "ACTION_0033",
+      "value": "Supporte que ton/ta partenaire te chatouille (15s) [15] 1"
+    },
+    {
+      "key": "ACTION_0034",
+      "value": "Fais un \"back hug\" (câlin par derrière) à ton/ta partenaire (20s) [20] 1"
+    },
+    {
+      "key": "ACTION_0035",
+      "value": "Danse (60s) sur une chanson que ton/ta partenaire choisit [60] 1"
+    },
+    {
+      "key": "ACTION_0036",
+      "value": "Sens une partie du corps de ton/ta partenaire dont tu es curieux/se. 1"
+    },
+    {
+      "key": "ACTION_0037",
+      "value": "Pince la joue de ton/ta partenaire (avec amour). 1"
+    },
+    {
+      "key": "ACTION_0038",
+      "value": "Caresse la tête de ton/ta partenaire (avec amour) (10s) [10] 1"
+    },
+    {
+      "key": "ACTION_0039",
+      "value": "Fais une grimace qui fait rire ton/ta partenaire (en 15s) [15] 1"
+    },
+    {
+      "key": "ACTION_0040",
+      "value": "Fais rire ton/ta partenaire (par n'importe quel moyen) en 15s [15] 1"
+    },
+    {
+      "key": "ACTION_0041",
+      "value": "Montre un \"talent spécial\" (que les autres n'ont pas). 1"
+    },
+    {
+      "key": "ACTION_0042",
+      "value": "Montre à ton/ta partenaire la tête que tu fais (quand tu es très en colère). 1"
+    },
+    {
+      "key": "ACTION_0043",
+      "value": "Fais un \"sourire effrayant\" (style Joker) à ton/ta partenaire. 1"
+    },
+    {
+      "key": "ACTION_0044",
+      "value": "\"Écris\" (avec ton doigt) dans sa paume ce que tu veux lui dire. 1"
+    },
+    {
+      "key": "ACTION_0045",
+      "value": "Montre comment tu \"écris 'Je t'aime' dans l'air\" (avec ta langue). 1"
+    },
+    {
+      "key": "ACTION_0046",
+      "value": "Dis \"Je suis si heureux/se avec toi\" (sans que tes lèvres se touchent). 1"
+    },
+    {
+      "key": "ACTION_0047",
+      "value": "Exprime par la \"danse\" à quel point tu es heureux/se (avec partenaire). 1"
+    },
+    {
+      "key": "ACTION_0048",
+      "value": "Rapproche ton visage (presque) jusqu'à l'embrasser. Ne vous touchez pas les lèvres (10s) [10] 1"
+    },
+    {
+      "key": "ACTION_0049",
+      "value": "Fais semblant d'avoir l'air \"pitoyable\" (triste) devant ton/ta partenaire. 1"
+    },
+    {
+      "key": "ACTION_0050",
+      "value": "Montre ton \"charme mignon\" (comment tu le/la réconfortes quand il/elle est fâché/e). 1"
+    },
+    {
+      "key": "ACTION_0051",
+      "value": "Simule un appel (pour le/la reconquérir) (après une grosse dispute/rupture). 1"
+    },
+    {
+      "key": "ACTION_0052",
+      "value": "Joue la scène (juste avant de \"demander en mariage\" ton/ta partenaire). 1"
+    },
+    {
+      "key": "ACTION_0053",
+      "value": "Fais semblant de \"draguer\" ton/ta partenaire (comme si 1ère rencontre en boîte). 1"
+    },
+    {
+      "key": "ACTION_0054",
+      "value": "Fais semblant de \"draguer\" ton/ta partenaire (comme si 1ère rencontre au bar). 1"
+    },
+    {
+      "key": "ACTION_0055",
+      "value": "Fais semblant de \"demander son numéro\" (comme si 1ère rencontre dans la rue). 1"
+    },
+    {
+      "key": "ACTION_0056",
+      "value": "Joue ta réaction (si qqn d'autre t'avouait ses sentiments). 1"
+    },
+    {
+      "key": "ACTION_0057",
+      "value": "Joue ta réaction (si qqn d'autre te demandait ton numéro). 1"
+    },
+    {
+      "key": "ACTION_0058",
+      "value": "Joue ta réaction (si le/la meilleur(e) ami(e) de ton/ta partenaire t'avouait ses sentiments). 1"
+    },
+    {
+      "key": "ACTION_0059",
+      "value": "Joue ta réaction (si ses parents te demandaient de \"rompre\"). 1"
+    },
+    {
+      "key": "ACTION_0060",
+      "value": "Fais de ton mieux pour \"beatboxer\" (15s) [15] 1"
+    },
+    {
+      "key": "ACTION_0061",
+      "value": "Touche (avec les doigts) les lèvres de ton/ta partenaire (sexy, 10s) [10] 1"
+    },
+    {
+      "key": "ACTION_0062",
+      "value": "Fais (comme un \"homme des cavernes\") et exprime ton amour (15s) [15] 1"
+    },
+    {
+      "key": "ACTION_0063",
+      "value": "Fais (comme un \"chiot\") et exprime ton amour (15s) [15] 1"
+    },
+    {
+      "key": "ACTION_0064",
+      "value": "(Partenaire met musique de club) Danse (comme en boîte) (20s) [20] 1"
+    },
+    {
+      "key": "ACTION_0065",
+      "value": "(Comme au club) Danse \"collé-serré\" (sexy) avec ton/ta partenaire (30s) [30] 1"
+    },
+    {
+      "key": "ACTION_0066",
+      "value": "Joue ta réaction (si ton/ta meilleur(e) ami(e) \"insultait\" ton/ta partenaire). 1"
+    },
+    {
+      "key": "ACTION_0067",
+      "value": "Fais (comme si ton/ta partenaire était une \"célébrité\") et demande-lui un autographe. 1"
+    },
+    {
+      "key": "ACTION_0068",
+      "value": "Joue ta réaction (si ton/ta partenaire te \"trompait\"). 1"
+    },
+    {
+      "key": "ACTION_0069",
+      "value": "Montre à ton/ta partenaire à quel point tu es \"souple\". 1"
+    },
+    {
+      "key": "ACTION_0070",
+      "value": "Montre le \"muscle\" (dont tu es le/la plus fier/fière) et laisse-le/la toucher. 1"
+    },
+    {
+      "key": "ACTION_0071",
+      "value": "Regarde ton/ta partenaire (avec amour) (10s). Ne baisse pas les yeux [10] 1"
+    },
+    {
+      "key": "ACTION_0072",
+      "value": "Regarde ses yeux (5s), son nez (5s), ses lèvres (5s), puis ses yeux (5s) [20] 1"
+    },
+    {
+      "key": "ACTION_0073",
+      "value": "Couvre doucement ses oreilles et dis-lui (longuement) \"pourquoi tu l'aimes\". 1"
+    },
+    {
+      "key": "ACTION_0074",
+      "value": "Fais un \"back hug\" et chuchote-lui (ce que tu veux dire) à l'oreille. 1"
+    },
+    {
+      "key": "ACTION_0075",
+      "value": "Chatouille l'oreille de ton/ta partenaire (avec ton doigt) [10] 1"
+    },
+    {
+      "key": "ACTION_0076",
+      "value": "Fais rire ton/ta partenaire (en le/la chatouillant à la taille). 1"
+    },
+    {
+      "key": "ACTION_0077",
+      "value": "Regarde ton/ta partenaire (avec un sourire \"coquin\") (10s) [10] 1"
+    },
+    {
+      "key": "ACTION_0078",
+      "value": "Chante une phrase de ton \"générique de dessin animé\" préféré. 1"
+    },
+    {
+      "key": "ACTION_0079",
+      "value": "Fais (comme un \"alien\") et exprime ton amour (15s) [15] 1"
+    },
+    {
+      "key": "ACTION_0080",
+      "value": "Fais (comme un \"chat\") et exprime ton amour (15s) [15] 1"
+    },
+    {
+      "key": "ACTION_0081",
+      "value": "Montre la tête que tu ferais (si tu voyais ton/ta partenaire \"main dans la main\" avec qqn d'autre). 1"
+    },
+    {
+      "key": "ACTION_0082",
+      "value": "Montre comment tu réagirais (si ton/ta meilleur(e) ami(e) te disait \"qu'il/elle aime\" ton/ta partenaire). 1"
+    },
+    {
+      "key": "ACTION_0083",
+      "value": "Ferme les yeux et devine le mot (simple) que ton/ta partenaire écrit dans ta paume. 1"
+    },
+    {
+      "key": "ACTION_0084",
+      "value": "Mets une \"valse\", tiens-le/la par la taille, et dansez (30s) [30] 1"
+    },
+    {
+      "key": "ACTION_0085",
+      "value": "Mets tes doigts sur tes joues et dis \"Je suis mignon(ne), non ? Tchou ?\" (d'une voix mignonne). 1"
+    },
+    {
+      "key": "ACTION_0086",
+      "value": "Fais (comme si tu avais 80 ans) et dis (d'une vieille voix) \"Merci d'être toujours là, je t'aime\". 1"
+    },
+    {
+      "key": "ACTION_0087",
+      "value": "Fais (comme un/e \"masseur/euse\"). Fais-le/la s'allonger (sur le ventre) et masse (30s) [30] 1"
+    },
+    {
+      "key": "ACTION_0088",
+      "value": "Imite une \"expression\" que ton/ta partenaire fait souvent. 1"
+    },
+    {
+      "key": "ACTION_0089",
+      "value": "Prends le bras de ton/ta partenaire, puis chuchote \"Je t'aime\" à son oreille. 1"
+    },
+    {
+      "key": "ACTION_0090",
+      "value": "(Partenaire met du \"Hip-hop\") Danse dessus (20s) [20] 1"
+    },
+    {
+      "key": "ACTION_0091",
+      "value": "Joue ta réaction (si ton \"premier amour\" t'appelait maintenant). 1"
+    },
+    {
+      "key": "ACTION_0092",
+      "value": "Caresse-lui les cheveux (en le/la regardant dans les yeux) (10s) [10] 1"
+    },
+    {
+      "key": "ACTION_0093",
+      "value": "Fais sentir tes \"chaussures\" à ton/ta partenaire. 1"
+    },
+    {
+      "key": "ACTION_0094",
+      "value": "Fais sentir tes \"chaussettes\" à ton/ta partenaire. 1"
+    },
+    {
+      "key": "ACTION_0095",
+      "value": "Pose ta tête sur son épaule et demande \"Pourquoi tu m'aimes ?\". 1"
+    },
+    {
+      "key": "ACTION_0096",
+      "value": "Chuchote-lui à l'oreille une phrase (de ta chanson romantique préférée). 1"
+    },
+    {
+      "key": "ACTION_0097",
+      "value": "Fais un \"concours de notes aiguës\" avec ton/ta partenaire et gagne. 1"
+    },
+    {
+      "key": "ACTION_0098",
+      "value": "Ferme les yeux et touche (lentement) ses yeux, son nez, et sa bouche. 1"
+    },
+    {
+      "key": "ACTION_0099",
+      "value": "Ferme les yeux et touche (lentement) ses lèvres (15s) [15] 1"
+    },
+    {
+      "key": "ACTION_0100",
+      "value": "Chuchote un \"souffle sexy\" (court et doux) à l'oreille de ton/ta partenaire. 1"
+    },
+    {
+      "key": "ACTION_0101",
+      "value": "Sers ton/ta partenaire dans tes bras et caresse-lui le dos (10s) [10] 1"
+    },
+    {
+      "key": "ACTION_0102",
+      "value": "Tiens la main de ton/ta partenaire (jusqu'au prochain tour). 1"
+    },
+    {
+      "key": "ACTION_0103",
+      "value": "Garde ton bras autour de ses épaules (jusqu'au prochain tour). 1"
+    },
+    {
+      "key": "ACTION_0104",
+      "value": "Tiens le bras de ton/ta partenaire (jusqu'au prochain tour). 1"
+    },
+    {
+      "key": "ACTION_0105",
+      "value": "Garde ton/ta partenaire sur tes genoux (jusqu'au prochain tour). 1"
+    },
+    {
+      "key": "ACTION_0106",
+      "value": "Fais un \"back hug\" (câlin par derrière) (jusqu'au prochain tour). 1"
+    },
+    {
+      "key": "ACTION_0107",
+      "value": "Garde ta joue contre la sienne (jusqu'au prochain tour). 1"
+    },
+    {
+      "key": "ACTION_0108",
+      "value": "Joue (debout) jusqu'au prochain tour. 1"
+    },
+    {
+      "key": "ACTION_0109",
+      "value": "Fais un \"cœur\" (avec tes mains) (jusqu'au prochain tour). 1"
+    },
+    {
+      "key": "ACTION_0110",
+      "value": "Danse (sans musique) pendant 20 secondes [20] 1"
+    },
+    {
+      "key": "ACTION_0111",
+      "value": "Ne fais que des \"bruits de canard\" (jusqu'au prochain tour). 1"
+    },
+    {
+      "key": "ACTION_0112",
+      "value": "Ne fais que des \"miaulements\" (jusqu'au prochain tour). 1"
+    },
+    {
+      "key": "ACTION_0113",
+      "value": "Comporte-toi (comme un \"chiot\") (jusqu'au prochain tour). 1"
+    },
+    {
+      "key": "ACTION_0114",
+      "value": "Ne parle (qu'avec une \"voix sexy\") (jusqu'au prochain tour). 1"
+    },
+    {
+      "key": "ACTION_0115",
+      "value": "Ne parle (qu'avec une \"voix mignonne\") (jusqu'au prochain tour). 1"
+    },
+    {
+      "key": "ACTION_0116",
+      "value": "Regardez-vous dans les yeux (pendant 15s) [15] 1"
+    },
+    {
+      "key": "ACTION_0117",
+      "value": "Regardez-vous (avec amour) (15s) [15] 1"
+    },
+    {
+      "key": "ACTION_0118",
+      "value": "Regardez-vous (avec des \"yeux sexy\") (15s) [15] 1"
+    },
+    {
+      "key": "ACTION_0119",
+      "value": "Chuchote (la \"meilleure chose\") (sur ton/ta partenaire) à son oreille. 1"
+    },
+    {
+      "key": "ACTION_0120",
+      "value": "Joue comment tu rejetterais si qqn que tu ne veux pas fréquenter te déclarait sa flamme. 1"
+    },
+    {
+      "key": "ACTION_0121",
+      "value": "Fais comme un \"animal unique\" et exécute une danse de parade 20s [20] 1"
+    },
+    {
+      "key": "ACTION_0122",
+      "value": "Fais un \"cœur avec tes orteils\" et montre-le à ton/ta partenaire. 1"
+    },
+    {
+      "key": "ACTION_0123",
+      "value": "Écris ton nom sur le dos de la main de ton/ta partenaire avec du rouge à lèvres ou eyeliner. 1"
+    },
+    {
+      "key": "ACTION_0124",
+      "value": "\"Tape\" dans la paume de ton/ta partenaire. 1"
+    },
+    {
+      "key": "ACTION_0125",
+      "value": "\"Tape\" le mollet de ton/ta partenaire. 1"
+    },
+    {
+      "key": "ACTION_0126",
+      "value": "Parle avec une \"voix de bébé\" jusqu'à ton prochain tour. 1"
+    },
+    {
+      "key": "ACTION_0127",
+      "value": "Parle avec une \"voix mignonne\" jusqu'à ton prochain tour. 1"
+    },
+    {
+      "key": "ACTION_0128",
+      "value": "Chuchote à l'oreille de ton/ta partenaire à quel point tu l'aimes. 1"
+    },
+    {
+      "key": "ACTION_0129",
+      "value": "Joue ce que tu ferais si ton/ta partenaire disait qu'il/elle allait voir son \"premier amour\". 1"
+    },
+    {
+      "key": "ACTION_0130",
+      "value": "Montre ton \"charme mignon\" (avec assurance). 1"
+    },
+    {
+      "key": "ACTION_0131",
+      "value": "Sois \"mignon/mignonne\" jusqu'à ce que ton/ta partenaire sourie. 1"
+    },
+    {
+      "key": "ACTION_0132",
+      "value": "Prends un \"selfie de couple\" avec le téléphone restant. 1"
+    },
+    {
+      "key": "ACTION_0133",
+      "value": "Prends un \"selfie de cœur de couple\" avec le téléphone restant. 1"
+    },
+    {
+      "key": "ACTION_0134",
+      "value": "Sois \"mignon/mignonne\" en disant une \"formule magique\" (jusqu'à ce qu'il/elle l'admette). 1"
+    },
+    {
+      "key": "ACTION_0135",
+      "value": "Danse la \"danse la plus drôle\" que tu aies jamais vue, jusqu'à ce que ton/ta partenaire dise stop. 1"
+    },
+    {
+      "key": "ACTION_0136",
+      "value": "Dis \"Tu es si mignon(ne) que j'ai envie de te croquer\" en ventriloque. 1"
+    },
+    {
+      "key": "ACTION_0137",
+      "value": "Brosse tes cheveux en arrière, puis fais un \"clin d'œil sexy\" avec une expression sexy. 1"
+    },
+    {
+      "key": "ACTION_0138",
+      "value": "Mets tes index sur tes joues, dis \"Je boude, hmm hmm\" et tiens-le jusqu'à ce que ton/ta partenaire l'admette. 1"
+    },
+    {
+      "key": "ACTION_0139",
+      "value": "Jeu de rôle : Le/la partenaire fait la tête. Tu as 60s pour jouer comment tu le/la réconfortes. [60] 1"
+    },
+    {
+      "key": "ACTION_0140",
+      "value": "Jeu de rôle : Le/la partenaire joue les parents. Joue ta rencontre avec eux. 1"
+    },
+    {
+      "key": "ACTION_0141",
+      "value": "Jeu de rôle : Le/la partenaire joue ta célébrité préférée. Jouez la scène où il/elle t'avoue ses sentiments. 1"
+    },
+    {
+      "key": "ACTION_0142",
+      "value": "Fais une \"danse sexy\" pour ton partenaire 20s [20] 2"
+    },
+    {
+      "key": "ACTION_0143",
+      "value": "Montre ton \"ventre\" à ton partenaire. 2"
+    },
+    {
+      "key": "ACTION_0144",
+      "value": "Lève les deux bras et montre tes \"aisselles\" 10s [10] 2"
+    },
+    {
+      "key": "ACTION_0145",
+      "value": "Chuchote un mot \"intime\" à l'oreille de ton partenaire. 2"
+    },
+    {
+      "key": "ACTION_0146",
+      "value": "Chatouille l'oreille de ton partenaire avec ta langue 20s [20] 2"
+    },
+    {
+      "key": "ACTION_0147",
+      "value": "Tire la langue au max, fais le \"V\" et ne bouge plus 10s [10] 2"
+    },
+    {
+      "key": "ACTION_0148",
+      "value": "Explique ce qu'est \"faire l'amour\" en utilisant seulement tes mains. 2"
+    },
+    {
+      "key": "ACTION_0149",
+      "value": "Fais un baiser sur le \"cou\" de ton partenaire. 2"
+    },
+    {
+      "key": "ACTION_0150",
+      "value": "Fais comme s'il y avait de la glace sur son oreille et \"nettoie-la\" avec ta bouche 20s [20] 2"
+    },
+    {
+      "key": "ACTION_0151",
+      "value": "\"Stimule\" le cou de ton partenaire avec ta langue 20s [20] 2"
+    },
+    {
+      "key": "ACTION_0152",
+      "value": "Laisse ton partenaire sentir ton \"aisselle\" 20s [20] 2"
+    },
+    {
+      "key": "ACTION_0153",
+      "value": "Chatouille doucement le dos avec tes doigts 30s pour le/la \"stimuler\" [30] 2"
+    },
+    {
+      "key": "ACTION_0154",
+      "value": "Fais un léger baiser sur \"l'aisselle\" de ton partenaire. 2"
+    },
+    {
+      "key": "ACTION_0155",
+      "value": "Masse \"les fesses\" de ton partenaire 30s [30] 2"
+    },
+    {
+      "key": "ACTION_0156",
+      "value": "Masse les bras de ton partenaire 60s [60] 2"
+    },
+    {
+      "key": "ACTION_0157",
+      "value": "Fais 3 légers baisers sur les lèvres de ton partenaire. 2"
+    },
+    {
+      "key": "ACTION_0158",
+      "value": "Fais 3 légers baisers sur la joue de ton partenaire. 2"
+    },
+    {
+      "key": "ACTION_0159",
+      "value": "Fais un léger baiser sur le front de ton partenaire. 2"
+    },
+    {
+      "key": "ACTION_0160",
+      "value": "Laisse une \"marque de baiser\" sur le bras de ton partenaire. 2"
+    },
+    {
+      "key": "ACTION_0161",
+      "value": "Pousse ton partenaire contre le mur et embrasse-le/la 40s [40] 2"
+    },
+    {
+      "key": "ACTION_0162",
+      "value": "Fais-lui sortir la langue et \"stimule-la avec tes lèvres\" 15s [15] 2"
+    },
+    {
+      "key": "ACTION_0163",
+      "value": "Fais un \"baiser profond (avec la langue)\" à ton partenaire 50s [50] 2"
+    },
+    {
+      "key": "ACTION_0164",
+      "value": "\"Mets ton index dans la bouche\" (sexy) 15s [15] 2"
+    },
+    {
+      "key": "ACTION_0165",
+      "value": "Fais 3 légers baisers sur les orteils de ton partenaire. 2"
+    },
+    {
+      "key": "ACTION_0166",
+      "value": "Donne une \"légère fessée\" sur les fesses de ton partenaire. 2"
+    },
+    {
+      "key": "ACTION_0167",
+      "value": "Embrasse ton partenaire (partout sur le visage) 20s [20] 2"
+    },
+    {
+      "key": "ACTION_0168",
+      "value": "Enfonce ton nez dans le \"nombril\" de ton partenaire et sens-le 20s [20] 2"
+    },
+    {
+      "key": "ACTION_0169",
+      "value": "Danse (une \"danse sexy\") 60s sur une chanson que ton partenaire choisit [60] 2"
+    },
+    {
+      "key": "ACTION_0170",
+      "value": "Ton partenaire ferme les yeux. Embrasse-le/la où tu veux. 2"
+    },
+    {
+      "key": "ACTION_0171",
+      "value": "Fais entendre à ton partenaire les \"souffles sexy\" que tu fais quand tu es \"stimulé/e\". 2"
+    },
+    {
+      "key": "ACTION_0172",
+      "value": "Colle ta joue contre la sienne et frotte-la tendrement. 2"
+    },
+    {
+      "key": "ACTION_0173",
+      "value": "\"Écris\" avec ton doigt dans son dos ce que tu veux lui dire. 2"
+    },
+    {
+      "key": "ACTION_0174",
+      "value": "Dis \"Je veux t'embrasser\" sans que tes lèvres se touchent. 2"
+    },
+    {
+      "key": "ACTION_0175",
+      "value": "Exprime par la \"danse\" ce que tu \"ressens\" quand tu l'embrasses. 2"
+    },
+    {
+      "key": "ACTION_0176",
+      "value": "Imite comment ton partenaire se comporte quand il/elle t'embrasse. 2"
+    },
+    {
+      "key": "ACTION_0177",
+      "value": "Touche \"juste\" ses lèvres avec les tiennes et ne bouge plus 10s [10] 2"
+    },
+    {
+      "key": "ACTION_0178",
+      "value": "Jeu de rôle : Joue comment tu tenterais d'embrasser ton partenaire qui est très en colère. 2"
+    },
+    {
+      "key": "ACTION_0179",
+      "value": "Jeu de rôle : Joue ta réaction si le/la meilleur(e) ami(e) de ton partenaire essayait de t'embrasser. 2"
+    },
+    {
+      "key": "ACTION_0180",
+      "value": "Fais (comme si tu étais \"extrêmement stimulé/e\") et embrasse-le/la \"comme une bête\" 10s [10] 2"
+    },
+    {
+      "key": "ACTION_0181",
+      "value": "Utilise \"seulement\" ton nez pour tracer un chemin (front, yeux, nez, lèvres, menton). 2"
+    },
+    {
+      "key": "ACTION_0182",
+      "value": "Écris \"Je t'aime\" sur le cou de ton partenaire (avec ta langue). 2"
+    },
+    {
+      "key": "ACTION_0183",
+      "value": "Allonge ton partenaire et fais-lui le \"baiser Spider-Man\" (à l'envers) (20s) [20] 2"
+    },
+    {
+      "key": "ACTION_0184",
+      "value": "(Ton partenaire ne bouge pas) Embrasse ses lèvres (tout/e seul/e) (15s) [15] 2"
+    },
+    {
+      "key": "ACTION_0185",
+      "value": "Ferme les yeux et devine quelle partie du corps ton partenaire place contre ta main. 2"
+    },
+    {
+      "key": "ACTION_0186",
+      "value": "(Comme un \"paresseux\") Fais un baiser (très lent) sur le front et un sur les lèvres. 2"
+    },
+    {
+      "key": "ACTION_0187",
+      "value": "Prends le bras de ton partenaire, puis fais-lui un baiser sur la joue. 2"
+    },
+    {
+      "key": "ACTION_0188",
+      "value": "Mets ton oreille sur sa poitrine et écoute son cœur (10s) [10] 2"
+    },
+    {
+      "key": "ACTION_0189",
+      "value": "Tiens-lui les mains (doigts croisés) et embrassez-vous (10s) [10] 2"
+    },
+    {
+      "key": "ACTION_0190",
+      "value": "Fais (comme un \"chiot\") et donne-lui des \"bisous de chiot\" sur les lèvres (10s) [10] 2"
+    },
+    {
+      "key": "ACTION_0191",
+      "value": "Touche (brièvement) le \"bout du nez\" de ton partenaire (avec ta langue). 2"
+    },
+    {
+      "key": "ACTION_0192",
+      "value": "Fais un baiser sur le \"philtrum\" (au-dessus de la lèvre sup.) de ton partenaire. 2"
+    },
+    {
+      "key": "ACTION_0193",
+      "value": "Fais plusieurs baisers sur le cou de ton partenaire. 2"
+    },
+    {
+      "key": "ACTION_0194",
+      "value": "Ferme les yeux, puis essaie de \"trouver\" ses lèvres (sur son visage) et embrasse-les. 2"
+    },
+    {
+      "key": "ACTION_0195",
+      "value": "Embrasse ton partenaire (chaque fois que tu parles) (jusqu'à ton prochain tour). 2"
+    },
+    {
+      "key": "ACTION_0196",
+      "value": "Enlève les deux chaussettes de ton partenaire (en utilisant seulement ta bouche). 2"
+    },
+    {
+      "key": "ACTION_0197",
+      "value": "Enlève une chaussette de ton partenaire (en utilisant seulement ta bouche). 2"
+    },
+    {
+      "key": "ACTION_0198",
+      "value": "Fais un baiser sur la \"clavicule\" de ton partenaire. 2"
+    },
+    {
+      "key": "ACTION_0199",
+      "value": "Allongez-vous côte à côte et faites \"la cuillère\" (câlin) (15s) [15] 2"
+    },
+    {
+      "key": "ACTION_0200",
+      "value": "Allonge-toi (15s) en laissant ton partenaire \"utiliser ton bras comme oreiller\" [15] 2"
+    },
+    {
+      "key": "ACTION_0201",
+      "value": "Allonge ton partenaire (sur le ventre), puis allonge-toi sur lui/elle (15s) [15] 2"
+    },
+    {
+      "key": "ACTION_0202",
+      "value": "Chuchote à l'oreille de ton partenaire (quelle partie de son corps est la plus sexy). 2"
+    },
+    {
+      "key": "ACTION_0203",
+      "value": "Laisse ton partenaire toucher l'endroit le plus \"doux/moelleux\" de ton corps. 2"
+    },
+    {
+      "key": "ACTION_0204",
+      "value": "Assieds ton partenaire sur tes genoux et regardez-vous dans les yeux. 2"
+    },
+    {
+      "key": "ACTION_0205",
+      "value": "Dessine un cœur sur le visage de ton partenaire (rouge à lèvres ou eyeliner). 2"
+    },
+    {
+      "key": "ACTION_0206",
+      "value": "Fais une \"danse sexy\" (en restant assis/e) (15s) [15] 2"
+    },
+    {
+      "key": "ACTION_0207",
+      "value": "\"Stimule\" l'épaule de ton partenaire (avec ta bouche) (10s) [10] 2"
+    },
+    {
+      "key": "ACTION_0208",
+      "value": "Laisse ton partenaire toucher l'endroit le plus \"dur\" de ton corps. 2"
+    },
+    {
+      "key": "ACTION_0209",
+      "value": "Sois \"soumis(e)\" à ton partenaire (1min). Tu dois l'appeler \"Maître\". [60] 2"
+    },
+    {
+      "key": "ACTION_0210",
+      "value": "Sois \"soumis(e)\" à ton partenaire (1min). Tu dois l'appeler \"Maître\". [60] 2"
+    },
+    {
+      "key": "ACTION_0211",
+      "value": "Continue de faire une \"danse sexy\" (jusqu'à ton prochain tour). 2"
+    },
+    {
+      "key": "ACTION_0212",
+      "value": "\"Twerke\" (devant son visage) (20s) [20] 2"
+    },
+    {
+      "key": "ACTION_0213",
+      "value": "Fais un \"gros câlin sincère\" à ton partenaire. 2"
+    },
+    {
+      "key": "ACTION_0214",
+      "value": "Écris ton nom sur le cou de ton partenaire (rouge à lèvres ou eyeliner). 2"
+    },
+    {
+      "key": "ACTION_0215",
+      "value": "Donne une \"légère fessée\" sur la plante des pieds de ton partenaire. 2"
+    },
+    {
+      "key": "ACTION_0216",
+      "value": "Donne une \"légère fessée\" sur la cuisse de ton partenaire. 2"
+    },
+    {
+      "key": "ACTION_0217",
+      "value": "\"Gifle\" (légèrement) les lèvres de ton partenaire (avec tes lèvres). 2"
+    },
+    {
+      "key": "ACTION_0218",
+      "value": "Mets-toi à quatre pattes (pose du chat) et \"miaule\" 5 fois. 2"
+    },
+    {
+      "key": "ACTION_0219",
+      "value": "\"Embrassez-vous profondément\" (1 minute) [60] 2"
+    },
+    {
+      "key": "ACTION_0220",
+      "value": "\"Embrassez-vous profondément\" (2 minutes) [120] 2"
     },
     {
       "key": "DRINK_0001",
