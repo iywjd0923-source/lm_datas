@@ -125,6 +125,10 @@
       "value": "Detener temporizador"
     },
     {
+      "key": "language",
+      "value": "Idioma"
+    },
+    {
       "key": "LOVE_0001",
       "value": "¿Qué comida te apetece más comer con tu pareja ahora mismo?"
     },
@@ -2610,131 +2614,2523 @@
     },
     {
       "key": "SEXY_0001",
-      "value": "Infierno de Acción1"
+      "value": "¿Cuál es la parte del cuerpo de tu pareja que te parece más sexy ahora mismo? 2"
     },
     {
       "key": "SEXY_0002",
-      "value": "Infierno de Acción2"
+      "value": "¿Has pensado en otra cosa mientras besabas a tu pareja? ¿En qué? 2"
     },
     {
       "key": "SEXY_0003",
-      "value": "Infierno de Acción3"
+      "value": "¿Dónde te gustaría más tocar a tu pareja mientras os besáis? 2"
     },
     {
       "key": "SEXY_0004",
-      "value": "Infierno de Acción4"
+      "value": "¿Has querido parar a mitad de un beso con tu pareja alguna vez? 2"
     },
     {
       "key": "SEXY_0005",
-      "value": "Infierno de Acción1"
+      "value": "¿Prefieres besar sobrio/a o después de beber algo? 2"
     },
     {
       "key": "SEXY_0006",
-      "value": "Infierno de Acción2"
+      "value": "¿Cuándo te parece tu pareja más sexy? 2"
     },
     {
       "key": "SEXY_0007",
-      "value": "Infierno de Acción3"
+      "value": "¿Qué ropa lleva tu pareja cuando más ganas tienes de besarle? 2"
     },
     {
       "key": "SEXY_0008",
-      "value": "Infierno de Acción4"
+      "value": "¿Alguna vez en tu vida has sentido el impulso de ser infiel? 2"
     },
     {
       "key": "SEXY_0009",
-      "value": "Infierno de Acción1"
+      "value": "¿Cuál es el sitio más romántico donde te gustaría besar a tu pareja? 2"
     },
     {
       "key": "SEXY_0010",
-      "value": "Infierno de Acción2"
+      "value": "¿Cuál es tu forma más habitual de seducir a tu pareja? 2"
     },
     {
       "key": "SEXY_0011",
-      "value": "Infierno de Acción3"
+      "value": "¿Qué es lo más excitante que dice tu pareja mientras hacéis el amor? 2"
     },
     {
       "key": "SEXY_0012",
-      "value": "Infierno de Acción4"
+      "value": "¿Cómo describirías tu primer beso con tu pareja? 2"
     },
     {
       "key": "SEXY_0013",
-      "value": "Infierno de Acción1"
+      "value": "¿Prefieres los besos suaves o los besos apasionados? 2"
     },
     {
       "key": "SEXY_0014",
-      "value": "Infierno de Acción2"
+      "value": "¿Cuál crees que es la duración perfecta para un beso? 2"
     },
     {
       "key": "SEXY_0015",
-      "value": "Infierno de Acción3"
+      "value": "¿Hay algún cosplay (juego de disfraces) que te gustaría hacer con tu pareja? 2"
     },
     {
       "key": "SEXY_0016",
-      "value": "Infierno de Acción4"
+      "value": "¿Hay algún disfraz que te gustaría que tu pareja se pusiera? 2"
+    },
+    {
+      "key": "SEXY_0017",
+      "value": "Si los labios de tu pareja fueran una comida, ¿a qué sabrían? 2"
+    },
+    {
+      "key": "SEXY_0018",
+      "value": "Si tuvieras que describir vuestros besos en una palabra, ¿cuál sería? 2"
+    },
+    {
+      "key": "SEXY_0019",
+      "value": "¿Crees que besas bien? 2"
+    },
+    {
+      "key": "SEXY_0020",
+      "value": "¿Crees que tu pareja besa bien? 2"
+    },
+    {
+      "key": "SEXY_0021",
+      "value": "¿Crees que tu pareja es buena en la cama? 2"
+    },
+    {
+      "key": "SEXY_0022",
+      "value": "¿Qué es lo que más te gusta de besar a tu pareja? 2"
+    },
+    {
+      "key": "SEXY_0023",
+      "value": "¿Qué harías si vieras a tu pareja mirar descaradamente el cuerpo de otra persona? 2"
+    },
+    {
+      "key": "SEXY_0024",
+      "value": "¿Qué harías si vieras a otra persona tocando a tu pareja en una discoteca? 2"
+    },
+    {
+      "key": "SEXY_0025",
+      "value": "¿Hasta qué edad crees que podrás besar a tu pareja? 2"
+    },
+    {
+      "key": "SEXY_0026",
+      "value": "¿Puedes amar a alguien sin besarle? 2"
+    },
+    {
+      "key": "SEXY_0027",
+      "value": "¿Te resulta atractiva la barriguita de tu pareja? 2"
+    },
+    {
+      "key": "SEXY_0028",
+      "value": "¿Qué es lo que te atrae sexualmente de una persona? 2"
+    },
+    {
+      "key": "SEXY_0029",
+      "value": "¿Crees que tu pareja tiene mucho apetito sexual (libido)? ¿Por qué? 2"
+    },
+    {
+      "key": "SEXY_0030",
+      "value": "¿Qué harías si te enteraras de que tu pareja besó a tu mejor amigo/a en el pasado? 2"
+    },
+    {
+      "key": "SEXY_0031",
+      "value": "Si pudieras cambiar la cara de tu pareja por la de un famoso/a al besaros, ¿quién sería? 2"
+    },
+    {
+      "key": "SEXY_0032",
+      "value": "¿Qué disfraz te gustaría que se pusiera tu pareja? 2"
+    },
+    {
+      "key": "SEXY_0033",
+      "value": "¿Has sido infiel alguna vez? 2"
+    },
+    {
+      "key": "SEXY_0034",
+      "value": "¿Podrías enamorarte de alguien de tu mismo sexo? 2"
+    },
+    {
+      "key": "SEXY_0035",
+      "value": "Si tu pareja te confiesa que te ha sido infiel (estando borracha), ¿la perdonarías? 2"
+    },
+    {
+      "key": "SEXY_0036",
+      "value": "¿Por cuánto dinero posarías como modelo de desnudo para una clase de dibujo? 2"
+    },
+    {
+      "key": "SEXY_0037",
+      "value": "¿Te gustaría visitar una playa nudista? 2"
+    },
+    {
+      "key": "SEXY_0038",
+      "value": "¿Qué edad tenías la primera vez que viste contenido para adultos? 2"
+    },
+    {
+      "key": "SEXY_0039",
+      "value": "¿Has leído cómics o novelas para adultos? ¿Cuáles? 2"
+    },
+    {
+      "key": "SEXY_0040",
+      "value": "Describe qué sientes al tocar a tu pareja. 2"
+    },
+    {
+      "key": "SEXY_0041",
+      "value": "¿En qué momentos sientes el impulso de tocar a tu pareja? 2"
+    },
+    {
+      "key": "SEXY_0042",
+      "value": "¿Cuál es la escena más picante de una película que has visto? Descríbela. 2"
+    },
+    {
+      "key": "SEXY_0043",
+      "value": "¿Cuál es la escena más picante (cómic/novela) que has leído? Descríbela. 2"
+    },
+    {
+      "key": "SEXY_0044",
+      "value": "¿Has tenido algún sueño picante? Describe uno que recuerdes. 2"
+    },
+    {
+      "key": "SEXY_0045",
+      "value": "¿Cuál es la escena más picante que has presenciado en la vida real? 2"
+    },
+    {
+      "key": "SEXY_0046",
+      "value": "¿Qué famoso/a de la tele te ha parecido sexy? ¿Por qué? 2"
+    },
+    {
+      "key": "SEXY_0047",
+      "value": "Describe el estado o los cambios de tu cuerpo cuando te sientes sexualmente excitado/a. 2"
+    },
+    {
+      "key": "SEXY_0048",
+      "value": "¿Qué deporte te parece más sexy cuando alguien lo practica? 2"
+    },
+    {
+      "key": "SEXY_0049",
+      "value": "Cuenta una historia picante que oyeras a tus amigos en el colegio. 2"
+    },
+    {
+      "key": "SEXY_0050",
+      "value": "¿Alguna vez te has sentido mal después de besar a otra persona? 2"
+    },
+    {
+      "key": "SEXY_0051",
+      "value": "¿La gente te parece más atractiva cuando has bebido? 2"
+    },
+    {
+      "key": "SEXY_0052",
+      "value": "¿Cuál es la parte del cuerpo de tu pareja que te resulta más agradable tocar? 2"
+    },
+    {
+      "key": "SEXY_0053",
+      "value": "¿Qué rasgo de personalidad te parece más sexy? 2"
+    },
+    {
+      "key": "SEXY_0054",
+      "value": "Si tuvieras que besar a tu pareja (transformada en otra raza), ¿cuál? 2"
+    },
+    {
+      "key": "SEXY_0055",
+      "value": "¿Crees que podrías besar a alguien de tu mismo sexo? 2"
+    },
+    {
+      "key": "SEXY_0056",
+      "value": "¿Qué opinas de no tener sexo antes del matrimonio? 2"
+    },
+    {
+      "key": "SEXY_0057",
+      "value": "Si pudieras poner un tatuaje en la zona íntima de tu pareja, ¿dónde? 2"
+    },
+    {
+      "key": "SEXY_0058",
+      "value": "Si tuvieras que hacerte un tatuaje en tu zona íntima, ¿dónde? 2"
+    },
+    {
+      "key": "SEXY_0059",
+      "value": "¿Qué opinas de las aventuras de una noche? 2"
+    },
+    {
+      "key": "SEXY_0060",
+      "value": "¿Qué harías si al besar a tu pareja por la mañana, su aliento oliera muy mal? 2"
+    },
+    {
+      "key": "SEXY_0061",
+      "value": "¿Alguna vez has visto un vídeo para adultos con un amigo/a? 2"
+    },
+    {
+      "key": "SEXY_0062",
+      "value": "¿Hay alguna lencería que te gustaría que tu pareja se pusiera? 2"
+    },
+    {
+      "key": "SEXY_0063",
+      "value": "¿Qué color de lencería (ropa interior) te parece más sexy? 2"
+    },
+    {
+      "key": "SEXY_0064",
+      "value": "¿Hay alguna historia picante que hayas oído en tu trabajo? Cuenta una. 2"
+    },
+    {
+      "key": "SEXY_0065",
+      "value": "Si te vendaran los ojos, ¿sabrías si es tu pareja solo con besarla? 2"
+    },
+    {
+      "key": "SEXY_0066",
+      "value": "Si te vendaran los ojos, ¿sabrías si es tu pareja solo con tocar su cuerpo? 2"
+    },
+    {
+      "key": "SEXY_0067",
+      "value": "Si tuvieras que escribir una novela picante, ¿de qué trataría? 2"
+    },
+    {
+      "key": "SEXY_0068",
+      "value": "¿Cuál crees que es el límite del contacto físico (skinship) con un amigo/a de tu mismo sexo? 2"
+    },
+    {
+      "key": "SEXY_0069",
+      "value": "Si tu pareja quisiera besarte justo después de vomitar, ¿aceptarías? 2"
+    },
+    {
+      "key": "SEXY_0070",
+      "value": "¿Alguna vez has pensado en querer besar a alguien en el cine? 2"
+    },
+    {
+      "key": "SEXY_0071",
+      "value": "¿Alguna vez has visto a amigos/as tuyos/as besándose? 2"
+    },
+    {
+      "key": "SEXY_0072",
+      "value": "Si tuvieras hijos, ¿cómo te gustaría enfocar su educación sexual? 2"
+    },
+    {
+      "key": "SEXY_0073",
+      "value": "¿Hubo algo que te impactara la primera vez que recibiste educación sexual? 2"
+    },
+    {
+      "key": "SEXY_0074",
+      "value": "Explícale detalladamente a tu pareja cómo usar un condón, según lo que sabes. 2"
+    },
+    {
+      "key": "SEXY_0075",
+      "value": "¿Cómo te sentiste la primera vez que viste un vídeo para adultos (siendo niño/a)? 2"
+    },
+    {
+      "key": "SEXY_0076",
+      "value": "¿Cómo te dieron tus padres la educación sexual? 2"
+    },
+    {
+      "key": "SEXY_0077",
+      "value": "Dile a tu pareja cuántas personas has besado en tu vida. 2"
+    },
+    {
+      "key": "SEXY_0078",
+      "value": "¿Alguna vez has besado a alguien por error estando borracho/a? 2"
+    },
+    {
+      "key": "SEXY_0079",
+      "value": "¿Te gustaría que tu pareja tuviera un apetito sexual (libido) alto? 2"
+    },
+    {
+      "key": "SEXY_0080",
+      "value": "Describe el proceso de cómo se hace un bebé a partir del amor de dos personas. 2"
+    },
+    {
+      "key": "SEXY_0081",
+      "value": "¿Hay alguna parte de tu cuerpo que preferirías que tu pareja no tocara? 2"
+    },
+    {
+      "key": "SEXY_0082",
+      "value": "¿Hay alguna parte de tu cuerpo que te gustaría que tu pareja tocara a menudo? 2"
+    },
+    {
+      "key": "SEXY_0083",
+      "value": "¿Qué parte de tu propio cuerpo crees que es la más sexy? 2"
+    },
+    {
+      "key": "SEXY_0084",
+      "value": "¿Alguna vez viste a otra persona sin nada de ropa cuando eras niño/a? 2"
+    },
+    {
+      "key": "SEXY_0085",
+      "value": "Si tuvieras un bebé, ¿cuál es la edad mínima que crees que deberías tener? 2"
+    },
+    {
+      "key": "SEXY_0086",
+      "value": "¿Has salido alguna vez con alguien de otro país? 2"
+    },
+    {
+      "key": "SEXY_0087",
+      "value": "¿Cuál es la pose más sexy que puedes mostrarle a tu pareja? 2"
+    },
+    {
+      "key": "SEXY_0088",
+      "value": "Describe la forma de tu línea de caderas . 2"
+    },
+    {
+      "key": "SEXY_0089",
+      "value": "Describe cómo actúa tu pareja cuando te besa. 2"
+    },
+    {
+      "key": "SEXY_0090",
+      "value": "¿Cuál crees que es el mayor atractivo sexual de tu pareja? 2"
+    },
+    {
+      "key": "SEXY_0091",
+      "value": "¿Alguna vez le has mentido a tu pareja (diciendo me voy a dormir) para ir a una discoteca? 2"
+    },
+    {
+      "key": "SEXY_0092",
+      "value": "¿Qué contacto físico (skinship) has fingido que te gustaba, pero en realidad no? 2"
+    },
+    {
+      "key": "SEXY_0093",
+      "value": "¿Qué páginas web usabas para ver contenido picante? 2"
+    },
+    {
+      "key": "SEXY_0094",
+      "value": "¿Hay alguna parte de tu cuerpo que preferirías que tu pareja no tocara? 2"
+    },
+    {
+      "key": "SEXY_0095",
+      "value": "¿De qué color es la ropa interior que llevas hoy? 2"
+    },
+    {
+      "key": "SEXY_0096",
+      "value": "Adivina el color de la ropa interior que lleva tu pareja hoy. 2"
+    },
+    {
+      "key": "SEXY_0097",
+      "value": "¿Qué te gustaría que te dijera tu pareja después de un beso? 2"
+    },
+    {
+      "key": "SEXY_0098",
+      "value": "¿Crees que tu pareja besa bien? 2"
+    },
+    {
+      "key": "SEXY_0099",
+      "value": "¿Cuál es ese complejo físico que tienes y que los demás no saben? 2"
+    },
+    {
+      "key": "SEXY_0100",
+      "value": "¿Cuál es tu color favorito de lencería (ropa interior)? 2"
+    },
+    {
+      "key": "SEXY_0101",
+      "value": "Ordena estos impulsos (de más fuerte a más débil): Sueño, Hambre, Libido. 2"
+    },
+    {
+      "key": "SEXY_0102",
+      "value": "¿Alguna vez te has hecho fotos íntimas (estando a solas)? 2"
+    },
+    {
+      "key": "SEXY_0103",
+      "value": "¿Cuál es la foto más picante que has visto? 2"
+    },
+    {
+      "key": "SEXY_0104",
+      "value": "Si pudieras regalarle una cirugía plástica a tu pareja, ¿qué parte cambiarías? 2"
+    },
+    {
+      "key": "SEXY_0105",
+      "value": "Cuando conociste a tu pareja, ¿pensaste que parecía sexualmente atractiva? 2"
+    },
+    {
+      "key": "SEXY_0106",
+      "value": "¿Podrías tener una aventura de una noche con un/a desconocido/a? 2"
+    },
+    {
+      "key": "SEXY_0107",
+      "value": "Di el nombre de tu ex que mejor besaba. 2"
+    },
+    {
+      "key": "SEXY_0108",
+      "value": "Di el nombre de la persona con la que te diste tu primer beso. 2"
+    },
+    {
+      "key": "SEXY_0109",
+      "value": "¿Quién de los dos está siendo más lanzado/a (activo) últimamente? 2"
+    },
+    {
+      "key": "SEXY_0110",
+      "value": "Si tu pareja te pidiera hacerse la depilación brasileña juntos, ¿lo harías? 2"
+    },
+    {
+      "key": "SEXY_0111",
+      "value": "Imita la cara que pone tu pareja al besar. 2"
+    },
+    {
+      "key": "SEXY_0112",
+      "value": "Describe vuestro primer beso con detalle. 2"
+    },
+    {
+      "key": "SEXY_0113",
+      "value": "¿Has soñado alguna vez que besabas a alguien? ¿Con quién? 2"
+    },
+    {
+      "key": "SEXY_0114",
+      "value": "Cuenta si alguna vez has besado a alguien (sexo opuesto) estando borracho/a. 2"
+    },
+    {
+      "key": "SEXY_0115",
+      "value": "¿Has visto a otras personas hacer algo picante a escondidas en una fiesta? 2"
+    },
+    {
+      "key": "SEXY_0116",
+      "value": "¿Qué amigo/a cercano/a tiene un cuerpo que admiras? ¿Por qué? 2"
+    },
+    {
+      "key": "SEXY_0117",
+      "value": "¿Qué altura te parece la más sexy en una persona? 2"
+    },
+    {
+      "key": "SEXY_0118",
+      "value": "Para ser sexy, ¿es más importante ser alta (altura) o tener volumen (pecho)? 2"
+    },
+    {
+      "key": "SEXY_0119",
+      "value": "¿Qué porcentaje del atractivo sexy de un hombre crees que ocupan sus hombros? 2"
+    },
+    {
+      "key": "SEXY_0120",
+      "value": "¿Qué porcentaje de la sensualidad de una mujer crees que ocupa su pecho? 2"
+    },
+    {
+      "key": "SEXY_0121",
+      "value": "¿Te resulta sexy la barriguita? 2"
+    },
+    {
+      "key": "SEXY_0122",
+      "value": "¿Alguna vez has semi-forzado un beso? 2"
+    },
+    {
+      "key": "SEXY_0123",
+      "value": "Cuenta si alguna vez un simple abrazo te ha hecho sentir mariposas. 2"
+    },
+    {
+      "key": "SEXY_0124",
+      "value": "Si tu pareja iniciara contacto físico (caricias) en un rincón de una cafetería, ¿lo aceptarías? 2"
+    },
+    {
+      "key": "SEXY_0125",
+      "value": "¿Qué contacto físico (skinship) te gustaría hacerle a tu pareja ahora mismo? 2"
+    },
+    {
+      "key": "SEXY_0126",
+      "value": "¿Cuál es el límite de contacto físico que aceptarías de tu pareja aquí y ahora? 2"
+    },
+    {
+      "key": "SEXY_0127",
+      "value": "¿Te parece sexy cuando tu pareja lleva camiseta sin mangas (tank top)? 2"
+    },
+    {
+      "key": "SEXY_0128",
+      "value": "Describe tu textura de piel (tacto) favorita. 2"
+    },
+    {
+      "key": "SEXY_0129",
+      "value": "¿Te preocupas mucho por tu vello en las axilas? 2"
+    },
+    {
+      "key": "SEXY_0130",
+      "value": "¿Te importa mucho si tu pareja tiene mucho vello corporal? 2"
+    },
+    {
+      "key": "SEXY_0131",
+      "value": "¿Crees que es mejor operarse (para ser sexy) que vivir tal como eres? 2"
+    },
+    {
+      "key": "SEXY_0132",
+      "value": "¿Cuál fue ese juego de coqueteo obvio que hizo tu pareja antes de salir? 2"
+    },
+    {
+      "key": "SEXY_0133",
+      "value": "¿Cuál es tu tipo de contacto físico (skinship) favorito? 2"
+    },
+    {
+      "key": "SEXY_0134",
+      "value": "¿Qué contacto físico (entre tu pareja y otra persona) te daría celos? 2"
+    },
+    {
+      "key": "SEXY_0135",
+      "value": "¿Has entrado alguna vez en el perfil (redes sociales) de tu ex? 2"
+    },
+    {
+      "key": "SEXY_0136",
+      "value": "¿Sigues a algún/a influencer (con cuerpazo) en redes sociales? 2"
+    },
+    {
+      "key": "SEXY_0137",
+      "value": "¿Cuándo echas más de menos a tu ex? 2"
+    },
+    {
+      "key": "SEXY_0138",
+      "value": "¿Cuál es tu definición personal de ser infiel? 2"
+    },
+    {
+      "key": "SEXY_0139",
+      "value": "¿Crees que tu pareja tiene muchas opciones (pretendientes)? 2"
+    },
+    {
+      "key": "SEXY_0140",
+      "value": "En la primera cita, ¿cuál es el límite (hasta dónde) aceptable? 2"
+    },
+    {
+      "key": "SEXY_0141",
+      "value": "¿Cuál es tu truco secreto para seducir a alguien? 2"
+    },
+    {
+      "key": "SEXY_0142",
+      "value": "¿Has besado a dos personas diferentes (sexo opuesto) en el mismo mes? 2"
+    },
+    {
+      "key": "SEXY_0143",
+      "value": "¿Qué opinas de salir con alguien que conociste en una discoteca (club)? 2"
+    },
+    {
+      "key": "SEXY_0144",
+      "value": "¿Has besado a alguien en una discoteca? ¿O te gustaría probarlo? 2"
+    },
+    {
+      "key": "SEXY_0145",
+      "value": "¿Cuál es la escena más picante que has visto en una discoteca? 2"
+    },
+    {
+      "key": "SEXY_0146",
+      "value": "Si vivierais juntos, ¿qué opinarías de dormir en habitaciones separadas? 2"
+    },
+    {
+      "key": "SEXY_0147",
+      "value": "¿Qué le dirías a un/a amigo/a (con pareja) si te dice que se va de viaje con un amigo? 2"
+    },
+    {
+      "key": "SEXY_0148",
+      "value": "Tu mejor amigo/a te pide ir a una cita a ciegas grupal secreta (con gente guapísima). ¿Qué haces? 2"
+    },
+    {
+      "key": "SEXY_0149",
+      "value": "Tu mejor amigo/a (solo/a) quiere juntar mesas (2 con 2) con alguien que le gusta. ¿Qué haces? 2"
+    },
+    {
+      "key": "SEXY_0150",
+      "value": "¿Qué parte del cuerpo de tu pareja te gustaría más estimular con la boca? 3"
+    },
+    {
+      "key": "SEXY_0151",
+      "value": "Parte superior vs Parte inferior: ¿Cuál preferirías stimular con la boca? ¿Por qué? 3"
+    },
+    {
+      "key": "SEXY_0152",
+      "value": "¿Has pensado en otra cosa mientras hacíais el amor? ¿En qué? 3"
+    },
+    {
+      "key": "SEXY_0153",
+      "value": "¿Qué parte te gustaría stimular con la boca antes de hacer el amor? 3"
+    },
+    {
+      "key": "SEXY_0154",
+      "value": "¿Alguna vez has querido parar en mitad de hacer el amor? 3"
+    },
+    {
+      "key": "SEXY_0155",
+      "value": "¿Qué expresión de tu pareja te stimula más mientras hacéis el amor? 3"
+    },
+    {
+      "key": "SEXY_0156",
+      "value": "¿Qué ropa lleva tu pareja cuando más ganas tienes de hacer el amor? 3"
+    },
+    {
+      "key": "SEXY_0157",
+      "value": "Elige una prenda que te gustaría que tu pareja llevara al hacer el amor. 3"
+    },
+    {
+      "key": "SEXY_0158",
+      "value": "¿Besar te da ganas de hacer el amor, o prefieres centrarte en el beso? 3"
+    },
+    {
+      "key": "SEXY_0159",
+      "value": "¿Qué postura al hacer el amor te stimula más? 3"
+    },
+    {
+      "key": "SEXY_0160",
+      "value": "¿Hay algún sitio especial donde te gustaría hacer el amor con tu pareja? 3"
+    },
+    {
+      "key": "SEXY_0161",
+      "value": "¿Cómo describirías vuestra primera vez (haciendo el amor)? 3"
+    },
+    {
+      "key": "SEXY_0162",
+      "value": "Cuéntale a tu pareja una de tus fantasías íntimas. 3"
+    },
+    {
+      "key": "SEXY_0163",
+      "value": "Al hacer el amor, ¿prefieres que sea suave o rudo? 3"
+    },
+    {
+      "key": "SEXY_0164",
+      "value": "Al hacer el amor, ¿prefieres las luces encendidas? 3"
+    },
+    {
+      "key": "SEXY_0165",
+      "value": "¿Cuál crees que es la duración perfecta para hacer el amor? 3"
+    },
+    {
+      "key": "SEXY_0166",
+      "value": "Haciendo el amor: ¿Profundo y fuerte vs Suave y lento? 3"
+    },
+    {
+      "key": "SEXY_0167",
+      "value": "Caricias (pareja): ¿Prefieres con las manos o con la boca? 3"
+    },
+    {
+      "key": "SEXY_0168",
+      "value": "¿Hay alguna parte de tu cuerpo que te gustaría que tu pareja estimulara con la boca al hacer el amor? 3"
+    },
+    {
+      "key": "SEXY_0169",
+      "value": "¿Cuándo fue el mejor momento en que te sentiste estimulado/a (acariciado/a) por tu pareja? 3"
+    },
+    {
+      "key": "SEXY_0170",
+      "value": "¿Hay algún sitio al aire libre donde secretamente te gustaría hacer el amor? 3"
+    },
+    {
+      "key": "SEXY_0171",
+      "value": "¿Hay alguna estimulación (preliminares) que te gustaría recibir antes de hacer el amor? 3"
+    },
+    {
+      "key": "SEXY_0172",
+      "value": "¿Hay algún atuendo que te gustaría que tu pareja llevara al hacer el amor? 3"
+    },
+    {
+      "key": "SEXY_0173",
+      "value": "¿Hay algún disfraz (cosplay) que te gustaría usar con tu pareja al hacer el amor? 3"
+    },
+    {
+      "key": "SEXY_0174",
+      "value": "¿Te gusta hacer cosplay al hacer el amor? 3"
+    },
+    {
+      "key": "SEXY_0175",
+      "value": "¿Tienes fantasías sobre hacer el amor mientras hacéis un juego de rol? 3"
+    },
+    {
+      "key": "SEXY_0176",
+      "value": "Si tuvieras que describir vuestro acto de amor en una palabra, ¿cuál? 3"
+    },
+    {
+      "key": "SEXY_0177",
+      "value": "¿Tienes fantasías sobre hacer el amor con un/a extranjero/a? 3"
+    },
+    {
+      "key": "SEXY_0178",
+      "value": "Si hicieras el amor (otra raza), ¿cuál te gustaría probar? 3"
+    },
+    {
+      "key": "SEXY_0179",
+      "value": "¿Crees que podrías hacer el amor con alguien de tu mismo sexo? 3"
+    },
+    {
+      "key": "SEXY_0180",
+      "value": "¿Crees que eres bueno/a haciendo el amor? 3"
+    },
+    {
+      "key": "SEXY_0181",
+      "value": "¿Qué es lo mejor de hacer el amor con tu pareja? 3"
+    },
+    {
+      "key": "SEXY_0182",
+      "value": "¿Qué harías si los padres de tu pareja os pillaran haciendo el amor en casa? 3"
+    },
+    {
+      "key": "SEXY_0183",
+      "value": "Al hacer el amor, ¿prefieres liderar o que te lideren? 3"
+    },
+    {
+      "key": "SEXY_0184",
+      "value": "¿Te identificas más con el lado M (sumiso) o S (dominante)? 3"
+    },
+    {
+      "key": "SEXY_0185",
+      "value": "¿Prefieres que tu pareja se depile (ej. depilación brasileña)? 3"
+    },
+    {
+      "key": "SEXY_0186",
+      "value": "¿Te gusta ser estimulado/a por la boca de tu pareja? 3"
+    },
+    {
+      "key": "SEXY_0187",
+      "value": "¿Te gusta stimular a tu pareja con la boca? 3"
+    },
+    {
+      "key": "SEXY_0188",
+      "value": "Cuenta una fantasía íntima que tengas escondida. 3"
+    },
+    {
+      "key": "SEXY_0189",
+      "value": "¿Te gusta que tu pareja te susurre al oído mientras hacéis el amor? 3"
+    },
+    {
+      "key": "SEXY_0190",
+      "value": "¿Te gusta que tu pareja te stimule la oreja (con la boca) mientras hacéis el amor? 3"
+    },
+    {
+      "key": "SEXY_0191",
+      "value": "Al estimular la zona íntima, ¿se te ha metido un pelo en la boca? ¿Qué sentiste? 3"
+    },
+    {
+      "key": "SEXY_0192",
+      "value": "¿Qué opinas de que tu pareja se dé placer (a solas) en secreto? 3"
+    },
+    {
+      "key": "SEXY_0193",
+      "value": "¿Cómo se sentiría tu pareja si te viera dándote placer (a solas)? 3"
+    },
+    {
+      "key": "SEXY_0194",
+      "value": "¿Cómo te sentirías tú si vieras a tu pareja dándose placer (a solas)? 3"
+    },
+    {
+      "key": "SEXY_0195",
+      "value": "¿Alguna vez te has dado placer (a solas) sin que tu pareja lo sepa? ¿Cuándo? 3"
+    },
+    {
+      "key": "SEXY_0196",
+      "value": "¿Has tenido una aventura de una noche con alguien que conociste en una discoteca? 3"
+    },
+    {
+      "key": "SEXY_0197",
+      "value": "¿Has tenido una aventura de una noche con alguien que conociste en un bar? 3"
+    },
+    {
+      "key": "SEXY_0198",
+      "value": "Cuando conociste a tu pareja, ¿sentiste ganas de hacer el amor con él/ella? 3"
+    },
+    {
+      "key": "SEXY_0199",
+      "value": "Si tuvieras que estimular a tu pareja (con un postre sobre su cuerpo), ¿qué postre? 3"
+    },
+    {
+      "key": "SEXY_0200",
+      "value": "¿Te estimulan las palabras sucias  durante el acto? 3"
+    },
+    {
+      "key": "SEXY_0201",
+      "value": "Si tu pareja fuera 10 años mayor, ¿crees que podríáis hacer el amor? 3"
+    },
+    {
+      "key": "SEXY_0202",
+      "value": "¿Hasta qué edad crees que podrás hacer el amor con tu pareja? 3"
+    },
+    {
+      "key": "SEXY_0203",
+      "value": "Si no pudierais volver a hacer el amor nunca más, ¿podríais seguir juntos? 3"
+    },
+    {
+      "key": "SEXY_0204",
+      "value": "¿Puedes amar a alguien sin hacer el amor? 3"
+    },
+    {
+      "key": "SEXY_0205",
+      "value": "Duración (del acto): ¿Prefieres que sea largo o corto? 3"
+    },
+    {
+      "key": "SEXY_0206",
+      "value": "Durante el acto: ¿Prefieres (dar órdenes) u (obedecer)? 3"
+    },
+    {
+      "key": "SEXY_0207",
+      "value": "Cuerpo (pareja): ¿Prefieres (la parte de arriba) o (la parte de abajo)? 3"
+    },
+    {
+      "key": "SEXY_0208",
+      "value": "¿Qué opinas de las llamadas calientes? ¿Te gustaría probarlo? 3"
+    },
+    {
+      "key": "SEXY_0209",
+      "value": "¿Tienes la fantasía de hacer el amor con tu pareja cuando está completamente borracha? 3"
+    },
+    {
+      "key": "SEXY_0210",
+      "value": "Si te casas con tu pareja, ¿cuántas veces al mes te gustaría hacer el amor? 3"
+    },
+    {
+      "key": "SEXY_0211",
+      "value": "¿Alguna vez has pensado en querer hacer un trío? 3"
+    },
+    {
+      "key": "SEXY_0212",
+      "value": "¿Qué harías si tu pareja se tirara un pedo mientras hacéis el amor? 3"
+    },
+    {
+      "key": "SEXY_0213",
+      "value": "¿Qué harías si tu pareja te pidiera hacer el amor (un trío) con su mejor amigo/a? 3"
+    },
+    {
+      "key": "SEXY_0214",
+      "value": "Si tu pareja no pudiera hacer el amor (1 año), ¿cómo aliviarías tu deseo? 3"
+    },
+    {
+      "key": "SEXY_0215",
+      "value": "¿Os habéis duchado juntos alguna vez? ¿Qué opinas de hacer el amor en la ducha? 3"
+    },
+    {
+      "key": "SEXY_0216",
+      "value": "En una escala del 1 al 10, ¿cuál es tu nivel de libido? 3"
+    },
+    {
+      "key": "SEXY_0217",
+      "value": "En una escala del 1 al 10, ¿cuál es tu nivel de libido? 3"
+    },
+    {
+      "key": "SEXY_0218",
+      "value": "¿Crees que tu pareja tiene mucho apetito sexual (libido)? ¿Por qué? 3"
+    },
+    {
+      "key": "SEXY_0219",
+      "value": "Postura (para el amor): ¿Prefieres cara a cara o por detrás? 3"
+    },
+    {
+      "key": "SEXY_0220",
+      "value": "¿Prefieres a alguien con mucha experiencia o sin experiencia? 3"
+    },
+    {
+      "key": "SEXY_0221",
+      "value": "¿Qué harías si la zona íntima de tu pareja oliera muy fuerte? 3"
+    },
+    {
+      "key": "SEXY_0222",
+      "value": "¿Qué harías si te enteraras de que tu pareja hizo el amor con tu mejor amigo/a en el pasado? 3"
+    },
+    {
+      "key": "SEXY_0223",
+      "value": "¿Crees que la química física es muy importante en una relación? 3"
+    },
+    {
+      "key": "SEXY_0224",
+      "value": "¿Qué opinas de hacer el amor nada más despertarse por la mañana? 3"
+    },
+    {
+      "key": "SEXY_0225",
+      "value": "Si pudieras cambiar la cara de tu pareja por la de un famoso/a (al hacer el amor), ¿quién? 3"
+    },
+    {
+      "key": "SEXY_0226",
+      "value": "¿Te gustaría ver un vídeo para adultos con tu pareja? 3"
+    },
+    {
+      "key": "SEXY_0227",
+      "value": "Si solo pudieras usar una postura (para el amor) (resto de tu vida), ¿cuál? 3"
+    },
+    {
+      "key": "SEXY_0228",
+      "value": "¿Cuál es tu punto más sensible (zona erógena) del cuerpo? 3"
+    },
+    {
+      "key": "SEXY_0229",
+      "value": "¿Has hecho el amor varias veces en una noche? 3"
+    },
+    {
+      "key": "SEXY_0230",
+      "value": "¿Cuál es el número máximo de veces que crees que podrías hacer el amor en un día? 3"
+    },
+    {
+      "key": "SEXY_0231",
+      "value": "Si te vas de viaje con amigos, ¿seguirías queriendo hacer el amor a escondidas? 3"
+    },
+    {
+      "key": "SEXY_0232",
+      "value": "Describe en detalle la ropa interior que llevas hoy. 3"
+    },
+    {
+      "key": "SEXY_0233",
+      "value": "¿Qué parte del cuerpo de tu pareja te gusta más estimular con la boca? 3"
+    },
+    {
+      "key": "SEXY_0234",
+      "value": "¿Te has dado placer (a solas) esta semana? 3"
+    },
+    {
+      "key": "SEXY_0235",
+      "value": "¿Te gustaría probar a hacer el amor en un baño público? 3"
+    },
+    {
+      "key": "SEXY_0236",
+      "value": "¿Te gustaría probar a hacer el amor en un coche? 3"
+    },
+    {
+      "key": "SEXY_0237",
+      "value": "¿Te gustaría probar a hacer el amor a escondidas en el trabajo? 3"
+    },
+    {
+      "key": "SEXY_0238",
+      "value": "(Tras un día largo) ¿Te gustaría llegar a casa y que tu pareja estuviera sin ropa? 3"
+    },
+    {
+      "key": "SEXY_0239",
+      "value": "¿Te gustaría probar a hacer el amor con los ojos vendados? 3"
+    },
+    {
+      "key": "SEXY_0240",
+      "value": "¿Hay alguna escena de vídeo para adultos que te gustaría recrear? 3"
+    },
+    {
+      "key": "SEXY_0241",
+      "value": "¿Puedes sentirte satisfecho/a si tu pareja alcanza el clímax, aunque tú no? 3"
+    },
+    {
+      "key": "SEXY_0242",
+      "value": "Describe el mejor clímax que has sentido. 3"
+    },
+    {
+      "key": "SEXY_0243",
+      "value": "Dile a tu pareja qué necesitas para alcanzar tu mejor clímax. 3"
+    },
+    {
+      "key": "SEXY_0244",
+      "value": "¿Hay alguna cosa íntima (traviesa) que te gustaría probar algún día? 3"
+    },
+    {
+      "key": "SEXY_0245",
+      "value": "¿Alguna vez te has dado placer (a solas) en el trabajo? 3"
+    },
+    {
+      "key": "SEXY_0246",
+      "value": "Al hacer el amor, ¿prefieres que tu pareja lidere? 3"
+    },
+    {
+      "key": "SEXY_0247",
+      "value": "Describe en detalle el último vídeo para adultos que has visto. 3"
+    },
+    {
+      "key": "SEXY_0248",
+      "value": "¿Hay algo que te gustaría probar en la cama, pero que te da reparo? 3"
+    },
+    {
+      "key": "SEXY_0249",
+      "value": "¿Qué te gustaría oír justo después de hacer el amor? 3"
+    },
+    {
+      "key": "SEXY_0250",
+      "value": "¿Cuál es tu género favorito de vídeos para adultos? 3"
+    },
+    {
+      "key": "SEXY_0251",
+      "value": "¿Qué postura te da más estimulación (sientes más)? 3"
+    },
+    {
+      "key": "SEXY_0252",
+      "value": "¿Crees que te estimularía más hacer el amor (estando atado/a)? 3"
+    },
+    {
+      "key": "SEXY_0253",
+      "value": "¿Has presenciado alguna vez a otra pareja haciendo el amor? 3"
+    },
+    {
+      "key": "SEXY_0254",
+      "value": "¿Qué opinas de que tu pareja te estimule con los pies? 3"
+    },
+    {
+      "key": "SEXY_0255",
+      "value": "Cuando te das placer (a solas), ¿has imaginado a alguien? ¿A quién? 3"
+    },
+    {
+      "key": "SEXY_0256",
+      "value": "En la cama, ¿crees que sueles ganar (dominar)? 3"
+    },
+    {
+      "key": "SEXY_0257",
+      "value": "¿Has pensado en otra persona mientras hacíais el amor? 3"
+    },
+    {
+      "key": "SEXY_0258",
+      "value": "(Noche tranquila) ¿Podrías hacer el amor con tu pareja en la playa? 3"
+    },
+    {
+      "key": "SEXY_0259",
+      "value": "Adivina qué fantasía íntima crees que puede tener tu pareja. 3"
+    },
+    {
+      "key": "SEXY_0260",
+      "value": "Describe tus habilidades en la cama (recientes) en una palabra. 3"
+    },
+    {
+      "key": "SEXY_0261",
+      "value": "Adivina cuándo fue la última vez que tu pareja se dio placer (a solas). 3"
+    },
+    {
+      "key": "SEXY_0262",
+      "value": "Adivina cuándo fue la última vez que tu pareja vio un vídeo para adultos. 3"
+    },
+    {
+      "key": "SEXY_0263",
+      "value": "¿Cuál es tu punto más sensible (zona erógena)? 3"
+    },
+    {
+      "key": "SEXY_0264",
+      "value": "(Aparte del dormitorio) ¿Cuál es el mejor sitio donde has hecho el amor? 3"
+    },
+    {
+      "key": "SEXY_0265",
+      "value": "¿Te estimula ver a tu pareja atada a la cama? 3"
+    },
+    {
+      "key": "SEXY_0266",
+      "value": "¿Tienes un lugar soñado donde te gustaría hacer el amor? 3"
+    },
+    {
+      "key": "SEXY_0267",
+      "value": "¿Cuál es el tiempo más largo que has hecho el amor? 3"
+    },
+    {
+      "key": "SEXY_0268",
+      "value": "¿Cuál es el tiempo más corto que has hecho el amor? 3"
+    },
+    {
+      "key": "SEXY_0269",
+      "value": "¿Has soñado alguna vez con hacer el amor? ¿Cómo fue el sueño? 3"
+    },
+    {
+      "key": "SEXY_0270",
+      "value": "¿Recuerdas tu primera vez (a solas)? Cuéntalo en detalle. 3"
+    },
+    {
+      "key": "SEXY_0271",
+      "value": "¿Te han pillado alguna vez dándote placer (a solas)? 3"
+    },
+    {
+      "key": "SEXY_0272",
+      "value": "Elige 3 actores/actrices con quienes te gustaría hacer el amor. 3"
+    },
+    {
+      "key": "SEXY_0273",
+      "value": "¿Cuál crees que es la duración ideal para la estimulación (preliminares)? 3"
+    },
+    {
+      "key": "SEXY_0274",
+      "value": "Si pudieras aconsejar a tu yo del pasado (justo antes de la primera vez), ¿qué? 3"
+    },
+    {
+      "key": "SEXY_0275",
+      "value": "¿Te gustaría ir a una tienda de adultos con tu pareja? 3"
+    },
+    {
+      "key": "SEXY_0276",
+      "value": "Si tienes alguna habilidad en la cama que otros no sepan, cuéntala. 3"
+    },
+    {
+      "key": "SEXY_0277",
+      "value": "Describe cómo fue vuestra primera vez (haciendo el amor). 3"
+    },
+    {
+      "key": "SEXY_0278",
+      "value": "¿Es mejor hacer el amor con música puesta? 3"
+    },
+    {
+      "key": "SEXY_0279",
+      "value": "¿Qué harías si tu pareja apareciera en un vídeo para adultos? 3"
+    },
+    {
+      "key": "SEXY_0280",
+      "value": "Mañana, Tarde o Noche: ¿Cuál es el mejor momento para hacer el amor? 3"
+    },
+    {
+      "key": "SEXY_0281",
+      "value": "¿Hay algo que te gustaría comprar en una tienda de adultos? 3"
+    },
+    {
+      "key": "SEXY_0282",
+      "value": "¿Quieres que tu pareja te dé un azote suave en el culo durante el acto? 3"
+    },
+    {
+      "key": "SEXY_0283",
+      "value": "¿Conoces la postura invertida? ¿La disfrutas? 3"
+    },
+    {
+      "key": "SEXY_0284",
+      "value": "¿Hay algún acto que de verdad no quieras hacer al hacer el amor? ¿Por qué? 3"
+    },
+    {
+      "key": "SEXY_0285",
+      "value": "¿Te gustaría hacerte la depilación íntima (ej. brasileña) con tu pareja? 3"
+    },
+    {
+      "key": "SEXY_0286",
+      "value": "(Durante el acto intenso) ¿Te gustaría que tu pareja te apretara el cuello suavemente? 3"
+    },
+    {
+      "key": "SEXY_0287",
+      "value": "¿Cuál crees que es la mejor forma de dar placer a tu pareja con la boca? 3"
+    },
+    {
+      "key": "SEXY_0288",
+      "value": "¿Qué harías si te enteraras de que tu pareja se acostó con su jefe/a (para un ascenso)? 3"
+    },
+    {
+      "key": "SEXY_0289",
+      "value": "¿Te gustaría oír palabras excitantes y sucias  al hacer el amor? ¿Cuáles? 3"
+    },
+    {
+      "key": "SEXY_0290",
+      "value": "¿Podrías vivir con una pareja que quiera hacer el amor al menos 3 veces al día? 3"
+    },
+    {
+      "key": "SEXY_0291",
+      "value": "¿Hay alguna postura que pensabas que sería buena, pero no lo fue? 3"
+    },
+    {
+      "key": "SEXY_0292",
+      "value": "¿Alguna vez has sentido dolor al hacer el amor con tu pareja? ¿Por qué? 3"
+    },
+    {
+      "key": "SEXY_0293",
+      "value": "¿Crees que podrías hacer el amor en un autobús (con poca gente)? 3"
+    },
+    {
+      "key": "SEXY_0294",
+      "value": "¿Podrías hacer el amor a escondidas (con alguien) mientras tu familia está en casa? 3"
+    },
+    {
+      "key": "SEXY_0295",
+      "value": "Si compararas a tu pareja (al hacer el amor) con un animal, ¿cuál? 3"
+    },
+    {
+      "key": "SEXY_0296",
+      "value": "(Aparte de contigo) ¿Qué opinas de que tu pareja se dé placer (a solas) en secreto? 3"
+    },
+    {
+      "key": "SEXY_0297",
+      "value": "¿Te gustaría estimular a tu pareja usando un juguete para adultos? 3"
+    },
+    {
+      "key": "SEXY_0298",
+      "value": "¿Sientes algún rechazo a usar condones? 3"
+    },
+    {
+      "key": "SEXY_0299",
+      "value": "¿Hay alguna técnica en la cama que te gustaría que tu pareja probara? 3"
+    },
+    {
+      "key": "SEXY_0300",
+      "value": "Si rompieran, ¿crees que podrían seguir como amigos con derechos (solo físico)? 3"
+    },
+    {
+      "key": "SEXY_0301",
+      "value": "¿Cómo es tu noche de bodas (luna de miel) ideal? 3"
+    },
+    {
+      "key": "SEXY_0302",
+      "value": "¿Cuándo fue la primera vez que supiste lo que era hacer el amor? 3"
+    },
+    {
+      "key": "SEXY_0303",
+      "value": "Si tu pareja rechaza besarte (después de estimular su zona íntima), ¿qué haces? 3"
+    },
+    {
+      "key": "SEXY_0304",
+      "value": "¿Qué comportamiento de tu pareja hace que no quieras hacer el amor? 3"
+    },
+    {
+      "key": "SEXY_0305",
+      "value": "Descríbele a tu pareja qué se siente cuando llegas al clímax. 3"
+    },
+    {
+      "key": "SEXY_0306",
+      "value": "¿Te parece bien hacer el amor sin ducharos antes? 3"
+    },
+    {
+      "key": "SEXY_0307",
+      "value": "Dile a tu pareja el número total de personas con las que has hecho el amor. 3"
+    },
+    {
+      "key": "SEXY_0308",
+      "value": "¿Qué harías si tu pareja dijera (por error) el nombre de otra persona al hacer el amor? 3"
+    },
+    {
+      "key": "SEXY_0309",
+      "value": "¿Te has arrepentido alguna vez de hacer el amor con alguien? 3"
+    },
+    {
+      "key": "SEXY_0310",
+      "value": "¿Piensas a veces en algún/a ex que era bueno/a (al hacer el amor)? 3"
+    },
+    {
+      "key": "SEXY_0311",
+      "value": "¿Has puesto alguna excusa (regla, cansancio, enfermedad) para no hacer el amor? 3"
+    },
+    {
+      "key": "SEXY_0312",
+      "value": "¿Has tenido alguna vez un amigo con derechos (solo físico)? 3"
+    },
+    {
+      "key": "SEXY_0313",
+      "value": "¿Has intentado estimular (excitar) a tu pareja en un sitio público? 3"
+    },
+    {
+      "key": "SEXY_0314",
+      "value": "¿Qué es lo más estimulante que has oído al hacer el amor? 3"
+    },
+    {
+      "key": "SEXY_0315",
+      "value": "Cuenta un secreto íntimo que sepas de otra persona. 3"
+    },
+    {
+      "key": "SEXY_0316",
+      "value": "¿Has visto alguna vez a tus padres haciendo el amor por accidente? 3"
+    },
+    {
+      "key": "SEXY_0317",
+      "value": "¿Qué habilidad en la cama has fingido que te gustaba, pero en realidad no? 3"
+    },
+    {
+      "key": "SEXY_0318",
+      "value": "¿Cuál es tu duración preferida (en minutos) para hacer el amor? 3"
+    },
+    {
+      "key": "SEXY_0319",
+      "value": "¿Hay alguna foto íntima que te gustaría hacerte con tu pareja? 3"
+    },
+    {
+      "key": "SEXY_0320",
+      "value": "Si se hicieran fotos íntimas, ¿cuál sería el límite (hasta dónde)? 3"
+    },
+    {
+      "key": "SEXY_0321",
+      "value": "¿Qué te gustaría que te dijera tu pareja después de hacer el amor? 3"
+    },
+    {
+      "key": "SEXY_0322",
+      "value": "Di tres puntos fuertes de tu pareja (al hacer el amor). 3"
+    },
+    {
+      "key": "SEXY_0323",
+      "value": "¿Crees que tu pareja es buena haciendo el amor? 3"
+    },
+    {
+      "key": "SEXY_0324",
+      "value": "¿Cuál ha sido la mejor estimulación (caricia) que te ha dado tu pareja? 3"
+    },
+    {
+      "key": "SEXY_0325",
+      "value": "¿Hay algún juguete para adultos que te gustaría usar al hacer el amor? 3"
+    },
+    {
+      "key": "SEXY_0326",
+      "value": "(Vestidos) Actuad/Fingid que hacéis el amor durante 20 segundos. [20]"
+    },
+    {
+      "key": "SEXY_0327",
+      "value": "¿Cuántas veces crees que has hecho el amor con tu pareja (en total)? 3"
+    },
+    {
+      "key": "SEXY_0328",
+      "value": "(Antes de la 1ª vez) ¿Cómo pensabas que sería la habilidad en la cama de tu pareja? 3"
+    },
+    {
+      "key": "SEXY_0329",
+      "value": "¿Cuál es la diferencia entre vuestra primera vez (haciendo el amor) y ahora? 3"
+    },
+    {
+      "key": "SEXY_0330",
+      "value": "Dinos tu estilo favorito de vídeo para adultos (país, concepto, nivel...). 3"
+    },
+    {
+      "key": "SEXY_0331",
+      "value": "Si pudieras operarte gratis (tus partes), ¿qué cambiarías? 3"
+    },
+    {
+      "key": "SEXY_0332",
+      "value": "¿Cómo se llamaba tu ex que mejor te estimulaba (preliminares)? 3"
+    },
+    {
+      "key": "SEXY_0333",
+      "value": "¿Cómo se llamaba tu ex que era el/la mejor (haciendo el amor)? 3"
+    },
+    {
+      "key": "SEXY_0334",
+      "value": "¿Cómo se llamaba tu ex con quien tenías mejor química física? 3"
+    },
+    {
+      "key": "SEXY_0335",
+      "value": "¿Cómo se llamaba la persona con la que tuviste tu primera vez? 3"
+    },
+    {
+      "key": "SEXY_0336",
+      "value": "¿Has hecho el amor alguna vez con un/a extranjero/a? 3"
+    },
+    {
+      "key": "SEXY_0337",
+      "value": "¿Has oído algo característico sobre hacer el amor con extranjeros/as? 3"
+    },
+    {
+      "key": "SEXY_0338",
+      "value": "¿Con cuántas personas has hecho el amor hasta ahora? 3"
+    },
+    {
+      "key": "SEXY_0339",
+      "value": "¿Has hecho el amor con dos personas (trío) alguna vez, o casi? 3"
+    },
+    {
+      "key": "SEXY_0340",
+      "value": "¿Le has descrito a tus amigos/as tu vida íntima con tu pareja? 3"
+    },
+    {
+      "key": "SEXY_0341",
+      "value": "Sinceramente, ¿hay momentos en que darse placer (a solas) es mejor que hacer el amor? 3"
+    },
+    {
+      "key": "SEXY_0342",
+      "value": "¿Has estado alguna vez en un local de entretenimiento para adultos? 3"
+    },
+    {
+      "key": "SEXY_0343",
+      "value": "¿Hasta dónde has llegado en una primera cita? 3"
+    },
+    {
+      "key": "SEXY_0344",
+      "value": "(De 0 a 100%) ¿Qué porcentaje le das a vuestra química física? 3"
+    },
+    {
+      "key": "SEXY_0345",
+      "value": "¿Cuál es el número máximo de veces que has hecho el amor en un día? 3"
+    },
+    {
+      "key": "SEXY_0346",
+      "value": "¿Has roto alguna vez con alguien por mala química física? 3"
+    },
+    {
+      "key": "SEXY_0347",
+      "value": "¿Piensas a veces en un/a ex con quien tenías buena química física? 3"
+    },
+    {
+      "key": "SEXY_0348",
+      "value": "¿Hay alguna postura nueva que te gustaría probar con tu pareja? 3"
+    },
+    {
+      "key": "SEXY_0349",
+      "value": "¿Cuáles son 3 palabras que representan vuestro acto de amor? 3"
+    },
+    {
+      "key": "SEXY_0350",
+      "value": "¿Con qué frecuencia piensas en hacer el amor? 3"
+    },
+    {
+      "key": "SEXY_0351",
+      "value": "Describe tu proceso ideal para llegar a hacer el amor. 3"
+    },
+    {
+      "key": "SEXY_0352",
+      "value": "¿Qué dice tu pareja cuando se estimula (excita) al hacer el amor? 3"
+    },
+    {
+      "key": "SEXY_0353",
+      "value": "Si pudieras besar una parte del cuerpo de tu pareja (que no sea la cara), ¿dónde? 3"
+    },
+    {
+      "key": "SEXY_0354",
+      "value": "¿Qué atuendo sexy (que vieras en un vídeo para adultos) recuerdas? 3"
+    },
+    {
+      "key": "SEXY_0355",
+      "value": "¿Qué tipo de medias (pantys) te parecen más sexys? 3"
+    },
+    {
+      "key": "SEXY_0356",
+      "value": "¿Has soñado alguna vez con hacer el amor? Si es así, ¿cómo fue? 3"
+    },
+    {
+      "key": "SEXY_0357",
+      "value": "¿Estás satisfecho/a con la forma de tus pezones? ¿Por qué? 3"
+    },
+    {
+      "key": "SEXY_0358",
+      "value": "¿Pierdes el deseo de hacer el amor con alguien (con sobrepeso)? 3"
+    },
+    {
+      "key": "SEXY_0359",
+      "value": "¿Cuánto cuidado corporal (fitness) necesitas que mantenga tu pareja (para seguir queriendo)? 3"
+    },
+    {
+      "key": "SEXY_0360",
+      "value": "¿Pierdes el deseo de besar a alguien (con sobrepeso)? 3"
+    },
+    {
+      "key": "SEXY_0361",
+      "value": "¿Qué parte del cuerpo de tu pareja (si cambiara) haría que hacer el amor fuera mejor? 3"
+    },
+    {
+      "key": "SEXY_0362",
+      "value": "¿Qué cambio (en la parte íntima de tu pareja) haría que vuestra vida sexual fuera el doble de buena? 3"
+    },
+    {
+      "key": "SEXY_0363",
+      "value": "¿Es mejor hacer el amor (después de depilarse)? 3"
+    },
+    {
+      "key": "SEXY_0364",
+      "value": "¿Alguna vez has perdido las ganas de hacer el amor (por el vello corporal)? 3"
+    },
+    {
+      "key": "SEXY_0365",
+      "value": "¿Qué opinas de tragar el final (fluidos) de tu pareja? 3"
+    },
+    {
+      "key": "SEXY_0366",
+      "value": "Si alguna vez te has puesto muchísimo (excitada) (por tu pareja), ¿cuándo? 3"
+    },
+    {
+      "key": "SEXY_0367",
+      "value": "¿Alguna vez te has puesto muchísimo (excitada) en un sitio público? 3"
+    },
+    {
+      "key": "SEXY_0368",
+      "value": "¿Has pensado en hacer el amor a escondidas (en sitio público)? ¿Dónde? 3"
+    },
+    {
+      "key": "SEXY_0369",
+      "value": "¿Has querido estimular a tu pareja (con la boca) mientras duerme? 3"
+    },
+    {
+      "key": "SEXY_0370",
+      "value": "¿Tienes la fantasía de que tu pareja te domine con fuerza (te tome) cuando estás borracho/a? 3"
+    },
+    {
+      "key": "SEXY_0371",
+      "value": "¿Te preocupas de que tu sujetador y tus bragas vayan a juego? 3"
+    },
+    {
+      "key": "SEXY_0372",
+      "value": "¿Te parece sexy la ropa interior con estampado de leopardo? 3"
+    },
+    {
+      "key": "SEXY_0373",
+      "value": "¿Te gusta la lencería con encaje? 3"
+    },
+    {
+      "key": "SEXY_0374",
+      "value": "¿Te gusta la ropa interior (con estampado de flores)? 3"
+    },
+    {
+      "key": "SEXY_0375",
+      "value": "¿Qué opinas de los atuendos que muestran el escote? 3"
+    },
+    {
+      "key": "SEXY_0376",
+      "value": "¿Qué opinas de hacerlo sin condón? 3"
+    },
+    {
+      "key": "SEXY_0377",
+      "value": "Si usáis anticonceptivos, ¿qué método crees que es el mejor? 3"
+    },
+    {
+      "key": "SEXY_0378",
+      "value": "¿Cuándo te depilas (o cuidas el vello corporal)? 3"
+    },
+    {
+      "key": "SEXY_0379",
+      "value": "¿Qué es algo que te corta el rollo (mata la pasión) durante el acto? 3"
+    },
+    {
+      "key": "SEXY_0380",
+      "value": "¿Hasta dónde dejarías que te tocara tu pareja ahora mismo? 3"
+    },
+    {
+      "key": "SEXY_0381",
+      "value": "¿Cuál es tu señal personal cuando te estás estimulando (excitando)? 3"
+    },
+    {
+      "key": "SEXY_0383",
+      "value": "¿Te has dado placer (a solas) desde que estáis saliendo? 3"
+    },
+    {
+      "key": "SEXY_0384",
+      "value": "¿Has tenido algún sueño íntimo (picante) con tu pareja? 3"
+    },
+    {
+      "key": "SEXY_0385",
+      "value": "¿Has tenido alguna vez un amigo con derechos (solo físico)? 3"
+    },
+    {
+      "key": "SEXY_0386",
+      "value": "¿Cuál es el mejor sitio donde has hecho el amor? 3"
+    },
+    {
+      "key": "SEXY_0387",
+      "value": "¿Hasta dónde estás dispuesto/a a permitir hoy? 3"
+    },
+    {
+      "key": "SEXY_0388",
+      "value": "¿Crees que podrías salir con alguien (incluso con mala química física)? 3"
+    },
+    {
+      "key": "SEXY_0389",
+      "value": "¿Has besado a alguien en una discoteca? ¿O te gustaría probarlo? 3"
+    },
+    {
+      "key": "SEXY_0390",
+      "value": "Di una frase que usas para seducir (cuando no te quieres ir a casa). 3"
+    },
+    {
+      "key": "SEXY_0391",
+      "value": "Sinceramente, ¿qué punto te vuelve loco/a (se siente increíble) cuando tu pareja te estimula? 3"
+    },
+    {
+      "key": "SEXY_0392",
+      "value": "¿Alguna vez has sentido que (tras el acto) solo tu pareja estaba satisfecha? 3"
+    },
+    {
+      "key": "SEXY_0393",
+      "value": "¿Estimularías la zona trasera de tu pareja con la boca si te lo pidiera? 4"
+    },
+    {
+      "key": "SEXY_0394",
+      "value": "Si tuvieras que hacer el amor con un ser no humano, ¿con qué tipo? 4"
+    },
+    {
+      "key": "SEXY_0395",
+      "value": "¿Has pensado alguna vez en querer hacer el amor con un ser no humano? 4"
+    },
+    {
+      "key": "SEXY_0396",
+      "value": "¿Crees que podrías actuar en un vídeo para adultos (si no se viera tu cara)? 4"
+    },
+    {
+      "key": "SEXY_0397",
+      "value": "¿Has pensado alguna vez en querer grabar un vídeo (vuestro) haciendo el amor? 4"
+    },
+    {
+      "key": "SEXY_0398",
+      "value": "¿Te gustaría despertarte mañana (con la suave estimulación de tu pareja)? 4"
+    },
+    {
+      "key": "SEXY_0399",
+      "value": "¿Estimularías (con ganas) a tu pareja (aunque lleve 2 días sin ducharse)? 4"
+    },
+    {
+      "key": "SEXY_0400",
+      "value": "(Si tuvieras que participar en un rodaje adulte): Grabar vs Actuar. 4"
+    },
+    {
+      "key": "SEXY_0401",
+      "value": "¿Podrías darle a tu pareja una estimulación excitante (en un probador)? 4"
+    },
+    {
+      "key": "SEXY_0402",
+      "value": "¿Podrías aceptar el chorro caliente de tu pareja sobre tu cuerpo? ¿Y en la ducha? 4"
+    },
+    {
+      "key": "SEXY_0403",
+      "value": "¿Qué opinas del intercambio de parejas (hacer el amor con un/a extraño/a)? 4"
+    },
+    {
+      "key": "SEXY_0404",
+      "value": "¿Qué harías si tu pareja te regalara un trío (amor con dos personas) por tu cumpleaños? 4"
+    },
+    {
+      "key": "SEXY_0405",
+      "value": "¿Has pensado alguna vez en querer hacer el amor (swinging) con otras parejas? 4"
+    },
+    {
+      "key": "SEXY_0406",
+      "value": "Si solo pudieras hacer el amor (en sitios públicos), ¿dónde? 4"
+    },
+    {
+      "key": "SEXY_0407",
+      "value": "(Relación D/S) ¿Te gustaría que tu pareja te pusiera un apodo dominante? 4"
+    },
+    {
+      "key": "SEXY_0408",
+      "value": "¿Tienes ganas de probar el amor (por detrás)? 4"
+    },
+    {
+      "key": "SEXY_0409",
+      "value": "Cuenta todo lo que sabes sobre hacer el amor (por detrás). 4"
+    },
+    {
+      "key": "SEXY_0410",
+      "value": "¿Qué opinas de hacer el amor (por detrás)? 4"
+    },
+    {
+      "key": "SEXY_0411",
+      "value": "¿Has pensado alguna vez en querer ver a tu pareja hacer el amor (con otra persona)? 4"
     },
     {
       "key": "ACTION_0001",
-      "value": "Infierno de Acción1"
+      "value": "Cántale una estrofa de una canción a tu pareja. 1"
     },
     {
       "key": "ACTION_0002",
-      "value": "Infierno de Acción2"
+      "value": "Rapea un poco para tu pareja. 1"
     },
     {
       "key": "ACTION_0003",
-      "value": "Infierno de Acción3"
+      "value": "Aguanta 15 segundos de cosquillas de tu pareja [15] 1"
     },
     {
       "key": "ACTION_0004",
-      "value": "Infierno de Acción4"
+      "value": "Abre la boca un poco y lanza un guiño sexy y lento. 1"
     },
     {
       "key": "ACTION_0005",
-      "value": "Infierno de Acción1"
+      "value": "Muestra el movimiento más \"sexy\" que puedas hacer con la lengua (20 seg) [20] 1"
     },
     {
       "key": "ACTION_0006",
-      "value": "Infierno de Acción2"
+      "value": "Susúrrale \"Te quiero\" al oído a tu pareja. 1"
     },
     {
       "key": "ACTION_0007",
-      "value": "Infierno de Acción3"
+      "value": "Sopla aire caliente en la oreja de tu pareja (20 seg) [20] 1"
     },
     {
       "key": "ACTION_0008",
-      "value": "Infierno de Acción4"
+      "value": "Explícale a tu pareja qué es un \"beso\" usando solo las manos. 1"
     },
     {
       "key": "ACTION_0009",
-      "value": "Infierno de Acción1"
+      "value": "Huele los pies de tu pareja y describe el olor. 1"
     },
     {
       "key": "ACTION_0010",
-      "value": "Infierno de Acción2"
+      "value": "Deja que tu pareja huela tu coronilla durante 20 segundos [20] 1"
     },
     {
       "key": "ACTION_0011",
-      "value": "Infierno de Acción3"
+      "value": "Dale un masaje en la cabeza a tu pareja (60 seg) [60] 1"
     },
     {
       "key": "ACTION_0012",
-      "value": "Infierno de Acción4"
+      "value": "Dale un masaje en las manos a tu pareja (60 seg) [60] 1"
     },
     {
       "key": "ACTION_0013",
-      "value": "Infierno de Acción1"
+      "value": "Dale un masaje en los hombros a tu pareja (60 seg) [60] 1"
     },
     {
       "key": "ACTION_0014",
-      "value": "Infierno de Acción2"
+      "value": "Dale un masaje en la espalda a tu pareja (60 seg) [60] 1"
     },
     {
       "key": "ACTION_0015",
-      "value": "Infierno de Acción3"
+      "value": "Dale un masaje en los pies a tu pareja (60 seg) [60] 1"
     },
     {
       "key": "ACTION_0016",
-      "value": "Infierno de Acción4"
+      "value": "Dale un masaje en las piernas a tu pareja (60 seg) [60] 1"
+    },
+    {
+      "key": "ACTION_0017",
+      "value": "Coge las dos manos de tu pareja y dile \"Te quiero\". 1"
+    },
+    {
+      "key": "ACTION_0018",
+      "value": "Acércate a su cara, mírale a los ojos (5 seg) y luego di \"Te quiero\". 1"
+    },
+    {
+      "key": "ACTION_0019",
+      "value": "Dale un beso suave en el dorso de la mano a tu pareja. 1"
+    },
+    {
+      "key": "ACTION_0020",
+      "value": "Pon \"cara adorable\" hasta que tu pareja lo admita. 1"
+    },
+    {
+      "key": "ACTION_0021",
+      "value": "Dile una \"grosería adorable\" a tu pareja. 1"
+    },
+    {
+      "key": "ACTION_0022",
+      "value": "Abraza fuerte a tu pareja durante 20 segundos [20] 1"
+    },
+    {
+      "key": "ACTION_0023",
+      "value": "Pon \"cara sexy\" hasta que tu pareja lo admita. 1"
+    },
+    {
+      "key": "ACTION_0024",
+      "value": "Pon \"cara graciosa\" hasta que tu pareja lo admita. 1"
+    },
+    {
+      "key": "ACTION_0025",
+      "value": "Haz una \"nariz de cerdo\" (con los dedos) y mantente así 15 segundos [15] 1"
+    },
+    {
+      "key": "ACTION_0026",
+      "value": "Actúa como un \"cachorrito adorable\" (30 seg) [30] 1"
+    },
+    {
+      "key": "ACTION_0027",
+      "value": "Actúa como un \"gatito adorable\" (30 seg) [30] 1"
+    },
+    {
+      "key": "ACTION_0028",
+      "value": "Haz una imitación de un/a famoso/a. 1"
+    },
+    {
+      "key": "ACTION_0029",
+      "value": "Haz una imitación de un personaje de dibujos animados. 1"
+    },
+    {
+      "key": "ACTION_0030",
+      "value": "Haz una imitación de un animal. 1"
+    },
+    {
+      "key": "ACTION_0031",
+      "value": "Haz una imitación de un/a cantante. 1"
+    },
+    {
+      "key": "ACTION_0032",
+      "value": "Haz una imitación de un actor/actriz. 1"
+    },
+    {
+      "key": "ACTION_0033",
+      "value": "Aguanta 15 segundos de cosquillas de tu pareja [15] 1"
+    },
+    {
+      "key": "ACTION_0034",
+      "value": "Dale un \"abrazo por la espalda\" a tu pareja (20 seg) [20] 1"
+    },
+    {
+      "key": "ACTION_0035",
+      "value": "Baila (60 seg) con la canción que ponga tu pareja [60] 1"
+    },
+    {
+      "key": "ACTION_0036",
+      "value": "Huele una parte del cuerpo de tu pareja que te dé curiosidad. 1"
+    },
+    {
+      "key": "ACTION_0037",
+      "value": "Pellízcale la mejilla a tu pareja (con cariño). 1"
+    },
+    {
+      "key": "ACTION_0038",
+      "value": "Acaricia la cabeza de tu pareja (con cariño) (10 seg) [10] 1"
+    },
+    {
+      "key": "ACTION_0039",
+      "value": "Pon una cara que haga reír a tu pareja (en 15 seg) [15] 1"
+    },
+    {
+      "key": "ACTION_0040",
+      "value": "Haz reír a tu pareja (como sea) en 15 segundos [15] 1"
+    },
+    {
+      "key": "ACTION_0041",
+      "value": "Muestra un \"talento especial\" (truco) que otros no sepan hacer. 1"
+    },
+    {
+      "key": "ACTION_0042",
+      "value": "Enséñale a tu pareja la cara que pones (cuando estás muy enfadado/a). 1"
+    },
+    {
+      "key": "ACTION_0043",
+      "value": "Pon una \"sonrisa aterradora\" (estilo Joker) para tu pareja. 1"
+    },
+    {
+      "key": "ACTION_0044",
+      "value": "\"Escribe\" (con el dedo) en la palma de tu pareja lo que quieres decirle ahora. 1"
+    },
+    {
+      "key": "ACTION_0045",
+      "value": "Muestra cómo \"escribes 'Te quiero' en el aire\" con la lengua. 1"
+    },
+    {
+      "key": "ACTION_0046",
+      "value": "Di \"Qué feliz soy contigo\" (sin que se toquen tus labios). 1"
+    },
+    {
+      "key": "ACTION_0047",
+      "value": "Expresa con un \"baile\" lo feliz que eres (con tu pareja). 1"
+    },
+    {
+      "key": "ACTION_0048",
+      "value": "Acerca tu cara (casi a besar) a tu pareja. Los labios no deben tocarse (10s) [10] 1"
+    },
+    {
+      "key": "ACTION_0049",
+      "value": "Actúa poniendo una \"cara de pena\" (lastimosa) para tu pareja. 1"
+    },
+    {
+      "key": "ACTION_0050",
+      "value": "Muestra tu \"encanto adorable\" (para contentarle cuando se enfada). 1"
+    },
+    {
+      "key": "ACTION_0051",
+      "value": "Actúa una llamada (para volver) (tras una gran pelea y ruptura). 1"
+    },
+    {
+      "key": "ACTION_0052",
+      "value": "Actúa la escena (justo antes de \"pedirle matrimonio\" a tu pareja). 1"
+    },
+    {
+      "key": "ACTION_0053",
+      "value": "Actúa como si \"ligaras\" con tu pareja (como si os conocierais en la \"discoteca\"). 1"
+    },
+    {
+      "key": "ACTION_0054",
+      "value": "Actúa como si \"ligaras\" con tu pareja (como si os conocierais en un \"bar\"). 1"
+    },
+    {
+      "key": "ACTION_0055",
+      "value": "Actúa como si \"pidieras el número\" (como si os conocierais en la \"calle\"). 1"
+    },
+    {
+      "key": "ACTION_0056",
+      "value": "Actúa cómo reaccionarías (si otra persona se te \"declarara\"). 1"
+    },
+    {
+      "key": "ACTION_0057",
+      "value": "Actúa cómo reaccionarías (si otra persona te \"pidiera tu número\"). 1"
+    },
+    {
+      "key": "ACTION_0058",
+      "value": "Actúa cómo reaccionarías (si el/la \"mejor amigo/a\" de tu pareja se te \"declarara\"). 1"
+    },
+    {
+      "key": "ACTION_0059",
+      "value": "Actúa cómo reaccionarías (si los \"padres\" de tu pareja te \"pidieran que rompieran\"). 1"
+    },
+    {
+      "key": "ACTION_0060",
+      "value": "Haz tu mejor \"beatbox\" durante 15 segundos [15] 1"
+    },
+    {
+      "key": "ACTION_0061",
+      "value": "Toca sensualmente los labios de tu pareja (con los dedos) (10 seg) [10] 1"
+    },
+    {
+      "key": "ACTION_0062",
+      "value": "Finge que eres un/a \"cavernícola\" y exprésale tu amor (15 seg) [15] 1"
+    },
+    {
+      "key": "ACTION_0063",
+      "value": "Finge que eres un/a \"cachorrito/a\" y exprésale tu amor (15 seg) [15] 1"
+    },
+    {
+      "key": "ACTION_0064",
+      "value": "(Tu pareja pone música de discoteca) Baila (como en la disco) (20 seg) [20] 1"
+    },
+    {
+      "key": "ACTION_0065",
+      "value": "(Como en la disco) Baila \"pegado/a\" (sexy) con tu pareja (30 seg) [30] 1"
+    },
+    {
+      "key": "ACTION_0066",
+      "value": "Actúa cómo reaccionarías (si tu \"mejor amigo/a\" \"insultara\" a tu pareja). 1"
+    },
+    {
+      "key": "ACTION_0067",
+      "value": "Finge (que tu pareja es un/a \"famoso/a\") y pídele un autógrafo. 1"
+    },
+    {
+      "key": "ACTION_0068",
+      "value": "Actúa cómo reaccionarías (si tu pareja te \"fuera infiel\"). 1"
+    },
+    {
+      "key": "ACTION_0069",
+      "value": "Demuéstrale a tu pareja lo \"flexible\" que eres. 1"
+    },
+    {
+      "key": "ACTION_0070",
+      "value": "Muestra el \"músculo\" (del que estás más orgulloso/a) y deja que tu pareja lo toque. 1"
+    },
+    {
+      "key": "ACTION_0071",
+      "value": "Mira a tu pareja (con ojos de amor) (10 seg). No apartes la mirada [10] 1"
+    },
+    {
+      "key": "ACTION_0072",
+      "value": "Mira sus ojos (5s), nariz (5s), labios (5s), y otra vez sus ojos (5s) [20] 1"
+    },
+    {
+      "key": "ACTION_0073",
+      "value": "Tápale los oídos (suavemente) y dile (largo y tendido) por qué te gusta. 1"
+    },
+    {
+      "key": "ACTION_0074",
+      "value": "Dale un \"abrazo por la espalda\" y susúrrale (lo que quieras) al oído. 1"
+    },
+    {
+      "key": "ACTION_0075",
+      "value": "Hazle cosquillas en la oreja a tu pareja (con el dedo) [10] 1"
+    },
+    {
+      "key": "ACTION_0076",
+      "value": "Haz reír a tu pareja (haciéndole cosquillas en la cintura). 1"
+    },
+    {
+      "key": "ACTION_0077",
+      "value": "Mira a tu pareja y sonríe (con \"picardía\") (10 seg) [10] 1"
+    },
+    {
+      "key": "ACTION_0078",
+      "value": "Canta una frase de tu \"canción de dibujos animados\" favorita. 1"
+    },
+    {
+      "key": "ACTION_0079",
+      "value": "Finge que eres un/a \"alienígena\" y exprésale tu amor (15 seg) [15] 1"
+    },
+    {
+      "key": "ACTION_0080",
+      "value": "Finge que eres un/a \"gato/a\" y exprésale tu amor (15 seg) [15] 1"
+    },
+    {
+      "key": "ACTION_0081",
+      "value": "Pon la cara que pondrías (si vieras a tu pareja \"de la mano\" con otra persona). 1"
+    },
+    {
+      "key": "ACTION_0082",
+      "value": "Muestra cómo reaccionarías (si tu \"mejor amigo/a\" te dijera que \"le gusta\" tu pareja). 1"
+    },
+    {
+      "key": "ACTION_0083",
+      "value": "Cierra los ojos y adivina la palabra (sencilla) que tu pareja escribe en tu palma. 1"
+    },
+    {
+      "key": "ACTION_0084",
+      "value": "Pon un \"vals\", agarra a tu pareja por la cintura y bailad (30 seg) [30] 1"
+    },
+    {
+      "key": "ACTION_0085",
+      "value": "Ponte los dedos en las mejillas y di \"¿A que soy adorable? ¿Chu?\" (con voz dulce). 1"
+    },
+    {
+      "key": "ACTION_0086",
+      "value": "Finge (que tienes 80 años) y di (con voz de anciano/a) \"Gracias por estar siempre conmigo, te quiero\". 1"
+    },
+    {
+      "key": "ACTION_0087",
+      "value": "Finge (que eres \"masajista\"). Que tu pareja se tumbe (boca abajo) y dale un masaje (30 seg) [30] 1"
+    },
+    {
+      "key": "ACTION_0088",
+      "value": "Imita una \"expresión\" que tu pareja ponga a menudo. 1"
+    },
+    {
+      "key": "ACTION_0089",
+      "value": "Coge a tu pareja del brazo y susúrrale \"Te quiero\" al oído. 1"
+    },
+    {
+      "key": "ACTION_0090",
+      "value": "(Tu pareja pone \"Hip-hop\") Baila la música (20 seg) [20] 1"
+    },
+    {
+      "key": "ACTION_0091",
+      "value": "Actúa cómo reaccionarías (si tu \"primer amor\" te llamara ahora). 1"
+    },
+    {
+      "key": "ACTION_0092",
+      "value": "Acaríciale el pelo a tu pareja (mirándole a los ojos) (10 seg) [10] 1"
+    },
+    {
+      "key": "ACTION_0093",
+      "value": "Dale a oler tus \"zapatos\" a tu pareja. 1"
+    },
+    {
+      "key": "ACTION_0094",
+      "value": "Dale a oler tus \"calcetines\" a tu pareja. 1"
+    },
+    {
+      "key": "ACTION_0095",
+      "value": "Apoya tu cabeza en su hombro y pregunta: \"¿Por qué te gusto?\". 1"
+    },
+    {
+      "key": "ACTION_0096",
+      "value": "Susúrrale al oído una frase (de tu canción romántica favorita). 1"
+    },
+    {
+      "key": "ACTION_0097",
+      "value": "Haz un \"concurso de notas altas\" con tu pareja y gana. 1"
+    },
+    {
+      "key": "ACTION_0098",
+      "value": "Cierra los ojos y toca (lentamente) los ojos, la nariz y la boca de tu pareja. 1"
+    },
+    {
+      "key": "ACTION_0099",
+      "value": "Cierra los ojos y toca (lentamente) los labios de tu pareja (15 seg) [15] 1"
+    },
+    {
+      "key": "ACTION_0100",
+      "value": "Susurra un \"suspiro sexy\" (corto y suave) en el oído de tu pareja. 1"
+    },
+    {
+      "key": "ACTION_0101",
+      "value": "Abraza a tu pareja y acaríciale la espalda durante 10 segundos [10] 1"
+    },
+    {
+      "key": "ACTION_0102",
+      "value": "Coge la mano de tu pareja hasta el próximo turno. 1"
+    },
+    {
+      "key": "ACTION_0103",
+      "value": "Mantén tu brazo sobre los hombros de tu pareja (hasta el próximo turno). 1"
+    },
+    {
+      "key": "ACTION_0104",
+      "value": "Coge a tu pareja del brazo hasta el próximo turno. 1"
+    },
+    {
+      "key": "ACTION_0105",
+      "value": "Sienta a tu pareja en tu regazo hasta el próximo turno. 1"
+    },
+    {
+      "key": "ACTION_0106",
+      "value": "Dale un \"abrazo por la espalda\" (hasta el próximo turno). 1"
+    },
+    {
+      "key": "ACTION_0107",
+      "value": "Mantén tu mejilla pegada a la suya hasta el próximo turno. 1"
+    },
+    {
+      "key": "ACTION_0108",
+      "value": "Juega (de pie) hasta el próximo turno. 1"
+    },
+    {
+      "key": "ACTION_0109",
+      "value": "Haz un \"corazón\" (con las manos) hasta el próximo turno. 1"
+    },
+    {
+      "key": "ACTION_0110",
+      "value": "Baila (sin música) durante 20 segundos [20] 1"
+    },
+    {
+      "key": "ACTION_0111",
+      "value": "Haz solo \"sonidos de pato\" (hasta el próximo turno). 1"
+    },
+    {
+      "key": "ACTION_0112",
+      "value": "Haz solo \"sonidos de gato\" (maullidos) (hasta el próximo turno). 1"
+    },
+    {
+      "key": "ACTION_0113",
+      "value": "Actúa (como un \"cachorrito\") (hasta el próximo turno). 1"
+    },
+    {
+      "key": "ACTION_0114",
+      "value": "Habla solo (con \"voz sexy\") (hasta el próximo turno). 1"
+    },
+    {
+      "key": "ACTION_0115",
+      "value": "Habla solo (con \"voz adorable\") (hasta el próximo turno). 1"
+    },
+    {
+      "key": "ACTION_0116",
+      "value": "Mantened el contacto visual durante 15 segundos [15] 1"
+    },
+    {
+      "key": "ACTION_0117",
+      "value": "Miraos (con amor) durante 15 segundos [15] 1"
+    },
+    {
+      "key": "ACTION_0118",
+      "value": "Miraos (con \"ojos sexys\") durante 15 segundos [15] 1"
+    },
+    {
+      "key": "ACTION_0119",
+      "value": "Susúrrale al oído (la \"mejor cualidad\") de tu pareja. 1"
+    },
+    {
+      "key": "ACTION_0120",
+      "value": "Actúa cómo rechazarías si alguien con quien no quieres salir se te declarara. 1"
+    },
+    {
+      "key": "ACTION_0121",
+      "value": "Finge que eres un \"animal único\" y haz un baile de cortejo 20 seg [20] 1"
+    },
+    {
+      "key": "ACTION_0122",
+      "value": "Haz un \"corazón con los dedos de los pies\" y enséñaselo a tu pareja. 1"
+    },
+    {
+      "key": "ACTION_0123",
+      "value": "Escribe tu nombre en el dorso de la mano de tu pareja con lápiz labial o delineador. 1"
+    },
+    {
+      "key": "ACTION_0124",
+      "value": "\"Dale una palmada\" en la palma a tu pareja. 1"
+    },
+    {
+      "key": "ACTION_0125",
+      "value": "\"Dale una palmada\" en la pantorrilla a tu pareja. 1"
+    },
+    {
+      "key": "ACTION_0126",
+      "value": "Habla con \"voz de bebé\" hasta tu próximo turno. 1"
+    },
+    {
+      "key": "ACTION_0127",
+      "value": "Habla con \"voz adorable\" hasta tu próximo turno. 1"
+    },
+    {
+      "key": "ACTION_0128",
+      "value": "Susúrrale al oído a tu pareja cuánto le quieres. 1"
+    },
+    {
+      "key": "ACTION_0129",
+      "value": "Actúa qué harías si tu pareja te dijera que va a ver a su \"primer amor\". 1"
+    },
+    {
+      "key": "ACTION_0130",
+      "value": "Actúa \"adorable\" (pero con energía). 1"
+    },
+    {
+      "key": "ACTION_0131",
+      "value": "Actúa \"adorable\" hasta que tu pareja sonría. 1"
+    },
+    {
+      "key": "ACTION_0132",
+      "value": "Haz un \"selfie de pareja\" con el teléfono restante. 1"
+    },
+    {
+      "key": "ACTION_0133",
+      "value": "Haz un \"selfie de corazón de pareja\" con el teléfono restante. 1"
+    },
+    {
+      "key": "ACTION_0134",
+      "value": "Actúa \"adorable\" y di un \"hechizo mágico\" (hasta que tu pareja lo admita). 1"
+    },
+    {
+      "key": "ACTION_0135",
+      "value": "Baila el \"baile más gracioso\" que hayas visto, hasta que tu pareja diga que pares. 1"
+    },
+    {
+      "key": "ACTION_0136",
+      "value": "Di \"Eres tan lindo/a que quiero morderte\" con ventriloquia. 1"
+    },
+    {
+      "key": "ACTION_0137",
+      "value": "Échate el pelo hacia atrás, luego lanza un \"guiño sexy\" con expresión sexy. 1"
+    },
+    {
+      "key": "ACTION_0138",
+      "value": "Ponte los dedos índice en las mejillas, di \"Estoy enfurruñado/a, mmm mmm\" hasta que tu pareja lo admita. 1"
+    },
+    {
+      "key": "ACTION_0139",
+      "value": "Juego de rol: Tu pareja actúa (enfadado/a). Tienes 60s para actuar cómo le consuelas. [60] 1"
+    },
+    {
+      "key": "ACTION_0140",
+      "value": "Juego de rol: Tu pareja hace de los padres. Actúa cómo les conoces. 1"
+    },
+    {
+      "key": "ACTION_0141",
+      "value": "Juego de rol: Tu pareja hace de tu famoso/a favorito/a. Actuad la escena en la que se te declara. 1"
+    },
+    {
+      "key": "ACTION_0142",
+      "value": "Báilale un \"baile sexy\" a tu pareja 20 seg [20] 2"
+    },
+    {
+      "key": "ACTION_0143",
+      "value": "Enséñale la \"barriga\" a tu pareja. 2"
+    },
+    {
+      "key": "ACTION_0144",
+      "value": "Levanta los brazos y enseña tus \"axilas\" 10 seg [10] 2"
+    },
+    {
+      "key": "ACTION_0145",
+      "value": "Susúrrale una palabra \"íntima\" al oído a tu pareja. 2"
+    },
+    {
+      "key": "ACTION_0146",
+      "value": "Hazle cosquillas en la oreja a tu pareja con la lengua 20 seg [20] 2"
+    },
+    {
+      "key": "ACTION_0147",
+      "value": "Saca la lengua todo lo que puedas, haz el signo \"V\" 10 seg [10] 2"
+    },
+    {
+      "key": "ACTION_0148",
+      "value": "Explícale a tu pareja qué es \"hacer el amor\" usando solo las manos. 2"
+    },
+    {
+      "key": "ACTION_0149",
+      "value": "Dale un beso en el \"cuello\" a tu pareja. 2"
+    },
+    {
+      "key": "ACTION_0150",
+      "value": "Finge que hay helado en su oreja y \"límpialo\" con la boca 20 seg [20] 2"
+    },
+    {
+      "key": "ACTION_0151",
+      "value": "\"Estimula\" el cuello de tu pareja con la lengua 20 seg [20] 2"
+    },
+    {
+      "key": "ACTION_0152",
+      "value": "Deja que tu pareja huela tu \"axila\" 20 seg [20] 2"
+    },
+    {
+      "key": "ACTION_0153",
+      "value": "Hazle cosquillas suave en la espalda con los dedos 30 seg para \"estimularle\" [30] 2"
+    },
+    {
+      "key": "ACTION_0154",
+      "value": "Dale un beso suave en la \"axila\" a tu pareja. 2"
+    },
+    {
+      "key": "ACTION_0155",
+      "value": "Masajea la \"línea de la cadera\" de tu pareja 30 seg [30] 2"
+    },
+    {
+      "key": "ACTION_0156",
+      "value": "Dale un masaje en los brazos a tu pareja 60 seg [60] 2"
+    },
+    {
+      "key": "ACTION_0157",
+      "value": "Dale 3 besos suaves en los labios a tu pareja. 2"
+    },
+    {
+      "key": "ACTION_0158",
+      "value": "Dale 3 besos suaves en la mejilla a tu pareja. 2"
+    },
+    {
+      "key": "ACTION_0159",
+      "value": "Dale un beso suave en la frente a tu pareja. 2"
+    },
+    {
+      "key": "ACTION_0160",
+      "value": "Deja una \"marca de beso\" en el brazo de tu pareja. 2"
+    },
+    {
+      "key": "ACTION_0161",
+      "value": "Empuja a tu pareja contra la pared y bésala 40 segundos [40] 2"
+    },
+    {
+      "key": "ACTION_0162",
+      "value": "Pídele que saque la lengua y \"estimúlala con tus labios\" 15 seg [15] 2"
+    },
+    {
+      "key": "ACTION_0163",
+      "value": "Dale a tu pareja un \"beso profundo (con lengua)\" 50 segundos [50] 2"
+    },
+    {
+      "key": "ACTION_0164",
+      "value": "\"Métete el dedo índice en la boca\" de forma sexy 15 seg [15] 2"
+    },
+    {
+      "key": "ACTION_0165",
+      "value": "Dale 3 besos suaves en los dedos de los pies a tu pareja. 2"
+    },
+    {
+      "key": "ACTION_0166",
+      "value": "Dale un \"azote\" suave en el culo a tu pareja. 2"
+    },
+    {
+      "key": "ACTION_0167",
+      "value": "Besa a tu pareja (por toda la cara) 20 segundos [20] 2"
+    },
+    {
+      "key": "ACTION_0168",
+      "value": "Hunde la nariz en el \"ombligo\" de tu pareja y huélelo 20 segundos [20] 2"
+    },
+    {
+      "key": "ACTION_0169",
+      "value": "Baila un \"baile sexy\" (60 seg) con la canción que ponga tu pareja [60] 2"
+    },
+    {
+      "key": "ACTION_0170",
+      "value": "Tu pareja cierra los ojos. Bésala donde tú quieras. 2"
+    },
+    {
+      "key": "ACTION_0171",
+      "value": "Deja que tu pareja oiga los \"sonidos de respiración sexy\" que haces cuando te \"estimulas\". 2"
+    },
+    {
+      "key": "ACTION_0172",
+      "value": "Pega tu mejilla a la de tu pareja y frótala con cariño. 2"
+    },
+    {
+      "key": "ACTION_0173",
+      "value": "\"Escribe\" con el dedo en la espalda de tu pareja lo que quieres decirle ahora. 2"
+    },
+    {
+      "key": "ACTION_0174",
+      "value": "Di \"Quiero besarte\" sin que se toquen tus labios. 2"
+    },
+    {
+      "key": "ACTION_0175",
+      "value": "Expresa con un \"baile\" \"qué se siente\" al besar a tu pareja. 2"
+    },
+    {
+      "key": "ACTION_0176",
+      "value": "Imita cómo actúa tu pareja cuando te besa. 2"
+    },
+    {
+      "key": "ACTION_0177",
+      "value": "\"Solo toca\" sus labios con los tuyos y quédate quieto/a 10 seg [10] 2"
+    },
+    {
+      "key": "ACTION_0178",
+      "value": "Juego de rol: Actúa cómo intentarías besar a tu pareja, que está muy enfadada. 2"
+    },
+    {
+      "key": "ACTION_0179",
+      "value": "Juego de rol: Actúa cómo reaccionarías si el/la mejor amigo/a de tu pareja intentara besarte. 2"
+    },
+    {
+      "key": "ACTION_0180",
+      "value": "Finge (que estás \"muy estimulado/a\") y besa a tu pareja \"como una bestia\" 10 seg [10] 2"
+    },
+    {
+      "key": "ACTION_0181",
+      "value": "Usa \"solo\" tu nariz para trazar un camino (frente, ojos, nariz, labios, barbilla). 2"
+    },
+    {
+      "key": "ACTION_0182",
+      "value": "Escribe \"Te quiero\" en el cuello de tu pareja (con la lengua). 2"
+    },
+    {
+      "key": "ACTION_0183",
+      "value": "Tumba a tu pareja y dale un \"beso Spider-Man\" (al revés) (20 seg) [20] 2"
+    },
+    {
+      "key": "ACTION_0184",
+      "value": "(Tu pareja se queda quieta) Bésale en los labios (tú solo/a) (15 seg) [15] 2"
+    },
+    {
+      "key": "ACTION_0185",
+      "value": "Cierra los ojos y adivina qué parte del cuerpo tu pareja está poniendo en tu mano. 2"
+    },
+    {
+      "key": "ACTION_0186",
+      "value": "(Como un \"perezoso\") Dale un beso (muy lento) en la frente y otro en los labios. 2"
+    },
+    {
+      "key": "ACTION_0187",
+      "value": "Coge a tu pareja del brazo y dale un beso en la mejilla. 2"
+    },
+    {
+      "key": "ACTION_0188",
+      "value": "Pon tu oreja en su pecho y siente sus latidos (10 seg) [10] 2"
+    },
+    {
+      "key": "ACTION_0189",
+      "value": "Entrelaza tus dedos con los suyos y bésale (10 seg) [10] 2"
+    },
+    {
+      "key": "ACTION_0190",
+      "value": "Finge (que eres un \"cachorrito\") y dale \"besitos de cachorro\" en los labios (10 seg) [10] 2"
+    },
+    {
+      "key": "ACTION_0191",
+      "value": "Toca (brevemente) la \"punta de la nariz\" de tu pareja (con la lengua). 2"
+    },
+    {
+      "key": "ACTION_0192",
+      "value": "Dale un beso a tu pareja en el \"surco subnasal\" (encima del labio). 2"
+    },
+    {
+      "key": "ACTION_0193",
+      "value": "Dale varios besos en el cuello a tu pareja. 2"
+    },
+    {
+      "key": "ACTION_0194",
+      "value": "Cierra los ojos, \"busca\" los labios de tu pareja (en su cara) y bésalos. 2"
+    },
+    {
+      "key": "ACTION_0195",
+      "value": "Besa a tu pareja (cada vez que hables) (hasta el próximo turno). 2"
+    },
+    {
+      "key": "ACTION_0196",
+      "value": "Quítale los dos calcetines a tu pareja (usando solo la boca). 2"
+    },
+    {
+      "key": "ACTION_0197",
+      "value": "Quítale un calcetín a tu pareja (usando solo la boca). 2"
+    },
+    {
+      "key": "ACTION_0198",
+      "value": "Dale un beso a tu pareja en la \"clavícula\". 2"
+    },
+    {
+      "key": "ACTION_0199",
+      "value": "Tumbaos de lado y abrazaos (en \"cucharita\") (15 seg) [15] 2"
+    },
+    {
+      "key": "ACTION_0200",
+      "value": "Túmbate (15 seg) mientras tu pareja \"usa tu brazo de almohada\" [15] 2"
+    },
+    {
+      "key": "ACTION_0201",
+      "value": "Haz que tu pareja se tumbe (boca abajo) y túmbate encima (15 seg) [15] 2"
+    },
+    {
+      "key": "ACTION_0202",
+      "value": "Susúrrale al oído a tu pareja (cuál es la parte más sexy de su cuerpo). 2"
+    },
+    {
+      "key": "ACTION_0203",
+      "value": "Deja que tu pareja toque la parte más \"blanda\" de tu cuerpo. 2"
+    },
+    {
+      "key": "ACTION_0204",
+      "value": "Sienta a tu pareja en tu regazo y mírala a los ojos. 2"
+    },
+    {
+      "key": "ACTION_0205",
+      "value": "Dibuja un corazón en la cara de tu pareja (con pintalabios o eyeliner). 2"
+    },
+    {
+      "key": "ACTION_0206",
+      "value": "Baila un \"baile sexy\" (sentado/a) (15 seg) [15] 2"
+    },
+    {
+      "key": "ACTION_0207",
+      "value": "\"Estimula\" el hombro de tu pareja (con la boca) (10 seg) [10] 2"
+    },
+    {
+      "key": "ACTION_0208",
+      "value": "Deja que tu pareja toque la parte más \"dura\" de tu cuerpo. 2"
+    },
+    {
+      "key": "ACTION_0209",
+      "value": "Sé \"sumiso/a\" a tu pareja (1 min). Debes llamarle \"Amo/Ama\". [60] 2"
+    },
+    {
+      "key": "ACTION_0210",
+      "value": "Sé \"sumiso/a\" a tu pareja (1 min). Debes llamarle \"Amo/Ama\". [60] 2"
+    },
+    {
+      "key": "ACTION_0211",
+      "value": "Sigue bailando un \"baile sexy\" (hasta tu próximo turno). 2"
+    },
+    {
+      "key": "ACTION_0212",
+      "value": "\"Perrea\" (Twerk) (delante de su cara) (20 seg) [20] 2"
+    },
+    {
+      "key": "ACTION_0213",
+      "value": "Dale a tu pareja un \"abrazo fuerte y de todo corazón\". 2"
+    },
+    {
+      "key": "ACTION_0214",
+      "value": "Escribe tu nombre en el cuello de tu pareja (con pintalabios o eyeliner). 2"
+    },
+    {
+      "key": "ACTION_0215",
+      "value": "Dale un \"azote\" suave en la planta del pie a tu pareja. 2"
+    },
+    {
+      "key": "ACTION_0216",
+      "value": "Dale un \"azote\" suave en el muslo a tu pareja. 2"
+    },
+    {
+      "key": "ACTION_0217",
+      "value": "\"Abofetea\" (suavemente) los labios de tu pareja (con tus labios). 2"
+    },
+    {
+      "key": "ACTION_0218",
+      "value": "Ponte (en postura del gato) y \"maúlla\" 5 veces. 2"
+    },
+    {
+      "key": "ACTION_0219",
+      "value": "\"Beso profundo\" (1 minuto) [60] 2"
+    },
+    {
+      "key": "ACTION_0220",
+      "value": "\"Beso profundo\" (2 minutos) [120] 2"
     },
     {
       "key": "DRINK_0001",
