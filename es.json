@@ -129,6 +129,14 @@
       "value": "Idioma"
     },
     {
+      "key": "restore_purchase",
+      "value": "Restaurar compras"
+    },
+    {
+      "key": "result_purchase",
+      "value": "Compra completada."
+    },
+    {
       "key": "LOVE_0001",
       "value": "¿Qué comida te apetece más comer con tu pareja ahora mismo?"
     },
@@ -2882,7 +2890,7 @@
     },
     {
       "key": "SEXY_0068",
-      "value": "¿Cuál crees que es el límite del contacto físico (skinship) con un amigo/a de tu mismo sexo? 2"
+      "value": "¿Cuál crees que es el límite del contacto físico (affection) con un amigo/a de tu mismo sexo? 2"
     },
     {
       "key": "SEXY_0069",
@@ -2978,7 +2986,7 @@
     },
     {
       "key": "SEXY_0092",
-      "value": "¿Qué contacto físico (skinship) has fingido que te gustaba, pero en realidad no? 2"
+      "value": "¿Qué contacto físico (affection) has fingido que te gustaba, pero en realidad no? 2"
     },
     {
       "key": "SEXY_0093",
@@ -3110,7 +3118,7 @@
     },
     {
       "key": "SEXY_0125",
-      "value": "¿Qué contacto físico (skinship) te gustaría hacerle a tu pareja ahora mismo? 2"
+      "value": "¿Qué contacto físico (affection) te gustaría hacerle a tu pareja ahora mismo? 2"
     },
     {
       "key": "SEXY_0126",
@@ -3142,7 +3150,7 @@
     },
     {
       "key": "SEXY_0133",
-      "value": "¿Cuál es tu tipo de contacto físico (skinship) favorito? 2"
+      "value": "¿Cuál es tu tipo de contacto físico (afección) favorito? 2"
     },
     {
       "key": "SEXY_0134",
@@ -3198,7 +3206,7 @@
     },
     {
       "key": "SEXY_0147",
-      "value": "¿Qué le dirías a un/a amigo/a (con pareja) si te dice que se va de viaje con un amigo? 2"
+      "value": "¿Qué le dirías a un/a amigo/a (con pareja) si te dice que se va de viaje con un amigo/a (del sexo opuesto)? 2"
     },
     {
       "key": "SEXY_0148",
@@ -3210,11 +3218,11 @@
     },
     {
       "key": "SEXY_0150",
-      "value": "¿Qué parte del cuerpo de tu pareja te gustaría más estimular con la boca? 3"
+      "value": "¿Qué parte del cuerpo de tu pareja te gustaría más complacer con la boca? 3"
     },
     {
       "key": "SEXY_0151",
-      "value": "Parte superior vs Parte inferior: ¿Cuál preferirías stimular con la boca? ¿Por qué? 3"
+      "value": "Parte superior vs Parte inferior: ¿Cuál preferirías complacer con la boca? ¿Por qué? 3"
     },
     {
       "key": "SEXY_0152",
@@ -3222,7 +3230,7 @@
     },
     {
       "key": "SEXY_0153",
-      "value": "¿Qué parte te gustaría stimular con la boca antes de hacer el amor? 3"
+      "value": "¿Qué parte te gustaría complacer con la boca antes de hacer el amor? 3"
     },
     {
       "key": "SEXY_0154",
@@ -3230,7 +3238,7 @@
     },
     {
       "key": "SEXY_0155",
-      "value": "¿Qué expresión de tu pareja te stimula más mientras hacéis el amor? 3"
+      "value": "¿Qué expresión de tu pareja te estimula más mientras hacéis el amor? 3"
     },
     {
       "key": "SEXY_0156",
@@ -3246,7 +3254,7 @@
     },
     {
       "key": "SEXY_0159",
-      "value": "¿Qué postura al hacer el amor te stimula más? 3"
+      "value": "¿Qué postura al hacer el amor te estimula más? 3"
     },
     {
       "key": "SEXY_0160",
@@ -3254,7 +3262,7 @@
     },
     {
       "key": "SEXY_0161",
-      "value": "¿Cómo describirías vuestra primera vez (haciendo el amor)? 3"
+      "value": "¿Cómo describirías vuestra primera vez haciendo el amor? 3"
     },
     {
       "key": "SEXY_0162",
@@ -3302,7 +3310,7 @@
     },
     {
       "key": "SEXY_0173",
-      "value": "¿Hay algún disfraz (cosplay) que te gustaría usar con tu pareja al hacer el amor? 3"
+      "value": "¿Hay algún disfraz que te gustaría usar con tu pareja al hacer el amor? 3"
     },
     {
       "key": "SEXY_0174",
@@ -3346,7 +3354,7 @@
     },
     {
       "key": "SEXY_0184",
-      "value": "¿Te identificas más con el lado M (sumiso) o S (dominante)? 3"
+      "value": "¿Te identificas más con el lado \"Seguidor\" o \"Líder\"? 3"
     },
     {
       "key": "SEXY_0185",
@@ -3354,11 +3362,11 @@
     },
     {
       "key": "SEXY_0186",
-      "value": "¿Te gusta ser estimulado/a por la boca de tu pareja? 3"
+      "value": "¿Te gusta ser complacido/a por la boca de tu pareja? 3"
     },
     {
       "key": "SEXY_0187",
-      "value": "¿Te gusta stimular a tu pareja con la boca? 3"
+      "value": "¿Te gusta dar placer a tu pareja con la boca? 3"
     },
     {
       "key": "SEXY_0188",
@@ -3370,27 +3378,27 @@
     },
     {
       "key": "SEXY_0190",
-      "value": "¿Te gusta que tu pareja te stimule la oreja (con la boca) mientras hacéis el amor? 3"
+      "value": "¿Te gusta que tu pareja te estimule la oreja con la boca mientras hacéis el amor? 3"
     },
     {
       "key": "SEXY_0191",
-      "value": "Al estimular la zona íntima, ¿se te ha metido un pelo en la boca? ¿Qué sentiste? 3"
+      "value": "Al dar placer a la \"parte más íntima\", ¿se te ha metido un pelo en la boca? ¿Qué sentiste? 3"
     },
     {
       "key": "SEXY_0192",
-      "value": "¿Qué opinas de que tu pareja se dé placer (a solas) en secreto? 3"
+      "value": "¿Qué opinas de que tu pareja \"realice el acto de complacerse a sí mismo/a\" en secreto? 3"
     },
     {
       "key": "SEXY_0193",
-      "value": "¿Cómo se sentiría tu pareja si te viera dándote placer (a solas)? 3"
+      "value": "¿Cómo se sentiría tu pareja si te viera \"realizando el acto de complacerte a ti mismo/a\"? 3"
     },
     {
       "key": "SEXY_0194",
-      "value": "¿Cómo te sentirías tú si vieras a tu pareja dándose placer (a solas)? 3"
+      "value": "¿Cómo te sentirías tú si vieras a tu pareja \"realizando el acto de complacerse a sí mismo/a\"? 3"
     },
     {
       "key": "SEXY_0195",
-      "value": "¿Alguna vez te has dado placer (a solas) sin que tu pareja lo sepa? ¿Cuándo? 3"
+      "value": "¿Alguna vez has \"realizado el acto de complacerte a ti mismo/a\" sin que tu pareja lo sepa? ¿Cuándo? 3"
     },
     {
       "key": "SEXY_0196",
@@ -3410,7 +3418,7 @@
     },
     {
       "key": "SEXY_0200",
-      "value": "¿Te estimulan las palabras sucias  durante el acto? 3"
+      "value": "¿Te estimulan las palabras sucias durante el acto? 3"
     },
     {
       "key": "SEXY_0201",
@@ -3430,7 +3438,7 @@
     },
     {
       "key": "SEXY_0205",
-      "value": "Duración (del acto): ¿Prefieres que sea largo o corto? 3"
+      "value": "Duración del acto: ¿Prefieres que sea largo o corto? 3"
     },
     {
       "key": "SEXY_0206",
@@ -3454,7 +3462,7 @@
     },
     {
       "key": "SEXY_0211",
-      "value": "¿Alguna vez has pensado en querer hacer un trío? 3"
+      "value": "¿Alguna vez has pensado en querer hacer el amor con dos personas? 3"
     },
     {
       "key": "SEXY_0212",
@@ -3462,7 +3470,7 @@
     },
     {
       "key": "SEXY_0213",
-      "value": "¿Qué harías si tu pareja te pidiera hacer el amor (un trío) con su mejor amigo/a? 3"
+      "value": "¿Qué harías si tu pareja propusiera hacer el amor los tres juntos con su mejor amigo/a? 3"
     },
     {
       "key": "SEXY_0214",
@@ -3494,7 +3502,7 @@
     },
     {
       "key": "SEXY_0221",
-      "value": "¿Qué harías si la zona íntima de tu pareja oliera muy fuerte? 3"
+      "value": "¿Qué harías si la \"parte más íntima\" de tu pareja oliera muy fuerte? 3"
     },
     {
       "key": "SEXY_0222",
@@ -3522,7 +3530,7 @@
     },
     {
       "key": "SEXY_0228",
-      "value": "¿Cuál es tu punto más sensible (zona erógena) del cuerpo? 3"
+      "value": "¿Cuál es tu \"punto sensible\" más sensible del cuerpo? 3"
     },
     {
       "key": "SEXY_0229",
@@ -3542,11 +3550,11 @@
     },
     {
       "key": "SEXY_0233",
-      "value": "¿Qué parte del cuerpo de tu pareja te gusta más estimular con la boca? 3"
+      "value": "¿Qué parte del cuerpo de tu pareja te gusta más complacer con la boca? 3"
     },
     {
       "key": "SEXY_0234",
-      "value": "¿Te has dado placer (a solas) esta semana? 3"
+      "value": "¿Has \"realizado el acto de complacerte a ti mismo/a\" esta semana? 3"
     },
     {
       "key": "SEXY_0235",
@@ -3574,15 +3582,15 @@
     },
     {
       "key": "SEXY_0241",
-      "value": "¿Puedes sentirte satisfecho/a si tu pareja alcanza el clímax, aunque tú no? 3"
+      "value": "¿Puedes sentirte satisfecho/a si tu pareja alcanza su \"extático momento final\", aunque tú no? 3"
     },
     {
       "key": "SEXY_0242",
-      "value": "Describe el mejor clímax que has sentido. 3"
+      "value": "Describe el mejor \"extático momento final\" que has sentido. 3"
     },
     {
       "key": "SEXY_0243",
-      "value": "Dile a tu pareja qué necesitas para alcanzar tu mejor clímax. 3"
+      "value": "Dile a tu pareja qué necesitas para alcanzar tu mejor \"extático momento final\". 3"
     },
     {
       "key": "SEXY_0244",
@@ -3590,7 +3598,7 @@
     },
     {
       "key": "SEXY_0245",
-      "value": "¿Alguna vez te has dado placer (a solas) en el trabajo? 3"
+      "value": "¿Alguna vez has \"realizado el acto de complacerte a ti mismo/a\" en el trabajo? 3"
     },
     {
       "key": "SEXY_0246",
@@ -3626,11 +3634,11 @@
     },
     {
       "key": "SEXY_0254",
-      "value": "¿Qué opinas de que tu pareja te estimule con los pies? 3"
+      "value": "¿Qué opinas de que tu pareja te estimule con las piernas? 3"
     },
     {
       "key": "SEXY_0255",
-      "value": "Cuando te das placer (a solas), ¿has imaginado a alguien? ¿A quién? 3"
+      "value": "Cuando \"realizas el acto de complacerte a ti mismo/a\", ¿has imaginado a alguien? ¿A quién? 3"
     },
     {
       "key": "SEXY_0256",
@@ -3654,7 +3662,7 @@
     },
     {
       "key": "SEXY_0261",
-      "value": "Adivina cuándo fue la última vez que tu pareja se dio placer (a solas). 3"
+      "value": "Adivina cuándo fue la última vez que tu pareja \"realizó el acto de complacerse a sí mismo/a\". 3"
     },
     {
       "key": "SEXY_0262",
@@ -3662,7 +3670,7 @@
     },
     {
       "key": "SEXY_0263",
-      "value": "¿Cuál es tu punto más sensible (zona erógena)? 3"
+      "value": "¿Cuál es tu \"punto sensible\" más estimulante? 3"
     },
     {
       "key": "SEXY_0264",
@@ -3690,11 +3698,11 @@
     },
     {
       "key": "SEXY_0270",
-      "value": "¿Recuerdas tu primera vez (a solas)? Cuéntalo en detalle. 3"
+      "value": "¿Recuerdas tu primera vez \"realizando el acto de complacerte a ti mismo/a\"? Cuéntalo en detalle. 3"
     },
     {
       "key": "SEXY_0271",
-      "value": "¿Te han pillado alguna vez dándote placer (a solas)? 3"
+      "value": "¿Te han pillado alguna vez \"realizando el acto de complacerte a ti mismo/a\"? 3"
     },
     {
       "key": "SEXY_0272",
@@ -3706,7 +3714,7 @@
     },
     {
       "key": "SEXY_0274",
-      "value": "Si pudieras aconsejar a tu yo del pasado (justo antes de la primera vez), ¿qué? 3"
+      "value": "Si pudieras aconsejar a tu yo del pasado (justo antes de tu primera vez haciendo el amor), ¿qué? 3"
     },
     {
       "key": "SEXY_0275",
@@ -3718,7 +3726,7 @@
     },
     {
       "key": "SEXY_0277",
-      "value": "Describe cómo fue vuestra primera vez (haciendo el amor). 3"
+      "value": "Describe cómo fue vuestra primera vez haciendo el amor. 3"
     },
     {
       "key": "SEXY_0278",
@@ -3742,7 +3750,7 @@
     },
     {
       "key": "SEXY_0283",
-      "value": "¿Conoces la postura invertida? ¿La disfrutas? 3"
+      "value": "¿Conoces la \"postura opuesta\"? ¿La disfrutas? 3"
     },
     {
       "key": "SEXY_0284",
@@ -3754,7 +3762,7 @@
     },
     {
       "key": "SEXY_0286",
-      "value": "(Durante el acto intenso) ¿Te gustaría que tu pareja te apretara el cuello suavemente? 3"
+      "value": "(Durante el acto intenso) ¿Te gustaría que tu pareja te sujetara el cuello suavemente? 3"
     },
     {
       "key": "SEXY_0287",
@@ -3762,11 +3770,11 @@
     },
     {
       "key": "SEXY_0288",
-      "value": "¿Qué harías si te enteraras de que tu pareja se acostó con su jefe/a (para un ascenso)? 3"
+      "value": "¿Qué harías si te enteraras de que tu pareja hizo el amor con su jefe/a (para un ascenso)? 3"
     },
     {
       "key": "SEXY_0289",
-      "value": "¿Te gustaría oír palabras excitantes y sucias  al hacer el amor? ¿Cuáles? 3"
+      "value": "¿Te gustaría oír palabras excitantes y sucias al hacer el amor? ¿Cuáles? 3"
     },
     {
       "key": "SEXY_0290",
@@ -3794,7 +3802,7 @@
     },
     {
       "key": "SEXY_0296",
-      "value": "(Aparte de contigo) ¿Qué opinas de que tu pareja se dé placer (a solas) en secreto? 3"
+      "value": "(Aparte de contigo) ¿Qué opinas de que tu pareja \"realice el acto de complacerse a sí mismo/a\" en secreto? 3"
     },
     {
       "key": "SEXY_0297",
@@ -3810,11 +3818,11 @@
     },
     {
       "key": "SEXY_0300",
-      "value": "Si rompieran, ¿crees que podrían seguir como amigos con derechos (solo físico)? 3"
+      "value": "Si rompieran, ¿crees que podrían seguir como amigos con derechos? 3"
     },
     {
       "key": "SEXY_0301",
-      "value": "¿Cómo es tu noche de bodas (luna de miel) ideal? 3"
+      "value": "¿Cómo es tu luna de miel ideal haciendo el amor? 3"
     },
     {
       "key": "SEXY_0302",
@@ -3822,7 +3830,7 @@
     },
     {
       "key": "SEXY_0303",
-      "value": "Si tu pareja rechaza besarte (después de estimular su zona íntima), ¿qué haces? 3"
+      "value": "Si tu pareja rechaza besarte (después de dar placer a su \"parte más íntima\" con tu boca), ¿qué haces? 3"
     },
     {
       "key": "SEXY_0304",
@@ -3830,7 +3838,7 @@
     },
     {
       "key": "SEXY_0305",
-      "value": "Descríbele a tu pareja qué se siente cuando llegas al clímax. 3"
+      "value": "Descríbele a tu pareja qué se siente cuando llegas a tu \"extático momento final\". 3"
     },
     {
       "key": "SEXY_0306",
@@ -3854,11 +3862,11 @@
     },
     {
       "key": "SEXY_0311",
-      "value": "¿Has puesto alguna excusa (regla, cansancio, enfermedad) para no hacer el amor? 3"
+      "value": "¿Has puesto alguna excusa (cansancio, enfermedad) para no hacer el amor? 3"
     },
     {
       "key": "SEXY_0312",
-      "value": "¿Has tenido alguna vez un amigo con derechos (solo físico)? 3"
+      "value": "¿Has tenido alguna vez un amigo con derechos? 3"
     },
     {
       "key": "SEXY_0313",
@@ -3866,7 +3874,7 @@
     },
     {
       "key": "SEXY_0314",
-      "value": "¿Qué es lo más estimulante que has oído al hacer el amor? 3"
+      "value": "¿Qué es lo más estimulante que has oído al hacer el amor? 4"
     },
     {
       "key": "SEXY_0315",
@@ -3914,7 +3922,7 @@
     },
     {
       "key": "SEXY_0326",
-      "value": "(Vestidos) Actuad/Fingid que hacéis el amor durante 20 segundos. [20]"
+      "value": "(Vestidos) Actuad/Fingid que \"hacéis el amor\" durante 20 segundos. [20] 4"
     },
     {
       "key": "SEXY_0327",
@@ -3926,7 +3934,7 @@
     },
     {
       "key": "SEXY_0329",
-      "value": "¿Cuál es la diferencia entre vuestra primera vez (haciendo el amor) y ahora? 3"
+      "value": "¿Cuál es la diferencia entre vuestra primera vez haciendo el amor y ahora? 3"
     },
     {
       "key": "SEXY_0330",
@@ -3934,15 +3942,15 @@
     },
     {
       "key": "SEXY_0331",
-      "value": "Si pudieras operarte gratis (tus partes), ¿qué cambiarías? 3"
+      "value": "Si pudieras operarte gratis tus \"partes más íntimas\", ¿qué cambiarías? 3"
     },
     {
       "key": "SEXY_0332",
-      "value": "¿Cómo se llamaba tu ex que mejor te estimulaba (preliminares)? 3"
+      "value": "¿Cómo se llamaba tu ex que mejor te estimulaba? 3"
     },
     {
       "key": "SEXY_0333",
-      "value": "¿Cómo se llamaba tu ex que era el/la mejor (haciendo el amor)? 3"
+      "value": "¿Cómo se llamaba tu ex que era el/la mejor haciendo el amor? 3"
     },
     {
       "key": "SEXY_0334",
@@ -3950,7 +3958,7 @@
     },
     {
       "key": "SEXY_0335",
-      "value": "¿Cómo se llamaba la persona con la que tuviste tu primera vez? 3"
+      "value": "¿Cómo se llamaba la persona con la que hiciste el amor por primera vez? 3"
     },
     {
       "key": "SEXY_0336",
@@ -3966,7 +3974,7 @@
     },
     {
       "key": "SEXY_0339",
-      "value": "¿Has hecho el amor con dos personas (trío) alguna vez, o casi? 3"
+      "value": "¿Has hecho el amor con dos personas alguna vez, o casi? 3"
     },
     {
       "key": "SEXY_0340",
@@ -3974,7 +3982,7 @@
     },
     {
       "key": "SEXY_0341",
-      "value": "Sinceramente, ¿hay momentos en que darse placer (a solas) es mejor que hacer el amor? 3"
+      "value": "Sinceramente, ¿hay momentos en que \"realizar el acto de complacerte a ti mismo/a\" es mejor que hacer el amor? 3"
     },
     {
       "key": "SEXY_0342",
@@ -4038,19 +4046,19 @@
     },
     {
       "key": "SEXY_0357",
-      "value": "¿Estás satisfecho/a con la forma de tus pezones? ¿Por qué? 3"
+      "value": "¿Estás satisfecho/a con la forma de tus \"puntos sensibles del pecho\"? ¿Por qué? 3"
     },
     {
       "key": "SEXY_0358",
-      "value": "¿Pierdes el deseo de hacer el amor con alguien (con sobrepeso)? 3"
+      "value": "¿Pierdes el deseo de hacer el amor con alguien con sobrepeso? 3"
     },
     {
       "key": "SEXY_0359",
-      "value": "¿Cuánto cuidado corporal (fitness) necesitas que mantenga tu pareja (para seguir queriendo)? 3"
+      "value": "¿Cuánto cuidado corporal (fitness) necesitas que mantenga tu pareja (para seguir queriendo hacer el amor)? 3"
     },
     {
       "key": "SEXY_0360",
-      "value": "¿Pierdes el deseo de besar a alguien (con sobrepeso)? 3"
+      "value": "¿Pierdes el deseo de besar a alguien con sobrepeso? 3"
     },
     {
       "key": "SEXY_0361",
@@ -4058,7 +4066,7 @@
     },
     {
       "key": "SEXY_0362",
-      "value": "¿Qué cambio (en la parte íntima de tu pareja) haría que vuestra vida sexual fuera el doble de buena? 3"
+      "value": "¿Qué cambio en la \"parte más íntima\" de tu pareja haría que vuestra vida sexual fuera el doble de buena? 3"
     },
     {
       "key": "SEXY_0363",
@@ -4070,15 +4078,15 @@
     },
     {
       "key": "SEXY_0365",
-      "value": "¿Qué opinas de tragar el final (fluidos) de tu pareja? 3"
+      "value": "¿Qué opinas de tragar el \"final\" de tu pareja? 4"
     },
     {
       "key": "SEXY_0366",
-      "value": "Si alguna vez te has puesto muchísimo (excitada) (por tu pareja), ¿cuándo? 3"
+      "value": "Si alguna vez has tenido una reacción intensa (por tu pareja), ¿cuándo? 3"
     },
     {
       "key": "SEXY_0367",
-      "value": "¿Alguna vez te has puesto muchísimo (excitada) en un sitio público? 3"
+      "value": "¿Alguna vez has tenido una reacción intensa en un sitio público? 3"
     },
     {
       "key": "SEXY_0368",
@@ -4086,11 +4094,11 @@
     },
     {
       "key": "SEXY_0369",
-      "value": "¿Has querido estimular a tu pareja (con la boca) mientras duerme? 3"
+      "value": "¿Has querido dar placer a tu pareja con la boca mientras duerme? 3"
     },
     {
       "key": "SEXY_0370",
-      "value": "¿Tienes la fantasía de que tu pareja te domine con fuerza (te tome) cuando estás borracho/a? 3"
+      "value": "¿Tienes la fantasía de que tu pareja te domine con fuerza cuando estás borracho/a? 3"
     },
     {
       "key": "SEXY_0371",
@@ -4106,7 +4114,7 @@
     },
     {
       "key": "SEXY_0374",
-      "value": "¿Te gusta la ropa interior (con estampado de flores)? 3"
+      "value": "¿Te gusta la ropa interior con estampado de flores? 3"
     },
     {
       "key": "SEXY_0375",
@@ -4126,7 +4134,7 @@
     },
     {
       "key": "SEXY_0379",
-      "value": "¿Qué es algo que te corta el rollo (mata la pasión) durante el acto? 3"
+      "value": "¿Qué es algo que te corta el rollo durante el acto? 3"
     },
     {
       "key": "SEXY_0380",
@@ -4138,7 +4146,7 @@
     },
     {
       "key": "SEXY_0383",
-      "value": "¿Te has dado placer (a solas) desde que estáis saliendo? 3"
+      "value": "¿Has \"realizado el acto de complacerte a ti mismo/a\" desde que estáis saliendo? 3"
     },
     {
       "key": "SEXY_0384",
@@ -4146,7 +4154,7 @@
     },
     {
       "key": "SEXY_0385",
-      "value": "¿Has tenido alguna vez un amigo con derechos (solo físico)? 3"
+      "value": "¿Has tenido alguna vez un amigo con derechos? 3"
     },
     {
       "key": "SEXY_0386",
@@ -4178,7 +4186,7 @@
     },
     {
       "key": "SEXY_0393",
-      "value": "¿Estimularías la zona trasera de tu pareja con la boca si te lo pidiera? 4"
+      "value": "¿Darías placer al \"punto íntimo trasero\" de tu pareja con la boca si te lo pidiera? 4"
     },
     {
       "key": "SEXY_0394",
@@ -4198,11 +4206,11 @@
     },
     {
       "key": "SEXY_0398",
-      "value": "¿Te gustaría despertarte mañana (con la suave estimulación de tu pareja)? 4"
+      "value": "¿Te gustaría despertarte mañana con la suave estimulación de tu pareja? 4"
     },
     {
       "key": "SEXY_0399",
-      "value": "¿Estimularías (con ganas) a tu pareja (aunque lleve 2 días sin ducharse)? 4"
+      "value": "¿Estimularías con ganas a tu pareja (aunque lleve 2 días sin ducharse)? 4"
     },
     {
       "key": "SEXY_0400",
@@ -4214,7 +4222,7 @@
     },
     {
       "key": "SEXY_0402",
-      "value": "¿Podrías aceptar el chorro caliente de tu pareja sobre tu cuerpo? ¿Y en la ducha? 4"
+      "value": "¿Podrías aceptar el \"chorro caliente\" de tu pareja sobre tu cuerpo? ¿Y en la ducha? 4"
     },
     {
       "key": "SEXY_0403",
@@ -4222,7 +4230,7 @@
     },
     {
       "key": "SEXY_0404",
-      "value": "¿Qué harías si tu pareja te regalara un trío (amor con dos personas) por tu cumpleaños? 4"
+      "value": "¿Qué harías si tu pareja te regalara amor con dos personas por tu cumpleaños? 4"
     },
     {
       "key": "SEXY_0405",
@@ -4233,24 +4241,628 @@
       "value": "Si solo pudieras hacer el amor (en sitios públicos), ¿dónde? 4"
     },
     {
-      "key": "SEXY_0407",
-      "value": "(Relación D/S) ¿Te gustaría que tu pareja te pusiera un apodo dominante? 4"
-    },
-    {
       "key": "SEXY_0408",
-      "value": "¿Tienes ganas de probar el amor (por detrás)? 4"
+      "value": "¿Tienes ganas de probar hacer el amor por detrás? 4"
     },
     {
       "key": "SEXY_0409",
-      "value": "Cuenta todo lo que sabes sobre hacer el amor (por detrás). 4"
+      "value": "Cuenta todo lo que sabes sobre hacer el amor por detrás. 4"
     },
     {
       "key": "SEXY_0410",
-      "value": "¿Qué opinas de hacer el amor (por detrás)? 4"
+      "value": "¿Qué opinas de hacer el amor por detrás? 4"
     },
     {
       "key": "SEXY_0411",
-      "value": "¿Has pensado alguna vez en querer ver a tu pareja hacer el amor (con otra persona)? 4"
+      "value": "¿Has pensado alguna vez en querer ver a tu pareja hacer el amor con otra persona? 4"
+    },
+    {
+      "key": "SEXY_0412",
+      "value": "¿Qué tal retransmitir en directo vuestro acto de amor en una web para adultos? 4"
+    },
+    {
+      "key": "SEXY_0413",
+      "value": "¿Te gustaría que tu pareja estimulara entre tus nalgas con la boca? 4"
+    },
+    {
+      "key": "SEXY_0414",
+      "value": "Si tu pareja te lo permitiera, ¿podrías hacer el amor con otra persona por diversión? 4"
+    },
+    {
+      "key": "SEXY_0415",
+      "value": "¿Te gusta hacer el amor por detrás? Si es así, describe la sensación. 4"
+    },
+    {
+      "key": "SEXY_0416",
+      "value": "¿Hay algún acto (sexual) que te da miedo, pero que te gustaría probar una vez? 4"
+    },
+    {
+      "key": "SEXY_0417",
+      "value": "¿Te gustaría hacer el amor en una relación de \"Líder/Seguidor\"? 4"
+    },
+    {
+      "key": "SEXY_0418",
+      "value": "¿Has usado un juguete para adultos alguna vez? Describe en detalle el que usaste. 4"
+    },
+    {
+      "key": "SEXY_0419",
+      "value": "¿Has pensado alguna vez en hacer el amor con el padre/madre de un/a amigo/a? 4"
+    },
+    {
+      "key": "SEXY_0420",
+      "value": "¿Has hecho el amor a escondidas mientras tu familia está en casa? 4"
+    },
+    {
+      "key": "SEXY_0421",
+      "value": "¿Quieres que tu pareja dé placer a tu \"punto íntimo trasero\" con la boca? 4"
+    },
+    {
+      "key": "SEXY_0422",
+      "value": "¿Te da asco que tu pareja dé placer a la \"punta de tus dedos del pie\" con la boca? 4"
+    },
+    {
+      "key": "SEXY_0423",
+      "value": "¿Te da asco que tu pareja dé placer a tu \"axila\" con la boca? 4"
+    },
+    {
+      "key": "SEXY_0424",
+      "value": "¿Qué opinas de usar hielo en las \"partes más íntimas\" durante el acto? 4"
+    },
+    {
+      "key": "SEXY_0425",
+      "value": "Cuéntale a tu pareja el método más impactante de \"realizar el acto de complacerte a ti mismo/a\" que conozcas. 4"
+    },
+    {
+      "key": "SEXY_0426",
+      "value": "¿Te estimula el olor de la ropa interior de alguien? 4"
+    },
+    {
+      "key": "SEXY_0427",
+      "value": "¿Alguna vez has \"realizado el acto de complacerte a ti mismo/a\" mirando fotos/vídeos de un/a famoso/a? 4"
+    },
+    {
+      "key": "SEXY_0428",
+      "value": "Si tuvieras que \"realizar el acto de complacerte a ti mismo/a\" con una fruta, ¿cuál elegirías? 4"
+    },
+    {
+      "key": "SEXY_0429",
+      "value": "¿Alguna vez has \"realizado el acto de complacerte a ti mismo/a\" usando una fruta? 4"
+    },
+    {
+      "key": "SEXY_0430",
+      "value": "¿Qué harías si contrajeras una enfermedad íntima por tu pareja? 4"
+    },
+    {
+      "key": "SEXY_0431",
+      "value": "¿Qué harías si tu pareja te pidiera verte hacer el amor con otra persona? 4"
+    },
+    {
+      "key": "SEXY_0432",
+      "value": "¿Qué harías si descubrieras que tu pareja protagonizó un vídeo para adultos? 4"
+    },
+    {
+      "key": "SEXY_0433",
+      "value": "¿Qué parte de tu cuerpo te gustaría que tu pareja complaciera con la boca ahora mismo? 4"
+    },
+    {
+      "key": "SEXY_0434",
+      "value": "¿Podrías aguantarte los sonidos de reacción mientras haces el amor Y hablas por teléfono? 4"
+    },
+    {
+      "key": "SEXY_0435",
+      "value": "¿Cuál es la parte más dulce del cuerpo de tu pareja? 4"
+    },
+    {
+      "key": "SEXY_0436",
+      "value": "Ordena: Con dos personas, Mirar, Líder/Seguidor, Por detrás. 4"
+    },
+    {
+      "key": "SEXY_0437",
+      "value": "¿Cómo se llamaba tu ex con la \"parte más íntima\" más bonita? 4"
+    },
+    {
+      "key": "SEXY_0438",
+      "value": "¿Cuál es la mayor diferencia de edad con alguien que has hecho el amor? 4"
+    },
+    {
+      "key": "SEXY_0439",
+      "value": "¿Algún/a ex se puso alguna vez un disfraz de cosplay para ti? 4"
+    },
+    {
+      "key": "SEXY_0440",
+      "value": "¿Tienes algún/a amigo/a (con quien no sales) con quien tengas una relación física? 4"
+    },
+    {
+      "key": "SEXY_0441",
+      "value": "¿Has tenido alguna vez una relación física por error con un/a amigo/a? 4"
+    },
+    {
+      "key": "SEXY_0442",
+      "value": "Describe vuestra primera vez haciendo el amor con detalle. 4"
+    },
+    {
+      "key": "SEXY_0443",
+      "value": "¿Tienes alguna técnica que uses para hacer el amor durante más tiempo? 4"
+    },
+    {
+      "key": "SEXY_0444",
+      "value": "¿En qué momento te viene el pensamiento de \"quiero acabar dentro\"? 4"
+    },
+    {
+      "key": "SEXY_0445",
+      "value": "Si pudieras elegir un juego de rol (secreto), ¿cuál? 4"
+    },
+    {
+      "key": "SEXY_0446",
+      "value": "¿Te gustaría probar a estimular a tu pareja (con nata/crema sobre su cuerpo)? 4"
+    },
+    {
+      "key": "SEXY_0447",
+      "value": "¿Has pensado alguna vez en querer probar a hacer el amor (con alguien de tu mismo sexo)? 4"
+    },
+    {
+      "key": "SEXY_0448",
+      "value": "Si tuvieras que dar placer con la boca a 1 sitio (pareja) (excepto zona íntima), ¿dónde? 4"
+    },
+    {
+      "key": "SEXY_0449",
+      "value": "¿Has pensado alguna vez en querer ver a otras personas hacer el amor? 4"
+    },
+    {
+      "key": "SEXY_0450",
+      "value": "¿Has pensado alguna vez en querer ver a tu pareja hacer el amor con otra persona? 4"
+    },
+    {
+      "key": "SEXY_0451",
+      "value": "¿Estás satisfecho/a con la forma de tu \"parte más íntima\"? ¿Por qué? 4"
+    },
+    {
+      "key": "SEXY_0452",
+      "value": "Si pudieras cambiar tu \"parte más íntima\", ¿qué cambiarías? ¿Por qué? 4"
+    },
+    {
+      "key": "SEXY_0453",
+      "value": "¿Te has molestado alguna vez (pelo en la boca) mientras estimulabas a tu pareja? 4"
+    },
+    {
+      "key": "SEXY_0454",
+      "value": "¿Qué opinas de tragar el \"final\" de tu pareja? 4"
+    },
+    {
+      "key": "SEXY_0455",
+      "value": "Describe en detalle qué podría hacer tu pareja para que tu cuerpo reaccione intensamente. 4"
+    },
+    {
+      "key": "SEXY_0456",
+      "value": "Di un sitio público donde te gustaría hacer el amor con tu pareja. 4"
+    },
+    {
+      "key": "SEXY_0457",
+      "value": "¿Has presenciado a otras personas haciendo el amor en un sitio público? 4"
+    },
+    {
+      "key": "SEXY_0458",
+      "value": "Si tu pareja te estimulara (estando dormido/a), ¿te gustaría o no? 4"
+    },
+    {
+      "key": "SEXY_0459",
+      "value": "¿Has bailado alguna vez perreo en la discoteca? 4"
+    },
+    {
+      "key": "SEXY_0460",
+      "value": "Haciéndolo sin condón, ¿has sentido alguna vez que te retiraste un poco tarde? 4"
+    },
+    {
+      "key": "SEXY_0461",
+      "value": "Describe en detalle la diferencia de sensación (con vs sin condón). 4"
+    },
+    {
+      "key": "SEXY_0462",
+      "value": "¿Has visto alguna vez el bulto (o contorno) de alguien que no llevaba ropa interior? 4"
+    },
+    {
+      "key": "SEXY_0463",
+      "value": "¿Qué piensas si alguien es demasiado bueno/a haciendo el amor (desde el principio)? 4"
+    },
+    {
+      "key": "SEXY_0464",
+      "value": "¿Cuál es el chiste verde (picante) más fuerte que has contado? Cuéntaselo. 4"
+    },
+    {
+      "key": "SEXY_0465",
+      "value": "¿Aceptarías si tu pareja te pidiera videollamada mientras \"realiza el acto de complacerse a sí mismo/a\" en público? 4"
+    },
+    {
+      "key": "SEXY_0466",
+      "value": "¿Aceptarías si tu pareja te propusiera tener sexo telefónico mañana? 4"
+    },
+    {
+      "key": "SEXY_0467",
+      "value": "¿Aceptarías si tu pareja propusiera videollamada mientras \"realizáis el acto de complaceros a vosotros mismos/as\"? 4"
+    },
+    {
+      "key": "SEXY_0468",
+      "value": "¿Enviarías una foto de tu \"parte más íntima\" si tu pareja te la pidiera por la noche? 4"
+    },
+    {
+      "key": "SEXY_0469",
+      "value": "Describe en detalle cómo te estimula tu pareja (que te excita más). 4"
+    },
+    {
+      "key": "SEXY_0470",
+      "value": "Cuéntale a tu pareja el vídeo para adultos más impactante que has visto. 4"
+    },
+    {
+      "key": "SEXY_0471",
+      "value": "¿Cuál es una preferencia íntima (fetiche) que de verdad no puedes entender? 4"
+    },
+    {
+      "key": "SEXY_0472",
+      "value": "¿Te estimula (excita) o te ofende que tu pareja te llame guarro/a (nombres sucios) al hacer el amor? 4"
+    },
+    {
+      "key": "SEXY_0473",
+      "value": "Haciendo el amor, ¿hubo algún momento en que sentiste que tu pareja perdía el control (de placer)? 4"
+    },
+    {
+      "key": "SEXY_0474",
+      "value": "¿Si tuvieras que ponerle un apodo a la \"zona sensible\" de tu pareja? 4"
+    },
+    {
+      "key": "SEXY_0475",
+      "value": "¿Hay algo en lo que sintáis que no sois compatibles en la cama? 4"
+    },
+    {
+      "key": "SEXY_0476",
+      "value": "¿Has soñado alguna vez que hacías el amor apasionadamente con tu pareja? 4"
+    },
+    {
+      "key": "SEXY_0477",
+      "value": "¿Y si tu pareja perdiera su función sexual? 4"
+    },
+    {
+      "key": "SEXY_0478",
+      "value": "¿Y si tu pareja te abriera la puerta sin nada de ropa? 4"
+    },
+    {
+      "key": "SEXY_0479",
+      "value": "Viviendo juntos, ¿y si tu pareja anduviera totalmente desnuda por casa? 4"
+    },
+    {
+      "key": "SEXY_0480",
+      "value": "¿Qué regalo de aniversario haría que hicieras cualquier cosa por tu pareja? 4"
+    },
+    {
+      "key": "SEXY_0481",
+      "value": "Si pudieras pedir un consejo en la cama al/a la ex de tu pareja, ¿qué le preguntarías? 4"
+    },
+    {
+      "key": "SEXY_0482",
+      "value": "¿Alguna vez has \"realizado el acto de complacerte a ti mismo/a\" pensando en tu pareja? 4"
+    },
+    {
+      "key": "SEXY_0483",
+      "value": "¿Has tenido un amigo con derechos en el pasado? 4"
+    },
+    {
+      "key": "SEXY_0484",
+      "value": "¿Qué opinas de los amigos con derechos? 4"
+    },
+    {
+      "key": "SEXY_0485",
+      "value": "¿Qué harías si tu tipo ideal (un/a famoso/a) te pidiera ser amigos con derechos? 4"
+    },
+    {
+      "key": "SEXY_0486",
+      "value": "¿Qué es lo más impactante que has oído al hacer el amor? 4"
+    },
+    {
+      "key": "SEXY_0487",
+      "value": "¿Qué juego de rol (escenario) te gustaría probar (con tu pareja)? 4"
+    },
+    {
+      "key": "SEXY_0488",
+      "value": "Di 3 cumplidos para tu pareja sobre vuestro acto de amor. 4"
+    },
+    {
+      "key": "SEXY_0489",
+      "value": "¿Hay algún juguete para adultos que te gustaría usar al hacer el amor? 4"
+    },
+    {
+      "key": "SEXY_0490",
+      "value": "¿Cuál ha sido el sitio más excitante donde has hecho el amor? 4"
+    },
+    {
+      "key": "SEXY_0491",
+      "value": "¿Cuál es el comportamiento que menos te gusta de tu pareja al hacer el amor? 4"
+    },
+    {
+      "key": "SEXY_0492",
+      "value": "¿Alguna vez te has hecho fotos íntimas en el pasado? 4"
+    },
+    {
+      "key": "SEXY_0493",
+      "value": "¿Te gustaría hacerte fotos íntimas con tu pareja? 4"
+    },
+    {
+      "key": "SEXY_0494",
+      "value": "Piensa en un juguete para adultos que te gustaría regalarle a tu pareja. 4"
+    },
+    {
+      "key": "SEXY_0495",
+      "value": "¿En qué estación del año piensas más en hacer el amor? 4"
+    },
+    {
+      "key": "SEXY_0496",
+      "value": "¿Tienes alguna preferencia íntima por el olor de la ropa interior? 4"
+    },
+    {
+      "key": "SEXY_0497",
+      "value": "¿Besar te da ganas de hacer el amor? 4"
+    },
+    {
+      "key": "SEXY_0498",
+      "value": "¿Has hecho el amor con dos personas diferentes (sexo opuesto) en el mismo mes? 4"
+    },
+    {
+      "key": "SEXY_0499",
+      "value": "Sinceramente, ¿crees que tu pareja puede manejar tus impulsos? 4"
+    },
+    {
+      "key": "SEXY_0500",
+      "value": "Dime un momento en que quisiste hacerlo como un animal. 4"
+    },
+    {
+      "key": "SEXY_0501",
+      "value": "¿Alguna vez has hecho el amor llevando ropa de oficina? 4"
+    },
+    {
+      "key": "SEXY_0502",
+      "value": "Cuando la química física es buena, ¿se siente alucinante? 4"
+    },
+    {
+      "key": "SEXY_0503",
+      "value": "Si la química física es genial (sin sentimientos), ¿seguirías pensando en esa persona? 4"
+    },
+    {
+      "key": "SEXY_0504",
+      "value": "¿Qué opinas de hacer el amor antes de salir? 4"
+    },
+    {
+      "key": "SEXY_0505",
+      "value": "¿Has hecho el amor en una discoteca? ¿O te gustaría probarlo? 4"
+    },
+    {
+      "key": "SEXY_0506",
+      "value": "Con los ojos vendados, ¿podrías reconocer a tu pareja solo con hacer el amor? 4"
+    },
+    {
+      "key": "SEXY_0507",
+      "value": "¿Qué opinas de hacer el amor con los ojos vendados? 4"
+    },
+    {
+      "key": "SEXY_0508",
+      "value": "¿Qué frase usas para seducir cuando quieres hacer el amor? 4"
+    },
+    {
+      "key": "SEXY_0509",
+      "value": "¿Crees en el apego físico? 4"
+    },
+    {
+      "key": "SEXY_0510",
+      "value": "¿Has echado de menos a un/a ex por ese apego físico? 4"
+    },
+    {
+      "key": "SEXY_0511",
+      "value": "Tras romper, ¿has vuelto a pensar en el acto de amor que tuvisteis? 4"
+    },
+    {
+      "key": "SEXY_0512",
+      "value": "¿Alguna vez has hecho el amor por error con alguien (sexo opuesto) estando borracho/a? 3"
+    },
+    {
+      "key": "SEXY_0513",
+      "value": "¿Cómo aprendiste a \"realizar el acto de complacerte a ti mismo/a\" por primera vez? 3"
+    },
+    {
+      "key": "SEXY_0514",
+      "value": "Si no pudierais hacer el amor tras casaros, ¿qué harías? 3"
+    },
+    {
+      "key": "SEXY_0515",
+      "value": "Describe en detalle cómo hacer el amor. 3"
+    },
+    {
+      "key": "SEXY_0516",
+      "value": "¿Les has contado a tus amigos/as sobre tu vida íntima con tu pareja? 3"
+    },
+    {
+      "key": "SEXY_0517",
+      "value": "¿Cuánto tiempo crees que hay que esperar tras empezar a salir para hacer el amor? 3"
+    },
+    {
+      "key": "SEXY_0518",
+      "value": "¿Alguna vez tu cuerpo ha reaccionado solo por estar con tu pareja? 3"
+    },
+    {
+      "key": "SEXY_0519",
+      "value": "Si no quieres hacer el amor pero tu pareja insiste mucho, ¿aceptarías? 3"
+    },
+    {
+      "key": "SEXY_0520",
+      "value": "¿Crees que hay mucha diferencia de sensación al hacer el amor con vs sin condón? 3"
+    },
+    {
+      "key": "SEXY_0521",
+      "value": "¿Te gusta que tu pareja te estimule los \"puntos sensibles del pecho\" con la boca? 3"
+    },
+    {
+      "key": "SEXY_0522",
+      "value": "Si Papá Noel te regalara un juguete para adultos, ¿qué pedirías? 3"
+    },
+    {
+      "key": "SEXY_0523",
+      "value": "¿Puedes hacer el amor (sin importar la cara), siempre que tenga buen cuerpo? 3"
+    },
+    {
+      "key": "SEXY_0524",
+      "value": "¿Qué pensarías si tu pareja se quedara quieta mientras hacéis el amor? 3"
+    },
+    {
+      "key": "SEXY_0525",
+      "value": "¿Has hecho el amor alguna vez con alguien de otro país? 3"
+    },
+    {
+      "key": "SEXY_0526",
+      "value": "¿Qué opinas de hacer el amor en una bañera? 3"
+    },
+    {
+      "key": "SEXY_0527",
+      "value": "¿Qué opinas de ducharte con tu pareja? 3"
+    },
+    {
+      "key": "SEXY_0528",
+      "value": "¿Puedes estimular a tu pareja con la boca hasta que alcance el \"extático momento final\"? 4"
+    },
+    {
+      "key": "SEXY_0529",
+      "value": "Describe la forma de tus \"puntos sensibles del pecho\". 3"
+    },
+    {
+      "key": "SEXY_0530",
+      "value": "Describe cómo actúa tu pareja cuando hacéis el amor. 3"
+    },
+    {
+      "key": "SEXY_0531",
+      "value": "¿Qué señal te gustaría que te diera tu pareja cuando quiera hacer el amor? 3"
+    },
+    {
+      "key": "SEXY_0532",
+      "value": "Tras romper, ¿has vuelto a pensar en el acto de amor que tuvisteis? 4"
+    },
+    {
+      "key": "SEXY_0533",
+      "value": "¿Conoces las posturas del Kama Sutra? 4"
+    },
+    {
+      "key": "SEXY_0534",
+      "value": "¿Estás dispuesto/a a estudiar vuestros \"puntos sensibles\" para un mejor \"extático momento final\"? 4"
+    },
+    {
+      "key": "SEXY_0535",
+      "value": "¿Qué truco (que vieras en vídeos online) has aprendido (para un mejor \"extático momento final\")? 4"
+    },
+    {
+      "key": "SEXY_0536",
+      "value": "¿Qué idea novedosa sobre hacer el amor has aprendido en vídeos online? 4"
+    },
+    {
+      "key": "SEXY_0537",
+      "value": "Comparte una reseña sobre un juguete para adultos que te haya contado un/a amigo/a. 4"
+    },
+    {
+      "key": "SEXY_0538",
+      "value": "Cuenta una experiencia increíble haciendo el amor (que te contara un/a amigo/a). 4"
+    },
+    {
+      "key": "SEXY_0539",
+      "value": "¿Qué parte (te daba asco antes), pero ahora crees que podrías dar placer con la boca? 4"
+    },
+    {
+      "key": "SEXY_0540",
+      "value": "¿Hay alguna parte que te daría mucho asco estimular con la boca? 4"
+    },
+    {
+      "key": "SEXY_0541",
+      "value": "¿Cómo puede estimularte tu pareja para que alcances el \"extático momento final\"? 4"
+    },
+    {
+      "key": "SEXY_0542",
+      "value": "¿Has oído hablar de \"realizar el acto de complacerte a ti mismo/a\" por detrás? 4"
+    },
+    {
+      "key": "SEXY_0543",
+      "value": "¿Has querido probar un juguete para adultos diseñado para atrás? 4"
+    },
+    {
+      "key": "SEXY_0544",
+      "value": "¿Has pensado alguna vez en querer probar el amor por detrás? 4"
+    },
+    {
+      "key": "SEXY_0545",
+      "value": "¿Has oído cómo se siente hacer el amor por detrás? 4"
+    },
+    {
+      "key": "SEXY_0546",
+      "value": "¿Si hicieras el amor (con un/a famoso/a, 20+ años mayor)? (Elige uno/a). 4"
+    },
+    {
+      "key": "SEXY_0547",
+      "value": "¿Has oído hablar de gente que trabaja en locales de entretenimiento adulto? Cuenta algo. 4"
+    },
+    {
+      "key": "SEXY_0548",
+      "value": "¿Has pensado alguna vez en querer trabajar en un local de entretenimiento adulto? 4"
+    },
+    {
+      "key": "SEXY_0549",
+      "value": "¿Qué se siente cuando la química física es buena? Describe. 4"
+    },
+    {
+      "key": "SEXY_0550",
+      "value": "Para hacer el amor, Cara vs Físico: ¿Qué es más importante? 4"
+    },
+    {
+      "key": "SEXY_0551",
+      "value": "Haciendo el amor, cuando las mujeres dicen \"¡Para!\": ¿Es en serio? ¿Y tú? 4"
+    },
+    {
+      "key": "SEXY_0552",
+      "value": "¿Has oído hablar de hacer el amor entre mujeres? 4"
+    },
+    {
+      "key": "SEXY_0553",
+      "value": "¿Conoces algún juguete para adultos que se use entre mujeres? 4"
+    },
+    {
+      "key": "SEXY_0554",
+      "value": "¿Has visto algún vídeo de amor entre personas del mismo sexo? ¿Cuándo? 4"
+    },
+    {
+      "key": "SEXY_0555",
+      "value": "¿Te parece bien si tu pareja solo quiere estimulación (preliminares) y no hacer el amor? 4"
+    },
+    {
+      "key": "SEXY_0556",
+      "value": "Haciendo el amor, ¿prefieres que tu pareja quede más satisfecha, o más o menos igual? 4"
+    },
+    {
+      "key": "SEXY_0557",
+      "value": "¿Cuándo has sentido que tu pareja hacía el amor aunque no quisiera? 4"
+    },
+    {
+      "key": "SEXY_0558",
+      "value": "Si tu pareja no quiere (pero tú sí), ¿qué frase podría convencerla? 4"
+    },
+    {
+      "key": "SEXY_0559",
+      "value": "(En tu mejor día) ¿Cuál es el máx de veces que podrías hacer el amor? 4"
+    },
+    {
+      "key": "SEXY_0560",
+      "value": "¿Cuál es el momento en que más quieres hacer el amor con tu pareja? 4"
+    },
+    {
+      "key": "SEXY_0561",
+      "value": "¿Qué harías si tu amigo/a (con pareja) te dijera que tiene un amigo con derechos? 4"
+    },
+    {
+      "key": "SEXY_0562",
+      "value": "¿Has pensado alguna vez \"Solo quiero acabar dentro\"? 4"
+    },
+    {
+      "key": "SEXY_0563",
+      "value": "¿Has experimentado alguna vez un olor fuerte de una parte íntima? 4"
     },
     {
       "key": "ACTION_0001",
@@ -4430,7 +5042,7 @@
     },
     {
       "key": "ACTION_0045",
-      "value": "Muestra cómo \"escribes 'Te quiero' en el aire\" con la lengua. 1"
+      "value": "Muestra cómo \"escribes Te quiero en el aire\" con la lengua. 1"
     },
     {
       "key": "ACTION_0046",
@@ -4598,7 +5210,7 @@
     },
     {
       "key": "ACTION_0087",
-      "value": "Finge (que eres \"masajista\"). Que tu pareja se tumbe (boca abajo) y dale un masaje (30 seg) [30] 1"
+      "value": "Finge (que eres \"masajista\"). Que tu pareja se tumbe  y dale un masaje (30 seg) [30] 1"
     },
     {
       "key": "ACTION_0088",
@@ -4698,7 +5310,7 @@
     },
     {
       "key": "ACTION_0112",
-      "value": "Haz solo \"sonidos de gato\" (maullidos) (hasta el próximo turno). 1"
+      "value": "Haz solo \"sonidos de gato\"(hasta el próximo turno). 1"
     },
     {
       "key": "ACTION_0113",
@@ -5046,43 +5658,43 @@
     },
     {
       "key": "ACTION_0199",
-      "value": "Tumbaos de lado y abrazaos (en \"cucharita\") (15 seg) [15] 2"
-    },
-    {
-      "key": "ACTION_0200",
       "value": "Túmbate (15 seg) mientras tu pareja \"usa tu brazo de almohada\" [15] 2"
     },
     {
-      "key": "ACTION_0201",
-      "value": "Haz que tu pareja se tumbe (boca abajo) y túmbate encima (15 seg) [15] 2"
+      "key": "ACTION_0200",
+      "value": "Haz que tu pareja se tumbe  y túmbate encima (15 seg) [15] 2"
     },
     {
-      "key": "ACTION_0202",
+      "key": "ACTION_0201",
       "value": "Susúrrale al oído a tu pareja (cuál es la parte más sexy de su cuerpo). 2"
     },
     {
-      "key": "ACTION_0203",
+      "key": "ACTION_0202",
       "value": "Deja que tu pareja toque la parte más \"blanda\" de tu cuerpo. 2"
     },
     {
-      "key": "ACTION_0204",
+      "key": "ACTION_0203",
       "value": "Sienta a tu pareja en tu regazo y mírala a los ojos. 2"
     },
     {
-      "key": "ACTION_0205",
+      "key": "ACTION_0204",
       "value": "Dibuja un corazón en la cara de tu pareja (con pintalabios o eyeliner). 2"
     },
     {
-      "key": "ACTION_0206",
+      "key": "ACTION_0205",
       "value": "Baila un \"baile sexy\" (sentado/a) (15 seg) [15] 2"
     },
     {
-      "key": "ACTION_0207",
+      "key": "ACTION_0206",
       "value": "\"Estimula\" el hombro de tu pareja (con la boca) (10 seg) [10] 2"
     },
     {
-      "key": "ACTION_0208",
+      "key": "ACTION_0207",
       "value": "Deja que tu pareja toque la parte más \"dura\" de tu cuerpo. 2"
+    },
+    {
+      "key": "ACTION_0208",
+      "value": "Sé \"sumiso/a\" a tu pareja (1 min). Debes llamarle \"Amo/Ama\". [60] 2"
     },
     {
       "key": "ACTION_0209",
@@ -5090,47 +5702,1087 @@
     },
     {
       "key": "ACTION_0210",
-      "value": "Sé \"sumiso/a\" a tu pareja (1 min). Debes llamarle \"Amo/Ama\". [60] 2"
-    },
-    {
-      "key": "ACTION_0211",
       "value": "Sigue bailando un \"baile sexy\" (hasta tu próximo turno). 2"
     },
     {
-      "key": "ACTION_0212",
+      "key": "ACTION_0211",
       "value": "\"Perrea\" (Twerk) (delante de su cara) (20 seg) [20] 2"
     },
     {
-      "key": "ACTION_0213",
+      "key": "ACTION_0212",
       "value": "Dale a tu pareja un \"abrazo fuerte y de todo corazón\". 2"
     },
     {
-      "key": "ACTION_0214",
+      "key": "ACTION_0213",
       "value": "Escribe tu nombre en el cuello de tu pareja (con pintalabios o eyeliner). 2"
     },
     {
-      "key": "ACTION_0215",
+      "key": "ACTION_0214",
       "value": "Dale un \"azote\" suave en la planta del pie a tu pareja. 2"
     },
     {
-      "key": "ACTION_0216",
+      "key": "ACTION_0215",
       "value": "Dale un \"azote\" suave en el muslo a tu pareja. 2"
     },
     {
-      "key": "ACTION_0217",
+      "key": "ACTION_0216",
       "value": "\"Abofetea\" (suavemente) los labios de tu pareja (con tus labios). 2"
     },
     {
-      "key": "ACTION_0218",
+      "key": "ACTION_0217",
       "value": "Ponte (en postura del gato) y \"maúlla\" 5 veces. 2"
     },
     {
-      "key": "ACTION_0219",
+      "key": "ACTION_0218",
       "value": "\"Beso profundo\" (1 minuto) [60] 2"
     },
     {
-      "key": "ACTION_0220",
+      "key": "ACTION_0219",
       "value": "\"Beso profundo\" (2 minutos) [120] 2"
+    },
+    {
+      "key": "ACTION_0220",
+      "value": "Habla solo con \"voz sexy\" hasta tu próximo turno. 2"
+    },
+    {
+      "key": "ACTION_0221",
+      "value": "Dile una \"palabra traviesa\" a tu pareja (que él/ella reconozca como tal). 2"
+    },
+    {
+      "key": "ACTION_0222",
+      "value": "Miraos (con \"ojos sexys\") durante 15 segundos [15] 2"
+    },
+    {
+      "key": "ACTION_0223",
+      "value": "Intercambiaos la \"parte de arriba\" (camiseta). 2"
+    },
+    {
+      "key": "ACTION_0224",
+      "value": "Acaricia la cara de tu pareja (de arriba a abajo) 3 veces con el dedo. 2"
+    },
+    {
+      "key": "ACTION_0225",
+      "value": "Mira a tu pareja (intensamente) y di lentamente: \"Voy a tenerte por completo\". 2"
+    },
+    {
+      "key": "ACTION_0226",
+      "value": "Ponte pintalabios y deja una \"marca de beso\" en la cara de tu pareja. 2"
+    },
+    {
+      "key": "ACTION_0227",
+      "value": "Haz reír a tu pareja (haciendo \"movimientos graciosos\" con la lengua). 2"
+    },
+    {
+      "key": "ACTION_0228",
+      "value": "\"Pincha\" (suavemente) la parte \"más adorable\" de tu pareja. 2"
+    },
+    {
+      "key": "ACTION_0229",
+      "value": "Dale un \"beso sorpresa\" (corto) a tu pareja (ahora mismo). 2"
+    },
+    {
+      "key": "ACTION_0230",
+      "value": "Piensa (en cómo te gustaría que te abrazaran para emocionarte) y abrázale así. 2"
+    },
+    {
+      "key": "ACTION_0231",
+      "value": "Pon tu mano (donde sientas sus latidos) y siéntelos (en silencio). 2"
+    },
+    {
+      "key": "ACTION_0232",
+      "value": "Hazle \"un contacto físico\" (skinship) (que quieras hacerle ahora). 2"
+    },
+    {
+      "key": "ACTION_0233",
+      "value": "Besa a tu pareja (en los labios) (con emoción) (como si fuera la primera vez). 2"
+    },
+    {
+      "key": "ACTION_0234",
+      "value": "Susúrrale \"Te quiero tanto como a [COMPLETA EL HUECO]\". 2"
+    },
+    {
+      "key": "ACTION_0235",
+      "value": "Susúrrale \"Te quiero tanto, que sería capaz de [COMPLETA EL HUECO] por ti\". 2"
+    },
+    {
+      "key": "ACTION_0236",
+      "value": "Sopla (aliento caliente) \"sexy\" en la oreja de tu pareja. 2"
+    },
+    {
+      "key": "ACTION_0237",
+      "value": "Hablad (mirándoos a los ojos) (1 min) [60] 2"
+    },
+    {
+      "key": "ACTION_0238",
+      "value": "Besa a tu pareja (en este orden): Frente, mejilla, labios. 2"
+    },
+    {
+      "key": "ACTION_0239",
+      "value": "Haz un \"selfie besándoos\" (con el teléfono restante). 2"
+    },
+    {
+      "key": "ACTION_0240",
+      "value": "Haz un \"selfie mejilla con mejilla\" (con el teléfono restante). 2"
+    },
+    {
+      "key": "ACTION_0241",
+      "value": "Haz un \"selfie con abrazo por la espalda\" (con el teléfono restante). 2"
+    },
+    {
+      "key": "ACTION_0242",
+      "value": "Haz un \"selfie abrazados fuerte\" (con el teléfono restante). 2"
+    },
+    {
+      "key": "ACTION_0243",
+      "value": "Haz un \"selfie (dando un beso en la mejilla)\" (con el teléfono restante). 2"
+    },
+    {
+      "key": "ACTION_0244",
+      "value": "Di \"¿Me puedes dar un beso?\" (con ventriloquia). 2"
+    },
+    {
+      "key": "ACTION_0245",
+      "value": "Juego de rol: Vas a la \"discoteca\" (a escondidas), le entras a alguien... y resulta que es tu pareja. 2"
+    },
+    {
+      "key": "ACTION_0246",
+      "value": "Juego de rol: Vas (a escondidas) a un \"bar de ligue\", le entras a alguien... y resulta que es tu pareja. 2"
+    },
+    {
+      "key": "ACTION_0247",
+      "value": "Juego de rol: Finge (que os conocéis) (en un \"bar de ligue\") e intenta hablarle. 2"
+    },
+    {
+      "key": "ACTION_0248",
+      "value": "Juego de rol: (Estás en el baño) Alguien le está pidiendo el número a tu pareja. 2"
+    },
+    {
+      "key": "ACTION_0249",
+      "value": "Juego de rol: Tu pareja (dijo \"Me voy a dormir\") es vista (besando a alguien) en un bar. 2"
+    },
+    {
+      "key": "ACTION_0250",
+      "value": "(Con tu pareja en tu regazo) Bésala durante 30 segundos [30] 2"
+    },
+    {
+      "key": "ACTION_0251",
+      "value": "Habla solo con \"voz sexy\" hasta tu próximo turno. 2"
+    },
+    {
+      "key": "ACTION_0252",
+      "value": "Dile una \"palabra traviesa\" a tu pareja (que él/ella reconozca como tal). 2"
+    },
+    {
+      "key": "ACTION_0253",
+      "value": "Miraos (con \"ojos sexys\") durante 15 segundos [15] 2"
+    },
+    {
+      "key": "ACTION_0254",
+      "value": "Intercambiaos la \"parte de arriba\" (camiseta). 2"
+    },
+    {
+      "key": "ACTION_0255",
+      "value": "Acaricia la cara de tu pareja (de arriba a abajo) 3 veces con el dedo. 2"
+    },
+    {
+      "key": "ACTION_0256",
+      "value": "Mira a tu pareja (intensamente) y di lentamente: \"Voy a tenerte por completo\". 2"
+    },
+    {
+      "key": "ACTION_0257",
+      "value": "Ponte pintalabios y deja una \"marca de beso\" en la cara de tu pareja. 2"
+    },
+    {
+      "key": "ACTION_0258",
+      "value": "Haz reír a tu pareja (haciendo \"movimientos graciosos\" con la lengua). 2"
+    },
+    {
+      "key": "ACTION_0259",
+      "value": "\"Pincha\" (suavemente) la parte \"más adorable\" de tu pareja. 2"
+    },
+    {
+      "key": "ACTION_0260",
+      "value": "Dale un \"beso sorpresa\" (corto) a tu pareja (ahora mismo). 2"
+    },
+    {
+      "key": "ACTION_0261",
+      "value": "Piensa (en cómo te gustaría que te abrazaran para emocionarte) y abrázale así. 2"
+    },
+    {
+      "key": "ACTION_0262",
+      "value": "Pon tu mano (donde sientas sus latidos) y siéntelos (en silencio). 2"
+    },
+    {
+      "key": "ACTION_0263",
+      "value": "Hazle \"un contacto físico\" (skinship) (que quieras hacerle ahora). 2"
+    },
+    {
+      "key": "ACTION_0264",
+      "value": "Besa a tu pareja (en los labios) (con emoción) (como si fuera la primera vez). 2"
+    },
+    {
+      "key": "ACTION_0265",
+      "value": "Susúrrale \"Te quiero tanto como a [COMPLETA EL HUECO]\". 2"
+    },
+    {
+      "key": "ACTION_0266",
+      "value": "Susúrrale \"Te quiero tanto, que sería capaz de [COMPLETA EL HUECO] por ti\". 2"
+    },
+    {
+      "key": "ACTION_0267",
+      "value": "Sopla (aliento caliente) \"sexy\" en la oreja de tu pareja. 2"
+    },
+    {
+      "key": "ACTION_0268",
+      "value": "Hablad (mirándoos a los ojos) (1 min) [60] 2"
+    },
+    {
+      "key": "ACTION_0269",
+      "value": "Besa a tu pareja (en este orden): Frente, mejilla, labios. 2"
+    },
+    {
+      "key": "ACTION_0270",
+      "value": "Haz un \"selfie besándoos\" (con el teléfono restante). 2"
+    },
+    {
+      "key": "ACTION_0271",
+      "value": "Haz un \"selfie mejilla con mejilla\" (con el teléfono restante). 2"
+    },
+    {
+      "key": "ACTION_0272",
+      "value": "Haz un \"selfie con abrazo por la espalda\" (con el teléfono restante). 2"
+    },
+    {
+      "key": "ACTION_0273",
+      "value": "Haz un \"selfie abrazados fuerte\" (con el teléfono restante). 2"
+    },
+    {
+      "key": "ACTION_0274",
+      "value": "Haz un \"selfie (dando un beso en la mejilla)\" (con el teléfono restante). 2"
+    },
+    {
+      "key": "ACTION_0275",
+      "value": "Di \"¿Me puedes dar un beso?\" (con ventriloquia). 2"
+    },
+    {
+      "key": "ACTION_0276",
+      "value": "Juego de rol: Vas a la \"discoteca\" (a escondidas), le entras a alguien... y resulta que es tu pareja. 2"
+    },
+    {
+      "key": "ACTION_0277",
+      "value": "Juego de rol: Vas (a escondidas) a un \"bar de ligue\", le entras a alguien... y resulta que es tu pareja. 2"
+    },
+    {
+      "key": "ACTION_0278",
+      "value": "Juego de rol: Finge (que os conocéis) (en un \"bar de ligue\") e intenta hablarle. 2"
+    },
+    {
+      "key": "ACTION_0279",
+      "value": "Juego de rol: (Estás en el baño) Alguien le está pidiendo el número a tu pareja. 2"
+    },
+    {
+      "key": "ACTION_0280",
+      "value": "Juego de rol: Tu pareja (dijo \"Me voy a dormir\") es vista (besando a alguien) en un bar. 2"
+    },
+    {
+      "key": "ACTION_0281",
+      "value": "(Con tu pareja en tu regazo) Bésala durante 30 segundos [30] 2"
+    },
+    {
+      "key": "ACTION_0282",
+      "value": "Muéstrale a tu pareja tus curvas durante 5 segundos.[5]3"
+    },
+    {
+      "key": "ACTION_0283",
+      "value": "Muéstrale a tu pareja tu parte más íntima durante 10 segundos.[10]3"
+    },
+    {
+      "key": "ACTION_0284",
+      "value": "Muéstrale a tu pareja tu escote durante 10 segundos.[10]3"
+    },
+    {
+      "key": "ACTION_0285",
+      "value": "Muéstrale a tu pareja el vello de tu parte más íntima durante 10 segundos.[10]3"
+    },
+    {
+      "key": "ACTION_0286",
+      "value": "Mantén agua en tu boca y pásasela a tu pareja de boca a boca.3"
+    },
+    {
+      "key": "ACTION_0287",
+      "value": "Susúrrale al oído a tu pareja cuántas ganas tienes de hacer el amor ahora mismo.3"
+    },
+    {
+      "key": "ACTION_0288",
+      "value": "Dale a tu pareja un beso ligero en sus puntos sensibles del pecho, izquierdo y derecho, uno por uno.3"
+    },
+    {
+      "key": "ACTION_0289",
+      "value": "Da placer a los puntos sensibles de tu pareja con la boca durante 60 segundos.[60]3"
+    },
+    {
+      "key": "ACTION_0290",
+      "value": "Haz la mímica de acariciar la parte más íntima de tu pareja en el aire durante 30 segundos.[30]3"
+    },
+    {
+      "key": "ACTION_0291",
+      "value": "Dale a tu pareja un vello de tu « parte más íntima ».3"
+    },
+    {
+      "key": "ACTION_0292",
+      "value": "Toca las curvas de tu pareja de forma sexy durante 60 segundos.[60]3"
+    },
+    {
+      "key": "ACTION_0293",
+      "value": "Deja una marca dulce (un chupetón) en el cuello de tu pareja.3"
+    },
+    {
+      "key": "ACTION_0294",
+      "value": "Mordisquea suavemente las curvas de tu pareja.3"
+    },
+    {
+      "key": "ACTION_0295",
+      "value": "Mordisquea suavemente el escote de tu pareja.3"
+    },
+    {
+      "key": "ACTION_0296",
+      "value": "Dile una cosa secreta y sexy a tu pareja.3"
+    },
+    {
+      "key": "ACTION_0297",
+      "value": "Muéstrale a tu pareja cómo te tocas tus puntos sensibles con el dedo durante 30 segundos.[30]3"
+    },
+    {
+      "key": "ACTION_0298",
+      "value": "Da placer a la cintura de tu pareja con la boca durante 30 segundos.[30]3"
+    },
+    {
+      "key": "ACTION_0299",
+      "value": "Baila un baile sexy durante 60 segundos con la menor ropa posible al ritmo de una canción que ponga tu pareja.[60]3"
+    },
+    {
+      "key": "ACTION_0300",
+      "value": "Escribe con el dedo en las curvas de tu pareja lo que quieras decirle.3"
+    },
+    {
+      "key": "ACTION_0301",
+      "value": "Intenta decir \"Quiero hacer el amor contigo\" sin que tus labios superior e inferior se toquen.3"
+    },
+    {
+      "key": "ACTION_0302",
+      "value": "Expresa con un baile cómo te sientes cuando haces el amor con tu pareja.3"
+    },
+    {
+      "key": "ACTION_0303",
+      "value": "Imita cómo actúa tu pareja cuando hacéis el amor.3"
+    },
+    {
+      "key": "ACTION_0304",
+      "value": "Solo coloca tu mano en la parte más íntima de tu pareja y quédate quieto/a durante 10 segundos.[10]3"
+    },
+    {
+      "key": "ACTION_0305",
+      "value": "Actúa cómo te comportarías si tu pareja estuviera muy enfadada, pero tú quisieras hacer el amor.3"
+    },
+    {
+      "key": "ACTION_0306",
+      "value": "Actúa cómo reaccionarías si un amigo/a cercano/a de tu pareja te dijera que quiere hacer el amor contigo.3"
+    },
+    {
+      "key": "ACTION_0307",
+      "value": "Como si fuera increíblemente adorable, da placer a los puntos sensibles de tu pareja con la boca durante 10 segundos.[10]3"
+    },
+    {
+      "key": "ACTION_0308",
+      "value": "Usando solo tus labios, toca la frente, los ojos, la nariz, los labios de tu pareja y baja hasta la barbilla.3"
+    },
+    {
+      "key": "ACTION_0309",
+      "value": "Usando solo tus labios, toca el hombro, la espalda, la cintura de tu pareja y baja hasta sus curvas.3"
+    },
+    {
+      "key": "ACTION_0310",
+      "value": "Usando solo tus labios, toca el hombro, el escote, el vientre de tu pareja y baja hasta su parte más íntima.3"
+    },
+    {
+      "key": "ACTION_0311",
+      "value": "Ponte una prenda de ropa de tu pareja en la cabeza hasta que termine el juego.3"
+    },
+    {
+      "key": "ACTION_0312",
+      "value": "Cierra los ojos y adivina qué parte del cuerpo te está poniendo tu pareja en los labios.3"
+    },
+    {
+      "key": "ACTION_0313",
+      "value": "Acuesta a tu pareja, sujeta sus brazos por encima de la cabeza y bésala durante 15 segundos.[15]3"
+    },
+    {
+      "key": "ACTION_0314",
+      "value": "Imagina que eres médico/a y examina el cuerpo de tu pareja durante 30 segundos.[30]3"
+    },
+    {
+      "key": "ACTION_0315",
+      "value": "Deja que tu pareja huela tu aroma más íntimo.3"
+    },
+    {
+      "key": "ACTION_0316",
+      "value": "Imagina que hay helado en el escote de tu pareja y dale placer con la boca durante 20 segundos.[20]3"
+    },
+    {
+      "key": "ACTION_0317",
+      "value": "Imagina que hay helado en las curvas de tu pareja y dale placer con la boca durante 20 segundos.[20]3"
+    },
+    {
+      "key": "ACTION_0318",
+      "value": "Imagina que las curvas de tu pareja son un tambor y tócalo durante 10 segundos.[10]3"
+    },
+    {
+      "key": "ACTION_0319",
+      "value": "Finge que estáis haciendo el amor de verdad y deja que tu pareja oiga tu respiración de placer en su oído durante 15 segundos.[15]3"
+    },
+    {
+      "key": "ACTION_0320",
+      "value": "Rodea el cuello de tu pareja con los brazos y bésala durante 15 segundos.[15]3"
+    },
+    {
+      "key": "ACTION_0321",
+      "value": "Crea una señal para when quieras hacer el amor y muéstrasela a tu pareja.3"
+    },
+    {
+      "key": "ACTION_0322",
+      "value": "Susúrrale al oído a tu pareja uno de sus puntos de encanto sexuales.3"
+    },
+    {
+      "key": "ACTION_0323",
+      "value": "Susúrrale al oído un lugar secreto donde te gustaría hacer el amor con tu pareja.3"
+    },
+    {
+      "key": "ACTION_0324",
+      "value": "Susúrrale al oído a tu pareja hasta dónde serías capaz de darle placer con tu boca.3"
+    },
+    {
+      "key": "ACTION_0325",
+      "value": "Susúrrale al oído a tu pareja una fantasía sexual con la que siempre has soñado.3"
+    },
+    {
+      "key": "ACTION_0326",
+      "value": "Imagina que has llegado a tu momento cumbre y pon esa cara.3"
+    },
+    {
+      "key": "ACTION_0327",
+      "value": "Quítale una prenda de ropa a tu pareja sin usar las manos.3"
+    },
+    {
+      "key": "ACTION_0328",
+      "value": "Deja una marca de beso (un chupetón) profunda en un lugar secreto de tu pareja.3"
+    },
+    {
+      "key": "ACTION_0329",
+      "value": "Compra una «herramienta para adultos» que tu pareja quiera (tráela la próxima vez).3"
+    },
+    {
+      "key": "ACTION_0330",
+      "value": "Pon tus manos dentro de la ropa de tu pareja durante 20 segundos.[20]3"
+    },
+    {
+      "key": "ACTION_0331",
+      "value": "Intenta excitar a tu pareja en 30 segundos.[30]3"
+    },
+    {
+      "key": "ACTION_0332",
+      "value": "Quítate lo que lleves puesto abajo y dáselo a tu pareja.3"
+    },
+    {
+      "key": "ACTION_0333",
+      "value": "Expresa con tu cuerpo cuál es tu postura favorita al hacer el amor.3"
+    },
+    {
+      "key": "ACTION_0334",
+      "value": "Finge que haces un acto secreto a solas con las manos de tu pareja durante 30 segundos.[30]3"
+    },
+    {
+      "key": "ACTION_0335",
+      "value": "Mordisquea el escote de tu pareja y dale placer con la boca.3"
+    },
+    {
+      "key": "ACTION_0336",
+      "value": "Escribe tu nombre en el cuerpo de tu pareja con pintalabios o eyeliner.3"
+    },
+    {
+      "key": "ACTION_0337",
+      "value": "Haz lo que te diga tu pareja durante 2 minutos (Llámale: «Jefe(a)»).[120]3"
+    },
+    {
+      "key": "ACTION_0338",
+      "value": "Inmoviliza a tu pareja en la cama y provócalo/a durante 40 segundos.[40]3"
+    },
+    {
+      "key": "ACTION_0339",
+      "value": "Escribe una palabra secreta en el vientre de tu pareja con pintalabios o eyeliner.3"
+    },
+    {
+      "key": "ACTION_0340",
+      "value": "Dibuja una imagen sexy en el vientre de tu pareja con pintalabios o eyeliner.3"
+    },
+    {
+      "key": "ACTION_0341",
+      "value": "Escribe una palabra secreta en las curvas de tu pareja.3"
+    },
+    {
+      "key": "ACTION_0342",
+      "value": "Dibuja una imagen sexy en las curvas de tu pareja.3"
+    },
+    {
+      "key": "ACTION_0343",
+      "value": "Escribe una palabra secreta en la espalda de tu pareja.3"
+    },
+    {
+      "key": "ACTION_0344",
+      "value": "Dibuja una imagen sexy en la espalda de tu pareja.3"
+    },
+    {
+      "key": "ACTION_0345",
+      "value": "Dale unas palmaditas en las curvas a tu pareja.3"
+    },
+    {
+      "key": "ACTION_0346",
+      "value": "Realiza \"el acto de unir los cuerpos\" muy lentamente, solo dos veces.3"
+    },
+    {
+      "key": "ACTION_0347",
+      "value": "Ponte en postura de gato y recibe 5 palmaditas en las curvas.3"
+    },
+    {
+      "key": "ACTION_0348",
+      "value": "Provoca la parte más íntima de tu pareja con la pierna por encima de sus pantalones durante 60 segundos.[60]3"
+    },
+    {
+      "key": "ACTION_0349",
+      "value": "Toca la parte más íntima de tu pareja por encima de sus pantalones con la mano durante 60 segundos.[60]3"
+    },
+    {
+      "key": "ACTION_0350",
+      "value": "Imita el acto de dar placer a alguien con la boca en el aire.3"
+    },
+    {
+      "key": "ACTION_0351",
+      "value": "Masajea tus curvas durante 30 segundos mientras haces sonidos de respiración placentera.[30]3"
+    },
+    {
+      "key": "ACTION_0352",
+      "value": "Toca el cuerpo de tu pareja, túmbalo/a en el suelo y bésalo/a.3"
+    },
+    {
+      "key": "ACTION_0353",
+      "value": "Mira a tu pareja intensamente y dile lentamente: \"Tengamos una noche caliente.\"3"
+    },
+    {
+      "key": "ACTION_0354",
+      "value": "Ponte pintalabios y deja una marca de beso en el vientre de tu pareja.3"
+    },
+    {
+      "key": "ACTION_0355",
+      "value": "Dale 10 palmaditas a tu pareja.3"
+    },
+    {
+      "key": "ACTION_0356",
+      "value": "Quítate una prenda de ropa que te diga tu pareja.3"
+    },
+    {
+      "key": "ACTION_0357",
+      "value": "Quítate dos prendas de ropa que te diga tu pareja.3"
+    },
+    {
+      "key": "ACTION_0358",
+      "value": "Toca suavemente los puntos sensibles de tu pareja.3"
+    },
+    {
+      "key": "ACTION_0359",
+      "value": "Da placer a la pelvis de tu pareja con la boca durante 20 segundos.[20]3"
+    },
+    {
+      "key": "ACTION_0360",
+      "value": "Quítate una prenda de ropa y tírasela sensualmente a la cara de tu pareja.3"
+    },
+    {
+      "key": "ACTION_0361",
+      "value": "Toca suavemente la parte del cuerpo de tu pareja que consideres más sexy.3"
+    },
+    {
+      "key": "ACTION_0362",
+      "value": "Dale un beso a tu pareja en una parte de su cuerpo (excepto la cara).3"
+    },
+    {
+      "key": "ACTION_0363",
+      "value": "Rodea el cuello de tu pareja con los brazos y bésala sexualmente durante 20 segundos.[20]3"
+    },
+    {
+      "key": "ACTION_0364",
+      "value": "Ponte en postura de gato y dile algo sexy a tu pareja (termina cuando él/ella sienta que es sexy).3"
+    },
+    {
+      "key": "ACTION_0365",
+      "value": "Di \"¿Sí?\" al final de cada frase hasta tu próximo turno.3"
+    },
+    {
+      "key": "ACTION_0366",
+      "value": "Imagina que es tu \"extático momento final\" y haz \"sonidos de respiración placentera\" realistas durante 10 segundos (repítelo si tu pareja no está convencida).[10]3"
+    },
+    {
+      "key": "ACTION_0367",
+      "value": "Susúrrale al oído a tu pareja cómo te sentiste la primera vez que hicisteis el amor.3"
+    },
+    {
+      "key": "ACTION_0368",
+      "value": "Siéntalo/a en tu regazo, míralo/a a los ojos de cerca y hablad durante 1 minuto.[60]3"
+    },
+    {
+      "key": "ACTION_0369",
+      "value": "Haced una foto de pareja con el móvil que quede, actuando lo más sexy posible.3"
+    },
+    {
+      "key": "ACTION_0370",
+      "value": "Poned música sexy en el móvil que quede y bailad un baile sexy durante 60 segundos (en serio).3"
+    },
+    {
+      "key": "ACTION_0371",
+      "value": "Di \"Ah... quiero hacer eso\" usando ventriloquia.3"
+    },
+    {
+      "key": "ACTION_0372",
+      "value": "Imaginad que estáis en un club y bailad sensualmente 60 segundos (con las curvas pegadas).[60]3"
+    },
+    {
+      "key": "ACTION_0373",
+      "value": "Susúrrale al oído a tu pareja cómo te sentiste la primera vez que hicisteis el amor.3"
+    },
+    {
+      "key": "ACTION_0374",
+      "value": "Imaginad que os acabáis de conocer en un club, abrázalo/a por la espalda y bailad durante 60 segundos.[60]3"
+    },
+    {
+      "key": "ACTION_0375",
+      "value": "(Juego de rol) Estáis juntos en el club. ¿Qué harías si vieras a alguien bailando pegado a tu pareja?3"
+    },
+    {
+      "key": "ACTION_0376",
+      "value": "(Juego de rol) Tu pareja dijo que se iba a dormir, pero la ves en un club bailando pegado a otra persona.3"
+    },
+    {
+      "key": "ACTION_0377",
+      "value": "Agarra suavemente las curvas de tu pareja una vez de forma sexy.3"
+    },
+    {
+      "key": "ACTION_0378",
+      "value": "Agarra suavemente el escote de tu pareja una vez de forma sexy.3"
+    },
+    {
+      "key": "ACTION_0379",
+      "value": "Levántate, haz que tu pareja te abrace fuerte por la cintura y tócale las curvas durante 40 segundos.[40]3"
+    },
+    {
+      "key": "ACTION_0380",
+      "value": "Haz que tu pareja se siente en tu regazo, y luego tócala y bésala durante 40 segundos.[40]3"
+    },
+    {
+      "key": "ACTION_0381",
+      "value": "Acuéstate boca abajo y muéstrale a tu pareja tu \"punto íntimo trasero\" durante 40 segundos.[40]4"
+    },
+    {
+      "key": "ACTION_0382",
+      "value": "Pon una expresión \"extática\" que hipnotice a tu pareja durante 40 segundos.[40]4"
+    },
+    {
+      "key": "ACTION_0383",
+      "value": "Da placer al \"punto íntimo trasero\" de tu pareja con la boca durante 40 segundos.[40]4"
+    },
+    {
+      "key": "ACTION_0384",
+      "value": "Dale un beso ligero en el \"punto íntimo trasero\" de tu pareja.4"
+    },
+    {
+      "key": "ACTION_0385",
+      "value": "Da placer a la \"parte más íntima\" de tu pareja con la boca durante 2 minutos.[120]4"
+    },
+    {
+      "key": "ACTION_0386",
+      "value": "Haz que tu pareja abra la boca, deje gotear \"lo que fluye\" de ella, y recíbelo con tu boca.4"
+    },
+    {
+      "key": "ACTION_0387",
+      "value": "Deja que tu pareja huela tu \"aroma íntimo trasero\" durante 5 segundos.[5]4"
+    },
+    {
+      "key": "ACTION_0388",
+      "value": "Da placer a los dedos de tu pareja con la boca durante 15 segundos.[15]4"
+    },
+    {
+      "key": "ACTION_0389",
+      "value": "Da placer a la punta de los dedos de tu pareja con la boca durante 15 segundos.[15]4"
+    },
+    {
+      "key": "ACTION_0390",
+      "value": "Da placer al ombligo de tu pareja con la boca durante 15 segundos.[15]4"
+    },
+    {
+      "key": "ACTION_0391",
+      "value": "Baila sexy \"como Dios te trajo al mundo\" durante 60 segundos con una canción que ponga tu pareja.[60]4"
+    },
+    {
+      "key": "ACTION_0392",
+      "value": "Intenta decir \"¿Puedo... darle placer a eso con mi boca?\" sin que tus labios se quen.4"
+    },
+    {
+      "key": "ACTION_0393",
+      "value": "Acuesta a tu pareja y acerca tu \"parte más íntima\" a sus labios durante 15 segundos.[15]4"
+    },
+    {
+      "key": "ACTION_0394",
+      "value": "Imagina que hay helado en la punta de los dedos de tu pareja y dale placer con la boca durante 20 segundos.[20]4"
+    },
+    {
+      "key": "ACTION_0395",
+      "value": "Imagina que hay helado en el \"punto íntimo trasero\" de tu pareja y dale placer con la boca durante 15 segundos.[15]4"
+    },
+    {
+      "key": "ACTION_0396",
+      "value": "Poneos en \"posición opuesta\" y daos placer mutuamente en la \"parte más íntima\" con la boca durante 1 minuto.[60]4"
+    },
+    {
+      "key": "ACTION_0397",
+      "value": "Susúrrale al oído a tu pareja hasta dónde serías capaz de \"darle placer con la boca\".4"
+    },
+    {
+      "key": "ACTION_0398",
+      "value": "Susúrrale al oído a tu pareja \"qué color llevas puesto abajo\" hoy.4"
+    },
+    {
+      "key": "ACTION_0399",
+      "value": "Da placer a tu pareja de la cabeza a los pies con la boca durante 50 segundos.[50]4"
+    },
+    {
+      "key": "ACTION_0400",
+      "value": "Pídele a tu pareja que te dé placer con la boca durante 60 segundos y dale una propina según tu satisfaction.[60]4"
+    },
+    {
+      "key": "ACTION_0401",
+      "value": "Poneos en la postura justo antes de \"unir los cuerpos\" y acariciaos solo sin \"unirse\" durante 30 segundos.[30]4"
+    },
+    {
+      "key": "ACTION_0402",
+      "value": "Finge que realizas el acto de darte placer a ti mismo/a con las manos de tu pareja durante 1 minuto.[60]4"
+    },
+    {
+      "key": "ACTION_0403",
+      "value": "Baila sexy \"como Dios te trajo al mundo\" durante 40 segundos.[40]4"
+    },
+    {
+      "key": "ACTION_0404",
+      "value": "Besa apasionadamente a tu pareja mientras tocas su \"parte más íntima\".4"
+    },
+    {
+      "key": "ACTION_0405",
+      "value": "Da placer a los \"puntos sensibles del pecho\" de tu pareja con la boca durante 1 minuto.[60]4"
+    },
+    {
+      "key": "ACTION_0406",
+      "value": "Da placer a los \"puntos sensibles del pecho\" de tu pareja con la boca durante 30 segundos.[30]4"
+    },
+    {
+      "key": "ACTION_0407",
+      "value": "Conviértete en \"el/la que obedece\" durante 2 minutos y dale placer con la boca como te diga (Llámale: «Jefe(a)»).[120]4"
+    },
+    {
+      "key": "ACTION_0408",
+      "value": "Inmoviliza a tu pareja en la cama y provócalo/a durante 2 minutos.[120]4"
+    },
+    {
+      "key": "ACTION_0409",
+      "value": "La próxima vez que hagáis el amor, dúchalo/a.4"
+    },
+    {
+      "key": "ACTION_0410",
+      "value": "Ponte en postura de gato y deja que tu pareja te dé placer con su boca durante 60 segundos.[60]4"
+    },
+    {
+      "key": "ACTION_0411",
+      "value": "Dale un toquecito juguetón a la \"parte más íntima\" de tu pareja.4"
+    },
+    {
+      "key": "ACTION_0412",
+      "value": "Realiza \"el acto de unir los cuerpos\" muy lentamente, solo 5 veces.4"
+    },
+    {
+      "key": "ACTION_0413",
+      "value": "Haz un \"juego de rol de líder\" estando acostado/a durante 2 minutos (Tú lideras).[120]4"
+    },
+    {
+      "key": "ACTION_0414",
+      "value": "Haz un \"juego de rol de seguidor\" estando acostado/a durante 2 minutos (Tú sigues).[120]4"
+    },
+    {
+      "key": "ACTION_0415",
+      "value": "Dibuja tu \"parte más íntima\" en el vientre de tu pareja.4"
+    },
+    {
+      "key": "ACTION_0416",
+      "value": "Abre bien las piernas de tu pareja y dale placer en su \"parte más íntima\" con la boca durante 60 segundos.[60]4"
+    },
+    {
+      "key": "ACTION_0417",
+      "value": "Sé el \"Rey\" o la \"Reina\" durante 2 minutos y haz lo que quieras (excepto \"el acto de unir los cuerpos\").[120]4"
+    },
+    {
+      "key": "ACTION_0418",
+      "value": "Dale placer a tu pareja con la boca mientras canta una estrofa de una canción.4"
+    },
+    {
+      "key": "ACTION_0419",
+      "value": "Busca una \"nueva postura\" y experiméntala 15 veces.4"
+    },
+    {
+      "key": "ACTION_0420",
+      "value": "Comprueba \"lo que llevas puesto abajo\" y dile a tu pareja \"cuán listo/a estás\".4"
+    },
+    {
+      "key": "ACTION_0421",
+      "value": "\"Como Dios te trajo al mundo\", ponte en postura de gato y recibe 5 palmaditas en las curvas.4"
+    },
+    {
+      "key": "ACTION_0422",
+      "value": "Buscad y ved \"una escena de un vídeo para adultos\" e imitadla durante 3 minutos.[210]4"
+    },
+    {
+      "key": "ACTION_0423",
+      "value": "Recibe placer de la boca de tu pareja durante 1 minuto mientras hablas por teléfono con un amigo/a.[60]4"
+    },
+    {
+      "key": "ACTION_0424",
+      "value": "Elige un aperitivo o bebida, ponlo en la \"parte más íntima\" de tu pareja y límpialo bien con la boca (usa agua si no tienes nada).4"
+    },
+    {
+      "key": "ACTION_0425",
+      "value": "Haz apasionadamente lo que quieras con tu pareja durante 2 minutos (pero sin \"llegar al final\").[120]4"
+    },
+    {
+      "key": "ACTION_0426",
+      "value": "Muévete de 1 a 10 veces, las veces que tu pareja quiera.4"
+    },
+    {
+      "key": "ACTION_0427",
+      "value": "Realiza el \"acto de darte placer a ti mismo/a\" durante 2 minutos usando el cuerpo de tu pareja (excepto las manos).[120]4"
+    },
+    {
+      "key": "ACTION_0428",
+      "value": "Sin usar las manos, en posición sentada, da placer a la \"parte más íntima\" de tu pareja con la boca durante 2 minutos.[120]4"
+    },
+    {
+      "key": "ACTION_0429",
+      "value": "Intenta no hacer ningún sonido durante 1 minuto mientras recibes placer de la boca de tu pareja.[60]4"
+    },
+    {
+      "key": "ACTION_0430",
+      "value": "Encuentra un nuevo \"punto sensible\" en el cuerpo de tu pareja dándole placer con la boca durante 1 minuto.[60]4"
+    },
+    {
+      "key": "ACTION_0431",
+      "value": "\"Como Dios te trajo al mundo\", haz la postura que tu pareja desee.4"
+    },
+    {
+      "key": "ACTION_0432",
+      "value": "Muévete 10 veces en \"la postura desde atrás\".4"
+    },
+    {
+      "key": "ACTION_0433",
+      "value": "Durante 2 minutos, \"como Dios os trajo al mundo\", solo \"rócense la parte exterior\" sin usar las manos.[120]4"
+    },
+    {
+      "key": "ACTION_0434",
+      "value": "Ayuda a tu pareja a \"realizar el acto de darse placer a sí mismo/a\" con tu pierna durante 60 segundos.[60]4"
+    },
+    {
+      "key": "ACTION_0435",
+      "value": "Dale un apodo a la \"parte más íntima\" de tu pareja y muévete 5 veces mientras dices el apodo.4"
+    },
+    {
+      "key": "ACTION_0436",
+      "value": "Haz grafitis secretos y sexis en el cuerpo de tu pareja.4"
+    },
+    {
+      "key": "ACTION_0437",
+      "value": "Juega a \"Piedra, Papel o Tijera\" con tu pareja y «haced el amor» hasta que ganes 5 veces. 4"
+    },
+    {
+      "key": "ACTION_0438",
+      "value": "Deja tres prendas de ropa que te diga tu pareja.4"
+    },
+    {
+      "key": "ACTION_0439",
+      "value": "Haz que tu pareja se tumbe \"como Dios lo trajo al mundo\", en posición de firmes, y provoca su cuerpo con tus labios durante 20 segundos.[30]4"
+    },
+    {
+      "key": "ACTION_0440",
+      "value": "Acaricia la cadera de tu pareja con tu \"parte más íntima\" durante 20 segundos.[20]4"
+    },
+    {
+      "key": "ACTION_0441",
+      "value": "Quítate \"lo que llevas puesto abajo\" y tíraselo sensualmente a la cara de tu pareja.4"
+    },
+    {
+      "key": "ACTION_0442",
+      "value": "Señala una parte del cuerpo de tu pareja a la que te gustaría \"dar placer con la boca\" hoy.4"
+    },
+    {
+      "key": "ACTION_0443",
+      "value": "Ponte en postura de gato y di \"Vamos, Jefe(a), haz conmigo lo que quieras apasionadamente\" tres veces de forma sexy.4"
+    },
+    {
+      "key": "ACTION_0444",
+      "value": "Dale un apodo al nuevo \"punto sensible\" de tu pareja y llámalo cariñosamente.4"
+    },
+    {
+      "key": "ACTION_0445",
+      "value": "En la próxima cita, ponte un disfraz que tu pareja quiera.4"
+    },
+    {
+      "key": "ACTION_0446",
+      "value": "Daos placer mutuamente con la boca en la oscuridad durante 2 minutos sin hacer ruido.[120]4"
+    },
+    {
+      "key": "ACTION_0447",
+      "value": "Compra una «herramienta para adultos» que tu pareja quiera probar contigo y regálasela en la próxima cita.4"
+    },
+    {
+      "key": "ACTION_0448",
+      "value": "Venda los ojos a tu pareja y \"da placer\" al lugar que quieras \"con tu boca\" durante 30 segundos.[30]4"
+    },
+    {
+      "key": "ACTION_0449",
+      "value": "Lanza a tu pareja una mirada tan sexy que parezca que vas a \"devorarlo/a\" (tiene que ser reconocida por tu pareja).4"
+    },
+    {
+      "key": "ACTION_0450",
+      "value": "Poned música sexy en el móvil que quede y bailadle un baile sexy a vuestra pareja con contacto físico (en serio).4"
+    },
+    {
+      "key": "ACTION_0451",
+      "value": "\"Como Dios te trajo al mundo\", \"roza\" lentamente las \"partes externas\" de tu pareja con tu \"parte más íntima\" durante 1 minuto.[60]4"
+    },
+    {
+      "key": "ACTION_0452",
+      "value": "Imaginad que os conocisteis en un club, bailad 60s abrazados por la espalda, tocando vuestros cuerpos y \"partes más íntimas\".[60]4"
+    },
+    {
+      "key": "ACTION_0453",
+      "value": "Imaginad que estáis en un club y bailad sensualmente 60 segundos (\"como Dios os trajo al mundo\", abrazados por la espalda).4"
+    },
+    {
+      "key": "ACTION_0454",
+      "value": "Haz \"sonidos de respiración extática\" al final de cada frase hasta tu próximo turno.4"
+    },
+    {
+      "key": "ACTION_0455",
+      "value": "Imagina que es tu \"extático momento final\" y haz \"sonidos de respiración realistas\" durante 15 segundos (repítelo si tu pareja no está convencida).[15]4"
+    },
+    {
+      "key": "ACTION_0456",
+      "value": "Busca \"nuevas posturas\", elige una imagen que te guste e inténtala durante 60 segundos.[60]4"
+    },
+    {
+      "key": "ACTION_0457",
+      "value": "Busca \"nuevas posturas\", mira las imágenes y di una que te gustaría probar.4"
+    },
+    {
+      "key": "ACTION_0458",
+      "value": "Jugad al \"juego de las miradas\"; el que pierda debe hacer una \"cosa secreta\" que el ganador pida.4"
+    },
+    {
+      "key": "ACTION_0459",
+      "value": "(Juego de rol) Actuad como si los padres de tu pareja entraran mientras estáis \"haciendo el amor\" (tu pareja hace de los padres).4"
+    },
+    {
+      "key": "ACTION_0460",
+      "value": "(Juego de rol) Actúa como si tu pareja te pillara \"haciendo el amor\" con otra persona.4"
+    },
+    {
+      "key": "ACTION_0461",
+      "value": "Toca suavemente la \"parte más íntima\" de tu pareja usando solo el dorso de tu mano durante 60 segundos.[60]4"
+    },
+    {
+      "key": "ACTION_0462",
+      "value": "Toca suavemente el \"escote\" de tu pareja usando solo el dorso de tu mano durante 20 segundos.[20]4"
+    },
+    {
+      "key": "ACTION_0463",
+      "value": "Acuesta a tu pareja, pídele que cierre los ojos, y \"roza\" suavemente su cara con tu \"parte más íntima\" durante 40 segundos.[40]4"
+    },
+    {
+      "key": "ACTION_0464",
+      "value": "Haz que tu pareja se siente en tu regazo, y luego dale placer usando tanto tus manos como tu boca durante 60 segundos.[60]4"
+    },
+    {
+      "key": "ACTION_0465",
+      "value": "(Juego de rol) Durante 2 min, sé el \"Rey\" que \"lidera\" y haz que adopte la \"postura\" que quieras.[120]4"
+    },
+    {
+      "key": "ACTION_0466",
+      "value": "(Juego de rol) Durante 2 min, finge que eres un \"súbdito obediente\" y compórtate como tal.[120]4"
+    },
+    {
+      "key": "ACTION_0467",
+      "value": "(Juego de rol) Tu pareja es tu Rey. Túmbate, susurra « Dame una orden » y obedece durante 2 minutos.[120]4"
+    },
+    {
+      "key": "ACTION_0468",
+      "value": "(Juego de rol) Eres un(a) médico(a). Examina la \"parte más íntima\" de tu pareja durante 1 minuto.[60]4"
+    },
+    {
+      "key": "ACTION_0469",
+      "value": "(Juego de rol) Eres un \"agente secreto\" que ha \"capturado\" a tu pareja. Provócalo/a y exígele cosas durante 2 minutos.[120]4"
+    },
+    {
+      "key": "ACTION_0470",
+      "value": "(Juego de rol) Eres el/la entrenador(a) personal de tu pareja. Enséñale una \"nueva postura\" durante 1 minuto (incluye contacto).[60]4"
+    },
+    {
+      "key": "ACTION_0471",
+      "value": "(Juego de rol) Eres un(a) periodista. Pregúntale insistentemente a tu pareja sobre sus \"fantasías sexuales\" durante 1 minuto.[60]4"
+    },
+    {
+      "key": "ACTION_0472",
+      "value": "(Juego de rol) Pídele que finja dormir. Admira en secreto su cuerpo \"como Dios lo trajo al mundo\" durante 1 minuto.[60]4"
+    },
+    {
+      "key": "ACTION_0473",
+      "value": "(Juego de rol) Imagina que tu pareja \"hizo el amor\" con otra persona. Confróntalo/a y haz lo que quieras apasionadamente durante 1 minuto.[60]4"
+    },
+    {
+      "key": "ACTION_0474",
+      "value": "(Juego de rol) Actúa cómo reaccionarías si un(a) amigo(a) cercano(a) de tu pareja te hiciera un movimiento secreto.4"
+    },
+    {
+      "key": "ACTION_0475",
+      "value": "Haz lo que quieras con tu pareja. Cada vez que haga un sonido, trátalo/a más apasionadamente.4"
+    },
+    {
+      "key": "ACTION_0476",
+      "value": "(Juego de rol) Demuestra tus habilidades para que diga \"Hagamos eso ya\". Provoca solo sus \"puntos sensibles\" durante 1 minuto.[60]4"
+    },
+    {
+      "key": "ACTION_0477",
+      "value": "Venda los ojos a tu pareja y haz lo que quieras con su \"parte más íntima\" durante 1 minuto.[60]4"
+    },
+    {
+      "key": "ACTION_0478",
+      "value": "Ordena a tu pareja que \"dé placer a tus dedos con su boca\" durante 1 minuto.[60]4"
+    },
+    {
+      "key": "ACTION_0479",
+      "value": "(Juego de rol) \"Provoca con la boca\" solo el \"punto íntimo trasero\" de tu pareja durante 1 minuto.[60]4"
+    },
+    {
+      "key": "ACTION_0480",
+      "value": "(Juego de rol) Como si fuera el último día, haz lo que quieras apasionadamente en la \"postura\" favorita de tu pareja durante 2 min (pero sin \"acabar\").[120]4"
     },
     {
       "key": "DRINK_0001",
@@ -5430,7 +7082,7 @@
     },
     {
       "key": "DRINK_0075",
-      "value": "¡Llénate la boca de comida y di \"¡Te... q-quiero!\". ¡Si no se entiende, bebe un trago! 1"
+      "value": "¡Boca llena de comida! Intenta decir \"¡Te quiero!\". ¡Si no se entiende, bebe un trago! 1"
     },
     {
       "key": "DRINK_0076",
@@ -5870,15 +7522,15 @@
     },
     {
       "key": "DRINK_0185",
-      "value": "Bebe un trago y compartid un beso profundo, sintiendo vuestra respiración, durante 20 seg.  3"
+      "value": "Bebe un trago y compartid un beso profundo, sintiendo vuestra respiración, durante 20 seg. 3"
     },
     {
       "key": "DRINK_0186",
-      "value": "Deja un rastro con tus labios en el cuello de tu pareja durante 10 seg. y bebe un trago.  3"
+      "value": "Deja un rastro con tus labios en el cuello de tu pareja durante 10 seg. y bebe un trago. 3"
     },
     {
       "key": "DRINK_0187",
-      "value": "Pregunta: \"¿Cuál es tu... color secreto?\" ¡Si aciertas, bebe tu pareja! ¡Si fallas, bebes tú dos tragos! 3"
+      "value": "Pregunta: \"¿Qué color... llevas puesto abajo?\" ¡Si aciertas, bebe tu pareja! ¡Si fallas, bebes tú dos tragos! 3"
     },
     {
       "key": "DRINK_0188",
@@ -5886,15 +7538,15 @@
     },
     {
       "key": "DRINK_0189",
-      "value": "Desliza tu mano bajo la ropa de tu pareja y siente el calor de su piel, acariciando su espalda 10 seg.  3"
+      "value": "Desliza tu mano bajo la ropa de tu pareja y siente el calor de su piel, acariciando su espalda 10 seg. (¡Y bebe!) 3"
     },
     {
       "key": "DRINK_0190",
-      "value": "Dale a tu pareja ese \"toque especial\" que sabes que más le gusta durante 20 seg. y bebe un trago.  3"
+      "value": "Dale a tu pareja ese \"toque especial\" que sabes que más le gusta durante 20 seg. y bebe un trago. 3"
     },
     {
       "key": "DRINK_0191",
-      "value": "Pide y recibe un \"toque íntimo\" que desees de tu pareja durante 20 seg., y luego bebe un trago.  3"
+      "value": "Pide y recibe un \"toque íntimo\" que desees de tu pareja durante 20 seg., y luego bebe un trago. 3"
     },
     {
       "key": "DRINK_0192",
@@ -5902,7 +7554,7 @@
     },
     {
       "key": "DRINK_0193",
-      "value": "¡Haced el contacto físico más \"atrevido\" que podáis hacer aquí mismo durante 10 seg! ¡Un trago cada uno!  3"
+      "value": "¡Haced el contacto físico más \"atrevido\" que podáis hacer aquí mismo durante 10 seg! ¡Un trago cada uno! 3"
     },
     {
       "key": "DRINK_0194",
@@ -5910,7 +7562,7 @@
     },
     {
       "key": "DRINK_0195",
-      "value": "Bebe un trago y deja que tu pareja acaricie tu \"punto más sensible\" durante 15 seg.  3"
+      "value": "Bebe un trago y deja que tu pareja acaricie tu \"punto más sensible\" durante 15 seg. 3"
     },
     {
       "key": "DRINK_0196",
@@ -5918,11 +7570,11 @@
     },
     {
       "key": "DRINK_0197",
-      "value": "¡Bebe un trago y habla de tu lugar favorito \"para hacer el amor\"! 3"
+      "value": "¡Bebe un trago y habla de tu lugar favorito \"para un momento íntimo\"! 3"
     },
     {
       "key": "DRINK_0198",
-      "value": "¡Quítale un accesorio a tu pareja (reloj, collar, anillo, etc.) y bebe un trago! 3"
+      "value": "Ordena a tu pareja que \"deje\" una prenda de ropa, y bebe un trago. 3"
     },
     {
       "key": "DRINK_0199",
@@ -5958,19 +7610,19 @@
     },
     {
       "key": "DRINK_0207",
-      "value": "Di \"Quiero sentirte, ahora mismo\", y mantén tu mano \"rondando\" cerca de su 'zona más sensible' 10 seg.  3"
+      "value": "Di \"Quiero sentirte, ahora mismo\", y acaricia cerca de su \"parte más íntima\" 10 seg. (¡Y bebe!) 3"
     },
     {
       "key": "DRINK_0208",
-      "value": "¡Bebe un trago y recrea la escena más \"caliente\" de una película romántica durante 10 seg!  3"
+      "value": "¡Bebe un trago y recrea la escena más \"caliente\" de una película romántica durante 10 seg! 3"
     },
     {
       "key": "DRINK_0209",
-      "value": "Di: \"Tu voz... quiero ser la única persona que la escuche\", y bebe un trago. 3"
+      "value": "Di: \"Tu respiración... quiero ser la única persona que la escuche\", y bebe un trago. 3"
     },
     {
       "key": "DRINK_0210",
-      "value": "Bebe un trago y sugiere: \"¿Deberíamos... crear nuestra propia señal secreta para esta noche?\" 3"
+      "value": "Bebe un trago y sugiere: \"¿Deberíamos... crear nuestra propia señal secreta... para cuando queramos?\" 3"
     },
     {
       "key": "DRINK_0211",
@@ -5978,7 +7630,7 @@
     },
     {
       "key": "DRINK_0212",
-      "value": "Bebe un trago y di: \"Tú... creo que podrías ser una adicción\". 2"
+      "value": "Bebe un trago y di: \"Tú... creo que podrías ser una adicción\". 3"
     },
     {
       "key": "DRINK_0213",
@@ -5990,442 +7642,370 @@
     },
     {
       "key": "DRINK_0215",
-      "value": "Bebe un trago y sugiere un juego \"atrevido\", como el \"Pocky Game\". 3"
-    },
-    {
-      "key": "DRINK_0216",
       "value": "Di en voz alta, como pensando: \"¿Cómo será tu voz de placer?\", y bebe un trago. 3"
     },
     {
-      "key": "DRINK_0217",
+      "key": "DRINK_0216",
       "value": "¡Describe (de forma sexy) cómo te imaginas a tu pareja en la ducha y bebe un trago! 3"
     },
     {
-      "key": "DRINK_0218",
+      "key": "DRINK_0217",
       "value": "Bebe un trago y di: \"Quiero... hacer algo malo contigo\". 3"
     },
     {
-      "key": "DRINK_0219",
+      "key": "DRINK_0218",
       "value": "¡Revela uno de tus \"puntos más sensibles\" a tu pareja y bebe un trago! 3"
     },
     {
-      "key": "DRINK_0220",
-      "value": "¡Bebe un trago y, bajo la mesa, frota tu pierna contra la de tu pareja durante 10 seg!  3"
+      "key": "DRINK_0219",
+      "value": "¡Bebe un trago y, bajo la mesa, frota tu pierna contra la de tu pareja durante 10 seg! 3"
     },
     {
-      "key": "DRINK_0221",
+      "key": "DRINK_0220",
       "value": "¡Habla de tu \"experiencia secreta\" más excitante y bebe un trago! 3"
     },
     {
-      "key": "DRINK_0222",
+      "key": "DRINK_0221",
       "value": "Di honestamente: \"Quiero... despertar contigo mañana\", y bebe un trago. 3"
     },
     {
-      "key": "DRINK_0223",
+      "key": "DRINK_0222",
       "value": "Bebe un trago y habla de tu \"estilo secreto\" favorito (ej: de lencería). 3"
     },
     {
-      "key": "DRINK_0224",
+      "key": "DRINK_0223",
       "value": "Di: \"Quiero saborear... todo de ti\", y bebe un trago. 3"
     },
     {
-      "key": "DRINK_0225",
+      "key": "DRINK_0224",
       "value": "Bebe un trago y pregunta: \"¿Qué es lo más \"atrevido\" que podríamos hacer ahora mismo?\" 3"
     },
     {
-      "key": "DRINK_0226",
+      "key": "DRINK_0225",
       "value": "Di: \"Creo que... me estoy emborrachando con tu olor\", y bebe un trago. 3"
     },
     {
-      "key": "DRINK_0227",
-      "value": "¡Bebe un trago y pídele a tu pareja un tipo de contacto físico que quieras (ej: \"Abrázame\")! 3"
+      "key": "DRINK_0226",
+      "value": "¡Bebe un trago y pídele a tu pareja una \"cosa específica\" que quieras (ej: \"Abrázame\")! 3"
     },
     {
-      "key": "DRINK_0228",
+      "key": "DRINK_0227",
       "value": "Di: \"Yo... quiero que me toques\". Si tu pareja te toca, bebe un trago. ¡Si no, bebes tú dos! 3"
     },
     {
-      "key": "DRINK_0229",
+      "key": "DRINK_0228",
       "value": "¡Bebe un trago y cuéntale a tu pareja una de tus \"fantasías secretas\"! 3"
     },
     {
-      "key": "DRINK_0230",
+      "key": "DRINK_0229",
       "value": "¡Bebe un trago mientras juegas \"peligrosamente\" con la ropa de tu pareja (botón, cremallera)! 3"
     },
     {
-      "key": "DRINK_0231",
-      "value": "Bebe un trago y pregunta: \"¿Cómo eres... cuando haces el amor?\" 3"
+      "key": "DRINK_0230",
+      "value": "Bebe un trago y pregunta: \"¿Cómo eres... cuando tenéis intimidad?\" 3"
     },
     {
-      "key": "DRINK_0232",
+      "key": "DRINK_0231",
       "value": "¡Habla de la experiencia íntima que has tenido en el \"lugar más peculiar\" y bebe un trago! 3"
     },
     {
-      "key": "DRINK_0233",
+      "key": "DRINK_0232",
       "value": "Bebe un trago y di provocativamente: \"Esta noche... hazte responsable de mí\". 3"
     },
     {
-      "key": "DRINK_0234",
-      "value": "¡Elige un dedo de tu pareja, envuélvelo sensualmente con tus labios 5 seg. y bebe un trago!  3"
+      "key": "DRINK_0233",
+      "value": "¡Elige un dedo de tu pareja, envuélvelo sensualmente con tus labios 5 seg! ¡Y bebe un trago! 3"
     },
     {
-      "key": "DRINK_0235",
+      "key": "DRINK_0234",
       "value": "Bebe un trago y di: \"Quiero ver... tu corazón más profundo\". 3"
     },
     {
-      "key": "DRINK_0236",
+      "key": "DRINK_0235",
       "value": "¡Hablad de la escena más caliente de una \"película romántica\" que hayáis visto juntos, y bebed un trago cada uno! 3"
     },
     {
-      "key": "DRINK_0237",
+      "key": "DRINK_0236",
       "value": "Bebe un trago y di: \"Quiero... tenerte por completo\". 3"
     },
     {
-      "key": "DRINK_0238",
+      "key": "DRINK_0237",
       "value": "¡Atrae a tu pareja hacia ti por la cintura con fuerza y bebe un trago! 3"
     },
     {
-      "key": "DRINK_0239",
+      "key": "DRINK_0238",
       "value": "Bebe un trago y susurra: \"¿Prefieres... estar arriba o abajo?\" 3"
     },
     {
-      "key": "DRINK_0240",
-      "value": "¡Habla de tu \"estilo\" preferido para hacer el amor y bebe un trago! 3"
+      "key": "DRINK_0239",
+      "value": "¡Habla de tu \"estilo\" preferido para \"tener intimidad\" y bebe un trago! 3"
     },
     {
-      "key": "DRINK_0241",
+      "key": "DRINK_0240",
       "value": "Bebe un trago y declara: \"Esta noche... eres mío/a\". 3"
     },
     {
-      "key": "DRINK_0242",
+      "key": "DRINK_0241",
       "value": "¡Pregúntale a tu pareja qué es lo que \"más le excita\" y bebe un trago! 3"
     },
     {
-      "key": "DRINK_0243",
+      "key": "DRINK_0242",
       "value": "Bebe un trago y di: \"Quiero... hacerte llorar de placer\". 3"
     },
     {
+      "key": "DRINK_0243",
+      "value": "Acaricia suavemente \"la zona más íntima\" de tu pareja por encima de la ropa 15 seg. (Y bebe) 4"
+    },
+    {
       "key": "DRINK_0244",
-      "value": "Acaricia suavemente \"la zona más secreta\" de tu pareja por encima de la ropa 15 seg.  4"
+      "value": "¡Bebe un trago y expresa con tu cuerpo \"la sensación de ser totalmente amado/a\" 10 seg! 4"
     },
     {
       "key": "DRINK_0245",
-      "value": "¡Bebe un trago y expresa con tu cuerpo \"la sensación de ser totalmente amado/a\" 10 seg!  4"
-    },
-    {
-      "key": "DRINK_0246",
       "value": "¡Di una frase de un \"juego de rol especial\" que te gustaría probar esta noche y bebe un trago! 4"
     },
     {
-      "key": "DRINK_0247",
-      "value": "¡Bebe un trago y haz la mímica de dar a tu pareja \"el beso más ardiente del mundo\" 10 seg!  4"
+      "key": "DRINK_0246",
+      "value": "¡Bebe un trago y haz la mímica de dar a tu pareja \"el beso más ardiente del mundo\" 10 seg! 4"
     },
     {
-      "key": "DRINK_0248",
+      "key": "DRINK_0247",
       "value": "¡Describe en detalle \"cómo quieres dar placer\" a tu pareja y bebe un trago! 4"
     },
     {
+      "key": "DRINK_0248",
+      "value": "¡Bebe un trago y deja que tu pareja \"provoque\" tu \"zona más íntima\" durante 15 seg! 4"
+    },
+    {
       "key": "DRINK_0249",
-      "value": "¡Bebe un trago y deja que tu pareja \"provoque\" tu \"zona más secreta\" durante 15 seg!  4"
+      "value": "¡Imita (en voz baja) el sonido que haces en tu \"extático momento final\" y bebe un trago! 4"
     },
     {
       "key": "DRINK_0250",
-      "value": "¡Imita (en voz baja) el sonido que haces en tu \"momento de clímax\" y bebe un trago! 4"
-    },
-    {
-      "key": "DRINK_0251",
       "value": "Bebe un trago y di: \"¿Te gustaría... sentir el calor de mi cuerpo de cerca?\" 4"
     },
     {
+      "key": "DRINK_0251",
+      "value": "¡Deja que tu pareja estimule tu \"punto más excitante\" con sus dedos durante 10 seg! (Y bebe) 4"
+    },
+    {
       "key": "DRINK_0252",
-      "value": "¡Deja que tu pareja estimule tu \"punto más excitante\" con sus dedos durante 10 seg!  4"
+      "value": "¡Bebe un trago y deja un rastro con tus labios en tu parte favorita del cuerpo de tu pareja 10 seg! 4"
     },
     {
       "key": "DRINK_0253",
-      "value": "¡Bebe un trago y deja un rastro con tus labios en tu parte favorita del cuerpo de tu pareja 10 seg!  4"
-    },
-    {
-      "key": "DRINK_0254",
       "value": "Di honestamente: \"Quiero saborear... hasta la última parte de ti\", y bebe un trago. 4"
     },
     {
-      "key": "DRINK_0255",
+      "key": "DRINK_0254",
       "value": "Bebe un trago y ordena provocativamente: \"Sube... encima de mí\". 4"
     },
     {
-      "key": "DRINK_0256",
-      "value": "¡Quita (o desabrocha) una prenda (o accesorio) más a tu pareja y bebe un trago! 4"
+      "key": "DRINK_0255",
+      "value": "Ordena a tu pareja que \"deje\" una prenda de ropa, y bebe un trago. 4"
     },
     {
-      "key": "DRINK_0257",
+      "key": "DRINK_0256",
       "value": "Bebe un trago y di: \"Quiero... quedarme dormido/a en tus brazos\". 4"
     },
     {
-      "key": "DRINK_0258",
+      "key": "DRINK_0257",
       "value": "Di: \"Esta noche... no puedes escapar de mí\", y bebe un trago. 4"
     },
     {
-      "key": "DRINK_0259",
-      "value": "Bebe un trago y haz que tu pareja diga las palabras que quieres oír \"en el momento de ser uno\". 4"
+      "key": "DRINK_0258",
+      "value": "Bebe un trago y haz que tu pareja diga las palabras que quieres oír \"en el momento de unir vuestros cuerpos\". 4"
     },
     {
-      "key": "DRINK_0260",
+      "key": "DRINK_0259",
       "value": "Di: \"Imaginé... tu aliento mezclándose con el mío\", y bebe un trago. 4"
     },
     {
-      "key": "DRINK_0261",
+      "key": "DRINK_0260",
       "value": "Bebe un trago y di qué te gustaría ver hacer a tu pareja \"mientras hacéis el amor\". 4"
     },
     {
-      "key": "DRINK_0262",
+      "key": "DRINK_0261",
       "value": "Di en voz alta: \"Me pregunto... ¿cómo serán los movimientos de tu cuerpo?\", y bebe un trago. 4"
     },
     {
-      "key": "DRINK_0263",
-      "value": "¡Bebe un trago y \"provoca\" el \"punto más sensible\" de tu pareja con intensidad 30 seg!  4"
+      "key": "DRINK_0262",
+      "value": "¡Bebe un trago y \"provoca\" el \"punto más sensible\" de tu pareja con intensidad 30 seg! 4"
     },
     {
-      "key": "DRINK_0264",
+      "key": "DRINK_0263",
       "value": "Di: \"Quiero sentir... cada parte de ti, sin dejar nada\", y bebe un trago. 4"
     },
     {
-      "key": "DRINK_0265",
+      "key": "DRINK_0264",
       "value": "Bebe un trago y di: \"Quiero que dejes... una marca profunda en mi cuerpo\". 4"
     },
     {
-      "key": "DRINK_0266",
+      "key": "DRINK_0265",
       "value": "Di: \"Imagina el momento... en que nos volvemos completamente uno\", y bebe un trago. 4"
     },
     {
-      "key": "DRINK_0267",
+      "key": "DRINK_0266",
       "value": "Bebe un trago y di: \"Esta noche... voy a hacerte completamente mío/a\". 4"
     },
     {
-      "key": "DRINK_0268",
+      "key": "DRINK_0267",
       "value": "¡Di un cumplido sobre el \"encanto más secreto\" de tu pareja y bebe un trago! 4"
     },
     {
-      "key": "DRINK_0269",
+      "key": "DRINK_0268",
       "value": "Bebe un trago y di: \"Quiero besar... tu lugar más profundo\". 4"
     },
     {
-      "key": "DRINK_0270",
+      "key": "DRINK_0269",
       "value": "Di: \"Quiero sentirte... con todo mi cuerpo\", y bebe un trago. 4"
     },
     {
-      "key": "DRINK_0271",
+      "key": "DRINK_0270",
       "value": "¡Bebe un trago y habla del \"mejor momento de éxtasis\" que has experimentado! 4"
     },
     {
-      "key": "DRINK_0272",
-      "value": "Di \"No aguanto más\", y acaricia \"la zona más secreta\" de tu pareja durante 10 seg.  4"
+      "key": "DRINK_0271",
+      "value": "Di \"No aguanto más\", y acaricia \"la zona más íntima\" de tu pareja durante 10 seg. (Y bebe) 4"
     },
     {
-      "key": "DRINK_0273",
+      "key": "DRINK_0272",
       "value": "Di: \"Ahora... empecemos el verdadero juego\", y bébete el último trago. 4"
     },
     {
-      "key": "DRINK_0274",
-      "value": "Muerde suavemente el lóbulo de la oreja de tu pareja y bebe un trago. 3"
-    },
-    {
-      "key": "DRINK_0275",
+      "key": "DRINK_0273",
       "value": "¡Desabrocha un botón de la camisa/blusa de tu pareja y bebe un trago! 3"
     },
     {
-      "key": "DRINK_0276",
-      "value": "¡Dale un cubito de hielo (o un vaso frío) a tu pareja y deja que toque tu cuello con él! 3"
+      "key": "DRINK_0274",
+      "value": "¡Tapa los ojos de tu pareja 10 seg, susurra \"¿Quién soy?\" y bebe un trago! 3"
     },
     {
-      "key": "DRINK_0277",
-      "value": "¡Tapa los ojos de tu pareja 10 seg, susurra \"¿Quién soy?\" y bebe un trago!  3"
-    },
-    {
-      "key": "DRINK_0278",
+      "key": "DRINK_0275",
       "value": "¡Dile a tu pareja: \"Seduce-me con tu expresión de más confianza\", y bebe un trago! 3"
     },
     {
-      "key": "DRINK_0279",
+      "key": "DRINK_0276",
       "value": "¡Recorre lentamente la línea de la columna de tu pareja con tu dedo y bebe un trago! 3"
     },
     {
-      "key": "DRINK_0280",
-      "value": "Di: \"Soñé contigo anoche... fue un sueño muy caliente\", y bebe un trago. 3"
+      "key": "DRINK_0277",
+      "value": "Di: \"Soñé contigo anoche... fue un sueño muy íntimo\", y bebe un trago. 3"
     },
     {
-      "key": "DRINK_0281",
+      "key": "DRINK_0278",
       "value": "¡Haz que tu pareja deje la marca de sus labios en tu copa y bebe un trago de esa marca! 3"
     },
     {
-      "key": "DRINK_0282",
+      "key": "DRINK_0279",
       "value": "Besa suavemente el interior de la muñeca de tu pareja y bebe un trago. 3"
     },
     {
-      "key": "DRINK_0283",
+      "key": "DRINK_0280",
       "value": "¡Juega \"peligrosamente\" con el cinturón (o la cinturilla del pantalón) de tu pareja y bebe un trago! 3"
     },
     {
-      "key": "DRINK_0284",
+      "key": "DRINK_0281",
       "value": "¡Besa suavemente la parte de atrás de la rodilla de tu pareja (corva) y bebe un trago! 3"
     },
     {
-      "key": "DRINK_0285",
+      "key": "DRINK_0282",
       "value": "¡Ordena en broma: \"Has perdido. De castigo, quítate una prenda\", y bebe un trago! 3"
     },
     {
+      "key": "DRINK_0283",
+      "value": "¡Sostén un snack con tus labios y deja que tu pareja lo tome con su boca! ¡Luego, bebe un trago!"
+    },
+    {
+      "key": "DRINK_0284",
+      "value": "¡Masajea suavemente el tobillo de tu pareja durante 10 seg. y bebe un trago! 3"
+    },
+    {
+      "key": "DRINK_0285",
+      "value": "¡Pon tu dedo sobre los labios de tu pareja, di \"Shhh, es un secreto\", y bebe un trago! 3"
+    },
+    {
       "key": "DRINK_0286",
-      "value": "¡Sostén un snack con tus labios y deja que tu pareja lo tome con su boca! 3"
-    },
-    {
-      "key": "DRINK_0287",
-      "value": "¡Masajea suavemente el tobillo de tu pareja durante 10 seg. y bebe un trago!  3"
-    },
-    {
-      "key": "DRINK_0288",
-      "value": "¡Pon el dedo de tu pareja sobre tus labios, di \"Shhh, es un secreto\", y bebe un trago! 3"
-    },
-    {
-      "key": "DRINK_0289",
       "value": "¡Ordena: \"Bésame. Ahora\", y bebe un trago! 3"
     },
     {
-      "key": "DRINK_0290",
+      "key": "DRINK_0287",
       "value": "¡Levanta suavemente la camiseta de tu pareja, sopla sobre su abdomen y bebe un trago! 3"
     },
     {
-      "key": "DRINK_0291",
+      "key": "DRINK_0288",
       "value": "Bebe un trago, di \"Quiero oír el latido de tu corazón\" y apoya tu oreja en su pecho. 3"
     },
     {
-      "key": "DRINK_0292",
-      "value": "¡Lame suavemente el dorso de la mano de tu pareja durante 10 seg. y bebe un trago!  3"
+      "key": "DRINK_0289",
+      "value": "Da placer suavemente al dorso de la mano de tu pareja con la boca durante 10 seg. y bebe un trago. 3"
     },
     {
-      "key": "DRINK_0293",
-      "value": "¡Recorre la línea de la clavícula de tu pareja con tus labios y bebe un trago! 3"
-    },
-    {
-      "key": "DRINK_0294",
+      "key": "DRINK_0290",
       "value": "Susurra: \"Si tú quieres, puedo hacer... cosas peores\", y bebe un trago. 3"
     },
     {
+      "key": "DRINK_0291",
+      "value": "¡Cerrad los ojos y acariciaos solo las manos durante 1 min! Luego, un trago cada uno. 3"
+    },
+    {
+      "key": "DRINK_0292",
+      "value": "¡Sujeta la barbilla de tu pareja, detente 5 seg. como si fueras a besarle... y bebe solo tú! 3"
+    },
+    {
+      "key": "DRINK_0293",
+      "value": "¡Siéntate en el regazo de tu pareja, rodea su cuello con tus brazos y miraros a los ojos 10 seg! ¡Luego, bebe un trago!"
+    },
+    {
+      "key": "DRINK_0294",
+      "value": "¡Entrelaza tus dedos con los de tu pareja y usa su mano para acariciar tu propia cadera! ¡Luego, bebe un trago!"
+    },
+    {
       "key": "DRINK_0295",
-      "value": "¡Cerrad los ojos y acariciaos solo las manos durante 1 min! Luego, un trago cada uno.  3"
+      "value": "¡Detente a 2 cm de los labios de tu pareja 10 seg. para tentarle, luego retírate y bebe! 3"
     },
     {
       "key": "DRINK_0296",
-      "value": "¡Sujeta la barbilla de tu pareja, detente 5 seg. como si fueras a besarle... y bebe solo tú!  3"
-    },
-    {
-      "key": "DRINK_0297",
-      "value": "¡Siéntate en el regazo de tu pareja, rodea su cuello con tus brazos y miraros a los ojos 10 seg!  3"
-    },
-    {
-      "key": "DRINK_0298",
-      "value": "¡Tapa los ojos de tu pareja, susurra dónde le vas a besar y luego bésale en otro sitio (muñeca/mejilla)! 3"
-    },
-    {
-      "key": "DRINK_0299",
-      "value": "¡Entrelaza tus dedos con los de tu pareja y usa su mano para acariciar tu propio muslo! 3"
-    },
-    {
-      "key": "DRINK_0300",
-      "value": "¡Detente a 2 cm de los labios de tu pareja 10 seg. para tentarle, luego retírate y bebe!  3"
-    },
-    {
-      "key": "DRINK_0301",
       "value": "Di: \"Es tu turno. Quítate una prenda de ropa para mí\", y bebe un trago. 4"
     },
     {
-      "key": "DRINK_0302",
-      "value": "¡Toma la mano de tu pareja y ponla sobre tu ropa en tu \"zona más secreta\" 10 seg!  4"
-    },
-    {
-      "key": "DRINK_0303",
+      "key": "DRINK_0297",
       "value": "¡Declara: \"Esta noche, no puedes hacer nada... sin mi permiso\", y bebe un trago! 4"
     },
     {
+      "key": "DRINK_0298",
+      "value": "¡Venda los ojos de tu pareja y haz que bese tres partes diferentes de tu cuerpo! 4"
+    },
+    {
+      "key": "DRINK_0299",
+      "value": "¡Tumba a tu pareja, presiona tu cuerpo sobre su ropa contra el suyo 10 seg. y bebe un trago! 4"
+    },
+    {
+      "key": "DRINK_0300",
+      "value": "¡\"Provoca\" a tu pareja respirando cálidamente en su oído durante 10 seg. y bebe un trago! 4"
+    },
+    {
+      "key": "DRINK_0301",
+      "value": "¡Separa las piernas de tu pareja, siéntate en medio, miraros a los ojos 10 seg. y bebe un trago! 4"
+    },
+    {
+      "key": "DRINK_0302",
+      "value": "¡Deja que tu pareja estimule tu \"punto más excitante\" con sus dedos durante 10 seg! 4"
+    },
+    {
+      "key": "DRINK_0303",
+      "value": "¡Por 1 min, tu pareja es el \"Rey\". Pídele que te ordene hacer una cosa. Y bebe. 4"
+    },
+    {
       "key": "DRINK_0304",
-      "value": "¡Venda los ojos de tu pareja y dale tres besos en tres partes diferentes de su cuerpo! 4"
+      "value": "Di: \"Quiero explorar... todas las puertas secretas de tu cuerpo\", y bebe un trago. 4"
     },
     {
       "key": "DRINK_0305",
-      "value": "¡Tumba a tu pareja, presiona tu cuerpo sobre su ropa contra el suyo 10 seg. y bebe un trago!  4"
-    },
-    {
-      "key": "DRINK_0306",
-      "value": "¡\"Provoca\" a tu pareja respirando cálidamente en su oído durante 10 seg. y bebe un trago!  4"
-    },
-    {
-      "key": "DRINK_0307",
-      "value": "¡Deja que tus dedos \"exploren\" justo por encima de la \"zona secreta\" de tu pareja 10 seg!  4"
-    },
-    {
-      "key": "DRINK_0308",
-      "value": "¡\"Provoca\" los labios de tu pareja 10 seg. (mordisquea, lame), y bebe un trago!  4"
-    },
-    {
-      "key": "DRINK_0309",
-      "value": "¡Declara: \"Tu límite... es mi placer\", y bebe un trago! 4"
-    },
-    {
-      "key": "DRINK_0310",
-      "value": "¡Desliza tu mano dentro de la ropa de tu pareja y provoca \"su punto más sensible\" 15 seg!  4"
-    },
-    {
-      "key": "DRINK_0311",
-      "value": "¡Separa las piernas de tu pareja, siéntate en medio, miraros a los ojos 10 seg. y bebe un trago!  4"
-    },
-    {
-      "key": "DRINK_0312",
-      "value": "¡Deja que tu pareja estimule tu \"punto más excitante\" con sus dedos durante 10 seg!  4"
-    },
-    {
-      "key": "DRINK_0313",
-      "value": "¡Por 1 min, tú eres el \"Amo/Ama\"! Ordénale a tu pareja que haga una cosa. Y bebe.  4"
-    },
-    {
-      "key": "DRINK_0314",
-      "value": "Di: \"Quiero explorar... todas las 'puertas secretas' de tu cuerpo\", y bebe un trago. 4"
-    },
-    {
-      "key": "DRINK_0315",
-      "value": "¡Haz la mímica de besar la \"zona más secreta\" de tu pareja 10 seg. y bebe un trago!  4"
-    },
-    {
-      "key": "DRINK_0316",
-      "value": "Di \"Quiero dibujar tu mapa... en mi cuerpo\", y bebe un trago. 4"
-    },
-    {
-      "key": "DRINK_0317",
-      "value": "¡Di \"Ya no puedo esperar más\" y desabrocha otra de sus prendas/accesorios! 4"
-    },
-    {
-      "key": "DRINK_0318",
-      "value": "¡Deja caer una gota en la \"zona secreta\" de tu pareja (sobre la ropa) y haz la mímica de lamerla! 4"
-    },
-    {
-      "key": "DRINK_0319",
       "value": "Susurra: \"Esta noche... voy a hacer que solo pienses en mí\", y bebe un trago. 4"
     },
     {
-      "key": "DRINK_0320",
-      "value": "¡Ordena: \"Demuéstrame cuánto me deseas... con tu cuerpo\", y bebe un trago! 4"
-    },
-    {
-      "key": "DRINK_0321",
-      "value": "¡Toma la muñeca de tu pareja, pon su mano sobre tu corazón (pecho) y miraros a los ojos 10 seg!  4"
-    },
-    {
-      "key": "DRINK_0322",
-      "value": "¡Desliza tu mano dentro de la ropa de tu pareja y déjala sobre su corazón 10 seg!  4"
-    },
-    {
-      "key": "DRINK_0323",
-      "value": "¡\"Provoca\" el \"encanto secreto\" de tu pareja solo con tus labios durante 1 min!  4"
-    },
-    {
-      "key": "DRINK_0324",
+      "key": "DRINK_0306",
       "value": "Di: \"Es nuestra última copa. ¿Nos vamos a la cama ya?\", y bebe el último trago. 4"
     },
     {
