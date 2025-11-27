@@ -129,6 +129,14 @@
       "value": "Language"
     },
     {
+      "key": "restore_purchase",
+      "value": "Restore Purchase"
+    },
+    {
+      "key": "result_purchase",
+      "value": "Purchase successful."
+    },
+    {
       "key": "LOVE_0001",
       "value": "What meal do you want to eat with your partner the most right now?"
     },
@@ -2670,7 +2678,7 @@
     },
     {
       "key": "SEXY_0015",
-      "value": "Is there any costume play (cosplay) youd like to do with your partner? 2"
+      "value": "Is there any costume play  youd like to do with your partner? 2"
     },
     {
       "key": "SEXY_0016",
@@ -2978,7 +2986,7 @@
     },
     {
       "key": "SEXY_0092",
-      "value": "What physical skinship did you pretend to like, but actually didnt? 2"
+      "value": "What is one intimate thing youd like to try someday? 3"
     },
     {
       "key": "SEXY_0093",
@@ -3106,11 +3114,11 @@
     },
     {
       "key": "SEXY_0124",
-      "value": "If your partner initiates skinship in a hidden corner of a cafe, would you accept it? 2"
+      "value": "If your partner initiates affection in a hidden corner of a cafe, would you accept it? 2"
     },
     {
       "key": "SEXY_0125",
-      "value": "What skinship (physical affection) do you want to do to your partner right now? 2"
+      "value": "What affection (physical affection) do you want to do to your partner right now? 2"
     },
     {
       "key": "SEXY_0126",
@@ -3138,15 +3146,15 @@
     },
     {
       "key": "SEXY_0132",
-      "value": "What was a flirty move (foxy act) your partner did that was obvious before you started dating? 2"
+      "value": "What was a flirty move your partner did that was obvious before you started dating? 2"
     },
     {
       "key": "SEXY_0133",
-      "value": "What is your favorite type of skinship (physical affection)? 2"
+      "value": "What is your favorite type of physical affection? 2"
     },
     {
       "key": "SEXY_0134",
-      "value": "What kind of skinship (between your partner and someone else) would make you jealous? 2"
+      "value": "What kind of physical affection (between your partner and someone else) would make you jealous? 2"
     },
     {
       "key": "SEXY_0135",
@@ -3198,7 +3206,7 @@
     },
     {
       "key": "SEXY_0147",
-      "value": "What would you say if your friend (whos in a relationship) said theyre going on a trip with a guy friend? 2"
+      "value": "What would you say if your friend (whos in a relationship) said theyre going on a trip with a friend of the opposite sex? 2"
     },
     {
       "key": "SEXY_0148",
@@ -3210,11 +3218,11 @@
     },
     {
       "key": "SEXY_0150",
-      "value": "What part of your partners body do you most want to stimulate with your mouth? 3"
+      "value": "What part of your partners body do you most want to please with your mouth? 3"
     },
     {
       "key": "SEXY_0151",
-      "value": "Upper body vs Lower body: Which would you rather stimulate with your mouth? Why? 3"
+      "value": "Upper body vs Lower body: Which would you rather please with your mouth? Why? 3"
     },
     {
       "key": "SEXY_0152",
@@ -3222,7 +3230,7 @@
     },
     {
       "key": "SEXY_0153",
-      "value": "What part of your partner do you most want to stimulate with your mouth before making love? 3"
+      "value": "What part of your partner do you most want to please with your mouth before making love? 3"
     },
     {
       "key": "SEXY_0154",
@@ -3282,11 +3290,11 @@
     },
     {
       "key": "SEXY_0168",
-      "value": "Is there a part of your body youd like your partner to stimulate with their mouth during lovemaking? 3"
+      "value": "Is there a part of your body youd like your partner to please with their mouth during lovemaking? 3"
     },
     {
       "key": "SEXY_0169",
-      "value": "When was the best time you were stimulated (caressed) by your partner? 3"
+      "value": "When was the best time you were stimulated by your partner? 3"
     },
     {
       "key": "SEXY_0170",
@@ -3294,7 +3302,7 @@
     },
     {
       "key": "SEXY_0171",
-      "value": "Is there any stimulation (foreplay) youd like to receive before making love? 3"
+      "value": "Is there any stimulation youd like to receive before making love? 3"
     },
     {
       "key": "SEXY_0172",
@@ -3346,7 +3354,7 @@
     },
     {
       "key": "SEXY_0184",
-      "value": "Do you identify more with the M (submissive) side or S (dominant) side? 3"
+      "value": "Do you identify more with the \"Following\" side or \"Leading\" side? 3"
     },
     {
       "key": "SEXY_0185",
@@ -3354,11 +3362,11 @@
     },
     {
       "key": "SEXY_0186",
-      "value": "Do you like being stimulated by your partners mouth? 3"
+      "value": "Do you like being pleased by your partners mouth? 3"
     },
     {
       "key": "SEXY_0187",
-      "value": "Do you like to stimulate your partner with your mouth? 3"
+      "value": "Do you like to please your partner with your mouth? 3"
     },
     {
       "key": "SEXY_0188",
@@ -3370,27 +3378,27 @@
     },
     {
       "key": "SEXY_0190",
-      "value": "Does it feel good when your partner stimulates your ear (with their mouth) during lovemaking? 3"
+      "value": "Does it feel good when your partner pleases your ear with their mouth during lovemaking? 3"
     },
     {
       "key": "SEXY_0191",
-      "value": "When stimulating your partners private area, have you ever gotten a hair in your mouth? How did it feel? 3"
+      "value": "When pleasing your partners \"most private part\", have you ever gotten a hair in your mouth? How did it feel? 3"
     },
     {
       "key": "SEXY_0192",
-      "value": "What do you think about your partner secretly loving themselves (solo)? 3"
+      "value": "What do you think about your partner secretly doing the \"act of pleasing themselves\"? 3"
     },
     {
       "key": "SEXY_0193",
-      "value": "How would your partner feel if they saw you loving yourself (solo)? 3"
+      "value": "How would your partner feel if they saw you doing the \"act of pleasing yourself\"? 3"
     },
     {
       "key": "SEXY_0194",
-      "value": "How would you feel if you saw your partner loving themselves (solo)? 3"
+      "value": "How would you feel if you saw your partner doing the \"act of pleasing themselves\"? 3"
     },
     {
       "key": "SEXY_0195",
-      "value": "Have you ever loved yourself (solo) without your partner knowing? When? 3"
+      "value": "Have you ever done the \"act of pleasing yourself\" without your partner knowing? When? 3"
     },
     {
       "key": "SEXY_0196",
@@ -3410,7 +3418,7 @@
     },
     {
       "key": "SEXY_0200",
-      "value": "Do rough words  from your partner stimulate you during lovemaking? 3"
+      "value": "Do rough words from your partner stimulate you during lovemaking? 3"
     },
     {
       "key": "SEXY_0201",
@@ -3462,7 +3470,7 @@
     },
     {
       "key": "SEXY_0213",
-      "value": "What if your partner asked you to make love (threesome) with their best friend? 3"
+      "value": "What would you do if your partner suggested making love together with their best friend? 3"
     },
     {
       "key": "SEXY_0214",
@@ -3494,7 +3502,7 @@
     },
     {
       "key": "SEXY_0221",
-      "value": "What would you do if your partners private area had a strong odor? 3"
+      "value": "What would you do if your partners \"most private part\" had a strong odor? 3"
     },
     {
       "key": "SEXY_0222",
@@ -3514,7 +3522,7 @@
     },
     {
       "key": "SEXY_0226",
-      "value": "Would you like to watch an adult video with your partner? 3"
+      "value": "Would you like to watch an \"adult video\" with your partner? 3"
     },
     {
       "key": "SEXY_0227",
@@ -3522,7 +3530,7 @@
     },
     {
       "key": "SEXY_0228",
-      "value": "What is your most sensitive spot (erogenous zone) on your body? 3"
+      "value": "What is your most \"sensitive point\" on your body? 3"
     },
     {
       "key": "SEXY_0229",
@@ -3542,11 +3550,11 @@
     },
     {
       "key": "SEXY_0233",
-      "value": "Which part of your partners body do you like to stimulate with your mouth the most? 3"
+      "value": "Which part of your partners body do you like to please with your mouth the most? 3"
     },
     {
       "key": "SEXY_0234",
-      "value": "Have you loved yourself (solo) this week? 3"
+      "value": "Have you done the \"act of pleasing yourself\" this week? 3"
     },
     {
       "key": "SEXY_0235",
@@ -3570,27 +3578,27 @@
     },
     {
       "key": "SEXY_0240",
-      "value": "Is there a scene from an adult video that youd like to recreate? 3"
+      "value": "Is there a scene from an \"adult video\" that youd like to recreate? 3"
     },
     {
       "key": "SEXY_0241",
-      "value": "Can you be satisfied if your partner reaches climax, even if you dont? 3"
+      "value": "Can you be satisfied if your partner reaches their \"ecstatic final moment\", even if you dont? 3"
     },
     {
       "key": "SEXY_0242",
-      "value": "Describe the best climax you have ever felt. 3"
+      "value": "Describe the best \"ecstatic final moment\" you have ever felt. 3"
     },
     {
       "key": "SEXY_0243",
-      "value": "Tell your partner what you need to achieve your best climax. 3"
+      "value": "Tell your partner what you need to achieve your best \"ecstatic final moment\". 3"
     },
     {
       "key": "SEXY_0244",
-      "value": "What is one intimate (kinky) thing youd like to try someday? 3"
+      "value": "What is one intimate thing youd like to try someday? 3"
     },
     {
       "key": "SEXY_0245",
-      "value": "Have you ever loved yourself (solo) at work? 3"
+      "value": "Have you done the \"act of pleasing yourself\" at work? 3"
     },
     {
       "key": "SEXY_0246",
@@ -3598,7 +3606,7 @@
     },
     {
       "key": "SEXY_0247",
-      "value": "Describe the last adult video you watched in detail. 3"
+      "value": "Describe the last \"adult video\" you watched in detail. 3"
     },
     {
       "key": "SEXY_0248",
@@ -3610,7 +3618,7 @@
     },
     {
       "key": "SEXY_0250",
-      "value": "What is your favorite genre of adult video? 3"
+      "value": "What is your favorite genre of \"adult video\"? 3"
     },
     {
       "key": "SEXY_0251",
@@ -3626,11 +3634,11 @@
     },
     {
       "key": "SEXY_0254",
-      "value": "What do you think about your partner stimulating you with their feet? 3"
+      "value": "What do you think about your partner stimulating you with their legs? 3"
     },
     {
       "key": "SEXY_0255",
-      "value": "When you love yourself (solo), have you ever imagined someone? Who? 3"
+      "value": "When you do the \"act of pleasing yourself\", have you ever imagined someone? Who? 3"
     },
     {
       "key": "SEXY_0256",
@@ -3654,15 +3662,15 @@
     },
     {
       "key": "SEXY_0261",
-      "value": "Guess the last time your partner loved themselves (solo). 3"
+      "value": "Guess the last time your partner did the \"act of pleasing themselves\". 3"
     },
     {
       "key": "SEXY_0262",
-      "value": "Guess the last time your partner watched an adult video. 3"
+      "value": "Guess the last time your partner watched an \"adult video\". 3"
     },
     {
       "key": "SEXY_0263",
-      "value": "What is your most stimulating sensitive spot (erogenous zone)? 3"
+      "value": "What is your most stimulating \"sensitive point\"? 3"
     },
     {
       "key": "SEXY_0264",
@@ -3690,11 +3698,11 @@
     },
     {
       "key": "SEXY_0270",
-      "value": "Do you remember your first time loving yourself (solo)? Tell me in detail. 3"
+      "value": "Do you remember your first time doing the \"act of pleasing yourself\"? Tell me in detail. 3"
     },
     {
       "key": "SEXY_0271",
-      "value": "Have you ever been caught while loving yourself (solo)? 3"
+      "value": "Have you ever been caught while doing the \"act of pleasing yourself\"? 3"
     },
     {
       "key": "SEXY_0272",
@@ -3702,11 +3710,11 @@
     },
     {
       "key": "SEXY_0273",
-      "value": "What do you think is the ideal length of time for stimulation (foreplay)? 3"
+      "value": "What do you think is the ideal length of time for stimulation? 3"
     },
     {
       "key": "SEXY_0274",
-      "value": "If you could advise your past self (right before your first time), what? 3"
+      "value": "If you could advise your past self (right before your first time making love), what? 3"
     },
     {
       "key": "SEXY_0275",
@@ -3714,7 +3722,7 @@
     },
     {
       "key": "SEXY_0276",
-      "value": "If you have any in bed skills that others dont know, tell us one. 3"
+      "value": "If you have any in-bed skills that others dont know, tell us one. 3"
     },
     {
       "key": "SEXY_0277",
@@ -3726,7 +3734,7 @@
     },
     {
       "key": "SEXY_0279",
-      "value": "What would you do if your partner appeared in an adult video? 3"
+      "value": "What would you do if your partner appeared in an \"adult video\"? 3"
     },
     {
       "key": "SEXY_0280",
@@ -3742,7 +3750,7 @@
     },
     {
       "key": "SEXY_0283",
-      "value": "Do you know about the upside-down position? Do you enjoy it? 3"
+      "value": "Do you know about the \"opposite position\"? Do you enjoy it? 3"
     },
     {
       "key": "SEXY_0284",
@@ -3754,7 +3762,7 @@
     },
     {
       "key": "SEXY_0286",
-      "value": "(During intense lovemaking) Would you like it if your partner lightly choked you? 3"
+      "value": "(During intense lovemaking) Would you like it if your partner held your neck lightly? 3"
     },
     {
       "key": "SEXY_0287",
@@ -3766,7 +3774,7 @@
     },
     {
       "key": "SEXY_0289",
-      "value": "Do you want to hear exciting, rough words  during lovemaking? What words? 3"
+      "value": "Do you want to hear exciting, rough words during lovemaking? What words? 3"
     },
     {
       "key": "SEXY_0290",
@@ -3794,7 +3802,7 @@
     },
     {
       "key": "SEXY_0296",
-      "value": "(Besides with you) What do you think about your partner secretly loving themselves (solo)? 3"
+      "value": "(Besides with you) What do you think about your partner secretly doing the \"act of pleasing themselves\"? 3"
     },
     {
       "key": "SEXY_0297",
@@ -3822,7 +3830,7 @@
     },
     {
       "key": "SEXY_0303",
-      "value": "If your partner refused to kiss you (after you stimulated their private part), what? 3"
+      "value": "If your partner refused to kiss you (after you pleased their \"most private part\" with your mouth), what? 3"
     },
     {
       "key": "SEXY_0304",
@@ -3830,7 +3838,7 @@
     },
     {
       "key": "SEXY_0305",
-      "value": "Describe to your partner what it feels like when you reach climax. 3"
+      "value": "Describe to your partner what it feels like when you reach your \"ecstatic final moment\". 3"
     },
     {
       "key": "SEXY_0306",
@@ -3854,11 +3862,11 @@
     },
     {
       "key": "SEXY_0311",
-      "value": "Have you ever made an excuse (period, tired, sick) to avoid making love? 3"
+      "value": "Have you ever made an excuse (e.g., tired, sick) to avoid making love? 3"
     },
     {
       "key": "SEXY_0312",
-      "value": "Have you ever had a physical partner (sex buddy)? 3"
+      "value": "Have you ever had a physical partner? 3"
     },
     {
       "key": "SEXY_0313",
@@ -3914,7 +3922,7 @@
     },
     {
       "key": "SEXY_0326",
-      "value": "Act out (pretend) making love with your partner for 20 seconds, while fully clothed. [20]"
+      "value": "Act out \"making love\" with your partner for 20 seconds, while fully clothed. [20] 4"
     },
     {
       "key": "SEXY_0327",
@@ -3930,15 +3938,15 @@
     },
     {
       "key": "SEXY_0330",
-      "value": "Tell us your favorite adult video style (country, concept, level, etc.). 3"
+      "value": "Tell us your favorite \"adult video\" style (country, concept, level, etc.). 3"
     },
     {
       "key": "SEXY_0331",
-      "value": "If you could get free surgery on your parts, what would you change? 3"
+      "value": "If you could get free surgery on your \"most private part\", what would you change? 3"
     },
     {
       "key": "SEXY_0332",
-      "value": "Whats the name of the ex who was best at stimulation (foreplay)? 3"
+      "value": "Whats the name of the ex who was best at stimulation? 3"
     },
     {
       "key": "SEXY_0333",
@@ -3966,15 +3974,15 @@
     },
     {
       "key": "SEXY_0339",
-      "value": "Have you ever made love with two people (threesome), or almost? 3"
+      "value": "Have you ever made love with two people, or almost? 3"
     },
     {
       "key": "SEXY_0340",
-      "value": "Have you ever described your intimate life (with partner) to your friends? 3"
+      "value": "Have you ever described your intimate life with your partner to your friends? 3"
     },
     {
       "key": "SEXY_0341",
-      "value": "Honestly, are there times when loving yourself (solo) feels better than lovemaking? 3"
+      "value": "Honestly, are there times when doing the \"act of pleasing yourself\" feels better than lovemaking? 3"
     },
     {
       "key": "SEXY_0342",
@@ -4018,7 +4026,7 @@
     },
     {
       "key": "SEXY_0352",
-      "value": "What does your partner say when they get stimulated (turned on) during lovemaking? 3"
+      "value": "What does your partner say when they get stimulated during lovemaking? 3"
     },
     {
       "key": "SEXY_0353",
@@ -4026,11 +4034,11 @@
     },
     {
       "key": "SEXY_0354",
-      "value": "Whats a sexy fashion you remember from an adult video you watched? 3"
+      "value": "Whats a sexy fashion you remember from an \"adult video\" you watched? 3"
     },
     {
       "key": "SEXY_0355",
-      "value": "What type of stockings (hosiery) do you find the sexiest? 3"
+      "value": "What type of stockings do you find the sexiest? 3"
     },
     {
       "key": "SEXY_0356",
@@ -4038,7 +4046,7 @@
     },
     {
       "key": "SEXY_0357",
-      "value": "Are you satisfied with the shape of your chest points (nipples)? Why? 3"
+      "value": "Are you satisfied with the shape of your \"chest points\"? Why? 3"
     },
     {
       "key": "SEXY_0358",
@@ -4046,7 +4054,7 @@
     },
     {
       "key": "SEXY_0359",
-      "value": "How much body management (fitness) does your partner need to do for you to keep wanting to make love? 3"
+      "value": "How much body management does your partner need to do for you to keep wanting to make love? 3"
     },
     {
       "key": "SEXY_0360",
@@ -4058,11 +4066,11 @@
     },
     {
       "key": "SEXY_0362",
-      "value": "What change to your partners private part would make your intimate life twice as good? 3"
+      "value": "What change to your partners \"most private part\" would make your intimate life twice as good? 3"
     },
     {
       "key": "SEXY_0363",
-      "value": "Is it better to make love after waxing (e.g., Brazilian)? 3"
+      "value": "Is it better to make love after waxing? 3"
     },
     {
       "key": "SEXY_0364",
@@ -4070,15 +4078,15 @@
     },
     {
       "key": "SEXY_0365",
-      "value": "What do you think about swallowing your partners finish (fluids)? 3"
+      "value": "What do you think about swallowing your partners \"finish\"? 4"
     },
     {
       "key": "SEXY_0366",
-      "value": "If youve ever gotten extremely wet (aroused) because of your partner, when? 3"
+      "value": "If youve ever gotten an extreme reaction because of your partner, when? 3"
     },
     {
       "key": "SEXY_0367",
-      "value": "Have you ever gotten extremely wet (aroused) in a public place? 3"
+      "value": "Have you ever gotten an extreme reaction in a public place? 3"
     },
     {
       "key": "SEXY_0368",
@@ -4086,7 +4094,7 @@
     },
     {
       "key": "SEXY_0369",
-      "value": "Have you ever wanted to stimulate your partner (with your mouth) while they are asleep? 3"
+      "value": "Have you ever wanted to please your partner with your mouth while they are asleep? 3"
     },
     {
       "key": "SEXY_0370",
@@ -4114,7 +4122,7 @@
     },
     {
       "key": "SEXY_0376",
-      "value": "What do you think about doing it without a condom (raw)? 3"
+      "value": "What do you think about doing it without a condom? 3"
     },
     {
       "key": "SEXY_0377",
@@ -4126,7 +4134,7 @@
     },
     {
       "key": "SEXY_0379",
-      "value": "Whats a turn-off (something that kills the mood) for you during lovemaking? 3"
+      "value": "Whats a turn-off for you during lovemaking? 3"
     },
     {
       "key": "SEXY_0380",
@@ -4134,11 +4142,11 @@
     },
     {
       "key": "SEXY_0381",
-      "value": "Whats your personal signal when youre feeling stimulated (turned on)? 3"
+      "value": "Whats your personal signal when youre feeling stimulated? 3"
     },
     {
       "key": "SEXY_0383",
-      "value": "Have you loved yourself (solo) since you started dating? 3"
+      "value": "Have you done the \"act of pleasing yourself\" since you started dating? 3"
     },
     {
       "key": "SEXY_0384",
@@ -4146,7 +4154,7 @@
     },
     {
       "key": "SEXY_0385",
-      "value": "Have you ever had a physical partner (sex buddy)? 3"
+      "value": "Have you ever had a physical partner? 3"
     },
     {
       "key": "SEXY_0386",
@@ -4178,7 +4186,7 @@
     },
     {
       "key": "SEXY_0393",
-      "value": "Would you stimulate your partners back area with your mouth if they asked? 4"
+      "value": "Would you please your partners \"rearmost intimate spot\" with your mouth if they asked? 4"
     },
     {
       "key": "SEXY_0394",
@@ -4190,7 +4198,7 @@
     },
     {
       "key": "SEXY_0396",
-      "value": "Do you think you could star in an adult video if your face wasnt visible? 4"
+      "value": "Do you think you could star in an \"adult video\" if your face wasnt visible? 4"
     },
     {
       "key": "SEXY_0397",
@@ -4206,7 +4214,7 @@
     },
     {
       "key": "SEXY_0400",
-      "value": "(If you had to join an adult video shoot): Be the cameraperson vs Be the actor. 4"
+      "value": "(If you had to join an \"adult video\" shoot): Be the cameraperson vs Be the actor. 4"
     },
     {
       "key": "SEXY_0401",
@@ -4214,7 +4222,7 @@
     },
     {
       "key": "SEXY_0402",
-      "value": "Could you accept your partners warm stream on your body? What if (in the shower)? 4"
+      "value": "Could you accept your partners \"warm stream\" on your body? What if (in the shower)? 4"
     },
     {
       "key": "SEXY_0403",
@@ -4222,35 +4230,639 @@
     },
     {
       "key": "SEXY_0404",
-      "value": "What if your partner gave you love with two people (a threesome) as a birthday gift? 4"
+      "value": "What if your partner gave you love with two people as a birthday gift? 4"
     },
     {
       "key": "SEXY_0405",
-      "value": "Have you ever thought about wanting to make love together (swinging) with other couples? 4"
+      "value": "Have you ever thought about wanting to make love together with other couples? 4"
     },
     {
       "key": "SEXY_0406",
       "value": "If you could only make love in public places, where would you choose? 4"
     },
     {
-      "key": "SEXY_0407",
-      "value": "For a D/S relationship, would you want your partner to give you a dominant nickname? 4"
-    },
-    {
       "key": "SEXY_0408",
-      "value": "Do you have any desire to try making love (in the back)? 4"
+      "value": "Do you have any desire to try making love in the back area? 4"
     },
     {
       "key": "SEXY_0409",
-      "value": "Tell your partner everything you know about making love (in the back). 4"
+      "value": "Tell your partner everything you know about making love in the back area. 4"
     },
     {
       "key": "SEXY_0410",
-      "value": "What do you think about making love (in the back)? 4"
+      "value": "What do you think about making love in the back area? 4"
     },
     {
       "key": "SEXY_0411",
       "value": "Have you ever thought about wanting to watch your partner make love with someone else? 4"
+    },
+    {
+      "key": "SEXY_0412",
+      "value": "What about doing a live broadcast of your lovemaking on an adult site? 4"
+    },
+    {
+      "key": "SEXY_0413",
+      "value": "Do you want your partner to please between your buttocks with their mouth? 4"
+    },
+    {
+      "key": "SEXY_0414",
+      "value": "If your partner allowed it, would you make love with someone else for fun? 4"
+    },
+    {
+      "key": "SEXY_0415",
+      "value": "Are you a fan of making love in the back area? If so, describe the feeling. 4"
+    },
+    {
+      "key": "SEXY_0416",
+      "value": "Is there an act that scares you, but youd like to try once? 4"
+    },
+    {
+      "key": "SEXY_0417",
+      "value": "Would you like to make love in a \"Leading/Following\" relationship? 4"
+    },
+    {
+      "key": "SEXY_0418",
+      "value": "Have you ever used an adult toy? Describe the toy you used in detail. 4"
+    },
+    {
+      "key": "SEXY_0419",
+      "value": "Have you ever thought about making love with your friends parent? 4"
+    },
+    {
+      "key": "SEXY_0420",
+      "value": "Have you ever secretly made love while your family was at home? 4"
+    },
+    {
+      "key": "SEXY_0421",
+      "value": "Do you want your partner to please your \"rearmost intimate spot\" with their mouth? 4"
+    },
+    {
+      "key": "SEXY_0422",
+      "value": "Do you feel repulsed by your partner pleasing your \"toetips\" with their mouth? 4"
+    },
+    {
+      "key": "SEXY_0423",
+      "value": "Do you feel repulsed by your partner pleasing your \"armpit\" with their mouth? 4"
+    },
+    {
+      "key": "SEXY_0424",
+      "value": "What do you think about using ice on \"most private parts\" during lovemaking? 4"
+    },
+    {
+      "key": "SEXY_0425",
+      "value": "Tell your partner about a shocking \"act of pleasing yourself\" method you know of. 4"
+    },
+    {
+      "key": "SEXY_0426",
+      "value": "Do you feel stimulated by the smell of someones underwear? 4"
+    },
+    {
+      "key": "SEXY_0427",
+      "value": "Have you ever done the \"act of pleasing yourself\" while looking at photos/videos of a celebrity? 4"
+    },
+    {
+      "key": "SEXY_0428",
+      "value": "If you had to do the \"act of pleasing yourself\" with a fruit, which fruit would you choose? 4"
+    },
+    {
+      "key": "SEXY_0429",
+      "value": "Have you ever done the \"act of pleasing yourself\" using a fruit? 4"
+    },
+    {
+      "key": "SEXY_0430",
+      "value": "What would you do if you got an intimate illness from your partner? 4"
+    },
+    {
+      "key": "SEXY_0431",
+      "value": "What would you do if your partner asked to watch you make love with someone else? 4"
+    },
+    {
+      "key": "SEXY_0432",
+      "value": "What would you do if you found out your partner had starred in an \"adult video\"? 4"
+    },
+    {
+      "key": "SEXY_0433",
+      "value": "What part of your body would you like your partner to please with their mouth right now? 4"
+    },
+    {
+      "key": "SEXY_0434",
+      "value": "Could you hold in your reaction sounds while making love and talking on the phone? 4"
+    },
+    {
+      "key": "SEXY_0435",
+      "value": "Whats the sweetest part of your partners body? 4"
+    },
+    {
+      "key": "SEXY_0436",
+      "value": "Please rank these: With two people, Watching, Leading/Following, From behind. 4"
+    },
+    {
+      "key": "SEXY_0437",
+      "value": "Whats the name of the ex whose \"most private part\" was the most beautiful? 4"
+    },
+    {
+      "key": "SEXY_0438",
+      "value": "Whats the biggest age gap youve had with someone you made love with? 4"
+    },
+    {
+      "key": "SEXY_0439",
+      "value": "Did an ex ever wear a cosplay outfit for you? 4"
+    },
+    {
+      "key": "SEXY_0440",
+      "value": "Do you have a friend youre not dating, but have a physical relationship with? 4"
+    },
+    {
+      "key": "SEXY_0441",
+      "value": "Have you ever accidentally had a physical relationship with a friend? 4"
+    },
+    {
+      "key": "SEXY_0442",
+      "value": "Describe in detail what your first time making love with your partner was like. 4"
+    },
+    {
+      "key": "SEXY_0443",
+      "value": "Do you have a special skill you use to make love for a long time? 4"
+    },
+    {
+      "key": "SEXY_0444",
+      "value": "When do you get the thought, \"I want to finish inside\"? 4"
+    },
+    {
+      "key": "SEXY_0445",
+      "value": "If you could pick one role-play scenario (secret), what? 4"
+    },
+    {
+      "key": "SEXY_0446",
+      "value": "Do you want to try stimulating your partner (with whipped cream on their body)? 4"
+    },
+    {
+      "key": "SEXY_0447",
+      "value": "Have you ever thought about wanting to make love with someone of the same sex? 4"
+    },
+    {
+      "key": "SEXY_0448",
+      "value": "If you had to please one place on your partner with your mouth (excluding private parts), where? 4"
+    },
+    {
+      "key": "SEXY_0449",
+      "value": "Have you ever thought about wanting to watch other people make love? 4"
+    },
+    {
+      "key": "SEXY_0450",
+      "value": "Have you ever thought about wanting to watch your partner make love with someone else? 4"
+    },
+    {
+      "key": "SEXY_0451",
+      "value": "Are you satisfied with the shape of your \"most private part\"? Why or why not? 4"
+    },
+    {
+      "key": "SEXY_0452",
+      "value": "If you could change your \"most private part\", what would you change? Why? 4"
+    },
+    {
+      "key": "SEXY_0453",
+      "value": "Have you ever been annoyed by a hair getting in your mouth while stimulating your partner? 4"
+    },
+    {
+      "key": "SEXY_0454",
+      "value": "What do you think about swallowing your partners \"finish\"? 4"
+    },
+    {
+      "key": "SEXY_0455",
+      "value": "Describe in detail what your partner could do to make your body react strongly. 4"
+    },
+    {
+      "key": "SEXY_0456",
+      "value": "Name one public place where youd like to make love with your partner. 4"
+    },
+    {
+      "key": "SEXY_0457",
+      "value": "Have you ever witnessed other people making love in a public place? 4"
+    },
+    {
+      "key": "SEXY_0458",
+      "value": "If your partner stimulated you while you were asleep, would you like it or dislike it? 4"
+    },
+    {
+      "key": "SEXY_0459",
+      "value": "Have you ever done a close-contact dance at a club? 4"
+    },
+    {
+      "key": "SEXY_0460",
+      "value": "When doing it without a condom, have you ever felt you pulled out a bit late? 4"
+    },
+    {
+      "key": "SEXY_0461",
+      "value": "Describe in detail the difference in feeling with vs without a condom. 4"
+    },
+    {
+      "key": "SEXY_0462",
+      "value": "Have you ever seen someones outline because they werent wearing underwear? 4"
+    },
+    {
+      "key": "SEXY_0463",
+      "value": "What do you think if someone is too good at making love from the start? 4"
+    },
+    {
+      "key": "SEXY_0464",
+      "value": "Whats the steamiest dirty joke youve shared with friends? Tell your partner. 4"
+    },
+    {
+      "key": "SEXY_0465",
+      "value": "Would you accept if your partner asked you to video call while they do the \"act of pleasing themselves\" in public? 4"
+    },
+    {
+      "key": "SEXY_0466",
+      "value": "Would you accept if your partner asked to have a thrilling phone call tomorrow? 4"
+    },
+    {
+      "key": "SEXY_0467",
+      "value": "Would you accept if your partner asked to video call while you do the \"act of pleasing yourselves\" together? 4"
+    },
+    {
+      "key": "SEXY_0468",
+      "value": "Would you send a photo of your \"most private part\" if your partner asked for one at night? 4"
+    },
+    {
+      "key": "SEXY_0469",
+      "value": "Describe in detail how your partner stimulates you that makes you the most aroused. 4"
+    },
+    {
+      "key": "SEXY_0470",
+      "value": "Tell your partner about the most shocking \"adult video\" youve ever seen. 4"
+    },
+    {
+      "key": "SEXY_0471",
+      "value": "What is an intimate preference that you just cannot understand? 4"
+    },
+    {
+      "key": "SEXY_0472",
+      "value": "Are you stimulated or offended if your partner calls you naughty names during lovemaking? 4"
+    },
+    {
+      "key": "SEXY_0473",
+      "value": "During lovemaking, what moment made you feel your partner had lost control? 4"
+    },
+    {
+      "key": "SEXY_0474",
+      "value": "If you were to give your partners \"sensitive point\" a nickname? 4"
+    },
+    {
+      "key": "SEXY_0475",
+      "value": "Whats one thing you feel isnt compatible in bed? 4"
+    },
+    {
+      "key": "SEXY_0476",
+      "value": "Have you ever had a dream of intensely making love with your partner? 4"
+    },
+    {
+      "key": "SEXY_0477",
+      "value": "What if your partner were to lose their sexual function? 4"
+    },
+    {
+      "key": "SEXY_0478",
+      "value": "What if your partner opened the door for you wearing nothing? 4"
+    },
+    {
+      "key": "SEXY_0479",
+      "value": "If living together, what if your partner only walked around wearing nothing? 4"
+    },
+    {
+      "key": "SEXY_0480",
+      "value": "What anniversary gift would make you do anything for your partner? 4"
+    },
+    {
+      "key": "SEXY_0481",
+      "value": "If you could get in-bed advice from your partners ex, what would you ask? 4"
+    },
+    {
+      "key": "SEXY_0482",
+      "value": "Have you ever done the \"act of pleasing yourself\" while thinking about your partner? 4"
+    },
+    {
+      "key": "SEXY_0483",
+      "value": "Have you had a physical partner in the past? 4"
+    },
+    {
+      "key": "SEXY_0484",
+      "value": "What do you think about physical partners? 4"
+    },
+    {
+      "key": "SEXY_0485",
+      "value": "What if your ideal type (e.g., a celebrity) asked you to be physical partners? 4"
+    },
+    {
+      "key": "SEXY_0486",
+      "value": "Whats the most shocking thing youve heard during lovemaking? 4"
+    },
+    {
+      "key": "SEXY_0487",
+      "value": "What role-play do you really want to try with your partner? 4"
+    },
+    {
+      "key": "SEXY_0488",
+      "value": "What are 3 compliments for your partner (about making love)? 4"
+    },
+    {
+      "key": "SEXY_0489",
+      "value": "Is there an adult toy youd like to use when making love? 4"
+    },
+    {
+      "key": "SEXY_0490",
+      "value": "What was the most thrilling place youve ever made love? 4"
+    },
+    {
+      "key": "SEXY_0491",
+      "value": "Whats your least favorite behavior from your partner during lovemaking? 4"
+    },
+    {
+      "key": "SEXY_0492",
+      "value": "Have you ever taken intimate photos in the past? 4"
+    },
+    {
+      "key": "SEXY_0493",
+      "value": "Do you want to take intimate photos with your partner? 4"
+    },
+    {
+      "key": "SEXY_0494",
+      "value": "Think of one adult toy youd like to give your partner. 4"
+    },
+    {
+      "key": "SEXY_0495",
+      "value": "What season makes you think about making love the most? 4"
+    },
+    {
+      "key": "SEXY_0496",
+      "value": "Do you have an intimate preference for the smell of underwear? 4"
+    },
+    {
+      "key": "SEXY_0497",
+      "value": "Does kissing make you want to make love? 4"
+    },
+    {
+      "key": "SEXY_0498",
+      "value": "Have you ever made love with two different people within the same month? 4"
+    },
+    {
+      "key": "SEXY_0499",
+      "value": "Honestly, do you think your partner can handle your urges? 4"
+    },
+    {
+      "key": "SEXY_0500",
+      "value": "Tell me a time you wanted to do it like an animal. 4"
+    },
+    {
+      "key": "SEXY_0501",
+      "value": "Have you ever made love wearing office attire? 4"
+    },
+    {
+      "key": "SEXY_0502",
+      "value": "When the physical chemistry is good, does it feel mind-blowing? 4"
+    },
+    {
+      "key": "SEXY_0503",
+      "value": "If you have great physical chemistry but no feelings, would you keep thinking about them? 4"
+    },
+    {
+      "key": "SEXY_0504",
+      "value": "What do you think about making love before dating? 4"
+    },
+    {
+      "key": "SEXY_0505",
+      "value": "Have you ever made love at a club? Or do you want to try it? 4"
+    },
+    {
+      "key": "SEXY_0506",
+      "value": "If blindfolded, could you recognize your partner just by making love? 4"
+    },
+    {
+      "key": "SEXY_0507",
+      "value": "What do you think about making love while blindfolded? 4"
+    },
+    {
+      "key": "SEXY_0508",
+      "value": "Whats your go-to line to seduce your partner when you want to make love? 4"
+    },
+    {
+      "key": "SEXY_0509",
+      "value": "Do you believe in physical attachment? 4"
+    },
+    {
+      "key": "SEXY_0510",
+      "value": "Have you ever missed an ex because of that physical attachment? 4"
+    },
+    {
+      "key": "SEXY_0511",
+      "value": "After a breakup, have you ever thought back on the lovemaking you had? 4"
+    },
+    {
+      "key": "SEXY_0512",
+      "value": "Have you ever made love by mistake with someone of the opposite sex while drunk? 3"
+    },
+    {
+      "key": "SEXY_0513",
+      "value": "How did you first learn how to do the \"act of pleasing yourself\"? 3"
+    },
+    {
+      "key": "SEXY_0514",
+      "value": "If you couldnt make love after getting married, what would you do? 3"
+    },
+    {
+      "key": "SEXY_0515",
+      "value": "Describe in detail how to make love. 3"
+    },
+    {
+      "key": "SEXY_0516",
+      "value": "Have you ever told your friends about your lovemaking with your partner? 3"
+    },
+    {
+      "key": "SEXY_0517",
+      "value": "After you start dating, how long should you wait to make love? 3"
+    },
+    {
+      "key": "SEXY_0518",
+      "value": "Have you ever gotten a reaction just by being with your partner? 3"
+    },
+    {
+      "key": "SEXY_0519",
+      "value": "If you dont want to make love but your partner strongly insists, would you accept? 3"
+    },
+    {
+      "key": "SEXY_0520",
+      "value": "Do you think theres a big difference in feeling making love with vs without a condom? 3"
+    },
+    {
+      "key": "SEXY_0521",
+      "value": "Does it feel good when your partner stimulates your \"chest points\" with their mouth? 3"
+    },
+    {
+      "key": "SEXY_0522",
+      "value": "If Santa Claus gave you one adult toy for Christmas, what would you want? 3"
+    },
+    {
+      "key": "SEXY_0523",
+      "value": "Can you make love with someone regardless of face as long as they have a good body? 3"
+    },
+    {
+      "key": "SEXY_0524",
+      "value": "What would you think if your partner just lay still during lovemaking? 3"
+    },
+    {
+      "key": "SEXY_0525",
+      "value": "Have you ever made love with someone from another country? 3"
+    },
+    {
+      "key": "SEXY_0526",
+      "value": "What do you think about making love in a bathtub? 3"
+    },
+    {
+      "key": "SEXY_0527",
+      "value": "What do you think about showering together with your partner? 3"
+    },
+    {
+      "key": "SEXY_0528",
+      "value": "Can you please your partner with your mouth until they reach their \"ecstatic final moment\"? 4"
+    },
+    {
+      "key": "SEXY_0529",
+      "value": "Describe the shape of your \"chest points\". 3"
+    },
+    {
+      "key": "SEXY_0530",
+      "value": "Describe how your partner acts when you make love. 3"
+    },
+    {
+      "key": "SEXY_0531",
+      "value": "What signal would you like your partner to give when they want to make love? 3"
+    },
+    {
+      "key": "SEXY_0532",
+      "value": "Have you ever re-thought the lovemaking you had with an ex? 4"
+    },
+    {
+      "key": "SEXY_0533",
+      "value": "Do you know about the positions in the Kama Sutra? 4"
+    },
+    {
+      "key": "SEXY_0534",
+      "value": "Are you willing to study each others \"sensitive points\" for a better \"ecstatic final moment\"? 4"
+    },
+    {
+      "key": "SEXY_0535",
+      "value": "Whats one tip you learned from online videos for a better \"ecstatic final moment\"? 4"
+    },
+    {
+      "key": "SEXY_0536",
+      "value": "Whats one novel idea about making love you learned from online videos? 4"
+    },
+    {
+      "key": "SEXY_0537",
+      "value": "Share one review you heard from a friend about an adult toy. 4"
+    },
+    {
+      "key": "SEXY_0538",
+      "value": "Share an amazing lovemaking experience story you heard from a friend. 4"
+    },
+    {
+      "key": "SEXY_0539",
+      "value": "Whats one body part you found gross at first, but now think you could please with your mouth? 4"
+    },
+    {
+      "key": "SEXY_0540",
+      "value": "Is there a body part you think is truly disgusting to stimulate with your mouth? 4"
+    },
+    {
+      "key": "SEXY_0541",
+      "value": "How can your partner stimulate you to make you feel the best \"ecstatic final moment\"? 4"
+    },
+    {
+      "key": "SEXY_0542",
+      "value": "Have you ever heard of \"the act of pleasing yourself\" from the back? 4"
+    },
+    {
+      "key": "SEXY_0543",
+      "value": "Have you ever wanted to use an adult toy designed for the back? 4"
+    },
+    {
+      "key": "SEXY_0544",
+      "value": "Have you ever thought about wanting to try making love in the back area? 4"
+    },
+    {
+      "key": "SEXY_0545",
+      "value": "Have you heard what making love in the back area feels like? 4"
+    },
+    {
+      "key": "SEXY_0546",
+      "value": "If you made love with a celebrity 20+ years older? (Must pick one). 4"
+    },
+    {
+      "key": "SEXY_0547",
+      "value": "Have you heard about people who work at adult entertainment bars? Tell a fun story. 4"
+    },
+    {
+      "key": "SEXY_0548",
+      "value": "Have you ever thought about wanting to work at an adult entertainment bar? 4"
+    },
+    {
+      "key": "SEXY_0549",
+      "value": "What does it feel like when the physical chemistry is good? Describe. 4"
+    },
+    {
+      "key": "SEXY_0550",
+      "value": "Face vs Physique: Which is more important for lovemaking? 4"
+    },
+    {
+      "key": "SEXY_0551",
+      "value": "When women react and say \"Stop!\" during lovemaking: Does it really mean stop? What about you? 4"
+    },
+    {
+      "key": "SEXY_0552",
+      "value": "Have you ever heard of making love between women? 4"
+    },
+    {
+      "key": "SEXY_0553",
+      "value": "Do you know about any adult toys used between women? 4"
+    },
+    {
+      "key": "SEXY_0554",
+      "value": "Have you ever watched a video of same-sex lovemaking? If so, when? 4"
+    },
+    {
+      "key": "SEXY_0555",
+      "value": "Is it okay if your partner only wants stimulation and not lovemaking? 4"
+    },
+    {
+      "key": "SEXY_0556",
+      "value": "During lovemaking, do you prefer your partner to be more satisfied, or roughly equal? 4"
+    },
+    {
+      "key": "SEXY_0557",
+      "value": "When have you felt your partner made love even though they didnt want to? 4"
+    },
+    {
+      "key": "SEXY_0558",
+      "value": "If your partner doesnt want to make love (but you do), what line could convince them? 4"
+    },
+    {
+      "key": "SEXY_0559",
+      "value": "(On your best day) Whats the max number of times you could make love? 4"
+    },
+    {
+      "key": "SEXY_0560",
+      "value": "When is the moment you most want to make love with your partner? 4"
+    },
+    {
+      "key": "SEXY_0561",
+      "value": "What would you do if your friend (in a relationship) said they have a physical partner? 4"
+    },
+    {
+      "key": "SEXY_0562",
+      "value": "Have you ever thought, \"I just want to finish inside\"? 4"
+    },
+    {
+      "key": "SEXY_0563",
+      "value": "Have you ever experienced a strong odor from a private part? 4"
     },
     {
       "key": "ACTION_0001",
@@ -4274,11 +4886,11 @@
     },
     {
       "key": "ACTION_0006",
-      "value": "Whisper \"I love you\" in your partner's ear. 1"
+      "value": "Whisper \"I love you\" in your partners ear. 1"
     },
     {
       "key": "ACTION_0007",
-      "value": "Blow warm air into your partner's ear for 20 seconds [20] 1"
+      "value": "Blow warm air into your partners ear for 20 seconds [20] 1"
     },
     {
       "key": "ACTION_0008",
@@ -4286,7 +4898,7 @@
     },
     {
       "key": "ACTION_0009",
-      "value": "Smell your partner's feet and describe what they smell like. 1"
+      "value": "Smell your partners feet and describe what they smell like. 1"
     },
     {
       "key": "ACTION_0010",
@@ -4318,11 +4930,11 @@
     },
     {
       "key": "ACTION_0017",
-      "value": "Hold both of your partner's hands and say \"I love you\". 1"
+      "value": "Hold both of your partners hands and say \"I love you\". 1"
     },
     {
       "key": "ACTION_0018",
-      "value": "Get close to your partner's face, stare into their eyes for 5 seconds, then say \"I love you\". 1"
+      "value": "Get close to your partners face, stare into their eyes for 5 seconds, then say \"I love you\". 1"
     },
     {
       "key": "ACTION_0019",
@@ -4330,7 +4942,7 @@
     },
     {
       "key": "ACTION_0020",
-      "value": "Make a \"cute face\" until your partner admits it's cute. 1"
+      "value": "Make a \"cute face\" until your partner admits its cute. 1"
     },
     {
       "key": "ACTION_0021",
@@ -4342,11 +4954,11 @@
     },
     {
       "key": "ACTION_0023",
-      "value": "Make a \"sexy\" face until your partner admits it's sexy. 1"
+      "value": "Make a \"sexy\" face until your partner admits its sexy. 1"
     },
     {
       "key": "ACTION_0024",
-      "value": "Make a \"funny face\" until your partner admits it's funny. 1"
+      "value": "Make a \"funny face\" until your partner admits its funny. 1"
     },
     {
       "key": "ACTION_0025",
@@ -4394,15 +5006,15 @@
     },
     {
       "key": "ACTION_0036",
-      "value": "Smell one part of your partner's body that you are curious about. 1"
+      "value": "Smell one part of your partners body that you are curious about. 1"
     },
     {
       "key": "ACTION_0037",
-      "value": "Pinch your partner's cheek lovingly. 1"
+      "value": "Pinch your partners cheek lovingly. 1"
     },
     {
       "key": "ACTION_0038",
-      "value": "Stroke your partner's head lovingly for 10 seconds [10] 1"
+      "value": "Stroke your partners head lovingly for 10 seconds [10] 1"
     },
     {
       "key": "ACTION_0039",
@@ -4414,11 +5026,11 @@
     },
     {
       "key": "ACTION_0041",
-      "value": "Show a \"special talent\" (party trick) that others can't do. 1"
+      "value": "Show a \"special talent\" (party trick) that others cant do. 1"
     },
     {
       "key": "ACTION_0042",
-      "value": "Show your partner the face you make when you're really angry. 1"
+      "value": "Show your partner the face you make when youre really angry. 1"
     },
     {
       "key": "ACTION_0043",
@@ -4430,11 +5042,11 @@
     },
     {
       "key": "ACTION_0045",
-      "value": "Show your partner how you \"write 'I love you' in the air\" with your tongue. 1"
+      "value": "Show your partner how you \"write I love you in the air\" with your tongue. 1"
     },
     {
       "key": "ACTION_0046",
-      "value": "Say \"I'm so happy to be with you\" without letting your upper and lower lips touch. 1"
+      "value": "Say \"Im so happy to be with you\" without letting your upper and lower lips touch. 1"
     },
     {
       "key": "ACTION_0047",
@@ -4450,7 +5062,7 @@
     },
     {
       "key": "ACTION_0050",
-      "value": "Show your \"cutest charm\" (Aegyo) to show how you'd cheer them up when they're angry. 1"
+      "value": "Show your \"cutest charm\" to show how youd cheer them up when theyre angry. 1"
     },
     {
       "key": "ACTION_0051",
@@ -4462,11 +5074,11 @@
     },
     {
       "key": "ACTION_0053",
-      "value": "Act out \"hitting on\" (picking up) your partner like you just met at a club. 1"
+      "value": "Act out \"hitting on\" your partner like you just met at a club. 1"
     },
     {
       "key": "ACTION_0054",
-      "value": "Act out \"hitting on\" (picking up) your partner like you just met at a bar. 1"
+      "value": "Act out \"hitting on\" your partner like you just met at a bar. 1"
     },
     {
       "key": "ACTION_0055",
@@ -4482,11 +5094,11 @@
     },
     {
       "key": "ACTION_0058",
-      "value": "Act out how you would react if your partner's best friend confessed feelings for you. 1"
+      "value": "Act out how you would react if your partners best friend confessed feelings for you. 1"
     },
     {
       "key": "ACTION_0059",
-      "value": "Act out how you would react if your partner's parents told you to break up. 1"
+      "value": "Act out how you would react if your partners parents told you to break up. 1"
     },
     {
       "key": "ACTION_0060",
@@ -4494,15 +5106,15 @@
     },
     {
       "key": "ACTION_0061",
-      "value": "Sexily touch your partner's lips with your fingers for 10 seconds [10] 1"
+      "value": "Sexily touch your partners lips with your fingers for 10 seconds [10] 1"
     },
     {
       "key": "ACTION_0062",
-      "value": "Pretend you're a \"caveman\" and passionately express your love for 15s [15] 1"
+      "value": "Pretend youre a \"caveman\" and passionately express your love for 15s [15] 1"
     },
     {
       "key": "ACTION_0063",
-      "value": "Pretend you're a \"puppy\" and passionately express your love for 15s [15] 1"
+      "value": "Pretend youre a \"puppy\" and passionately express your love for 15s [15] 1"
     },
     {
       "key": "ACTION_0064",
@@ -4510,11 +5122,11 @@
     },
     {
       "key": "ACTION_0065",
-      "value": "Pretend you just met at a club and \"dance closely\" (sexy) with your partner for 30s [30] 1"
+      "value": "Pretend you just met at a club and \"dance closely\" with your partner for 30s [30] 1"
     },
     {
       "key": "ACTION_0066",
-      "value": "Act out how you'd react if your best friend insulted your partner. 1"
+      "value": "Act out how youd react if your best friend insulted your partner. 1"
     },
     {
       "key": "ACTION_0067",
@@ -4530,19 +5142,19 @@
     },
     {
       "key": "ACTION_0070",
-      "value": "Show the muscle you're most proud of and let your partner touch it. 1"
+      "value": "Show the muscle youre most proud of and let your partner touch it. 1"
     },
     {
       "key": "ACTION_0071",
-      "value": "Just stare at your partner with loving eyes for 10 seconds. Don't look away [10] 1"
+      "value": "Just stare at your partner with loving eyes for 10 seconds. Dont look away [10] 1"
     },
     {
       "key": "ACTION_0072",
-      "value": "Stare at partner's eyes (5s), nose (5s), lips (5s), then eyes again (5s) [20] 1"
+      "value": "Stare at partners eyes (5s), nose (5s), lips (5s), then eyes again (5s) [20] 1"
     },
     {
       "key": "ACTION_0073",
-      "value": "Gently cover your partner's ears and tell them (at length) why you like them. 1"
+      "value": "Gently cover your partners ears and tell them (at length) why you like them. 1"
     },
     {
       "key": "ACTION_0074",
@@ -4550,7 +5162,7 @@
     },
     {
       "key": "ACTION_0075",
-      "value": "Tickle your partner's ear with your finger [10] 1"
+      "value": "Tickle your partners ear with your finger [10] 1"
     },
     {
       "key": "ACTION_0076",
@@ -4566,19 +5178,19 @@
     },
     {
       "key": "ACTION_0079",
-      "value": "Pretend you're an \"alien\" and passionately express your love for 15s [15] 1"
+      "value": "Pretend youre an \"alien\" and passionately express your love for 15s [15] 1"
     },
     {
       "key": "ACTION_0080",
-      "value": "Pretend you're a \"cat\" and passionately express your love for 15s [15] 1"
+      "value": "Pretend youre a \"cat\" and passionately express your love for 15s [15] 1"
     },
     {
       "key": "ACTION_0081",
-      "value": "Show the face you'd make if you saw your partner holding hands with someone else. 1"
+      "value": "Show the face youd make if you saw your partner holding hands with someone else. 1"
     },
     {
       "key": "ACTION_0082",
-      "value": "Show how you'd act if your close friend said they like your partner. 1"
+      "value": "Show how youd act if your close friend said they like your partner. 1"
     },
     {
       "key": "ACTION_0083",
@@ -4586,19 +5198,19 @@
     },
     {
       "key": "ACTION_0084",
-      "value": "Play a waltz, hold your partner's waist, and dance for 30 seconds [30] 1"
+      "value": "Play a waltz, hold your partners waist, and dance for 30 seconds [30] 1"
     },
     {
       "key": "ACTION_0085",
-      "value": "Put your fingers on your cheeks and say \"Aren't I cute? Chuu?\" in a cute voice. 1"
+      "value": "Put your fingers on your cheeks and say \"Arent I cute? Chuu?\" in a cute voice. 1"
     },
     {
       "key": "ACTION_0086",
-      "value": "Pretend you're 80 years old and say \"Thank you for always being with me, I love you\" in an old voice. 1"
+      "value": "Pretend youre 80 years old and say \"Thank you for always being with me, I love you\" in an old voice. 1"
     },
     {
       "key": "ACTION_0087",
-      "value": "Pretend you're a massage therapist. Have your partner lie face down and give a massage for 30s [30] 1"
+      "value": "Pretend youre a massage therapist. Have your partner lie face down and give a massage for 30s [30] 1"
     },
     {
       "key": "ACTION_0088",
@@ -4618,7 +5230,7 @@
     },
     {
       "key": "ACTION_0092",
-      "value": "Gently stroke your partner's hair while looking into their eyes for 10 seconds [10] 1"
+      "value": "Gently stroke your partners hair while looking into their eyes for 10 seconds [10] 1"
     },
     {
       "key": "ACTION_0093",
@@ -4630,7 +5242,7 @@
     },
     {
       "key": "ACTION_0095",
-      "value": "Lean your head on your partner's shoulder and ask, \"Why do you like me?\" 1"
+      "value": "Lean your head on your partners shoulder and ask, \"Why do you like me?\" 1"
     },
     {
       "key": "ACTION_0096",
@@ -4642,15 +5254,15 @@
     },
     {
       "key": "ACTION_0098",
-      "value": "Close your eyes and slowly touch your partner's eyes, nose, and mouth. 1"
+      "value": "Close your eyes and slowly touch your partners eyes, nose, and mouth. 1"
     },
     {
       "key": "ACTION_0099",
-      "value": "Close your eyes and slowly touch your partner's lips for 15 seconds [15] 1"
+      "value": "Close your eyes and slowly touch your partners lips for 15 seconds [15] 1"
     },
     {
       "key": "ACTION_0100",
-      "value": "Whisper a short, \"sexy breath\" into your partner's ear. 1"
+      "value": "Whisper a short, \"sexy breath\" into your partners ear. 1"
     },
     {
       "key": "ACTION_0101",
@@ -4658,11 +5270,11 @@
     },
     {
       "key": "ACTION_0102",
-      "value": "Hold your partner's hand until the next turn. 1"
+      "value": "Hold your partners hand until the next turn. 1"
     },
     {
       "key": "ACTION_0103",
-      "value": "Keep your arm around your partner's shoulder until the next turn. 1"
+      "value": "Keep your arm around your partners shoulder until the next turn. 1"
     },
     {
       "key": "ACTION_0104",
@@ -4698,7 +5310,7 @@
     },
     {
       "key": "ACTION_0112",
-      "value": "Only make \"cat sounds\" (meow) until the next turn. 1"
+      "value": "Only make \"cat sounds\" until the next turn. 1"
     },
     {
       "key": "ACTION_0113",
@@ -4730,11 +5342,11 @@
     },
     {
       "key": "ACTION_0120",
-      "value": "Act out how you would reject someone you don't want to date. 1"
+      "value": "Act out how you would reject someone you dont want to date. 1"
     },
     {
       "key": "ACTION_0121",
-      "value": "Pretend you're a \"unique animal\" and do a courtship dance for 20s [20] 1"
+      "value": "Pretend youre a \"unique animal\" and do a courtship dance for 20s [20] 1"
     },
     {
       "key": "ACTION_0122",
@@ -4742,15 +5354,15 @@
     },
     {
       "key": "ACTION_0123",
-      "value": "Write your name on your partner's hand with lipstick or eyeliner. 1"
+      "value": "Write your name on your partners hand with lipstick or eyeliner. 1"
     },
     {
       "key": "ACTION_0124",
-      "value": "\"Slap\" your partner's palm. 1"
+      "value": "\"Slap\" your partners palm. 1"
     },
     {
       "key": "ACTION_0125",
-      "value": "\"Slap\" your partner's calf. 1"
+      "value": "\"Slap\" your partners calf. 1"
     },
     {
       "key": "ACTION_0126",
@@ -4762,7 +5374,7 @@
     },
     {
       "key": "ACTION_0128",
-      "value": "Whisper to your partner's ear how much you love them. 1"
+      "value": "Whisper to your partners ear how much you love them. 1"
     },
     {
       "key": "ACTION_0129",
@@ -4786,15 +5398,15 @@
     },
     {
       "key": "ACTION_0134",
-      "value": "Act \"cutesy\" and say a \"magic spell\" until your partner admits it's cute. 1"
+      "value": "Act \"cutesy\" and say a \"magic spell\" until your partner admits its cute. 1"
     },
     {
       "key": "ACTION_0135",
-      "value": "Dance the \"funniest dance\" you've ever seen, until your partner says stop. 1"
+      "value": "Dance the \"funniest dance\" youve ever seen, until your partner says stop. 1"
     },
     {
       "key": "ACTION_0136",
-      "value": "Say \"You're so cute I want to bite you\" using ventriloquism. 1"
+      "value": "Say \"Youre so cute I want to bite you\" using ventriloquism. 1"
     },
     {
       "key": "ACTION_0137",
@@ -4802,7 +5414,7 @@
     },
     {
       "key": "ACTION_0138",
-      "value": "Put your fingers on your cheeks, say \"I'm pouting, hng hng,\" until your partner admits it. 1"
+      "value": "Put your fingers on your cheeks, say \"Im pouting, hng hng,\" until your partner admits it. 1"
     },
     {
       "key": "ACTION_0139",
@@ -4830,11 +5442,11 @@
     },
     {
       "key": "ACTION_0145",
-      "value": "Whisper one \"intimate\" (naughty) word into your partner's ear. 2"
+      "value": "Whisper one \"intimate\" word into your partners ear. 2"
     },
     {
       "key": "ACTION_0146",
-      "value": "Tickle your partner's ear with your tongue for 20 seconds [20] 2"
+      "value": "Tickle your partners ear with your tongue for 20 seconds [20] 2"
     },
     {
       "key": "ACTION_0147",
@@ -4850,11 +5462,11 @@
     },
     {
       "key": "ACTION_0150",
-      "value": "Pretend there's ice cream on your partner's ear and \"clean it\" (with your mouth) for 20s [20] 2"
+      "value": "Pretend theres ice cream on your partners ear and \"clean it\" (with your mouth) for 20s [20] 2"
     },
     {
       "key": "ACTION_0151",
-      "value": "\"Stimulate\" your partner's neck with your tongue for 20 seconds [20] 2"
+      "value": "\"Stimulate\" your partners neck with your tongue for 20 seconds [20] 2"
     },
     {
       "key": "ACTION_0152",
@@ -4862,7 +5474,7 @@
     },
     {
       "key": "ACTION_0153",
-      "value": "Gently tickle your partner's back with your fingers for 30s to \"stimulate\" them [30] 2"
+      "value": "Gently tickle your partners back with your fingers for 30s to \"stimulate\" them [30] 2"
     },
     {
       "key": "ACTION_0154",
@@ -4870,7 +5482,7 @@
     },
     {
       "key": "ACTION_0155",
-      "value": "Massage your partner's butt for 30 seconds [30] 2"
+      "value": "Massage your partners butt for 30 seconds [30] 2"
     },
     {
       "key": "ACTION_0156",
@@ -4890,7 +5502,7 @@
     },
     {
       "key": "ACTION_0160",
-      "value": "Leave one \"kiss mark\" (hickey) on your partner's arm. 2"
+      "value": "Leave one \"kiss mark\" (hickey) on your partners arm. 2"
     },
     {
       "key": "ACTION_0161",
@@ -4922,7 +5534,7 @@
     },
     {
       "key": "ACTION_0168",
-      "value": "Bury your nose in your partner's navel and smell it for 20 seconds [20] 2"
+      "value": "Bury your nose in your partners navel and smell it for 20 seconds [20] 2"
     },
     {
       "key": "ACTION_0169",
@@ -4930,15 +5542,15 @@
     },
     {
       "key": "ACTION_0170",
-      "value": "While your partner's eyes are closed, kiss them anywhere you want. 2"
+      "value": "While your partners eyes are closed, kiss them anywhere you want. 2"
     },
     {
       "key": "ACTION_0171",
-      "value": "Let your partner hear the \"sexy breathing sounds\" you make when you're \"stimulated\". 2"
+      "value": "Let your partner hear the \"sexy breathing sounds\" you make when youre \"stimulated\". 2"
     },
     {
       "key": "ACTION_0172",
-      "value": "Press your cheek against your partner's cheek and rub lovingly. 2"
+      "value": "Press your cheek against your partners cheek and rub lovingly. 2"
     },
     {
       "key": "ACTION_0173",
@@ -4958,27 +5570,27 @@
     },
     {
       "key": "ACTION_0177",
-      "value": "Just lightly touch your lips to your partner's lips and stay still for 10s [10] 2"
+      "value": "Just lightly touch your lips to your partners lips and stay still for 10s [10] 2"
     },
     {
       "key": "ACTION_0178",
-      "value": "(Roleplay) Act out how you'd try to kiss your partner (who is very angry). 2"
+      "value": "(Roleplay) Act out how youd try to kiss your partner (who is very angry). 2"
     },
     {
       "key": "ACTION_0179",
-      "value": "(Roleplay) Act out how you would react if your partner's best friend tried to kiss you. 2"
+      "value": "(Roleplay) Act out how you would react if your partners best friend tried to kiss you. 2"
     },
     {
       "key": "ACTION_0180",
-      "value": "Pretend you're \"extremely stimulated\" and kiss your partner \"like a beast\" for 10s [10] 2"
+      "value": "Pretend youre \"extremely stimulated\" and kiss your partner \"like a beast\" for 10s [10] 2"
     },
     {
       "key": "ACTION_0181",
-      "value": "Use only your nose to trace a line from your partner's forehead, down their eyes, nose, lips, to their chin. 2"
+      "value": "Use only your nose to trace a line from your partners forehead, down their eyes, nose, lips, to their chin. 2"
     },
     {
       "key": "ACTION_0182",
-      "value": "Write \"I love you\" on your partner's neck with your tongue. 2"
+      "value": "Write \"I love you\" on your partners neck with your tongue. 2"
     },
     {
       "key": "ACTION_0183",
@@ -5002,19 +5614,19 @@
     },
     {
       "key": "ACTION_0188",
-      "value": "Place your ear on your partner's chest and feel their heartbeat for 10s [10] 2"
+      "value": "Place your ear on your partners chest and feel their heartbeat for 10s [10] 2"
     },
     {
       "key": "ACTION_0189",
-      "value": "Hold your partner's hands (interlaced fingers) tightly and kiss for 10s [10] 2"
+      "value": "Hold your partners hands (interlaced fingers) tightly and kiss for 10s [10] 2"
     },
     {
       "key": "ACTION_0190",
-      "value": "Pretend you're a \"puppy\" and give \"puppy kisses\" to your partner's lips for 10s [10] 2"
+      "value": "Pretend youre a \"puppy\" and give \"puppy kisses\" to your partners lips for 10s [10] 2"
     },
     {
       "key": "ACTION_0191",
-      "value": "Briefly touch your tongue to the \"tip of your partner's nose\" and pull it back. 2"
+      "value": "Briefly touch your tongue to the \"tip of your partners nose\" and pull it back. 2"
     },
     {
       "key": "ACTION_0192",
@@ -5026,7 +5638,7 @@
     },
     {
       "key": "ACTION_0194",
-      "value": "Close your eyes, then try to find your partner's lips (on their face) and kiss them. 2"
+      "value": "Close your eyes, then try to find your partners lips (on their face) and kiss them. 2"
     },
     {
       "key": "ACTION_0195",
@@ -5034,11 +5646,11 @@
     },
     {
       "key": "ACTION_0196",
-      "value": "Take off both of your partner's socks using only your mouth. 2"
+      "value": "Take off both of your partners socks using only your mouth. 2"
     },
     {
       "key": "ACTION_0197",
-      "value": "Take off one of your partner's socks using only your mouth. 2"
+      "value": "Take off one of your partners socks using only your mouth. 2"
     },
     {
       "key": "ACTION_0198",
@@ -5046,43 +5658,43 @@
     },
     {
       "key": "ACTION_0199",
-      "value": "Lie down side-by-side and \"spoon\" (cuddle) for 15 seconds [15] 2"
-    },
-    {
-      "key": "ACTION_0200",
       "value": "Lie down for 15s while letting your partner \"use your arm as a pillow\" [15] 2"
     },
     {
-      "key": "ACTION_0201",
+      "key": "ACTION_0200",
       "value": "Have your partner lie face down, then lie on top of them for 15s [15] 2"
     },
     {
-      "key": "ACTION_0202",
-      "value": "Whisper in your partner's ear which part of their body is the sexiest. 2"
+      "key": "ACTION_0201",
+      "value": "Whisper in your partners ear which part of their body is the sexiest. 2"
     },
     {
-      "key": "ACTION_0203",
+      "key": "ACTION_0202",
       "value": "Have your partner touch the \"softest\" part of your body. 2"
     },
     {
-      "key": "ACTION_0204",
+      "key": "ACTION_0203",
       "value": "Have your partner sit on your lap and make eye contact. 2"
     },
     {
-      "key": "ACTION_0205",
-      "value": "Draw a heart on your partner's face with lipstick or eyeliner. 2"
+      "key": "ACTION_0204",
+      "value": "Draw a heart on your partners face with lipstick or eyeliner. 2"
     },
     {
-      "key": "ACTION_0206",
+      "key": "ACTION_0205",
       "value": "Do a \"sexy dance\" while sitting down for 15 seconds [15] 2"
     },
     {
+      "key": "ACTION_0206",
+      "value": "\"Stimulate\" your partners shoulder \"with your mouth\" for 10 seconds [10] 2"
+    },
+    {
       "key": "ACTION_0207",
-      "value": "\"Stimulate\" your partner's shoulder \"with your mouth\" for 10 seconds [10] 2"
+      "value": "Have your partner touch the \"hardest\" part of your body. 2"
     },
     {
       "key": "ACTION_0208",
-      "value": "Have your partner touch the \"hardest\" (firmest) part of your body. 2"
+      "value": "Be \"submissive\" to your partner for 1 min. You must call them \"Master\". [60] 2"
     },
     {
       "key": "ACTION_0209",
@@ -5090,47 +5702,1087 @@
     },
     {
       "key": "ACTION_0210",
-      "value": "Be \"submissive\" to your partner for 1 min. You must call them \"Master\". [60] 2"
-    },
-    {
-      "key": "ACTION_0211",
       "value": "Continue doing a \"sexy dance\" until your next turn. 2"
     },
     {
-      "key": "ACTION_0212",
-      "value": "\"Twerk\" in front of your partner's face for 20 seconds [20] 2"
+      "key": "ACTION_0211",
+      "value": "\"Twerk\" in front of your partners face for 20 seconds [20] 2"
     },
     {
-      "key": "ACTION_0213",
+      "key": "ACTION_0212",
       "value": "Give your partner a \"heartfelt, tight hug\". 2"
     },
     {
-      "key": "ACTION_0214",
-      "value": "Write your name on your partner's neck with lipstick or eyeliner. 2"
+      "key": "ACTION_0213",
+      "value": "Write your name on your partners neck with lipstick or eyeliner. 2"
     },
     {
-      "key": "ACTION_0215",
+      "key": "ACTION_0214",
       "value": "Give your partner a light \"spank\" on the sole of their foot. 2"
     },
     {
-      "key": "ACTION_0216",
+      "key": "ACTION_0215",
       "value": "Give your partner a light \"spank\" on their thigh. 2"
     },
     {
-      "key": "ACTION_0217",
-      "value": "\"Lightly slap\" your partner's lips with your lips. 2"
+      "key": "ACTION_0216",
+      "value": "\"Lightly slap\" your partners lips with your lips. 2"
     },
     {
-      "key": "ACTION_0218",
+      "key": "ACTION_0217",
       "value": "Get on all fours (cat pose) and \"meow\" 5 times. 2"
     },
     {
-      "key": "ACTION_0219",
+      "key": "ACTION_0218",
       "value": "\"Deep kiss\" for 1 minute [60] 2"
     },
     {
-      "key": "ACTION_0220",
+      "key": "ACTION_0219",
       "value": "\"Deep kiss\" for 2 minutes [120] 2"
+    },
+    {
+      "key": "ACTION_0220",
+      "value": "Only speak in a \"sexy voice\" until your next turn. 2"
+    },
+    {
+      "key": "ACTION_0221",
+      "value": "Say one \"naughty word\" to your partner (that they agree is \"naughty\"). 2"
+    },
+    {
+      "key": "ACTION_0222",
+      "value": "Make \"sexy\" eye contact with each other for 15 seconds [15] 2"
+    },
+    {
+      "key": "ACTION_0223",
+      "value": "Swap your shirts (upper body clothing) with each other. 2"
+    },
+    {
+      "key": "ACTION_0224",
+      "value": "Gently trace your partners face (top-to-bottom) three times with your finger. 2"
+    },
+    {
+      "key": "ACTION_0225",
+      "value": "Stare \"intensely\" at your partner and slowly say, \"Im going to have all of you.\" 2"
+    },
+    {
+      "key": "ACTION_0226",
+      "value": "Put on lipstick and leave a \"kiss mark\" on your partners face. 2"
+    },
+    {
+      "key": "ACTION_0227",
+      "value": "Make your partner laugh by making \"funny movements\" with your tongue. 2"
+    },
+    {
+      "key": "ACTION_0228",
+      "value": "Gently poke the \"cutest\" part of your partner. 2"
+    },
+    {
+      "key": "ACTION_0229",
+      "value": "Give your partner a short, \"surprise\" kiss right now. 2"
+    },
+    {
+      "key": "ACTION_0230",
+      "value": "Think about how youd like to be hugged to make your heart flutter, then hug them that way. 2"
+    },
+    {
+      "key": "ACTION_0231",
+      "value": "Place your hand somewhere you can feel your partners heartbeat and quietly feel it. 2"
+    },
+    {
+      "key": "ACTION_0232",
+      "value": "Do one \"skinship\"that you want to do to your partner right now. 2"
+    },
+    {
+      "key": "ACTION_0233",
+      "value": "Kiss your partner on the lips (with a fluttering heart) like its your first time. 2"
+    },
+    {
+      "key": "ACTION_0234",
+      "value": "Whisper in their ear, \"I love you as much as [fill in the blank].\" 2"
+    },
+    {
+      "key": "ACTION_0235",
+      "value": "Whisper in their ear, \"I love you so much, I could even [fill in the blank] for you.\" 2"
+    },
+    {
+      "key": "ACTION_0236",
+      "value": "Blow \"sexy\" hot breath into your partners ear. 2"
+    },
+    {
+      "key": "ACTION_0237",
+      "value": "Make eye contact and talk for 1 minute [60] 2"
+    },
+    {
+      "key": "ACTION_0238",
+      "value": "Kiss your partner in this order: Forehead, cheek, then lips. 2"
+    },
+    {
+      "key": "ACTION_0239",
+      "value": "Take a \"kissing selfie\" with the remaining phone. 2"
+    },
+    {
+      "key": "ACTION_0240",
+      "value": "Take a \"cheek-to-cheek\" selfie with the remaining phone. 2"
+    },
+    {
+      "key": "ACTION_0241",
+      "value": "Take a \"back hug selfie\" with the remaining phone. 2"
+    },
+    {
+      "key": "ACTION_0242",
+      "value": "Take a \"tight hug selfie\" with the remaining phone. 2"
+    },
+    {
+      "key": "ACTION_0243",
+      "value": "Take a \"kiss on the cheek\" selfie with the remaining phone. 2"
+    },
+    {
+      "key": "ACTION_0244",
+      "value": "Say \"Can you kiss me?\" using ventriloquism. 2"
+    },
+    {
+      "key": "ACTION_0245",
+      "value": "(Roleplay) You secretly went to a club, talked to someone... and it was your partner. 2"
+    },
+    {
+      "key": "ACTION_0246",
+      "value": "(Roleplay) You secretly went to a \"pick-up bar,\" talked to someone... and it was your partner. 2"
+    },
+    {
+      "key": "ACTION_0247",
+      "value": "(Roleplay) Pretend you just met your partner at a \"pick-up bar\" and try to talk to them. 2"
+    },
+    {
+      "key": "ACTION_0248",
+      "value": "(Roleplay) Youre in the bathroom, and someone is asking for your partners number. 2"
+    },
+    {
+      "key": "ACTION_0249",
+      "value": "(Roleplay) Your partner (who said theyre \"sleeping\") is seen kissing someone at a bar. 2"
+    },
+    {
+      "key": "ACTION_0250",
+      "value": "With your partner sitting on your lap, kiss them for 30 seconds [30] 2"
+    },
+    {
+      "key": "ACTION_0251",
+      "value": "Only speak in a \"sexy voice\" until your next turn. 2"
+    },
+    {
+      "key": "ACTION_0252",
+      "value": "Say one \"naughty word\" to your partner (that they agree is \"naughty\"). 2"
+    },
+    {
+      "key": "ACTION_0253",
+      "value": "Make \"sexy\" eye contact with each other for 15 seconds [15] 2"
+    },
+    {
+      "key": "ACTION_0254",
+      "value": "Swap your shirts (upper body clothing) with each other. 2"
+    },
+    {
+      "key": "ACTION_0255",
+      "value": "Gently trace your partners face (top-to-bottom) three times with your finger. 2"
+    },
+    {
+      "key": "ACTION_0256",
+      "value": "Stare \"intensely\" at your partner and slowly say, \"Im going to have all of you.\" 2"
+    },
+    {
+      "key": "ACTION_0257",
+      "value": "Put on lipstick and leave a \"kiss mark\" on your partners face. 2"
+    },
+    {
+      "key": "ACTION_0258",
+      "value": "Make your partner laugh by making \"funny movements\" with your tongue. 2"
+    },
+    {
+      "key": "ACTION_0259",
+      "value": "Gently poke the \"cutest\" part of your partner. 2"
+    },
+    {
+      "key": "ACTION_0260",
+      "value": "Give your partner a short, \"surprise\" kiss right now. 2"
+    },
+    {
+      "key": "ACTION_0261",
+      "value": "Think about how youd like to be hugged to make your heart flutter, then hug them that way. 2"
+    },
+    {
+      "key": "ACTION_0262",
+      "value": "Place your hand somewhere you can feel your partners heartbeat and quietly feel it. 2"
+    },
+    {
+      "key": "ACTION_0263",
+      "value": "Do one \"skinship\" that you want to do to your partner right now. 2"
+    },
+    {
+      "key": "ACTION_0264",
+      "value": "Kiss your partner on the lips (with a fluttering heart) like its your first time. 2"
+    },
+    {
+      "key": "ACTION_0265",
+      "value": "Whisper in their ear, \"I love you as much as [fill in the blank].\" 2"
+    },
+    {
+      "key": "ACTION_0266",
+      "value": "Whisper in their ear, \"I love you so much, I could even [fill in the blank] for you.\" 2"
+    },
+    {
+      "key": "ACTION_0267",
+      "value": "Blow \"sexy\" hot breath into your partners ear. 2"
+    },
+    {
+      "key": "ACTION_0268",
+      "value": "Make eye contact and talk for 1 minute [60] 2"
+    },
+    {
+      "key": "ACTION_0269",
+      "value": "Kiss your partner in this order: Forehead, cheek, then lips. 2"
+    },
+    {
+      "key": "ACTION_0270",
+      "value": "Take a \"kissing selfie\" with the remaining phone. 2"
+    },
+    {
+      "key": "ACTION_0271",
+      "value": "Take a \"cheek-to-cheek\" selfie with the remaining phone. 2"
+    },
+    {
+      "key": "ACTION_0272",
+      "value": "Take a \"back hug selfie\" with the remaining phone. 2"
+    },
+    {
+      "key": "ACTION_0273",
+      "value": "Take a \"tight hug selfie\" with the remaining phone. 2"
+    },
+    {
+      "key": "ACTION_0274",
+      "value": "Take a \"kiss on the cheek\" selfie with the remaining phone. 2"
+    },
+    {
+      "key": "ACTION_0275",
+      "value": "Say \"Can you kiss me?\" using ventriloquism. 2"
+    },
+    {
+      "key": "ACTION_0276",
+      "value": "(Roleplay) You secretly went to a club, talked to someone... and it was your partner. 2"
+    },
+    {
+      "key": "ACTION_0277",
+      "value": "(Roleplay) You secretly went to a \"pick-up bar,\" talked to someone... and it was your partner. 2"
+    },
+    {
+      "key": "ACTION_0278",
+      "value": "(Roleplay) Pretend you just met your partner at a \"pick-up bar\" and try to talk to them. 2"
+    },
+    {
+      "key": "ACTION_0279",
+      "value": "(Roleplay) Youre in the bathroom, and someone is asking for your partners number. 2"
+    },
+    {
+      "key": "ACTION_0280",
+      "value": "(Roleplay) Your partner (who said theyre \"sleeping\") is seen kissing someone at a bar. 2"
+    },
+    {
+      "key": "ACTION_0281",
+      "value": "With your partner sitting on your lap, kiss them for 30 seconds [30] 2"
+    },
+    {
+      "key": "ACTION_0282",
+      "value": "Show your partner your hip line for 5 seconds.[5]3"
+    },
+    {
+      "key": "ACTION_0283",
+      "value": "Show your partner your most private part for 10 seconds.[10]3"
+    },
+    {
+      "key": "ACTION_0284",
+      "value": "Show your partner your bust line for 10 seconds.[10]3"
+    },
+    {
+      "key": "ACTION_0285",
+      "value": "Show your partner the hair on your most private part for 10 seconds.[10]3"
+    },
+    {
+      "key": "ACTION_0286",
+      "value": "Hold water in your mouth and pass it to your partner, mouth-to-mouth.3"
+    },
+    {
+      "key": "ACTION_0287",
+      "value": "Whisper in your partners ear how much you want to make love to them right now.3"
+    },
+    {
+      "key": "ACTION_0288",
+      "value": "Give your partner a light kiss on their left and right chest points, one by one.3"
+    },
+    {
+      "key": "ACTION_0289",
+      "value": "Make your partners chest points feel good with your mouth for 60 seconds.[60]3"
+    },
+    {
+      "key": "ACTION_0290",
+      "value": "Mime caressing your partners most private part in the air for 30 seconds.[30]3"
+    },
+    {
+      "key": "ACTION_0291",
+      "value": "Give your partner one strand of hair from your most private part.3"
+    },
+    {
+      "key": "ACTION_0292",
+      "value": "Sexily touch your partners hip line for 60 seconds.[60]3"
+    },
+    {
+      "key": "ACTION_0293",
+      "value": "Leave one sweet mark on your partners neck.3"
+    },
+    {
+      "key": "ACTION_0294",
+      "value": "Gently nibble your partners hip line.3"
+    },
+    {
+      "key": "ACTION_0295",
+      "value": "Gently nibble your partners bust line.3"
+    },
+    {
+      "key": "ACTION_0296",
+      "value": "Say one secret and sexy thing to your partner.3"
+    },
+    {
+      "key": "ACTION_0297",
+      "value": "Show your partner how you touch your chest points with your finger for 30 seconds.[30]3"
+    },
+    {
+      "key": "ACTION_0298",
+      "value": "Make your partners waist feel good with your mouth for 30 seconds.[30]3"
+    },
+    {
+      "key": "ACTION_0299",
+      "value": "Dance a sexy dance for 60 seconds wearing as little as possible to a song your partner plays.[60]3"
+    },
+    {
+      "key": "ACTION_0300",
+      "value": "Write what you want to say to your partner on their hip line with your finger.3"
+    },
+    {
+      "key": "ACTION_0301",
+      "value": "Try to say \"I want to make love with you\" without your upper and lower lips touching.3"
+    },
+    {
+      "key": "ACTION_0302",
+      "value": "Express through dance how you feel when you make love with your partner.3"
+    },
+    {
+      "key": "ACTION_0303",
+      "value": "Imitate how your partner acts when you make love together.3"
+    },
+    {
+      "key": "ACTION_0304",
+      "value": "Just place your hand on your partners most private part and stay still for 10 seconds.[10]3"
+    },
+    {
+      "key": "ACTION_0305",
+      "value": "Act out what you would do in a situation where your partner is very angry, but you want to make love.3"
+    },
+    {
+      "key": "ACTION_0306",
+      "value": "Act out how you would react if your partners close friend said they wanted to make love with you.3"
+    },
+    {
+      "key": "ACTION_0307",
+      "value": "As if they are incredibly lovely, make your partners chest points feel good with your mouth for 10 seconds.[10]3"
+    },
+    {
+      "key": "ACTION_0308",
+      "value": "Using only your lips, touch your partners forehead, eyes, nose, lips, and then down to their chin.3"
+    },
+    {
+      "key": "ACTION_0309",
+      "value": "Using only your lips, touch your partners shoulder, back, waist, and then down to their hip line.3"
+    },
+    {
+      "key": "ACTION_0310",
+      "value": "Using only your lips, touch your partners shoulder, bust line, stomach, and then down to their most private part.3"
+    },
+    {
+      "key": "ACTION_0311",
+      "value": "Wear one of your partners clothing items on your head until the game ends.3"
+    },
+    {
+      "key": "ACTION_0312",
+      "value": "Close your eyes and guess which body part your partner is touching to your lips.3"
+    },
+    {
+      "key": "ACTION_0313",
+      "value": "Lay your partner down, hold their arms above their head, and kiss them for 15 seconds.[15]3"
+    },
+    {
+      "key": "ACTION_0314",
+      "value": "Pretend you are a doctor and examine your partners body for 30 seconds.[30]3"
+    },
+    {
+      "key": "ACTION_0315",
+      "value": "Let your partner smell your most intimate scent.3"
+    },
+    {
+      "key": "ACTION_0316",
+      "value": "Pretend there is ice cream on your partners bust line and make it feel good with your mouth for 20 seconds.[20]3"
+    },
+    {
+      "key": "ACTION_0317",
+      "value": "Pretend there is ice cream on your partners hip line and make it feel good with your mouth for 20 seconds.[20]3"
+    },
+    {
+      "key": "ACTION_0318",
+      "value": "Pretend your partners hip line is a drum and play it for 10 seconds.[10]3"
+    },
+    {
+      "key": "ACTION_0319",
+      "value": "Pretend you are actually making love and let your partner hear your pleasurable breathing in their ear for 15 seconds.[15]3"
+    },
+    {
+      "key": "ACTION_0320",
+      "value": "Wrap your arms around your partners neck and kiss them for 15 seconds.[15]3"
+    },
+    {
+      "key": "ACTION_0321",
+      "value": "Create a signal for when you want to make love and show it to your partner.3"
+    },
+    {
+      "key": "ACTION_0322",
+      "value": "Whisper one of your partners sexual charm points in their ear.3"
+    },
+    {
+      "key": "ACTION_0323",
+      "value": "Whisper in their ear a secret place where youd like to make love.3"
+    },
+    {
+      "key": "ACTION_0324",
+      "value": "Whisper in your partners ear just how much of them you could please with your mouth.3"
+    },
+    {
+      "key": "ACTION_0325",
+      "value": "Whisper to your partner about a sexual fantasy youve always dreamed of.3"
+    },
+    {
+      "key": "ACTION_0326",
+      "value": "Imagine youve reached your peak moment and make that face.3"
+    },
+    {
+      "key": "ACTION_0327",
+      "value": "Take off one of your partners items of clothing without using your hands.3"
+    },
+    {
+      "key": "ACTION_0328",
+      "value": "Leave a deep kiss mark in a secret place on your partner.3"
+    },
+    {
+      "key": "ACTION_0329",
+      "value": "Buy one \"adults tool\" that your partner wants (bring it next time).3"
+    },
+    {
+      "key": "ACTION_0330",
+      "value": "Put your hands inside your partners clothes for 20 seconds.[20]3"
+    },
+    {
+      "key": "ACTION_0331",
+      "value": "Try to excite your partner in 30 seconds.[30]3"
+    },
+    {
+      "key": "ACTION_0332",
+      "value": "Take off the thing youre wearing below and give it to your partner.3"
+    },
+    {
+      "key": "ACTION_0333",
+      "value": "Express with your body what your favorite position is when you make love.3"
+    },
+    {
+      "key": "ACTION_0334",
+      "value": "Pretend to do a secret act alone with your partners hands for 30 seconds.[30]3"
+    },
+    {
+      "key": "ACTION_0335",
+      "value": "Gently stimulate your partners bust line and make it feel good with your mouth.3"
+    },
+    {
+      "key": "ACTION_0336",
+      "value": "Write your name on your partners body with lipstick or eyeliner.3"
+    },
+    {
+      "key": "ACTION_0337",
+      "value": "Do whatever your partner says for 2 minutes (Call them: \"Captain\").[120]3"
+    },
+    {
+      "key": "ACTION_0338",
+      "value": "Hold your partner down so they cant move and tease them for 40 seconds.[40]3"
+    },
+    {
+      "key": "ACTION_0339",
+      "value": "Write a secret word on your partners stomach with lipstick or eyeliner.3"
+    },
+    {
+      "key": "ACTION_0340",
+      "value": "Draw a sexy picture on your partners stomach with lipstick or eyeliner.3"
+    },
+    {
+      "key": "ACTION_0341",
+      "value": "Write a secret word on your partners hip line with lipstick or eyeliner.3"
+    },
+    {
+      "key": "ACTION_0342",
+      "value": "Draw a sexy picture on your partners hip line with lipstick or eyeliner.3"
+    },
+    {
+      "key": "ACTION_0343",
+      "value": "Write a secret word on your partners back with lipstick or eyeliner.3"
+    },
+    {
+      "key": "ACTION_0344",
+      "value": "Draw a sexy picture on your partners back with lipstick or eyeliner.3"
+    },
+    {
+      "key": "ACTION_0345",
+      "value": "Give your partners hip line a playful pat.3"
+    },
+    {
+      "key": "ACTION_0346",
+      "value": "Slowly perform \"the act of bodies joining\" just twice.3"
+    },
+    {
+      "key": "ACTION_0347",
+      "value": "Get in a cat pose and receive 5 playful pats on your hip line.3"
+    },
+    {
+      "key": "ACTION_0348",
+      "value": "Tease your partners most private part with your leg over their pants for 60 seconds.[60]3"
+    },
+    {
+      "key": "ACTION_0349",
+      "value": "Touch your partners most private part over their pants with your hand for 60 seconds.[60]3"
+    },
+    {
+      "key": "ACTION_0350",
+      "value": "Imitate the act of pleasing someone with your mouth in the air.3"
+    },
+    {
+      "key": "ACTION_0351",
+      "value": "Massage your hip line for 30 seconds while making pleasurable breathing sounds.[30]3"
+    },
+    {
+      "key": "ACTION_0352",
+      "value": "Touch your partners body, lay them on the floor, and kiss them.3"
+    },
+    {
+      "key": "ACTION_0353",
+      "value": "Look at your partner intensely and say slowly, \"Lets have a hot night.\"3"
+    },
+    {
+      "key": "ACTION_0354",
+      "value": "Put on lipstick and plant a kiss mark on your partners stomach.3"
+    },
+    {
+      "key": "ACTION_0355",
+      "value": "Give your partner 10 playful pats.3"
+    },
+    {
+      "key": "ACTION_0356",
+      "value": "Take off one piece of clothing that your partner tells you to.3"
+    },
+    {
+      "key": "ACTION_0357",
+      "value": "Take off two pieces of clothing that your partner tells you to.3"
+    },
+    {
+      "key": "ACTION_0358",
+      "value": "Gently poke your partners chest points.3"
+    },
+    {
+      "key": "ACTION_0359",
+      "value": "Make your partners hip/pelvis feel good with your mouth for 20 seconds.[20]3"
+    },
+    {
+      "key": "ACTION_0360",
+      "value": "Take off one piece of clothing and throw it sexily at your partners face.3"
+    },
+    {
+      "key": "ACTION_0361",
+      "value": "Gently poke your partners sexiest body part.3"
+    },
+    {
+      "key": "ACTION_0362",
+      "value": "Give your partner a kiss on one part of their body (except the face).3"
+    },
+    {
+      "key": "ACTION_0363",
+      "value": "Wrap your arms around your partners neck and kiss them sexily for 20 seconds.[20]3"
+    },
+    {
+      "key": "ACTION_0364",
+      "value": "Get in a cat pose and say something sexy to your partner (ends when they feel its sexy).3"
+    },
+    {
+      "key": "ACTION_0365",
+      "value": "Say \"Shall we?\" at the end of every sentence you speak until your next turn.3"
+    },
+    {
+      "key": "ACTION_0366",
+      "value": "Imagine its your \"ecstatic final moment\" and make realistic \"pleasurable breathing sounds\" for 10 seconds (redo if your partner isnt convinced).[10]3"
+    },
+    {
+      "key": "ACTION_0367",
+      "value": "Whisper in your partners ear what it felt like the first time you made love.3"
+    },
+    {
+      "key": "ACTION_0368",
+      "value": "Sit them on your lap, make eye contact up close, and talk for 1 minute.[60]3"
+    },
+    {
+      "key": "ACTION_0369",
+      "value": "Take a couple photo with the remaining phone, acting as sexy as possible.3"
+    },
+    {
+      "key": "ACTION_0370",
+      "value": "Play sexy music on the remaining phone and do a sexy dance for 60 seconds (seriously).3"
+    },
+    {
+      "key": "ACTION_0371",
+      "value": "Say \"Ah... I want to do it\" using ventriloquism.3"
+    },
+    {
+      "key": "ACTION_0372",
+      "value": "Pretend youre at a club and dance intimately with your partner for 60 seconds (with your hip lines close).[60]3"
+    },
+    {
+      "key": "ACTION_0373",
+      "value": "Whisper in your partners ear what it felt like the first time you made love.3"
+    },
+    {
+      "key": "ACTION_0374",
+      "value": "Pretend you just met at a club, give them a back hug, and dance for 60 seconds.[60]3"
+    },
+    {
+      "key": "ACTION_0375",
+      "value": "(Roleplay) Youre at a club together. What if someone is dancing closely with your partner?3"
+    },
+    {
+      "key": "ACTION_0376",
+      "value": "(Roleplay) Your partner said they were sleeping, but you see them dancing closely with someone at a club.3"
+    },
+    {
+      "key": "ACTION_0377",
+      "value": "Gently hold your partners hip line sexily once.3"
+    },
+    {
+      "key": "ACTION_0378",
+      "value": "Gently hold your partners bust line sexily once.3"
+    },
+    {
+      "key": "ACTION_0379",
+      "value": "Stand up, have your partner hug your waist tightly, and touch their hip line for 40 seconds.[40]3"
+    },
+    {
+      "key": "ACTION_0380",
+      "value": "Have your partner sit on your lap, then touch and kiss them for 40 seconds.[40]3"
+    },
+    {
+      "key": "ACTION_0381",
+      "value": "Lie face down and show your partner your \"rearmost intimate spot\" for 40 seconds.[40]4"
+    },
+    {
+      "key": "ACTION_0382",
+      "value": "Make an \"ecstatic\" expression that would mesmerize your partner for 40 seconds.[40]4"
+    },
+    {
+      "key": "ACTION_0383",
+      "value": "Make your partners \"rearmost intimate spot\" feel good with your mouth for 40 seconds.[40]4"
+    },
+    {
+      "key": "ACTION_0384",
+      "value": "Give a light kiss on your partners \"rearmost intimate spot\".4"
+    },
+    {
+      "key": "ACTION_0385",
+      "value": "Make your partners \"most private part\" feel good with your mouth for 2 minutes.[120]4"
+    },
+    {
+      "key": "ACTION_0386",
+      "value": "Make your partner open their mouth, let \"whats flowing\" drip, and catch it with your mouth.4"
+    },
+    {
+      "key": "ACTION_0387",
+      "value": "Let your partner smell your \"rearmost intimate scent\" for 5 seconds.[5]4"
+    },
+    {
+      "key": "ACTION_0388",
+      "value": "Make your partners fingers feel good with your mouth for 15 seconds.[15]4"
+    },
+    {
+      "key": "ACTION_0389",
+      "value": "Make your partners toetips feel good with your mouth for 15 seconds.[15]4"
+    },
+    {
+      "key": "ACTION_0390",
+      "value": "Make your partners navel feel good with your mouth for 15 seconds.[15]4"
+    },
+    {
+      "key": "ACTION_0391",
+      "value": "Dance sexily in the state you were born in for 60 seconds to a song your partner plays.[60]4"
+    },
+    {
+      "key": "ACTION_0392",
+      "value": "Try to say \"Can I... please it with my mouth?\" without your upper and lower lips touching.4"
+    },
+    {
+      "key": "ACTION_0393",
+      "value": "Lay your partner down and bring your \"most private part\" close to their lips for 15 seconds.[15]4"
+    },
+    {
+      "key": "ACTION_0394",
+      "value": "Pretend there is ice cream on your partners toetips and make it feel good with your mouth for 20 seconds.[20]4"
+    },
+    {
+      "key": "ACTION_0395",
+      "value": "Pretend there is ice cream on your partners \"rearmost intimate spot\" and make it feel good with your mouth for 15 seconds.[15]4"
+    },
+    {
+      "key": "ACTION_0396",
+      "value": "Get in an \"opposite position\" and please each others \"most private part\" with your mouth for 1 minute.[60]4"
+    },
+    {
+      "key": "ACTION_0397",
+      "value": "Whisper in your partners ear just how much of them you could \"please with your mouth\".4"
+    },
+    {
+      "key": "ACTION_0398",
+      "value": "Whisper in your partners ear \"what color\" youre wearing underneath today.4"
+    },
+    {
+      "key": "ACTION_0399",
+      "value": "Make your partner feel good with your mouth from head to toe for 50 seconds.[50]4"
+    },
+    {
+      "key": "ACTION_0400",
+      "value": "Have your partner please you with their mouth for 60 seconds and give them an allowance based on your satisfaction.[60]4"
+    },
+    {
+      "key": "ACTION_0401",
+      "value": "Get in a pose just before \"bodies join\" and just stroke each other without \"joining\" for 30 seconds.[30]4"
+    },
+    {
+      "key": "ACTION_0402",
+      "value": "Pretend to do the act of pleasing yourself with your partners hands for 1 minute.[60]4"
+    },
+    {
+      "key": "ACTION_0403",
+      "value": "Dance sexily in the state you were born in for 40 seconds.[40]4"
+    },
+    {
+      "key": "ACTION_0404",
+      "value": "Give a deep kiss while touching your partners \"most private part\".4"
+    },
+    {
+      "key": "ACTION_0405",
+      "value": "Make your partners \"chest points\" feel good with your mouth for 1 minute.[60]4"
+    },
+    {
+      "key": "ACTION_0406",
+      "value": "Make your partners \"chest points\" feel good with your mouth for 30 seconds.[30]4"
+    },
+    {
+      "key": "ACTION_0407",
+      "value": "Become the one who follows orders for 2 minutes and please them with your mouth as they say (Call them: \"Captain\").[120]4"
+    },
+    {
+      "key": "ACTION_0408",
+      "value": "Hold your partner down so they cant move and tease them for 2 minutes.[120]4"
+    },
+    {
+      "key": "ACTION_0409",
+      "value": "Next time you make love, give your partner a shower.4"
+    },
+    {
+      "key": "ACTION_0410",
+      "value": "Get in a cat pose and be pleased by your partners mouth for 60 seconds.[60]4"
+    },
+    {
+      "key": "ACTION_0411",
+      "value": "Give your partners \"most private part\" a playful tap.4"
+    },
+    {
+      "key": "ACTION_0412",
+      "value": "Slowly perform \"the act of bodies joining\" just 5 times.4"
+    },
+    {
+      "key": "ACTION_0413",
+      "value": "Do a \"leading role-play\" while lying down for 2 minutes (You are the Leader).[120]4"
+    },
+    {
+      "key": "ACTION_0414",
+      "value": "Do a \"complying role-play\" while lying down for 2 minutes (You are the Follower).[120]4"
+    },
+    {
+      "key": "ACTION_0415",
+      "value": "Draw your \"most private part\" on your partners stomach with lipstick or eyeliner.4"
+    },
+    {
+      "key": "ACTION_0416",
+      "value": "Spread your partners legs wide and make their \"most private part\" feel good with your mouth for 60 seconds.[60]4"
+    },
+    {
+      "key": "ACTION_0417",
+      "value": "Be the \"King\" for 2 minutes and do whatever you want (except \"the act of bodies joining\").[120]4"
+    },
+    {
+      "key": "ACTION_0418",
+      "value": "Make your partner feel good with your mouth while they sing one verse of a song.4"
+    },
+    {
+      "key": "ACTION_0419",
+      "value": "Search for a \"new position\" youve never tried and experience it 15 times.4"
+    },
+    {
+      "key": "ACTION_0420",
+      "value": "Check \"the thing youre wearing below\" and tell your partner \"how ready you are\".4"
+    },
+    {
+      "key": "ACTION_0421",
+      "value": "In the state you were born in, get in a cat pose and receive 5 playful pats on your hip line.4"
+    },
+    {
+      "key": "ACTION_0422",
+      "value": "Find and watch a scene from an \"adult video\" and act it out for 3 minutes.[210]4"
+    },
+    {
+      "key": "ACTION_0423",
+      "value": "Be pleased by your partners mouth for 1 minute while on the phone with a friend.[60]4"
+    },
+    {
+      "key": "ACTION_0424",
+      "value": "Pick a snack or drink, put it on your partners \"most private part\", and clean it off nicely with your mouth (use water if you have none).4"
+    },
+    {
+      "key": "ACTION_0425",
+      "value": "Passionately do as you please with your partner for 2 minutes (but dont \"go all the way\").[120]4"
+    },
+    {
+      "key": "ACTION_0426",
+      "value": "Move 1 to 10 times, as many as your partner wants.4"
+    },
+    {
+      "key": "ACTION_0427",
+      "value": "Do the \"act of pleasing yourself\" for 2 minutes using your partners body (except hands).[120]4"
+    },
+    {
+      "key": "ACTION_0428",
+      "value": "Without using your hands, in a sitting position, please your partners \"most private part\" with your mouth for 2 minutes.[120]4"
+    },
+    {
+      "key": "ACTION_0429",
+      "value": "Try to hold back any sounds for 1 minute while being pleased by your partners mouth.[60]4"
+    },
+    {
+      "key": "ACTION_0430",
+      "value": "Find a new \"sensitive point\" on your partners body by pleasing them with your mouth for 1 minute.[60]4"
+    },
+    {
+      "key": "ACTION_0431",
+      "value": "In the state you were born in, strike any pose your partner desires.4"
+    },
+    {
+      "key": "ACTION_0432",
+      "value": "Move in \"the position from behind\" 10 times.4"
+    },
+    {
+      "key": "ACTION_0433",
+      "value": "For 2 minutes, in the state you were born in, just brush each others \"outer parts\" without using hands.[120]4"
+    },
+    {
+      "key": "ACTION_0434",
+      "value": "Help your partner \"do the act of pleasing themselves\" with your leg for 60 seconds.[60]4"
+    },
+    {
+      "key": "ACTION_0435",
+      "value": "Give your partners \"most private part\" a nickname and move 5 times while calling the nickname.4"
+    },
+    {
+      "key": "ACTION_0436",
+      "value": "Write some secret and sexy graffiti on your partners body with lipstick or eyeliner.4"
+    },
+    {
+      "key": "ACTION_0437",
+      "value": "Play \"Rock-Paper-Scissors\" with your partner and \"make love\" until you win 5 times. 4"
+    },
+    {
+      "key": "ACTION_0438",
+      "value": "Put down three pieces of clothing that your partner tells you to.4"
+    },
+    {
+      "key": "ACTION_0439",
+      "value": "Have your partner lie down in the state they were born in, in an attention pose, and tease their body with your lips for 20 seconds.[30]4"
+    },
+    {
+      "key": "ACTION_0440",
+      "value": "Stroke your partners hip with your \"most private part\" for 20 seconds.[20]4"
+    },
+    {
+      "key": "ACTION_0441",
+      "value": "Take off \"the thing youre wearing below\" and throw it sexily at your partners face.4"
+    },
+    {
+      "key": "ACTION_0442",
+      "value": "Point to one part of your partners body that you want to \"please with your mouth\" today.4"
+    },
+    {
+      "key": "ACTION_0443",
+      "value": "Get in a cat pose and say \"Come on, Captain, do as you please with me passionately\" three times sexily.4"
+    },
+    {
+      "key": "ACTION_0444",
+      "value": "Give a nickname to your partners new \"sensitive point\" and call it lovingly.4"
+    },
+    {
+      "key": "ACTION_0445",
+      "value": "Next date, wear a costume that your partner wants you to wear.4"
+    },
+    {
+      "key": "ACTION_0446",
+      "value": "Please each other with your mouths in the dark for 2 minutes without making a sound.[120]4"
+    },
+    {
+      "key": "ACTION_0447",
+      "value": "Buy one \"adults tool\" that your partner wants to try together and gift it on your next date.4"
+    },
+    {
+      "key": "ACTION_0448",
+      "value": "Blindfold your partner and \"please\" the place you want \"with your mouth\" for 30 seconds.[30]4"
+    },
+    {
+      "key": "ACTION_0449",
+      "value": "Give your partner a look so sexy it could \"devour\" them (must be acknowledged by partner).4"
+    },
+    {
+      "key": "ACTION_0450",
+      "value": "Play sexy music on the remaining phone and give your partner a sexy dance with skinship (seriously).4"
+    },
+    {
+      "key": "ACTION_0451",
+      "value": "In the state you were born in, slowly \"brush\" your partners \"outer parts\" with your \"most private part\" for 1 minute.[60]4"
+    },
+    {
+      "key": "ACTION_0452",
+      "value": "Pretend you just met at a club and dance for 60 seconds, holding them from behind and touching each others bodies and \"most private parts\".[60]4"
+    },
+    {
+      "key": "ACTION_0453",
+      "value": "Pretend youre at a club and dance intimately for 60 seconds (in the state you were born in, while hugging from behind).4"
+    },
+    {
+      "key": "ACTION_0454",
+      "value": "Make \"ecstatic breathing sounds\" at the end of every sentence until your next turn.4"
+    },
+    {
+      "key": "ACTION_0455",
+      "value": "Imagine its your \"ecstatic final moment\" and make \"realistic breathing sounds\" for 15 seconds (redo if your partner isnt convinced).[15]4"
+    },
+    {
+      "key": "ACTION_0456",
+      "value": "Search for \"new positions\", pick one you like, and try it for 60 seconds.[60]4"
+    },
+    {
+      "key": "ACTION_0457",
+      "value": "Search for \"new positions\", look at the images, and say one you want to try.4"
+    },
+    {
+      "key": "ACTION_0458",
+      "value": "Play Rock-Paper-Scissors; the loser must do one \"secret thing\" the winner wants.4"
+    },
+    {
+      "key": "ACTION_0459",
+      "value": "(Roleplay) Act out a situation where your partners parents walk in while you are \"making love\" (your partner plays the parents).4"
+    },
+    {
+      "key": "ACTION_0460",
+      "value": "(Roleplay) Act out a situation where your partner catches you \"making love\" with someone else.4"
+    },
+    {
+      "key": "ACTION_0461",
+      "value": "Gently touch your partners \"most private part\" using only the back of your hand for 60 seconds.[60]4"
+    },
+    {
+      "key": "ACTION_0462",
+      "value": "Gently touch your partners \"bust line\" using only the back of your hand for 20 seconds.[20]4"
+    },
+    {
+      "key": "ACTION_0463",
+      "value": "Lay your partner down, have them close their eyes, and gently \"brush\" your \"most private part\" on their face for 40 seconds.[40]4"
+    },
+    {
+      "key": "ACTION_0464",
+      "value": "Have your partner sit on your lap, then please them using both your hands and mouth for 60 seconds.[60]4"
+    },
+    {
+      "key": "ACTION_0465",
+      "value": "(Roleplay) For 2 minutes, be the \"King\" who \"leads\" the partner and make them do any \"position\" you want.[120]4"
+    },
+    {
+      "key": "ACTION_0466",
+      "value": "(Roleplay) For 2 minutes, pretend you are a \"complying subject\" to your partner and act accordingly.[120]4"
+    },
+    {
+      "key": "ACTION_0467",
+      "value": "(Roleplay) Your partner is your King. Lie down, whisper \"Give me your command,\" and comply for 2 minutes.[120]4"
+    },
+    {
+      "key": "ACTION_0468",
+      "value": "(Roleplay) You are a doctor examining your partner. \"Diagnose\" their \"most private part\" for 1 minute.[60]4"
+    },
+    {
+      "key": "ACTION_0469",
+      "value": "(Roleplay) You are a secret agent who has captured your partner. Tease them and make demands for 2 minutes.[120]4"
+    },
+    {
+      "key": "ACTION_0470",
+      "value": "(Roleplay) You are your partners personal trainer for a day. Teach them a \"new position\" for 1 minute (skinship included).[60]4"
+    },
+    {
+      "key": "ACTION_0471",
+      "value": "(Roleplay) You are a reporter interviewing your partner. Ask them insistently about their \"sexual fantasies\" for 1 minute.[60]4"
+    },
+    {
+      "key": "ACTION_0472",
+      "value": "(Roleplay) Have your partner pretend to be asleep. Secretly admire their body \"in the state they were born in\" for 1 minute.[60]4"
+    },
+    {
+      "key": "ACTION_0473",
+      "value": "(Roleplay) Imagine your partner \"made love\" with someone else. Confront them and do as you please passionately for 1 minute.[60]4"
+    },
+    {
+      "key": "ACTION_0474",
+      "value": "(Roleplay) Act out how you would react if your partners close friend made a secret move on you.4"
+    },
+    {
+      "key": "ACTION_0475",
+      "value": "Treat your partner more passionately every time they make a sound.4"
+    },
+    {
+      "key": "ACTION_0476",
+      "value": "(Roleplay) Show your skills to make them say \"Lets do it now\". Tease only their \"sensitive points\" for 1 minute.[60]4"
+    },
+    {
+      "key": "ACTION_0477",
+      "value": "Blindfold your partner and do as you please with their \"most private part\" for 1 minute.[60]4"
+    },
+    {
+      "key": "ACTION_0478",
+      "value": "Command your partner to \"please your fingers with their mouth\" for 1 minute.[60]4"
+    },
+    {
+      "key": "ACTION_0479",
+      "value": "(Roleplay) \"Tease with your mouth\" only your partners \"rearmost intimate spot\" for 1 minute.[60]4"
+    },
+    {
+      "key": "ACTION_0480",
+      "value": "(Roleplay) Like its the last day on earth, do as you please passionately in your partners favorite \"position\" for 2 minutes (but no \"finishing\").[120]4"
     },
     {
       "key": "DRINK_0001",
@@ -5138,11 +6790,11 @@
     },
     {
       "key": "DRINK_0002",
-      "value": "Eat a snack and act like it's the best food on Earth for 5 sec! Fail? Take a penalty drink! 1"
+      "value": "Eat a snack and act like its the best food on Earth for 5 sec! Fail? Take a penalty drink! 1"
     },
     {
       "key": "DRINK_0003",
-      "value": "Kiss your partner's hand like a knight, then politely offer them a drink. 1"
+      "value": "Kiss your partners hand like a knight, then politely offer them a drink. 1"
     },
     {
       "key": "DRINK_0004",
@@ -5174,7 +6826,7 @@
     },
     {
       "key": "DRINK_0011",
-      "value": "Tell your corniest dad joke! If your partner doesn't laugh, take a drink. 1"
+      "value": "Tell your corniest dad joke! If your partner doesnt laugh, take a drink. 1"
     },
     {
       "key": "DRINK_0012",
@@ -5194,11 +6846,11 @@
     },
     {
       "key": "DRINK_0016",
-      "value": "Say, \"If I finish this drink, you're mine,\" then down it! 1"
+      "value": "Say, \"If I finish this drink, youre mine,\" then down it! 1"
     },
     {
       "key": "DRINK_0017",
-      "value": "Take a selfie with your best \"pic of a lifetime\" face! If your partner doesn't like it, take a drink! 1"
+      "value": "Take a selfie with your best \"pic of a lifetime\" face! If your partner doesnt like it, take a drink! 1"
     },
     {
       "key": "DRINK_0018",
@@ -5218,7 +6870,7 @@
     },
     {
       "key": "DRINK_0022",
-      "value": "Say, \"I'm getting drunk on you...\" then stare deeply into your partner's eyes for 5 sec and drink.  1"
+      "value": "Say, \"Im getting drunk on you...\" then stare deeply into your partners eyes for 5 sec and drink.  1"
     },
     {
       "key": "DRINK_0023",
@@ -5226,11 +6878,11 @@
     },
     {
       "key": "DRINK_0024",
-      "value": "Get your partner to say \"I love you\" to you! If you can't (T_T), you drink two! 1"
+      "value": "Get your partner to say \"I love you\" to you! If you cant (T_T), you drink two! 1"
     },
     {
       "key": "DRINK_0025",
-      "value": "Gently pinch your partner's cheek, say \"Cute!\" and then take a drink! 1"
+      "value": "Gently pinch your partners cheek, say \"Cute!\" and then take a drink! 1"
     },
     {
       "key": "DRINK_0026",
@@ -5282,7 +6934,7 @@
     },
     {
       "key": "DRINK_0038",
-      "value": "Name one thing you and your partner have in common! (e.g., We're both cute!) Then, take a drink! 1"
+      "value": "Name one thing you and your partner have in common! (e.g., Were both cute!) Then, take a drink! 1"
     },
     {
       "key": "DRINK_0039",
@@ -5302,7 +6954,7 @@
     },
     {
       "key": "DRINK_0043",
-      "value": "If your partner's glass is empty, fill it to the brim (with love!), then you drink one, too! 1"
+      "value": "If your partners glass is empty, fill it to the brim (with love!), then you drink one, too! 1"
     },
     {
       "key": "DRINK_0044",
@@ -5310,7 +6962,7 @@
     },
     {
       "key": "DRINK_0045",
-      "value": "Challenge your partner to a \"Who can make the best 'Ahhh~' sound after drinking\" game! If you lose, drink one. 1"
+      "value": "Challenge your partner to a \"Who can make the best Ahhh~ sound after drinking\" game! If you lose, drink one. 1"
     },
     {
       "key": "DRINK_0046",
@@ -5318,15 +6970,15 @@
     },
     {
       "key": "DRINK_0047",
-      "value": "Show your partner your most recent search query on your phone! If it's embarrassing, drink two! 1"
+      "value": "Show your partner your most recent search query on your phone! If its embarrassing, drink two! 1"
     },
     {
       "key": "DRINK_0048",
-      "value": "Take a selfie (for their wallpaper?) with your partner's phone, then take a drink, feeling satisfied! 1"
+      "value": "Take a selfie (for their wallpaper?) with your partners phone, then take a drink, feeling satisfied! 1"
     },
     {
       "key": "DRINK_0049",
-      "value": "Hold your partner's hand and look into their eyes for 10 sec without saying anything. Then, one drink each.  1"
+      "value": "Hold your partners hand and look into their eyes for 10 sec without saying anything. Then, one drink each.  1"
     },
     {
       "key": "DRINK_0050",
@@ -5334,7 +6986,7 @@
     },
     {
       "key": "DRINK_0051",
-      "value": "Guess what your partner is thinking right now! (e.g., \"Me?\") If you're wrong, take a drink! 1"
+      "value": "Guess what your partner is thinking right now! (e.g., \"Me?\") If youre wrong, take a drink! 1"
     },
     {
       "key": "DRINK_0052",
@@ -5350,15 +7002,15 @@
     },
     {
       "key": "DRINK_0055",
-      "value": "For the next 3 min, it's a forbidden word game! If you say the word \"Drink,\" you have to drink!  1"
+      "value": "For the next 3 min, its a forbidden word game! If you say the word \"Drink,\" you have to drink!  1"
     },
     {
       "key": "DRINK_0056",
-      "value": "Send a \"Miss you\" text to the last person you called (Mom...?). If you can't, drink two! 1"
+      "value": "Send a \"Miss you\" text to the last person you called (Mom...?). If you cant, drink two! 1"
     },
     {
       "key": "DRINK_0057",
-      "value": "Tell your partner a small secret (TMI) they didn't know about you, then take a drink. 1"
+      "value": "Tell your partner a small secret (TMI) they didnt know about you, then take a drink. 1"
     },
     {
       "key": "DRINK_0058",
@@ -5366,7 +7018,7 @@
     },
     {
       "key": "DRINK_0059",
-      "value": "Gently pinch your partner's nose, then take a playful drink. 1"
+      "value": "Gently pinch your partners nose, then take a playful drink. 1"
     },
     {
       "key": "DRINK_0060",
@@ -5382,11 +7034,11 @@
     },
     {
       "key": "DRINK_0063",
-      "value": "Compliment your partner's eye color! (e.g., \"Your eyes are like brown stars\") Then, take a drink! 1"
+      "value": "Compliment your partners eye color! (e.g., \"Your eyes are like brown stars\") Then, take a drink! 1"
     },
     {
       "key": "DRINK_0064",
-      "value": "Say, \"If I were born again, I'd want to be a ,\" and then take a drink. 1"
+      "value": "Say, \"If I were born again, Id want to be a ,\" and then take a drink. 1"
     },
     {
       "key": "DRINK_0065",
@@ -5406,11 +7058,11 @@
     },
     {
       "key": "DRINK_0069",
-      "value": "Reenact the worst drinking habit you've ever seen (TMI, acting bossy...) for 5 sec and drink. 1"
+      "value": "Reenact the worst drinking habit youve ever seen (TMI, acting bossy...) for 5 sec and drink. 1"
     },
     {
       "key": "DRINK_0070",
-      "value": "Stare at your reflection in your partner's drink for 5 sec... then drink.  1"
+      "value": "Stare at your reflection in your partners drink for 5 sec... then drink.  1"
     },
     {
       "key": "DRINK_0071",
@@ -5426,11 +7078,11 @@
     },
     {
       "key": "DRINK_0074",
-      "value": "Promise your partner, \"I'll take the next drink for you!\" and you drink this one. 1"
+      "value": "Promise your partner, \"Ill take the next drink for you!\" and you drink this one. 1"
     },
     {
       "key": "DRINK_0075",
-      "value": "Fill your mouth with snacks and say \"I... wuv... you!\" If your pronunciation is bad, drink! 1"
+      "value": "Mouth full of snacks! Try saying \"I love you!\" If your pronunciation isn't clear, drink! 1"
     },
     {
       "key": "DRINK_0076",
@@ -5438,11 +7090,11 @@
     },
     {
       "key": "DRINK_0077",
-      "value": "Show the funniest photo (a bad one?) from your phone's gallery and take a drink! 1"
+      "value": "Show the funniest photo (a bad one?) from your phones gallery and take a drink! 1"
     },
     {
       "key": "DRINK_0078",
-      "value": "Impersonate your partner (their tone, their expressions)! If they don't approve, take a drink! 1"
+      "value": "Impersonate your partner (their tone, their expressions)! If they dont approve, take a drink! 1"
     },
     {
       "key": "DRINK_0079",
@@ -5450,11 +7102,11 @@
     },
     {
       "key": "DRINK_0080",
-      "value": "Stare at your partner's face for 3 sec... then blurt out \"Pretty/Handsome\" and take a drink. 1"
+      "value": "Stare at your partners face for 3 sec... then blurt out \"Pretty/Handsome\" and take a drink. 1"
     },
     {
       "key": "DRINK_0081",
-      "value": "Whisper something (today's TMI?) in your partner's ear. If they laugh, you drink! 1"
+      "value": "Whisper something (todays TMI?) in your partners ear. If they laugh, you drink! 1"
     },
     {
       "key": "DRINK_0082",
@@ -5462,7 +7114,7 @@
     },
     {
       "key": "DRINK_0083",
-      "value": "Show off a trick with your tongue! (e.g., a clover?) If your partner doesn't laugh, take a drink! 1"
+      "value": "Show off a trick with your tongue! (e.g., a clover?) If your partner doesnt laugh, take a drink! 1"
     },
     {
       "key": "DRINK_0084",
@@ -5478,19 +7130,19 @@
     },
     {
       "key": "DRINK_0087",
-      "value": "Count all the drinks you've had so far... clap that many times, and take a drink! (If you don't remember, 3 drinks!) 1"
+      "value": "Count all the drinks youve had so far... clap that many times, and take a drink! (If you dont remember, 3 drinks!) 1"
     },
     {
       "key": "DRINK_0088",
-      "value": "Hold your drink and shout, \"I'm the most charming person here!\" and down it! 1"
+      "value": "Hold your drink and shout, \"Im the most charming person here!\" and down it! 1"
     },
     {
       "key": "DRINK_0089",
-      "value": "Tell your partner, \"You're sexiest when you're drinking,\" and take a drink. 1"
+      "value": "Tell your partner, \"Youre sexiest when youre drinking,\" and take a drink. 1"
     },
     {
       "key": "DRINK_0090",
-      "value": "Imitate an expression your partner often makes! If they don't laugh because it's not accurate, drink one! 1"
+      "value": "Imitate an expression your partner often makes! If they dont laugh because its not accurate, drink one! 1"
     },
     {
       "key": "DRINK_0091",
@@ -5510,7 +7162,7 @@
     },
     {
       "key": "DRINK_0095",
-      "value": "Hold your partner's hand tightly, say \"Let's be together for a long time,\" and one drink each! 1"
+      "value": "Hold your partners hand tightly, say \"Lets be together for a long time,\" and one drink each! 1"
     },
     {
       "key": "DRINK_0096",
@@ -5522,7 +7174,7 @@
     },
     {
       "key": "DRINK_0098",
-      "value": "Listen to one of your partner's worries (work, studies, etc.). Then, one drink each as a \"toast of comfort.\" 1"
+      "value": "Listen to one of your partners worries (work, studies, etc.). Then, one drink each as a \"toast of comfort.\" 1"
     },
     {
       "key": "DRINK_0099",
@@ -5542,11 +7194,11 @@
     },
     {
       "key": "DRINK_0103",
-      "value": "Kiss your partner's cheek! Then have them kiss your cheek! (Smooch x2) Then drink together! 2"
+      "value": "Kiss your partners cheek! Then have them kiss your cheek! (Smooch x2) Then drink together! 2"
     },
     {
       "key": "DRINK_0104",
-      "value": "Take a drink, then gently stroke your partner's hair for 20 seconds.  2"
+      "value": "Take a drink, then gently stroke your partners hair for 20 seconds.  2"
     },
     {
       "key": "DRINK_0105",
@@ -5554,7 +7206,7 @@
     },
     {
       "key": "DRINK_0106",
-      "value": "Say, \"You look especially pretty/handsome today,\" stroke your partner's chin, and drink. 2"
+      "value": "Say, \"You look especially pretty/handsome today,\" stroke your partners chin, and drink. 2"
     },
     {
       "key": "DRINK_0107",
@@ -5562,27 +7214,27 @@
     },
     {
       "key": "DRINK_0108",
-      "value": "Say, \"I think I'm... drunk,\" then lean your head on your partner's shoulder and take a drink. 2"
+      "value": "Say, \"I think Im... drunk,\" then lean your head on your partners shoulder and take a drink. 2"
     },
     {
       "key": "DRINK_0109",
-      "value": "Link your fingers (interlace) with your partner's, make eye contact, and take a drink. 2"
+      "value": "Link your fingers (interlace) with your partners, make eye contact, and take a drink. 2"
     },
     {
       "key": "DRINK_0110",
-      "value": "Take a drink, then say cheesily, \"I'm having trouble drinking... because I'm too busy thinking of you.\" 2"
+      "value": "Take a drink, then say cheesily, \"Im having trouble drinking... because Im too busy thinking of you.\" 2"
     },
     {
       "key": "DRINK_0111",
-      "value": "Pretend to wipe something off your partner's lips with your finger... then take a drink. 2"
+      "value": "Pretend to wipe something off your partners lips with your finger... then take a drink. 2"
     },
     {
       "key": "DRINK_0112",
-      "value": "Kiss your partner's hand (gently), then drink one, trying to look cool. 2"
+      "value": "Kiss your partners hand (gently), then drink one, trying to look cool. 2"
     },
     {
       "key": "DRINK_0113",
-      "value": "Link arms for a \"Love Shot\" and drink! Then, stare into each other's eyes for 10 sec. Loser drinks one more!  2"
+      "value": "Link arms for a \"Love Shot\" and drink! Then, stare into each others eyes for 10 sec. Loser drinks one more!  2"
     },
     {
       "key": "DRINK_0114",
@@ -5594,11 +7246,11 @@
     },
     {
       "key": "DRINK_0116",
-      "value": "Take a drink, then whisper \"I missed you today\" in your partner's ear. 2"
+      "value": "Take a drink, then whisper \"I missed you today\" in your partners ear. 2"
     },
     {
       "key": "DRINK_0117",
-      "value": "Take your partner's wrist and place their hand over your heart. \"...Can you feel it?\" Then, drink. 2"
+      "value": "Take your partners wrist and place their hand over your heart. \"...Can you feel it?\" Then, drink. 2"
     },
     {
       "key": "DRINK_0118",
@@ -5622,19 +7274,19 @@
     },
     {
       "key": "DRINK_0123",
-      "value": "Take a drink, then stare intently at your partner's collarbone for 5 seconds.  2"
+      "value": "Take a drink, then stare intently at your partners collarbone for 5 seconds.  2"
     },
     {
       "key": "DRINK_0124",
-      "value": "Compare your hand size with your partner's (palm to palm)! If your hand is smaller, act cute and drink. 2"
+      "value": "Compare your hand size with your partners (palm to palm)! If your hand is smaller, act cute and drink. 2"
     },
     {
       "key": "DRINK_0125",
-      "value": "Say, \"Tempt me.\" After watching your partner's attempt, drink one as the \"judge.\" 2"
+      "value": "Say, \"Tempt me.\" After watching your partners attempt, drink one as the \"judge.\" 2"
     },
     {
       "key": "DRINK_0126",
-      "value": "Gently place your leg over your partner's leg and take a drink. 2"
+      "value": "Gently place your leg over your partners leg and take a drink. 2"
     },
     {
       "key": "DRINK_0127",
@@ -5642,7 +7294,7 @@
     },
     {
       "key": "DRINK_0128",
-      "value": "Drink one while gently fiddling with your partner's earlobe. 2"
+      "value": "Drink one while gently fiddling with your partners earlobe. 2"
     },
     {
       "key": "DRINK_0129",
@@ -5650,19 +7302,19 @@
     },
     {
       "key": "DRINK_0130",
-      "value": "Take a drink, then compliment your partner: \"You know... you're pretty sexy today.\" 2"
+      "value": "Take a drink, then compliment your partner: \"You know... youre pretty sexy today.\" 2"
     },
     {
       "key": "DRINK_0131",
-      "value": "Drink one while fiddling with your partner's necktie/necklace/collar. 2"
+      "value": "Drink one while fiddling with your partners necktie/necklace/collar. 2"
     },
     {
       "key": "DRINK_0132",
-      "value": "Take a drink, then ask subtly, \"You're... going to take me home, right?\" 2"
+      "value": "Take a drink, then ask subtly, \"Youre... going to take me home, right?\" 2"
     },
     {
       "key": "DRINK_0133",
-      "value": "Under the table, secretly tickle your partner's foot/leg for 5 sec. Then, take a drink.  2"
+      "value": "Under the table, secretly tickle your partners foot/leg for 5 sec. Then, take a drink.  2"
     },
     {
       "key": "DRINK_0134",
@@ -5674,15 +7326,15 @@
     },
     {
       "key": "DRINK_0136",
-      "value": "Take a drink, then gently touch and compliment each of your partner's fingers (e.g., \"This one is pretty\"). 2"
+      "value": "Take a drink, then gently touch and compliment each of your partners fingers (e.g., \"This one is pretty\"). 2"
     },
     {
       "key": "DRINK_0137",
-      "value": "Lean your head on your partner's shoulder, say \"Let's... stay like this for a bit,\" and take a drink. 2"
+      "value": "Lean your head on your partners shoulder, say \"Lets... stay like this for a bit,\" and take a drink. 2"
     },
     {
       "key": "DRINK_0138",
-      "value": "Take a drink, and tell your partner, \"This drink tastes even better because I'm with you.\" 2"
+      "value": "Take a drink, and tell your partner, \"This drink tastes even better because Im with you.\" 2"
     },
     {
       "key": "DRINK_0139",
@@ -5690,19 +7342,19 @@
     },
     {
       "key": "DRINK_0140",
-      "value": "You drink one, then say, \"Next time, it's your turn to feed me.\" 2"
+      "value": "You drink one, then say, \"Next time, its your turn to feed me.\" 2"
     },
     {
       "key": "DRINK_0141",
-      "value": "Gently brush your partner's hair back behind their ear, and take a drink. 2"
+      "value": "Gently brush your partners hair back behind their ear, and take a drink. 2"
     },
     {
       "key": "DRINK_0142",
-      "value": "Say, \"I'll tell you a secret,\" then whisper \"I like you\" in your partner's ear and take a drink. 2"
+      "value": "Say, \"Ill tell you a secret,\" then whisper \"I like you\" in your partners ear and take a drink. 2"
     },
     {
       "key": "DRINK_0143",
-      "value": "Take a drink, then say, \"I... don't feel like going home tonight.\" 2"
+      "value": "Take a drink, then say, \"I... dont feel like going home tonight.\" 2"
     },
     {
       "key": "DRINK_0144",
@@ -5722,7 +7374,7 @@
     },
     {
       "key": "DRINK_0148",
-      "value": "Stare intently at your partner's lips for 5 seconds... then take a drink.  2"
+      "value": "Stare intently at your partners lips for 5 seconds... then take a drink.  2"
     },
     {
       "key": "DRINK_0149",
@@ -5730,7 +7382,7 @@
     },
     {
       "key": "DRINK_0150",
-      "value": "(Shyly) talk about the best kiss you've ever had, then take a drink. 2"
+      "value": "(Shyly) talk about the best kiss youve ever had, then take a drink. 2"
     },
     {
       "key": "DRINK_0151",
@@ -5738,11 +7390,11 @@
     },
     {
       "key": "DRINK_0152",
-      "value": "Write a ticklish message on your partner's palm. If they guess what it is, they drink. If not, you drink! 2"
+      "value": "Write a ticklish message on your partners palm. If they guess what it is, they drink. If not, you drink! 2"
     },
     {
       "key": "DRINK_0153",
-      "value": "Say, \"I'm... seducing you right now,\" make your sexiest face, and take a drink. 2"
+      "value": "Say, \"Im... seducing you right now,\" make your sexiest face, and take a drink. 2"
     },
     {
       "key": "DRINK_0154",
@@ -5762,11 +7414,11 @@
     },
     {
       "key": "DRINK_0158",
-      "value": "Stare lovingly at your partner while they're eating a snack, then take a drink. 2"
+      "value": "Stare lovingly at your partner while theyre eating a snack, then take a drink. 2"
     },
     {
       "key": "DRINK_0159",
-      "value": "Take a drink, then say, \"There's... something special between us tonight.\" 2"
+      "value": "Take a drink, then say, \"Theres... something special between us tonight.\" 2"
     },
     {
       "key": "DRINK_0160",
@@ -5778,7 +7430,7 @@
     },
     {
       "key": "DRINK_0162",
-      "value": "Hold your partner's hand, interlace your fingers, then ask, \"Is this... a good sign?\" and take a drink. 2"
+      "value": "Hold your partners hand, interlace your fingers, then ask, \"Is this... a good sign?\" and take a drink. 2"
     },
     {
       "key": "DRINK_0163",
@@ -5790,7 +7442,7 @@
     },
     {
       "key": "DRINK_0165",
-      "value": "Take a drink and say wistfully, \"Time flies when I'm with you.\" 2"
+      "value": "Take a drink and say wistfully, \"Time flies when Im with you.\" 2"
     },
     {
       "key": "DRINK_0166",
@@ -5810,7 +7462,7 @@
     },
     {
       "key": "DRINK_0170",
-      "value": "Ask who your partner's ideal type is, then (forcefully) find a similarity to you and take a drink! 2"
+      "value": "Ask who your partners ideal type is, then (forcefully) find a similarity to you and take a drink! 2"
     },
     {
       "key": "DRINK_0171",
@@ -5818,7 +7470,7 @@
     },
     {
       "key": "DRINK_0172",
-      "value": "Take a drink, and say sincerely, \"I'm just... so happy I'm with you.\" 2"
+      "value": "Take a drink, and say sincerely, \"Im just... so happy Im with you.\" 2"
     },
     {
       "key": "DRINK_0173",
@@ -5842,11 +7494,11 @@
     },
     {
       "key": "DRINK_0178",
-      "value": "Take a drink, then say, \"As long as I'm with you, I feel like I can do anything.\" 2"
+      "value": "Take a drink, then say, \"As long as Im with you, I feel like I can do anything.\" 2"
     },
     {
       "key": "DRINK_0179",
-      "value": "Casually sit on your partner's lap and take a drink. 2"
+      "value": "Casually sit on your partners lap and take a drink. 2"
     },
     {
       "key": "DRINK_0180",
@@ -5858,7 +7510,7 @@
     },
     {
       "key": "DRINK_0182",
-      "value": "Whisper \"I love you\" in your partner's ear and take a drink. 2"
+      "value": "Whisper \"I love you\" in your partners ear and take a drink. 2"
     },
     {
       "key": "DRINK_0183",
@@ -5870,15 +7522,15 @@
     },
     {
       "key": "DRINK_0185",
-      "value": "Take a drink, then share a deep, breathless kiss for 20 seconds.  3"
+      "value": "Take a drink, then share a deep, breathless kiss for 20 seconds. 3"
     },
     {
       "key": "DRINK_0186",
-      "value": "Leave a trail with your lips on your partner's neck for 10 seconds, and take a drink.  3"
+      "value": "Leave a trail with your lips on your partners neck for 10 seconds, and take a drink. 3"
     },
     {
       "key": "DRINK_0187",
-      "value": "Ask, \"What's your... secret color?\" If you guess right, they drink. If wrong, you drink two! 3"
+      "value": "Ask, \"Whats the color... youre wearing underneath?\" If you guess right, they drink. If wrong, you drink two! 3"
     },
     {
       "key": "DRINK_0188",
@@ -5886,15 +7538,15 @@
     },
     {
       "key": "DRINK_0189",
-      "value": "Slide your hand under your partner's top and feel their warm skin, caressing their back for 10 seconds.  3"
+      "value": "Slide your hand under your partners top and feel their warm skin, caressing their back for 10 seconds. (And drink) 3"
     },
     {
       "key": "DRINK_0190",
-      "value": "Give that \"special touch\" you know your partner loves most for 20 seconds, then take a drink.  3"
+      "value": "Give that \"special touch\" you know your partner loves most for 20 seconds, then take a drink. 3"
     },
     {
       "key": "DRINK_0191",
-      "value": "Ask for and receive one \"intimate touch\" you desire from your partner for 20 seconds, then drink.  3"
+      "value": "Ask for and receive one \"intimate touch\" you desire from your partner for 20 seconds, then drink. 3"
     },
     {
       "key": "DRINK_0192",
@@ -5902,7 +7554,7 @@
     },
     {
       "key": "DRINK_0193",
-      "value": "Do the most \"risqué\" thing you can (skinship-wise) right here for 10 sec. One drink each!  3"
+      "value": "Do the most \"risqué\" thing you can (skinship-wise) right here for 10 sec. One drink each! 3"
     },
     {
       "key": "DRINK_0194",
@@ -5910,7 +7562,7 @@
     },
     {
       "key": "DRINK_0195",
-      "value": "Take a drink, and let your partner caress your \"most sensitive spot\" for 15 seconds.  3"
+      "value": "Take a drink, and let your partner caress your \"most sensitive spot\" for 15 seconds. 3"
     },
     {
       "key": "DRINK_0196",
@@ -5918,11 +7570,11 @@
     },
     {
       "key": "DRINK_0197",
-      "value": "Take a drink, and talk about your favorite place \"for making love.\" 3"
+      "value": "Take a drink, and talk about your favorite place \"for getting intimate.\" 3"
     },
     {
       "key": "DRINK_0198",
-      "value": "Undo one of your partner's accessories (watch, necklace, ring, etc.) and take a drink. 3"
+      "value": "Command your partner to \"put down\" one item of clothing, and take a drink. 3"
     },
     {
       "key": "DRINK_0199",
@@ -5930,7 +7582,7 @@
     },
     {
       "key": "DRINK_0200",
-      "value": "Take a drink, then place a snack on your partner's body (back of hand, collarbone) and eat it with your mouth. 3"
+      "value": "Take a drink, then place a snack on your partners body (back of hand, collarbone) and eat it with your mouth. 3"
     },
     {
       "key": "DRINK_0201",
@@ -5950,7 +7602,7 @@
     },
     {
       "key": "DRINK_0205",
-      "value": "Drop a single drop of your drink onto your partner's body (finger, lips) and take it with your lips, then drink. 3"
+      "value": "Drop a single drop of your drink onto your partners body (finger, lips) and take it with your lips, then drink. 3"
     },
     {
       "key": "DRINK_0206",
@@ -5958,23 +7610,23 @@
     },
     {
       "key": "DRINK_0207",
-      "value": "Say, \"I want to feel you, right now,\" and hover your hand near their \"most sensitive spot\" for 10 sec.  3"
+      "value": "Say, \"I want to feel you, right now,\" and caress near their \"most private part\" for 10 sec. (And drink) 3"
     },
     {
       "key": "DRINK_0208",
-      "value": "Take a drink, then reenact the \"hottest\" scene from a romance movie for 10 seconds.  3"
+      "value": "Take a drink, then reenact the \"hottest\" scene from a romance movie for 10 seconds. 3"
     },
     {
       "key": "DRINK_0209",
-      "value": "Say, \"Your voice... I want to be the only one who hears it,\" and take a drink. 3"
+      "value": "Say, \"Your breath... I want to be the only one who hears it,\" and take a drink. 3"
     },
     {
       "key": "DRINK_0210",
-      "value": "Take a drink, then suggest, \"Should we create our own... secret signal for tonight?\" 3"
+      "value": "Take a drink, then suggest, \"Should we create our own... secret signal for when we want to?\" 3"
     },
     {
       "key": "DRINK_0211",
-      "value": "Say, \"I'll give you my all,\" then place your partner's hand on your thigh and take a drink. 3"
+      "value": "Say, \"Ill give you my all,\" then place your partners hand on your thigh and take a drink. 3"
     },
     {
       "key": "DRINK_0212",
@@ -5986,446 +7638,374 @@
     },
     {
       "key": "DRINK_0214",
-      "value": "Say, \"I think I'm... feeling a little excited right now,\" and take a drink. 3"
+      "value": "Say, \"I think Im... feeling a little excited right now,\" and take a drink. 3"
     },
     {
       "key": "DRINK_0215",
-      "value": "Take a drink, then suggest a \"risky\" game, like the \"Pocky Game.\" 3"
-    },
-    {
-      "key": "DRINK_0216",
       "value": "Wonder aloud, \"What would your voice of pleasure sound like?\" and take a drink. 3"
     },
     {
-      "key": "DRINK_0217",
+      "key": "DRINK_0216",
       "value": "\"Sexily\" describe what you imagine your partner looks like showering, and take a drink. 3"
     },
     {
-      "key": "DRINK_0218",
+      "key": "DRINK_0217",
       "value": "Take a drink, then say, \"I want to do... something bad with you.\" 3"
     },
     {
-      "key": "DRINK_0219",
+      "key": "DRINK_0218",
       "value": "Reveal one of your \"most sensitive spots\" to your partner, and take a drink. 3"
     },
     {
-      "key": "DRINK_0220",
-      "value": "Take a drink, then under the table, rub your leg against your partner's leg for 10 sec.  3"
+      "key": "DRINK_0219",
+      "value": "Take a drink, then under the table, rub your leg against your partners leg for 10 sec. 3"
     },
     {
-      "key": "DRINK_0221",
+      "key": "DRINK_0220",
       "value": "Talk about your \"wildest secret experience,\" and take a drink. 3"
     },
     {
-      "key": "DRINK_0222",
+      "key": "DRINK_0221",
       "value": "Honestly say, \"I... want to wake up with you tomorrow,\" and take a drink. 3"
     },
     {
-      "key": "DRINK_0223",
+      "key": "DRINK_0222",
       "value": "Take a drink, and talk about your favorite \"secret style\" (e.g., of lingerie). 3"
     },
     {
-      "key": "DRINK_0224",
+      "key": "DRINK_0223",
       "value": "Say, \"I want to taste... all of you,\" and take a drink. 3"
     },
     {
+      "key": "DRINK_0224",
+      "value": "Take a drink, then ask, \"Whats the most risqué thing we could do right now?\" 3"
+    },
+    {
       "key": "DRINK_0225",
-      "value": "Take a drink, then ask, \"What's the most 'risqué' thing we could do right now?\" 3"
+      "value": "Say, \"I think... Im getting intoxicated by your scent,\" and take a drink. 3"
     },
     {
       "key": "DRINK_0226",
-      "value": "Say, \"I think... I'm getting intoxicated by your scent,\" and take a drink. 3"
+      "value": "Take a drink, then ask your partner for one \"specific thing\" you want (e.g., \"Hug me\"). 3"
     },
     {
       "key": "DRINK_0227",
-      "value": "Take a drink, then ask your partner for one specific type of skinship you want (e.g., \"Hug me\"). 3"
-    },
-    {
-      "key": "DRINK_0228",
       "value": "Say, \"I... want you to touch me.\" If your partner touches you, drink one. If not, you drink two! 3"
     },
     {
-      "key": "DRINK_0229",
+      "key": "DRINK_0228",
       "value": "Take a drink, and tell your partner one of your \"secret fantasies.\" 3"
     },
     {
+      "key": "DRINK_0229",
+      "value": "Drink one while \"dangerously\" fiddling with your partners clothes (button, zipper). 3"
+    },
+    {
       "key": "DRINK_0230",
-      "value": "Drink one while \"dangerously\" fiddling with your partner's clothes (button, zipper). 3"
+      "value": "Take a drink, then ask, \"Whats your... style when you get intimate?\" 3"
     },
     {
       "key": "DRINK_0231",
-      "value": "Take a drink, then ask, \"What's your... style when you make love?\" 3"
+      "value": "Talk about the most \"unusual place\" youve had a secret experience, and take a drink. 3"
     },
     {
       "key": "DRINK_0232",
-      "value": "Talk about the most \"unusual place\" you've had a secret experience, and take a drink. 3"
-    },
-    {
-      "key": "DRINK_0233",
       "value": "Take a drink, then say provocatively, \"Take... responsibility for me tonight.\" 3"
     },
     {
-      "key": "DRINK_0234",
-      "value": "Pick one of your partner's fingers, wrap your lips around it sexily for 5 sec, and drink.  3"
+      "key": "DRINK_0233",
+      "value": "Pick one of your partners fingers, wrap your lips around it sexily for 5 sec. Then, you drink. 3"
     },
     {
-      "key": "DRINK_0235",
+      "key": "DRINK_0234",
       "value": "Take a drink, then say, \"I want to see... your deepest heart.\" 3"
     },
     {
-      "key": "DRINK_0236",
+      "key": "DRINK_0235",
       "value": "Talk about the hottest scene from a \"romance movie\" you watched together, and one drink each. 3"
     },
     {
-      "key": "DRINK_0237",
+      "key": "DRINK_0236",
       "value": "Take a drink, then say, \"I... want to have all of you.\" 3"
     },
     {
-      "key": "DRINK_0238",
+      "key": "DRINK_0237",
       "value": "Pull your partner close by their waist and take a drink. 3"
     },
     {
-      "key": "DRINK_0239",
+      "key": "DRINK_0238",
       "value": "Take a drink, then whisper, \"Do you... prefer to be on top, or on the bottom?\" 3"
     },
     {
-      "key": "DRINK_0240",
-      "value": "Talk about your preferred \"style of making love,\" and take a drink. 3"
+      "key": "DRINK_0239",
+      "value": "Talk about your preferred \"style of getting intimate,\" and take a drink. 3"
     },
     {
-      "key": "DRINK_0241",
+      "key": "DRINK_0240",
       "value": "Take a drink, then declare, \"Tonight... you are all mine.\" 3"
     },
     {
-      "key": "DRINK_0242",
+      "key": "DRINK_0241",
       "value": "Ask your partner what their \"biggest turn-on\" is, and take a drink. 3"
     },
     {
-      "key": "DRINK_0243",
+      "key": "DRINK_0242",
       "value": "Take a drink, then say, \"I want to make you... cry with pleasure.\" 3"
     },
     {
+      "key": "DRINK_0243",
+      "value": "Gently caress your partners \"most private part\" over their clothes for 15 sec. (And drink) 4"
+    },
+    {
       "key": "DRINK_0244",
-      "value": "Gently caress your partner's \"most secret spot\" over their clothes for 15 sec.  4"
+      "value": "Take a drink, then use your body to express \"the feeling of being completely loved\" for 10 sec. 4"
     },
     {
       "key": "DRINK_0245",
-      "value": "Take a drink, then use your body to express \"the feeling of being completely loved\" for 10 sec.  4"
+      "value": "Say one line from a \"special role-play scenario\" youd like to try tonight, and drink. 4"
     },
     {
       "key": "DRINK_0246",
-      "value": "Say one line from a \"special role-play scenario\" you'd like to try tonight, and drink. 4"
+      "value": "Take a drink, then mime giving your partner \"the worlds hottest kiss\" for 10 sec. 4"
     },
     {
       "key": "DRINK_0247",
-      "value": "Take a drink, then mime giving your partner \"the world's hottest kiss\" for 10 sec.  4"
-    },
-    {
-      "key": "DRINK_0248",
       "value": "Describe in detail \"how you want to please\" your partner, and take a drink. 4"
     },
     {
+      "key": "DRINK_0248",
+      "value": "Take a drink, and let your partner \"tease\" your \"most private part\" for 15 seconds. 4"
+    },
+    {
       "key": "DRINK_0249",
-      "value": "Take a drink, and let your partner \"tease\" your \"most secret spot\" for 15 seconds.  4"
+      "value": "Mime the sound you make at your \"ecstatic final moment\", and take a drink. 4"
     },
     {
       "key": "DRINK_0250",
-      "value": "Mime the sound you make at your \"moment of climax,\" and take a drink. 4"
-    },
-    {
-      "key": "DRINK_0251",
       "value": "Take a drink, then say, \"Would you like to... feel my body heat up close?\" 4"
     },
     {
+      "key": "DRINK_0251",
+      "value": "Have your partner stimulate your \"most thrilling point\" with their fingers for 10 sec. (And drink) 4"
+    },
+    {
       "key": "DRINK_0252",
-      "value": "Have your partner stimulate your \"most thrilling point\" with their fingers for 10 sec.  4"
+      "value": "Take a drink, then leave a trail with your lips on your favorite part of your partners body for 10 sec. 4"
     },
     {
       "key": "DRINK_0253",
-      "value": "Take a drink, then leave a trail with your lips on your favorite part of your partner's body for 10 sec.  4"
-    },
-    {
-      "key": "DRINK_0254",
       "value": "Honestly say, \"I want to taste... every last bit of you,\" and take a drink. 4"
     },
     {
-      "key": "DRINK_0255",
+      "key": "DRINK_0254",
       "value": "Take a drink, then command provocatively, \"Come... on top of me.\" 4"
     },
     {
-      "key": "DRINK_0256",
-      "value": "Remove (or undo) one more item (clothing/accessory) from your partner, and take a drink. 4"
+      "key": "DRINK_0255",
+      "value": "Command your partner to \"put down\" one item of clothing, and take a drink. 4"
     },
     {
-      "key": "DRINK_0257",
+      "key": "DRINK_0256",
       "value": "Take a drink, then say, \"I want to... fall asleep in your arms.\" 4"
     },
     {
+      "key": "DRINK_0257",
+      "value": "Say, \"Tonight... you cant escape from me,\" and take a drink. 4"
+    },
+    {
       "key": "DRINK_0258",
-      "value": "Say, \"Tonight... you can't escape from me,\" and take a drink. 4"
+      "value": "Take a drink, then make your partner say the words you want to hear \"at the moment our bodies join.\" 4"
     },
     {
       "key": "DRINK_0259",
-      "value": "Take a drink, then make your partner say the words you want to hear \"at the moment you become one.\" 4"
-    },
-    {
-      "key": "DRINK_0260",
       "value": "Say, \"I imagined... your breath mixing with mine,\" and take a drink. 4"
     },
     {
-      "key": "DRINK_0261",
-      "value": "Take a drink, and say what you'd like to see your partner do \"while making love.\" 4"
+      "key": "DRINK_0260",
+      "value": "Take a drink, and say what youd like to see your partner do \"while making love.\" 4"
     },
     {
-      "key": "DRINK_0262",
+      "key": "DRINK_0261",
       "value": "Wonder aloud, \"I wonder... what your body movements would be like?\" and take a drink. 4"
     },
     {
-      "key": "DRINK_0263",
-      "value": "Take a drink, then \"tease\" your partner's \"most sensitive spot\" with intense focus for 30 sec.  4"
+      "key": "DRINK_0262",
+      "value": "Take a drink, then \"tease\" your partners \"most sensitive spot\" with intense focus for 30 sec. 4"
     },
     {
-      "key": "DRINK_0264",
+      "key": "DRINK_0263",
       "value": "Say, \"I want to feel... every single part of you,\" and take a drink. 4"
     },
     {
-      "key": "DRINK_0265",
+      "key": "DRINK_0264",
       "value": "Take a drink, then say, \"I want you to leave a... deep mark on my body.\" 4"
     },
     {
-      "key": "DRINK_0266",
+      "key": "DRINK_0265",
       "value": "Say, \"Imagine the moment... we become completely one,\" and take a drink. 4"
     },
     {
+      "key": "DRINK_0266",
+      "value": "Take a drink, then say, \"Tonight, Im going to make you... completely mine.\" 4"
+    },
+    {
       "key": "DRINK_0267",
-      "value": "Take a drink, then say, \"Tonight, I'm going to make you... completely mine.\" 4"
+      "value": "Say one word of praise for your partners \"most secret charm\", and take a drink. 4"
     },
     {
       "key": "DRINK_0268",
-      "value": "Say one word of praise for your partner's \"most secret charm,\" and take a drink. 4"
-    },
-    {
-      "key": "DRINK_0269",
       "value": "Take a drink, then say, \"I want to kiss... your deepest place.\" 4"
     },
     {
-      "key": "DRINK_0270",
+      "key": "DRINK_0269",
       "value": "Say, \"I want to feel you... with my entire body,\" and take a drink. 4"
     },
     {
+      "key": "DRINK_0270",
+      "value": "Take a drink, and talk about the \"best ecstatic moment\" youve ever experienced. 4"
+    },
+    {
       "key": "DRINK_0271",
-      "value": "Take a drink, and talk about the \"best moment of ecstasy\" you've ever experienced. 4"
+      "value": "Say, \"I cant take it anymore,\" then caress your partners \"most private part\" for 10 sec. (And drink) 4"
     },
     {
       "key": "DRINK_0272",
-      "value": "Say, \"I can't take it anymore,\" then caress your partner's \"most secret spot\" for 10 sec.  4"
+      "value": "Say, \"Now... lets start the real game,\" and drink the final glass. 4"
     },
     {
       "key": "DRINK_0273",
-      "value": "Say, \"Now... let's start the real game,\" and drink the final glass. 4"
+      "value": "Undo one button on your partners top and take a drink. 3"
     },
     {
       "key": "DRINK_0274",
-      "value": "Gently nibble your partner's earlobe and take a drink. 3"
+      "value": "Cover your partners eyes for 10 sec, whisper \"Guess who?\" and take a drink. 3"
     },
     {
       "key": "DRINK_0275",
-      "value": "Undo one button on your partner's top and take a drink. 3"
-    },
-    {
-      "key": "DRINK_0276",
-      "value": "Give your partner an ice cube (or a cold glass) and have them touch your neck with it. 3"
-    },
-    {
-      "key": "DRINK_0277",
-      "value": "Cover your partner's eyes for 10 sec, whisper \"Guess who?\" and take a drink.  3"
-    },
-    {
-      "key": "DRINK_0278",
       "value": "Command your partner: \"Tempt me with your most confident expression.\" Then, drink. 3"
     },
     {
-      "key": "DRINK_0279",
-      "value": "Slowly trace the line of your partner's spine with your fingertip, and take a drink. 3"
+      "key": "DRINK_0276",
+      "value": "Slowly trace the line of your partners spine with your fingertip, and take a drink. 3"
     },
     {
-      "key": "DRINK_0280",
-      "value": "Say, \"I dreamed about you last night... it was a really hot dream,\" and take a drink. 3"
+      "key": "DRINK_0277",
+      "value": "Say, \"I dreamed about you last night... it was a really intimate dream,\" and take a drink. 3"
     },
     {
-      "key": "DRINK_0281",
+      "key": "DRINK_0278",
       "value": "Have your partner leave a kiss mark on your glass, then drink from that spot. 3"
     },
     {
+      "key": "DRINK_0279",
+      "value": "Gently kiss the inside of your partners wrist and take a drink. 3"
+    },
+    {
+      "key": "DRINK_0280",
+      "value": "\"Dangerously\" fiddle with your partners belt (or waistband) and take a drink. 3"
+    },
+    {
+      "key": "DRINK_0281",
+      "value": "Gently kiss the back of your partners knee and take a drink. 3"
+    },
+    {
       "key": "DRINK_0282",
-      "value": "Gently kiss the inside of your partner's wrist and take a drink. 3"
-    },
-    {
-      "key": "DRINK_0283",
-      "value": "\"Dangerously\" fiddle with your partner's belt (or waistband) and take a drink. 3"
-    },
-    {
-      "key": "DRINK_0284",
-      "value": "Gently kiss the back of your partner's knee and take a drink. 3"
-    },
-    {
-      "key": "DRINK_0285",
       "value": "Playfully command, \"You lost. As a penalty, take off one item of clothing,\" and drink. 3"
     },
     {
+      "key": "DRINK_0283",
+      "value": "Hold a snack with your lips and have your partner take it with their mouth. Then, you drink. 3"
+    },
+    {
+      "key": "DRINK_0284",
+      "value": "Gently massage your partners ankle for 10 seconds and take a drink. 3"
+    },
+    {
+      "key": "DRINK_0285",
+      "value": "Touch your finger to your partners lips and say, \"Shh, its a secret,\" then drink. 3"
+    },
+    {
       "key": "DRINK_0286",
-      "value": "Hold a snack with your lips and have your partner take it with their mouth. 3"
-    },
-    {
-      "key": "DRINK_0287",
-      "value": "Gently massage your partner's ankle for 10 seconds and take a drink.  3"
-    },
-    {
-      "key": "DRINK_0288",
-      "value": "Touch your partner's lips with your finger and say, \"Shh, it's a secret,\" then drink. 3"
-    },
-    {
-      "key": "DRINK_0289",
       "value": "Command your partner, \"Kiss me. Now,\" and take a drink. 3"
     },
     {
-      "key": "DRINK_0290",
-      "value": "Gently lift your partner's shirt and blow softly on their stomach, then drink. 3"
+      "key": "DRINK_0287",
+      "value": "Gently lift your partners shirt and blow softly on their stomach, then drink. 3"
     },
     {
-      "key": "DRINK_0291",
+      "key": "DRINK_0288",
       "value": "Take a drink, say \"I want to hear your heartbeat,\" and rest your ear on their chest. 3"
     },
     {
-      "key": "DRINK_0292",
-      "value": "Gently lick the back of your partner's hand for 10 seconds and take a drink.  3"
+      "key": "DRINK_0289",
+      "value": "Gently please the back of your partners hand with your mouth for 10 seconds and take a drink. 3"
     },
     {
-      "key": "DRINK_0293",
-      "value": "Trace the line of your partner's collarbone with your lips and take a drink. 3"
-    },
-    {
-      "key": "DRINK_0294",
+      "key": "DRINK_0290",
       "value": "Whisper, \"If you want it, I can do... worse things,\" and take a drink. 3"
     },
     {
+      "key": "DRINK_0291",
+      "value": "Close your eyes and just caress each others hands for 1 minute. Then, one drink each. 3"
+    },
+    {
+      "key": "DRINK_0292",
+      "value": "Hold your partners chin, pause for 5 sec as if youre about to kiss, then you drink. 3"
+    },
+    {
+      "key": "DRINK_0293",
+      "value": "Sit on your partners lap, wrap your arms around their neck, and make eye contact for 10 sec. Then, you drink. 3"
+    },
+    {
+      "key": "DRINK_0294",
+      "value": "Interlace your fingers with your partners, and use their hand to caress your own hip line. Then, you drink. 3"
+    },
+    {
       "key": "DRINK_0295",
-      "value": "Close your eyes and just caress each other's hands for 1 minute. Then, one drink each.  3"
+      "value": "Pause 1 inch from your partners lips for 10 seconds, tempting them, then pull back and drink. 3"
     },
     {
       "key": "DRINK_0296",
-      "value": "Hold your partner's chin, pause for 5 sec as if you're about to kiss, then you drink.  3"
+      "value": "Say, \"Its your turn. Take one item of your clothing off for me,\" and drink. 4"
     },
     {
       "key": "DRINK_0297",
-      "value": "Sit on your partner's lap, wrap your arms around their neck, and make eye contact for 10 sec.  3"
+      "value": "Declare, \"Tonight, you cant do anything... without my permission,\" and drink. 4"
     },
     {
       "key": "DRINK_0298",
-      "value": "Cover your partner's eyes, whisper where you'll kiss, then kiss a different spot (wrist/cheek). 3"
+      "value": "Blindfold your partner, then have them kiss three different parts of your body. 4"
     },
     {
       "key": "DRINK_0299",
-      "value": "Interlace your fingers with your partner's, and use their hand to caress your own thigh. 3"
+      "value": "Lay your partner down, press your body over their clothes against theirs for 10 sec, and drink. 4"
     },
     {
       "key": "DRINK_0300",
-      "value": "Pause 1 inch from your partner's lips for 10 seconds, tempting them, then pull back and drink.  3"
+      "value": "\"Tease\" your partner by breathing hotly into their ear for 10 seconds, and take a drink. 4"
     },
     {
       "key": "DRINK_0301",
-      "value": "Say, \"It's your turn. Take one item of your clothing off for me,\" and drink. 4"
+      "value": "Spread your partners legs, sit between them, make eye contact for 10 sec, and drink. 4"
     },
     {
       "key": "DRINK_0302",
-      "value": "Take your partner's hand and place it over your clothes on your \"most secret spot\" for 10 sec.  4"
+      "value": "Have your partner stimulate your \"most thrilling point\" with their fingers for 10 sec. 4"
     },
     {
       "key": "DRINK_0303",
-      "value": "Declare, \"Tonight, you can't do anything... without my permission,\" and drink. 4"
+      "value": "For 1 min, your partner is the \"King\". Ask them to command you to do one thing. Then, drink. 4"
     },
     {
       "key": "DRINK_0304",
-      "value": "Blindfold your partner, then give them three kisses on three different parts of their body. 4"
+      "value": "Say, \"I want to explore... all your bodys secret doors,\" and take a drink. 4"
     },
     {
       "key": "DRINK_0305",
-      "value": "Lay your partner down, press your body over their clothes against theirs for 10 sec, and drink.  4"
+      "value": "Whisper, \"Tonight... Im going to make you think only of me,\" and drink. 4"
     },
     {
       "key": "DRINK_0306",
-      "value": "\"Tease\" your partner by breathing hotly into their ear for 10 seconds, and take a drink.  4"
-    },
-    {
-      "key": "DRINK_0307",
-      "value": "Let your fingers hover and \"explore\" just above your partner's \"most secret spot\" for 10 sec.  4"
-    },
-    {
-      "key": "DRINK_0308",
-      "value": "\"Tease\" your partner's lips for 10 sec, lightly biting and licking them, then drink.  4"
-    },
-    {
-      "key": "DRINK_0309",
-      "value": "Declare, \"Your limit is... my pleasure,\" and take a drink. 4"
-    },
-    {
-      "key": "DRINK_0310",
-      "value": "Slide your hand inside your partner's clothes and tease their \"most sensitive spot\" 15s.  4"
-    },
-    {
-      "key": "DRINK_0311",
-      "value": "Spread your partner's legs, sit between them, make eye contact for 10 sec, and drink.  4"
-    },
-    {
-      "key": "DRINK_0312",
-      "value": "Have your partner stimulate your \"most thrilling point\" with their fingers for 10 sec.  4"
-    },
-    {
-      "key": "DRINK_0313",
-      "value": "For 1 min, you are the \"Master/Mistress.\" Command your partner to do one thing. Then, drink.  4"
-    },
-    {
-      "key": "DRINK_0314",
-      "value": "Say, \"I want to explore... all your body's 'secret doors',\" and take a drink. 4"
-    },
-    {
-      "key": "DRINK_0315",
-      "value": "Mime kissing your partner's \"most secret spot\" for 10 seconds, and take a drink.  4"
-    },
-    {
-      "key": "DRINK_0316",
-      "value": "Say, \"I want to draw a map of you... on my body,\" and take a drink. 4"
-    },
-    {
-      "key": "DRINK_0317",
-      "value": "Declare, \"I really can't wait any longer,\" and undo one more of their clothes/items. 4"
-    },
-    {
-      "key": "DRINK_0318",
-      "value": "Drop a drop of alcohol on your partner's \"secret spot\" (over clothes) and mime licking it off. 4"
-    },
-    {
-      "key": "DRINK_0319",
-      "value": "Whisper, \"Tonight... I'm going to make you think only of me,\" and drink. 4"
-    },
-    {
-      "key": "DRINK_0320",
-      "value": "Command, \"Prove to me how much you want me... with your body,\" and take a drink. 4"
-    },
-    {
-      "key": "DRINK_0321",
-      "value": "Take your partner's wrist, place their hand on your heart (chest), and hold eye contact for 10 sec.  4"
-    },
-    {
-      "key": "DRINK_0322",
-      "value": "Slide your hand inside your partner's clothes and rest it on their heart for 10 sec.  4"
-    },
-    {
-      "key": "DRINK_0323",
-      "value": "\"Tease\" your partner's \"most secret charm\" only with your lips for 1 minute.  4"
-    },
-    {
-      "key": "DRINK_0324",
       "value": "Say, \"This is our last drink. Shall we go to bed now?\" and drink the final glass. 4"
     },
     {
@@ -6474,7 +8054,7 @@
     },
     {
       "key": "VS_0012",
-      "value": "Men and women can be \"just friends\" vs They can't 1"
+      "value": "Men and women can be \"just friends\" vs They cant 1"
     },
     {
       "key": "VS_0013",
@@ -6526,7 +8106,7 @@
     },
     {
       "key": "VS_0025",
-      "value": "Date your friend's ex vs Date your ex's friend 1"
+      "value": "Date your friends ex vs Date your exs friend 1"
     },
     {
       "key": "VS_0026",
@@ -6630,7 +8210,7 @@
     },
     {
       "key": "VS_0051",
-      "value": "Our dates are getting boring vs No, they're not 1"
+      "value": "Our dates are getting boring vs No, theyre not 1"
     },
     {
       "key": "VS_0052",
@@ -6646,11 +8226,11 @@
     },
     {
       "key": "VS_0055",
-      "value": "Partner hits 220 lbs: \"Lose weight\" vs \"Doesn't matter\" 1"
+      "value": "Partner hits 220 lbs: \"Lose weight\" vs \"Doesnt matter\" 1"
     },
     {
       "key": "VS_0056",
-      "value": "Win the lottery: Tell your partner vs Don't tell them 1"
+      "value": "Win the lottery: Tell your partner vs Dont tell them 1"
     },
     {
       "key": "VS_0057",
@@ -6762,7 +8342,7 @@
     },
     {
       "key": "VS_0084",
-      "value": "10th Anniversary vs Parent's Birthday 1"
+      "value": "10th Anniversary vs Parents Birthday 1"
     },
     {
       "key": "VS_0085",
@@ -6838,7 +8418,7 @@
     },
     {
       "key": "VS_0103",
-      "value": "Fire in sauna, underwear costs $800: Buy vs Don't buy 1"
+      "value": "Fire in sauna, underwear costs $800: Buy vs Dont buy 1"
     },
     {
       "key": "VS_0104",
@@ -6846,7 +8426,7 @@
     },
     {
       "key": "VS_0105",
-      "value": "Tonight's dinner: Mango stew vs Strawberry rice bowl 1"
+      "value": "Tonights dinner: Mango stew vs Strawberry rice bowl 1"
     },
     {
       "key": "VS_0106",
@@ -6858,11 +8438,11 @@
     },
     {
       "key": "VS_0108",
-      "value": "Partner (friends with their ex) vs Partner (still has ex's number) 1"
+      "value": "Partner (friends with their ex) vs Partner (still has exs number) 1"
     },
     {
       "key": "VS_0109",
-      "value": "Partner: \"Delete contacts\" vs Partner: \"I don't care\" 1"
+      "value": "Partner: \"Delete contacts\" vs Partner: \"I dont care\" 1"
     },
     {
       "key": "VS_0110",
@@ -6890,11 +8470,11 @@
     },
     {
       "key": "VS_0116",
-      "value": "Curious about partner's past vs Not curious 1"
+      "value": "Curious about partners past vs Not curious 1"
     },
     {
       "key": "VS_0117",
-      "value": "Eat a stranger's leftovers vs Eat food off the ground 1"
+      "value": "Eat a strangers leftovers vs Eat food off the ground 1"
     },
     {
       "key": "VS_0118",
@@ -6962,7 +8542,7 @@
     },
     {
       "key": "VS_0134",
-      "value": "Partner always at your place vs You always at partner's place 1"
+      "value": "Partner always at your place vs You always at partners place 1"
     },
     {
       "key": "VS_0135",
@@ -6974,7 +8554,7 @@
     },
     {
       "key": "VS_0137",
-      "value": "Partner's 1 best friend (10 yrs) vs Partner's 10 college friends 1"
+      "value": "Partners 1 best friend (10 yrs) vs Partners 10 college friends 1"
     },
     {
       "key": "VS_0138",
@@ -6986,7 +8566,7 @@
     },
     {
       "key": "VS_0140",
-      "value": "Date your best friend's sibling vs Your sibling dates your best friend 1"
+      "value": "Date your best friends sibling vs Your sibling dates your best friend 1"
     },
     {
       "key": "VS_0141",
@@ -7078,11 +8658,11 @@
     },
     {
       "key": "VS_0163",
-      "value": "Partner is a spy: Report them (get $400,000) vs Don't report them 1"
+      "value": "Partner is a spy: Report them (get $400,000) vs Dont report them 1"
     },
     {
       "key": "VS_0164",
-      "value": "Date your friend's parent vs Date your parent's friend 1"
+      "value": "Date your friends parent vs Date your parents friend 1"
     },
     {
       "key": "VS_0165",
@@ -7114,7 +8694,7 @@
     },
     {
       "key": "VS_0172",
-      "value": "Partner: \"Let's eat (1+ hr)\" vs Partner: \"Let's exercise (1+ hr)\" 1"
+      "value": "Partner: \"Lets eat (1+ hr)\" vs Partner: \"Lets exercise (1+ hr)\" 1"
     },
     {
       "key": "VS_0173",
@@ -7126,11 +8706,11 @@
     },
     {
       "key": "VS_0175",
-      "value": "Care about your underwear (on dates) vs Don't care 2"
+      "value": "Care about your underwear (on dates) vs Dont care 2"
     },
     {
       "key": "VS_0176",
-      "value": "Talking during sex: Ruins the mood vs Doesn't ruin the mood 2"
+      "value": "Talking during sex: Ruins the mood vs Doesnt ruin the mood 2"
     },
     {
       "key": "VS_0177",
@@ -7142,7 +8722,7 @@
     },
     {
       "key": "VS_0179",
-      "value": "Partner is infertile: Still marry them vs Don't marry them 2"
+      "value": "Partner is infertile: Still marry them vs Dont marry them 2"
     },
     {
       "key": "VS_0180",
@@ -7150,7 +8730,7 @@
     },
     {
       "key": "VS_0181",
-      "value": "Partner hits 220 lbs: \"Lose weight\" vs \"Doesn't matter\" 2"
+      "value": "Partner hits 220 lbs: \"Lose weight\" vs \"Doesnt matter\" 2"
     },
     {
       "key": "VS_0182",
@@ -7186,7 +8766,7 @@
     },
     {
       "key": "VS_0190",
-      "value": "Partner's cheating: A physical mistake vs An emotional affair 2"
+      "value": "Partners cheating: A physical mistake vs An emotional affair 2"
     },
     {
       "key": "VS_0191",
@@ -7314,15 +8894,15 @@
     },
     {
       "key": "VS_0222",
-      "value": "Deep kiss (in front of partner's parents) vs Deep kiss (in front of your parents) 2"
+      "value": "Deep kiss (in front of partners parents) vs Deep kiss (in front of your parents) 2"
     },
     {
       "key": "VS_0223",
-      "value": "Deep kiss (in front of your friends) vs Deep kiss (in front of partner's friends) 2"
+      "value": "Deep kiss (in front of your friends) vs Deep kiss (in front of partners friends) 2"
     },
     {
       "key": "VS_0224",
-      "value": "When kissing: Lips only vs Touching each other's bodies 2"
+      "value": "When kissing: Lips only vs Touching each others bodies 2"
     },
     {
       "key": "VS_0225",
@@ -7334,11 +8914,11 @@
     },
     {
       "key": "VS_0227",
-      "value": "You drunkenly kiss partner's friend vs Partner drunkenly kisses your friend 2"
+      "value": "You drunkenly kiss partners friend vs Partner drunkenly kisses your friend 2"
     },
     {
       "key": "VS_0228",
-      "value": "Person you kissed (club) is partner's BFF vs Person partner kissed (club) is your BFF 2"
+      "value": "Person you kissed (club) is partners BFF vs Person partner kissed (club) is your BFF 2"
     },
     {
       "key": "VS_0229",
@@ -7346,7 +8926,7 @@
     },
     {
       "key": "VS_0230",
-      "value": "Kiss (chew food from partner's teeth) vs Kiss (sneeze into partner's mouth) 2"
+      "value": "Kiss (chew food from partners teeth) vs Kiss (sneeze into partners mouth) 2"
     },
     {
       "key": "VS_0231",
@@ -7370,7 +8950,7 @@
     },
     {
       "key": "VS_0236",
-      "value": "Woke up naked (with partner's friend) vs Woke up naked (with your best friend) 3"
+      "value": "Woke up naked (with partners friend) vs Woke up naked (with your best friend) 3"
     },
     {
       "key": "VS_0237",
@@ -7398,7 +8978,7 @@
     },
     {
       "key": "VS_0243",
-      "value": "Your partner's underwear (at your friend's place) vs Your friend's underwear (at your partner's place) 3"
+      "value": "Your partners underwear (at your friends place) vs Your friends underwear (at your partners place) 3"
     },
     {
       "key": "VS_0244",
@@ -7430,7 +9010,7 @@
     },
     {
       "key": "VS_0251",
-      "value": "Get pregnant (before marriage): Get married vs Don't get married 3"
+      "value": "Get pregnant (before marriage): Get married vs Dont get married 3"
     },
     {
       "key": "VS_0252",
@@ -7450,7 +9030,7 @@
     },
     {
       "key": "VS_0256",
-      "value": "Want to go clubbing vs Don't want to 3"
+      "value": "Want to go clubbing vs Dont want to 3"
     },
     {
       "key": "VS_0257",
@@ -7486,7 +9066,7 @@
     },
     {
       "key": "VS_0265",
-      "value": "Partner's touch: Using their lips vs Using their hands 3"
+      "value": "Partners touch: Using their lips vs Using their hands 3"
     },
     {
       "key": "VS_0266",
@@ -7534,7 +9114,7 @@
     },
     {
       "key": "VS_0277",
-      "value": "Other person's underwear (at your partner's place) vs Your partner's underwear (at other person's place) 3"
+      "value": "Other persons underwear (at your partners place) vs Your partners underwear (at other persons place) 3"
     },
     {
       "key": "VS_0278",
@@ -7598,7 +9178,7 @@
     },
     {
       "key": "VS_0293",
-      "value": "Make love (in front of partner's parents) vs Make love (in front of your parents) 3"
+      "value": "Make love (in front of partners parents) vs Make love (in front of your parents) 3"
     },
     {
       "key": "VS_0294",
@@ -7606,7 +9186,7 @@
     },
     {
       "key": "VS_0295",
-      "value": "(Partner's touch): Hands vs Mouth 3"
+      "value": "(Partners touch): Hands vs Mouth 3"
     },
     {
       "key": "VS_0296",
@@ -7630,7 +9210,7 @@
     },
     {
       "key": "VS_0301",
-      "value": "See partner's \"intimate\" photos (with ex) vs Partner sees yours 3"
+      "value": "See partners \"intimate\" photos (with ex) vs Partner sees yours 3"
     },
     {
       "key": "VS_0302",
@@ -7678,7 +9258,7 @@
     },
     {
       "key": "VS_0313",
-      "value": "(Partner's touch): Hands vs Mouth 4"
+      "value": "(Partners touch): Hands vs Mouth 4"
     },
     {
       "key": "VS_0314",
@@ -7794,7 +9374,7 @@
     },
     {
       "key": "VS_0342",
-      "value": "Adult \"toys\": Use them vs Don't use them 4"
+      "value": "Adult \"toys\": Use them vs Dont use them 4"
     },
     {
       "key": "VS_0343",
@@ -7874,7 +9454,7 @@
     },
     {
       "key": "VS_0362",
-      "value": "(During lovemaking) Hear ex's name vs Say ex's name 4"
+      "value": "(During lovemaking) Hear exs name vs Say exs name 4"
     },
     {
       "key": "VS_0363",
@@ -7894,7 +9474,7 @@
     },
     {
       "key": "VS_0367",
-      "value": "Kiss your partner's foot (1 sec) vs Lick a stranger's smelly foot (1 hour) 4"
+      "value": "Kiss your partners foot (1 sec) vs Lick a strangers smelly foot (1 hour) 4"
     },
     {
       "key": "VS_0368",
@@ -7910,7 +9490,7 @@
     },
     {
       "key": "VS_0371",
-      "value": "Man's face (with woman's \"part\") vs Woman's face (with man's \"part\") 4"
+      "value": "Mans face (with womans \"part\") vs Womans face (with mans \"part\") 4"
     },
     {
       "key": "VS_0372",
@@ -7946,7 +9526,7 @@
     },
     {
       "key": "VS_0380",
-      "value": "Make love (thinking of ex) vs Make love (say ex's name by mistake) 4"
+      "value": "Make love (thinking of ex) vs Make love (say exs name by mistake) 4"
     },
     {
       "key": "VS_0381",
@@ -7974,11 +9554,11 @@
     },
     {
       "key": "VS_0387",
-      "value": "\"Taste\" partner's armpit sweat vs Partner smells yours (after workout) 2"
+      "value": "\"Taste\" partners armpit sweat vs Partner smells yours (after workout) 2"
     },
     {
       "key": "VS_0388",
-      "value": "Swear heavily (at partner's parents) vs Deep kiss (in front of your parents) 2"
+      "value": "Swear heavily (at partners parents) vs Deep kiss (in front of your parents) 2"
     },
     {
       "key": "VS_0389",
@@ -8042,19 +9622,19 @@
     },
     {
       "key": "VS_0404",
-      "value": "Deep kiss (in front of partner's parents) vs Deep kiss (in front of your parents) 2"
+      "value": "Deep kiss (in front of partners parents) vs Deep kiss (in front of your parents) 2"
     },
     {
       "key": "VS_0405",
-      "value": "Make love (in front of partner's parents) vs Make love (in front of your parents) 3"
+      "value": "Make love (in front of partners parents) vs Make love (in front of your parents) 3"
     },
     {
       "key": "VS_0406",
-      "value": "Deep kiss (in front of your friends) vs Deep kiss (in front of partner's friends) 2"
+      "value": "Deep kiss (in front of your friends) vs Deep kiss (in front of partners friends) 2"
     },
     {
       "key": "VS_0407",
-      "value": "When kissing: Lips only vs Touching each other's bodies 2"
+      "value": "When kissing: Lips only vs Touching each others bodies 2"
     },
     {
       "key": "VS_0408",
@@ -8066,11 +9646,11 @@
     },
     {
       "key": "VS_0410",
-      "value": "You drunkenly kiss partner's friend vs Partner drunkenly kisses your friend 2"
+      "value": "You drunkenly kiss partners friend vs Partner drunkenly kisses your friend 2"
     },
     {
       "key": "VS_0411",
-      "value": "Person you kissed (club) is partner's BFF vs Person partner kissed (club) is your BFF 2"
+      "value": "Person you kissed (club) is partners BFF vs Person partner kissed (club) is your BFF 2"
     },
     {
       "key": "VS_0412",
@@ -8078,7 +9658,7 @@
     },
     {
       "key": "VS_0413",
-      "value": "Kiss (chew tartar from partner's teeth) vs Kiss (sneeze phlegm into partner's mouth) 2"
+      "value": "Kiss (chew tartar from partners teeth) vs Kiss (sneeze phlegm into partners mouth) 2"
     },
     {
       "key": "VS_0414",
@@ -8086,7 +9666,7 @@
     },
     {
       "key": "VS_0415",
-      "value": "See partner's \"intimate\" photos (with ex) vs Partner sees yours 3"
+      "value": "See partners \"intimate\" photos (with ex) vs Partner sees yours 3"
     },
     {
       "key": "RANDOM_0001",
